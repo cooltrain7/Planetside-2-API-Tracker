@@ -12,6 +12,21 @@ The repo stores examples from the census collections, for use as information or 
  - Metagame_event
  - Title
  - Zone
+ 
+ ## Maps
+A collection of Official Planetside Map Lods (26/10/2020)
+
+ - Indar
+ - Esamir
+ - Amerish
+ - Hossin
+ - Koltyr
+ - OutfitWars
+ - VR
+ - Tutorial
+ - Nexus
+ 
+With special thanks to Rhett for extraction 
 
 ##  The Issues
 Have any issue with the census collection or stream API? Want a feature added? Add it here for community tracking.
