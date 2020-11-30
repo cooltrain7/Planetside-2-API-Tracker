@@ -1,0 +1,2445 @@
+{
+  "region_list": [
+    {
+      "region_id": "2101",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Hvar"
+      }
+    },
+    {
+      "region_id": "2102",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mao"
+      }
+    },
+    {
+      "region_id": "2103",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Allatum"
+      }
+    },
+    {
+      "region_id": "2104",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Saurva"
+      }
+    },
+    {
+      "region_id": "2105",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Peris"
+      }
+    },
+    {
+      "region_id": "2106",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Rashnu"
+      }
+    },
+    {
+      "region_id": "2107",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Dahaka"
+      }
+    },
+    {
+      "region_id": "2108",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Tawrich"
+      }
+    },
+    {
+      "region_id": "2109",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Zurvan"
+      }
+    },
+    {
+      "region_id": "2201",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Indar Northern Warpgate"
+      }
+    },
+    {
+      "region_id": "2202",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Indar Western Warpgate"
+      }
+    },
+    {
+      "region_id": "2203",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Indar Eastern Warpgate"
+      }
+    },
+    {
+      "region_id": "2301",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Camp Connery"
+      }
+    },
+    {
+      "region_id": "2302",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Camp Waterson"
+      }
+    },
+    {
+      "region_id": "2303",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Indar Excavation Site"
+      }
+    },
+    {
+      "region_id": "2304",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "J908 Impact Site"
+      }
+    },
+    {
+      "region_id": "2305",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Crimson Bluff Tower"
+      }
+    },
+    {
+      "region_id": "2306",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "The Crown"
+      }
+    },
+    {
+      "region_id": "2307",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Crossroads Watchtower"
+      }
+    },
+    {
+      "region_id": "2308",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Indar Bay Point"
+      }
+    },
+    {
+      "region_id": "2309",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Vanu Archives"
+      }
+    },
+    {
+      "region_id": "2310",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Regent Rock Garrison"
+      }
+    },
+    {
+      "region_id": "2311",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "The Stronghold"
+      }
+    },
+    {
+      "region_id": "2312",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Feldspar Canyon Base"
+      }
+    },
+    {
+      "region_id": "2313",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Arroyo Torre Station"
+      }
+    },
+    {
+      "region_id": "2402",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Indar Waste Treatment"
+      }
+    },
+    {
+      "region_id": "2404",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Saurva Overflow Depot"
+      }
+    },
+    {
+      "region_id": "2405",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Helios Solar, Inc."
+      }
+    },
+    {
+      "region_id": "2406",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Alkali Shipping"
+      }
+    },
+    {
+      "region_id": "2407",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "CoraMed Labs"
+      }
+    },
+    {
+      "region_id": "2408",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Benson Construction"
+      }
+    },
+    {
+      "region_id": "2409",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Alkali Mining Supply"
+      }
+    },
+    {
+      "region_id": "2410",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Crater Firing Range"
+      }
+    },
+    {
+      "region_id": "2411",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Alkali Storage"
+      }
+    },
+    {
+      "region_id": "2412",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Briggs Laboratories"
+      }
+    },
+    {
+      "region_id": "2413",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "NS Refinery"
+      }
+    },
+    {
+      "region_id": "2414",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Howling Pass Checkpoint"
+      }
+    },
+    {
+      "region_id": "2415",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Indar Comm. Array"
+      }
+    },
+    {
+      "region_id": "2416",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Quartz Ridge Camp"
+      }
+    },
+    {
+      "region_id": "2418",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Seabed Listening Post"
+      }
+    },
+    {
+      "region_id": "2419",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ti Alloys, Inc."
+      }
+    },
+    {
+      "region_id": "2420",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Ceres Hydroponics"
+      }
+    },
+    {
+      "region_id": "2421",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Galaxy Solar Plant"
+      }
+    },
+    {
+      "region_id": "2422",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "The Palisade"
+      }
+    },
+    {
+      "region_id": "2425",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "NS Material Storage"
+      }
+    },
+    {
+      "region_id": "2427",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "NS Secure Data Lab"
+      }
+    },
+    {
+      "region_id": "2428",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Highlands Solar Station"
+      }
+    },
+    {
+      "region_id": "2429",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ayani Labs"
+      }
+    },
+    {
+      "region_id": "2430",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Snake Ravine Lookout"
+      }
+    },
+    {
+      "region_id": "2431",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "XenoTech Labs"
+      }
+    },
+    {
+      "region_id": "2433",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Gravel Pass"
+      }
+    },
+    {
+      "region_id": "2436",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Rust Mesa Lookout"
+      }
+    },
+    {
+      "region_id": "2437",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "The Old Stockpile"
+      }
+    },
+    {
+      "region_id": "2438",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ceres Biotech"
+      }
+    },
+    {
+      "region_id": "2440",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Highlands Substation"
+      }
+    },
+    {
+      "region_id": "2443",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Scarred Mesa Skydock"
+      }
+    },
+    {
+      "region_id": "2447",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Copper Ravine Station"
+      }
+    },
+    {
+      "region_id": "2448",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Old Auraxium Mines"
+      }
+    },
+    {
+      "region_id": "2449",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Valley Storage Yard"
+      }
+    },
+    {
+      "region_id": "2453",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ceres Farms"
+      }
+    },
+    {
+      "region_id": "2454",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Peris Barracks"
+      }
+    },
+    {
+      "region_id": "2455",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Peris Field Tower"
+      }
+    },
+    {
+      "region_id": "2456",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Peris Eastern Grove"
+      }
+    },
+    {
+      "region_id": "2457",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Allatum Research Lab"
+      }
+    },
+    {
+      "region_id": "2458",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Allatum Broadcast Hub"
+      }
+    },
+    {
+      "region_id": "2459",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Allatum Botany Wing"
+      }
+    },
+    {
+      "region_id": "2460",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mao Southeast Gate"
+      }
+    },
+    {
+      "region_id": "2461",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mao Watchtower"
+      }
+    },
+    {
+      "region_id": "2462",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mao Southwest Gate"
+      }
+    },
+    {
+      "region_id": "2463",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Tawrich Tower"
+      }
+    },
+    {
+      "region_id": "2464",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Tawrich Recycling"
+      }
+    },
+    {
+      "region_id": "2465",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Tawrich Depot"
+      }
+    },
+    {
+      "region_id": "2466",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Rashnu Watchtower"
+      }
+    },
+    {
+      "region_id": "2467",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Rashnu Cavern"
+      }
+    },
+    {
+      "region_id": "2468",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Rashnu Southern Pass"
+      }
+    },
+    {
+      "region_id": "2469",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Zurvan Network Complex"
+      }
+    },
+    {
+      "region_id": "2470",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Zurvan Pump Station"
+      }
+    },
+    {
+      "region_id": "2471",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Zurvan Storage Yard"
+      }
+    },
+    {
+      "region_id": "2472",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Saurva Data Storage"
+      }
+    },
+    {
+      "region_id": "2473",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Saurva South Fortress"
+      }
+    },
+    {
+      "region_id": "2474",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hvar Databank"
+      }
+    },
+    {
+      "region_id": "2475",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hvar Western Post"
+      }
+    },
+    {
+      "region_id": "2476",
+      "zone_id": "2",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hvar Physics Lab"
+      }
+    },
+    {
+      "region_id": "2477",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Dahaka Uplink Hub"
+      }
+    },
+    {
+      "region_id": "2478",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Dahaka Southern Post"
+      }
+    },
+    {
+      "region_id": "2479",
+      "zone_id": "2",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Dahaka Pump Station"
+      }
+    },
+    {
+      "region_id": "18205",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Berjess Overlook"
+      }
+    },
+    {
+      "region_id": "18206",
+      "zone_id": "2",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Sunken Relay Station"
+      }
+    },
+    {
+      "region_id": "18207",
+      "zone_id": "2",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Lowland Trading Post"
+      }
+    },
+    {
+      "region_id": "4101",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Sharpe's Run"
+      }
+    },
+    {
+      "region_id": "4102",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Edgewater Overlook"
+      }
+    },
+    {
+      "region_id": "4103",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Last Hold"
+      }
+    },
+    {
+      "region_id": "4104",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Wainwright Armory"
+      }
+    },
+    {
+      "region_id": "4105",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "The Offal Pit"
+      }
+    },
+    {
+      "region_id": "4106",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Kessel's Crossing"
+      }
+    },
+    {
+      "region_id": "4107",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hossin BioChem, Inc."
+      }
+    },
+    {
+      "region_id": "4108",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "VEX BioLogics"
+      }
+    },
+    {
+      "region_id": "4109",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bunker J993"
+      }
+    },
+    {
+      "region_id": "4110",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Fallbridge Chemical"
+      }
+    },
+    {
+      "region_id": "4111",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Halcyon Watch"
+      }
+    },
+    {
+      "region_id": "4112",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bridgewater Shipping Yard"
+      }
+    },
+    {
+      "region_id": "4113",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "OMR Terraforming"
+      }
+    },
+    {
+      "region_id": "4114",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Iron Quay"
+      }
+    },
+    {
+      "region_id": "4115",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Broken Vale Garrison"
+      }
+    },
+    {
+      "region_id": "4116",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Woodman ASE Labs"
+      }
+    },
+    {
+      "region_id": "4117",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Johari Cove"
+      }
+    },
+    {
+      "region_id": "4118",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Roothouse Distillery"
+      }
+    },
+    {
+      "region_id": "4119",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hunter's Blind"
+      }
+    },
+    {
+      "region_id": "4120",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Gourney Dam"
+      }
+    },
+    {
+      "region_id": "4121",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "SRP Hydroponics, Inc."
+      }
+    },
+    {
+      "region_id": "4122",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "The Ziggurat"
+      }
+    },
+    {
+      "region_id": "4123",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Nettlemire Gardens"
+      }
+    },
+    {
+      "region_id": "4124",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Whispering Pass"
+      }
+    },
+    {
+      "region_id": "4125",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "SRP Nanite Relay Station"
+      }
+    },
+    {
+      "region_id": "4126",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Four Fingers"
+      }
+    },
+    {
+      "region_id": "4127",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Kestral Watch"
+      }
+    },
+    {
+      "region_id": "4130",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Genudine Holographics"
+      }
+    },
+    {
+      "region_id": "4131",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Fort Drexler"
+      }
+    },
+    {
+      "region_id": "4132",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Cairn Station"
+      }
+    },
+    {
+      "region_id": "4133",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Southgate Checkpoint"
+      }
+    },
+    {
+      "region_id": "4134",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Genesis Terraforming Plant"
+      }
+    },
+    {
+      "region_id": "4135",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bravata PMC Compound"
+      }
+    },
+    {
+      "region_id": "4136",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Matsuda Genetics"
+      }
+    },
+    {
+      "region_id": "4137",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hayd Skydock"
+      }
+    },
+    {
+      "region_id": "4138",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hatcher Airstation"
+      }
+    },
+    {
+      "region_id": "4139",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Nason's Defiance"
+      }
+    },
+    {
+      "region_id": "4140",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Naum"
+      }
+    },
+    {
+      "region_id": "4141",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Naum Ravine Overpass"
+      }
+    },
+    {
+      "region_id": "4142",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Naum Marsh Compound"
+      }
+    },
+    {
+      "region_id": "4143",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Naum Forward Barracks"
+      }
+    },
+    {
+      "region_id": "4150",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hurakan"
+      }
+    },
+    {
+      "region_id": "4151",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hurakan Secure Storage"
+      }
+    },
+    {
+      "region_id": "4152",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hurakan Western Pass"
+      }
+    },
+    {
+      "region_id": "4153",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hurakan Southern Depot"
+      }
+    },
+    {
+      "region_id": "4160",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ixtab"
+      }
+    },
+    {
+      "region_id": "4161",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ixtab Power Regulation"
+      }
+    },
+    {
+      "region_id": "4162",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ixtab Water Purification"
+      }
+    },
+    {
+      "region_id": "4163",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ixtab Southern Pass"
+      }
+    },
+    {
+      "region_id": "4170",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Acan"
+      }
+    },
+    {
+      "region_id": "4171",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "East Acan Storage Depot"
+      }
+    },
+    {
+      "region_id": "4172",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Acan Data Hub"
+      }
+    },
+    {
+      "region_id": "4173",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Acan Southern Labs"
+      }
+    },
+    {
+      "region_id": "4180",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bitol"
+      }
+    },
+    {
+      "region_id": "4181",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bitol Stockpile"
+      }
+    },
+    {
+      "region_id": "4182",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bitol Northern Outpost"
+      }
+    },
+    {
+      "region_id": "4183",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bitol Eastern Depot"
+      }
+    },
+    {
+      "region_id": "4190",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Zotz"
+      }
+    },
+    {
+      "region_id": "4191",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Zotz North Garden"
+      }
+    },
+    {
+      "region_id": "4192",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Zotz Arboretum"
+      }
+    },
+    {
+      "region_id": "4193",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Zotz Agriculture Lab"
+      }
+    },
+    {
+      "region_id": "4200",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ghanan"
+      }
+    },
+    {
+      "region_id": "4201",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ghanan Southern Crossing"
+      }
+    },
+    {
+      "region_id": "4202",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ghanan Research Labs"
+      }
+    },
+    {
+      "region_id": "4203",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ghanan Eastern Gatehouse"
+      }
+    },
+    {
+      "region_id": "4210",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mulac"
+      }
+    },
+    {
+      "region_id": "4211",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mulac Pass"
+      }
+    },
+    {
+      "region_id": "4212",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mulac Foundry"
+      }
+    },
+    {
+      "region_id": "4213",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mulac Purification Site"
+      }
+    },
+    {
+      "region_id": "4220",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Chac"
+      }
+    },
+    {
+      "region_id": "4221",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Chac Fusion Lab"
+      }
+    },
+    {
+      "region_id": "4222",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Chac Water Purification"
+      }
+    },
+    {
+      "region_id": "4223",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Chac Intel Hub"
+      }
+    },
+    {
+      "region_id": "4230",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hossin Western Warpgate"
+      }
+    },
+    {
+      "region_id": "4240",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hossin Eastern Warpgate"
+      }
+    },
+    {
+      "region_id": "4250",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Hossin Southern Warpgate"
+      }
+    },
+    {
+      "region_id": "4260",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Construction Site Alpha"
+      }
+    },
+    {
+      "region_id": "4261",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Construction Site Beta"
+      }
+    },
+    {
+      "region_id": "4262",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Construction Site Gamma"
+      }
+    },
+    {
+      "region_id": "4263",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Takkon Storage"
+      }
+    },
+    {
+      "region_id": "4264",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Construction Site Zeta"
+      }
+    },
+    {
+      "region_id": "4265",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Eastern Substation"
+      }
+    },
+    {
+      "region_id": "4266",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Fort Liberty"
+      }
+    },
+    {
+      "region_id": "4267",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Construction Site Epsilon"
+      }
+    },
+    {
+      "region_id": "4268",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mossridge Command Center"
+      }
+    },
+    {
+      "region_id": "4269",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Construction Site Omega"
+      }
+    },
+    {
+      "region_id": "4270",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Outpost Lambda"
+      }
+    },
+    {
+      "region_id": "4271",
+      "zone_id": "4",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Construction Site Sigma"
+      }
+    },
+    {
+      "region_id": "6001",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Amerish Western Warpgate"
+      }
+    },
+    {
+      "region_id": "6002",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Amerish Eastern Warpgate"
+      }
+    },
+    {
+      "region_id": "6003",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Amerish Southern Warpgate"
+      }
+    },
+    {
+      "region_id": "6101",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Kwahtee"
+      }
+    },
+    {
+      "region_id": "6102",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Ikanam"
+      }
+    },
+    {
+      "region_id": "6103",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Heyoka"
+      }
+    },
+    {
+      "region_id": "6111",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Sungrey"
+      }
+    },
+    {
+      "region_id": "6112",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Mekala"
+      }
+    },
+    {
+      "region_id": "6113",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Onatha"
+      }
+    },
+    {
+      "region_id": "6121",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Wokuk"
+      }
+    },
+    {
+      "region_id": "6122",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Tumas"
+      }
+    },
+    {
+      "region_id": "6123",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Xelas"
+      }
+    },
+    {
+      "region_id": "6201",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "LithCorp Secure Mine"
+      }
+    },
+    {
+      "region_id": "6202",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "The NC Arsenal"
+      }
+    },
+    {
+      "region_id": "6203",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Crux Mining Operation"
+      }
+    },
+    {
+      "region_id": "6204",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Crux Headquarters"
+      }
+    },
+    {
+      "region_id": "6205",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "The Bastion"
+      }
+    },
+    {
+      "region_id": "6206",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Auraxis Firearms Corp."
+      }
+    },
+    {
+      "region_id": "6207",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Splitpeak Pass"
+      }
+    },
+    {
+      "region_id": "6208",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "West Pass Watchtower"
+      }
+    },
+    {
+      "region_id": "6209",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Granite Valley Garrison"
+      }
+    },
+    {
+      "region_id": "6301",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Stoneridge Reserve"
+      }
+    },
+    {
+      "region_id": "6302",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "North Grove Post"
+      }
+    },
+    {
+      "region_id": "6303",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Jagged Lance Mine"
+      }
+    },
+    {
+      "region_id": "6304",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Hidden Ridge Mining"
+      }
+    },
+    {
+      "region_id": "6305",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "SolTech Charging Station"
+      }
+    },
+    {
+      "region_id": "6306",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Deserted Mineshaft"
+      }
+    },
+    {
+      "region_id": "6307",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "AuraxiCom Network Hub"
+      }
+    },
+    {
+      "region_id": "6308",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Amerish ARX Reserve"
+      }
+    },
+    {
+      "region_id": "6309",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Genudine Physics Lab"
+      }
+    },
+    {
+      "region_id": "6310",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Cobalt Communications"
+      }
+    },
+    {
+      "region_id": "6311",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "West Foothills Airdock"
+      }
+    },
+    {
+      "region_id": "6312",
+      "zone_id": "6",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "DeepCore Geolab"
+      }
+    },
+    {
+      "region_id": "6313",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Blackshard Tungsten Mine"
+      }
+    },
+    {
+      "region_id": "6314",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Shadespire Farms"
+      }
+    },
+    {
+      "region_id": "6316",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Rockslide Outlook"
+      }
+    },
+    {
+      "region_id": "6317",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "East Hills Checkpoint"
+      }
+    },
+    {
+      "region_id": "6318",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Silver Valley Arsenal"
+      }
+    },
+    {
+      "region_id": "6319",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Chimney Rock Depot"
+      }
+    },
+    {
+      "region_id": "6320",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "AuraxiCom Substation"
+      }
+    },
+    {
+      "region_id": "6323",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Torremar Storage Yard"
+      }
+    },
+    {
+      "region_id": "6324",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Highroads Station"
+      }
+    },
+    {
+      "region_id": "6325",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Aramax Chemical Co."
+      }
+    },
+    {
+      "region_id": "6326",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "The Auraxian Cryobank"
+      }
+    },
+    {
+      "region_id": "6328",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Raven Landing"
+      }
+    },
+    {
+      "region_id": "6329",
+      "zone_id": "6",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "The Ascent"
+      }
+    },
+    {
+      "region_id": "6330",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "LithCorp Fortress"
+      }
+    },
+    {
+      "region_id": "6331",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Moss Ravine"
+      }
+    },
+    {
+      "region_id": "6332",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "The Auger"
+      }
+    },
+    {
+      "region_id": "6333",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Shrouded Skyway"
+      }
+    },
+    {
+      "region_id": "6334",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "The Scarfield Reliquary"
+      }
+    },
+    {
+      "region_id": "6335",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "LithCorp Central"
+      }
+    },
+    {
+      "region_id": "6336",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Eastshore Training Camp"
+      }
+    },
+    {
+      "region_id": "6337",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Solus Nature Annex"
+      }
+    },
+    {
+      "region_id": "6338",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Barrik Electrical Station"
+      }
+    },
+    {
+      "region_id": "6339",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "SolTech Gorge"
+      }
+    },
+    {
+      "region_id": "6340",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Kwahtee West Pass"
+      }
+    },
+    {
+      "region_id": "6341",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Kwahtee Fortress"
+      }
+    },
+    {
+      "region_id": "6342",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Kwahtee Mountain Complex"
+      }
+    },
+    {
+      "region_id": "6343",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ikanam Motor Pool"
+      }
+    },
+    {
+      "region_id": "6344",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ikanam Garrison"
+      }
+    },
+    {
+      "region_id": "6345",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ikanam Triage Station"
+      }
+    },
+    {
+      "region_id": "6346",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Heyoka Armory"
+      }
+    },
+    {
+      "region_id": "6347",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Heyoka Chemical Lab"
+      }
+    },
+    {
+      "region_id": "6348",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Sungrey West Gate"
+      }
+    },
+    {
+      "region_id": "6349",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Sungrey Power Hub"
+      }
+    },
+    {
+      "region_id": "6350",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Sungrey Overwatch"
+      }
+    },
+    {
+      "region_id": "6351",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Mekala Cart Mining"
+      }
+    },
+    {
+      "region_id": "6352",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Mekala's Auxiliary Compound"
+      }
+    },
+    {
+      "region_id": "6353",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Onatha North Gate"
+      }
+    },
+    {
+      "region_id": "6354",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "East Onatha Comm. Array"
+      }
+    },
+    {
+      "region_id": "6355",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Onatha Southwest Gate"
+      }
+    },
+    {
+      "region_id": "6356",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Wokuk Ecological Preserve"
+      }
+    },
+    {
+      "region_id": "6357",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Wokuk Shipping Dock"
+      }
+    },
+    {
+      "region_id": "6358",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Wokuk Watchtower"
+      }
+    },
+    {
+      "region_id": "6359",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Tumas Skylance Battery"
+      }
+    },
+    {
+      "region_id": "6360",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Tumas Cargo Facility"
+      }
+    },
+    {
+      "region_id": "6361",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Xelas West Air Dock"
+      }
+    },
+    {
+      "region_id": "6362",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Xelas North Gate"
+      }
+    },
+    {
+      "region_id": "6363",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Xelas South Bridge"
+      }
+    },
+    {
+      "region_id": "18204",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Cobalt Geological Outpost"
+      }
+    },
+    {
+      "region_id": "18001",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Palos Solar Array"
+      }
+    },
+    {
+      "region_id": "18002",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Crystal Ridge Comm Array"
+      }
+    },
+    {
+      "region_id": "18003",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Haven Outpost"
+      }
+    },
+    {
+      "region_id": "18004",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Aurora Materials Lab"
+      }
+    },
+    {
+      "region_id": "18005",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Apex Genetics"
+      }
+    },
+    {
+      "region_id": "18007",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Grey Heron Shipping"
+      }
+    },
+    {
+      "region_id": "18008",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "The Traverse"
+      }
+    },
+    {
+      "region_id": "18010",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Pale Canyon Chemical"
+      }
+    },
+    {
+      "region_id": "18011",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Old Shore Checkpoint"
+      }
+    },
+    {
+      "region_id": "18013",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Eastwake Harborage"
+      }
+    },
+    {
+      "region_id": "18014",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Elli Forest Pass"
+      }
+    },
+    {
+      "region_id": "18015",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Frostfall Overlook"
+      }
+    },
+    {
+      "region_id": "18016",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Snowshear Fort"
+      }
+    },
+    {
+      "region_id": "18017",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Mattherson's Triumph"
+      }
+    },
+    {
+      "region_id": "18019",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Saerro Listening Post"
+      }
+    },
+    {
+      "region_id": "18020",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Waterson's Redemption"
+      }
+    },
+    {
+      "region_id": "18022",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Andvari Ruins"
+      }
+    },
+    {
+      "region_id": "18024",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Freyr"
+      }
+    },
+    {
+      "region_id": "18025",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Eisa"
+      }
+    },
+    {
+      "region_id": "18027",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Nott Communications"
+      }
+    },
+    {
+      "region_id": "18028",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Ymir"
+      }
+    },
+    {
+      "region_id": "18029",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Esamir Northern Warpgate"
+      }
+    },
+    {
+      "region_id": "18030",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Esamir Southern Warpgate"
+      }
+    },
+    {
+      "region_id": "18031",
+      "zone_id": "8",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "The Shattered Warpgate"
+      }
+    },
+    {
+      "region_id": "18032",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Echo Valley Substation"
+      }
+    },
+    {
+      "region_id": "18033",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bridge-ward"
+      }
+    },
+    {
+      "region_id": "18034",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Frostbite Harbor"
+      }
+    },
+    {
+      "region_id": "18036",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Jaeger's Fist"
+      }
+    },
+    {
+      "region_id": "18037",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Two Stone Beach"
+      }
+    },
+    {
+      "region_id": "18038",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Terran BL-4 Crash Site"
+      }
+    },
+    {
+      "region_id": "18046",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Andvari Barracks"
+      }
+    },
+    {
+      "region_id": "18048",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Andvari South Bank"
+      }
+    },
+    {
+      "region_id": "18049",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Elli Tower"
+      }
+    },
+    {
+      "region_id": "18058",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mani Processing Plant"
+      }
+    },
+    {
+      "region_id": "18060",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Mani Lake Satellite"
+      }
+    },
+    {
+      "region_id": "18062",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Esamir Eastern Warpgate"
+      }
+    },
+    {
+      "region_id": "18063",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Genudine Gardens"
+      }
+    },
+    {
+      "region_id": "18067",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Rime Analytics"
+      }
+    },
+    {
+      "region_id": "18068",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "The Rink"
+      }
+    },
+    {
+      "region_id": "18208",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "BL-4 Recovery Point"
+      }
+    },
+    {
+      "region_id": "18209",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Tapp Waystation"
+      }
+    },
+    {
+      "region_id": "18210",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Untapped Reservoir"
+      }
+    },
+    {
+      "region_id": "18249",
+      "zone_id": "8",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "The Wash"
+      }
+    },
+    {
+      "region_id": "18250",
+      "zone_id": "8",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Baldur"
+      }
+    },
+    {
+      "region_id": "18251",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Vidar Observation Site"
+      }
+    },
+    {
+      "region_id": "18252",
+      "zone_id": "8",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Excavion DS-01E"
+      }
+    },
+    {
+      "region_id": "18253",
+      "zone_id": "8",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Jord"
+      }
+    }
+  ],
+  "returned": 305
+}

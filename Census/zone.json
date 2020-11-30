@@ -1,0 +1,82 @@
+{
+  "zone_list": [
+    {
+      "zone_id": "2",
+      "code": "Indar",
+      "hex_size": "200",
+      "name": {
+        "en": "Indar"
+      },
+      "description": {
+        "en": "The arid continent of Indar is home to multiple biomes, providing unique challenges for its combatants."
+      }
+    },
+    {
+      "zone_id": "4",
+      "code": "Hossin",
+      "hex_size": "200",
+      "name": {
+        "en": "Hossin"
+      },
+      "description": {
+        "en": "Hossin's dense mangrove and willow forests provide air cover along its many swamps and highlands."
+      }
+    },
+    {
+      "zone_id": "6",
+      "code": "Amerish",
+      "hex_size": "200",
+      "name": {
+        "en": "Amerish"
+      },
+      "description": {
+        "en": "Amerish's lush groves and rocky outcroppings provide ample cover between its rolling plains and mountain passes."
+      }
+    },
+    {
+      "zone_id": "8",
+      "code": "Esamir",
+      "hex_size": "200",
+      "name": {
+        "en": "Esamir"
+      },
+      "description": {
+        "en": "Esamir's expanses of frigid tundra and craggy mountains provide little cover from airborne threats."
+      }
+    },
+    {
+      "zone_id": "96",
+      "code": "VR training zone (NC)",
+      "hex_size": "335",
+      "name": {
+        "en": "VR Training"
+      },
+      "description": {
+        "en": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
+      }
+    },
+    {
+      "zone_id": "97",
+      "code": "VR training zone (TR)",
+      "hex_size": "335",
+      "name": {
+        "en": "VR Training"
+      },
+      "description": {
+        "en": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
+      }
+    },
+    {
+      "zone_id": "98",
+      "code": "VR training zone (VS)",
+      "hex_size": "335",
+      "name": {
+        "en": "VR Training"
+      },
+      "description": {
+        "en": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
+      }
+    }
+  ],
+  "returned": 7
+}

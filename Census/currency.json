@@ -1,0 +1,13 @@
+{
+  "currency_list": [
+    {
+      "currency_id": "4",
+      "name": {
+        "en": "Nanites"
+      },
+      "icon_id": "13606",
+      "inventory_cap": "750"
+    }
+  ],
+  "returned": 1
+}

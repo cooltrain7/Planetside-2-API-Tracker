@@ -1,0 +1,65 @@
+{
+  "resource_type_list": [
+    {
+      "resource_type_id": "7",
+      "description": "Fuel"
+    },
+    {
+      "resource_type_id": "9",
+      "description": "Heavy Shield"
+    },
+    {
+      "resource_type_id": "35",
+      "description": "Cloaker Juice"
+    },
+    {
+      "resource_type_id": "38",
+      "description": "Medic Fuel"
+    },
+    {
+      "resource_type_id": "41",
+      "description": "NC MAX Aegis Shield 01"
+    },
+    {
+      "resource_type_id": "43",
+      "description": "NC MAX Aegis Shield 02"
+    },
+    {
+      "resource_type_id": "44",
+      "description": "NC MAX Aegis Shield 03"
+    },
+    {
+      "resource_type_id": "45",
+      "description": "NC MAX Aegis Shield 04"
+    },
+    {
+      "resource_type_id": "46",
+      "description": "NC MAX Aegis Shield 05"
+    },
+    {
+      "resource_type_id": "50",
+      "description": "VS: MAX: Ability: Zealot"
+    },
+    {
+      "resource_type_id": "58",
+      "description": "Cortium"
+    },
+    {
+      "resource_type_id": "75",
+      "description": "Ambusher Fuel"
+    },
+    {
+      "resource_type_id": "133",
+      "description": "NSO: MAX: Time Bomb"
+    },
+    {
+      "resource_type_id": "139",
+      "description": "Esamir.Storm.VehicleOverload"
+    },
+    {
+      "resource_type_id": "145",
+      "description": "Storm Shield"
+    }
+  ],
+  "returned": 15
+}

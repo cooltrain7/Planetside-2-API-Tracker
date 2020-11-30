@@ -1,0 +1,461 @@
+{
+  "profile_list": [
+    {
+      "profile_id": "190",
+      "profile_type_id": "1",
+      "profile_type_description": "Infiltrator",
+      "faction_id": "4",
+      "name": {
+        "en": "Infiltrator"
+      },
+      "description": {
+        "en": "Infiltrator"
+      },
+      "image_set_id": "67",
+      "image_id": "204",
+      "image_path": "/files/ps2/images/static/204.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "17",
+      "profile_type_id": "1",
+      "profile_type_description": "Infiltrator",
+      "faction_id": "1",
+      "name": {
+        "en": "Infiltrator"
+      },
+      "description": {
+        "en": "Infiltrator"
+      },
+      "image_set_id": "67",
+      "image_id": "204",
+      "image_path": "/files/ps2/images/static/204.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "10",
+      "profile_type_id": "1",
+      "profile_type_description": "Infiltrator",
+      "faction_id": "3",
+      "name": {
+        "en": "Infiltrator"
+      },
+      "description": {
+        "en": "Infiltrator"
+      },
+      "image_set_id": "67",
+      "image_id": "204",
+      "image_path": "/files/ps2/images/static/204.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "2",
+      "profile_type_id": "1",
+      "profile_type_description": "Infiltrator",
+      "faction_id": "2",
+      "name": {
+        "en": "Infiltrator"
+      },
+      "description": {
+        "en": "Infiltrator"
+      },
+      "image_set_id": "67",
+      "image_id": "204",
+      "image_path": "/files/ps2/images/static/204.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "191",
+      "profile_type_id": "3",
+      "profile_type_description": "Light Assault",
+      "faction_id": "4",
+      "name": {
+        "en": "Light Assault"
+      },
+      "description": {
+        "en": "Light Assault"
+      },
+      "image_set_id": "8",
+      "image_id": "62",
+      "image_path": "/files/ps2/images/static/62.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "19",
+      "profile_type_id": "3",
+      "profile_type_description": "Light Assault",
+      "faction_id": "1",
+      "name": {
+        "en": "Light Assault"
+      },
+      "description": {
+        "en": "Light Assault"
+      },
+      "image_set_id": "8",
+      "image_id": "62",
+      "image_path": "/files/ps2/images/static/62.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "12",
+      "profile_type_id": "3",
+      "profile_type_description": "Light Assault",
+      "faction_id": "3",
+      "name": {
+        "en": "Light Assault"
+      },
+      "description": {
+        "en": "Light Assault"
+      },
+      "image_set_id": "8",
+      "image_id": "62",
+      "image_path": "/files/ps2/images/static/62.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "4",
+      "profile_type_id": "3",
+      "profile_type_description": "Light Assault",
+      "faction_id": "2",
+      "name": {
+        "en": "Light Assault"
+      },
+      "description": {
+        "en": "Light Assault"
+      },
+      "image_set_id": "8",
+      "image_id": "62",
+      "image_path": "/files/ps2/images/static/62.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "192",
+      "profile_type_id": "4",
+      "profile_type_description": "Combat Medic",
+      "faction_id": "4",
+      "name": {
+        "en": "Combat Medic"
+      },
+      "description": {
+        "en": "Combat Medic"
+      },
+      "image_set_id": "9",
+      "image_id": "65",
+      "image_path": "/files/ps2/images/static/65.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "20",
+      "profile_type_id": "4",
+      "profile_type_description": "Combat Medic",
+      "faction_id": "1",
+      "name": {
+        "en": "Combat Medic"
+      },
+      "description": {
+        "en": "Combat Medic"
+      },
+      "image_set_id": "9",
+      "image_id": "65",
+      "image_path": "/files/ps2/images/static/65.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "13",
+      "profile_type_id": "4",
+      "profile_type_description": "Combat Medic",
+      "faction_id": "3",
+      "name": {
+        "en": "Combat Medic"
+      },
+      "description": {
+        "en": "Combat Medic"
+      },
+      "image_set_id": "9",
+      "image_id": "65",
+      "image_path": "/files/ps2/images/static/65.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "5",
+      "profile_type_id": "4",
+      "profile_type_description": "Combat Medic",
+      "faction_id": "2",
+      "name": {
+        "en": "Combat Medic"
+      },
+      "description": {
+        "en": "Combat Medic"
+      },
+      "image_set_id": "9",
+      "image_id": "65",
+      "image_path": "/files/ps2/images/static/65.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "193",
+      "profile_type_id": "5",
+      "profile_type_description": "Engineer",
+      "faction_id": "4",
+      "name": {
+        "en": "Engineer"
+      },
+      "description": {
+        "en": "Engineer"
+      },
+      "image_set_id": "66",
+      "image_id": "201",
+      "image_path": "/files/ps2/images/static/201.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "21",
+      "profile_type_id": "5",
+      "profile_type_description": "Engineer",
+      "faction_id": "1",
+      "name": {
+        "en": "Engineer"
+      },
+      "description": {
+        "en": "Engineer"
+      },
+      "image_set_id": "66",
+      "image_id": "201",
+      "image_path": "/files/ps2/images/static/201.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "14",
+      "profile_type_id": "5",
+      "profile_type_description": "Engineer",
+      "faction_id": "3",
+      "name": {
+        "en": "Engineer"
+      },
+      "description": {
+        "en": "Engineer"
+      },
+      "image_set_id": "66",
+      "image_id": "201",
+      "image_path": "/files/ps2/images/static/201.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "6",
+      "profile_type_id": "5",
+      "profile_type_description": "Engineer",
+      "faction_id": "2",
+      "name": {
+        "en": "Engineer"
+      },
+      "description": {
+        "en": "Engineer"
+      },
+      "image_set_id": "66",
+      "image_id": "201",
+      "image_path": "/files/ps2/images/static/201.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "194",
+      "profile_type_id": "6",
+      "profile_type_description": "Heavy Assault",
+      "faction_id": "4",
+      "name": {
+        "en": "Heavy Assault"
+      },
+      "description": {
+        "en": "Heavy Assault"
+      },
+      "image_set_id": "7",
+      "image_id": "59",
+      "image_path": "/files/ps2/images/static/59.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "22",
+      "profile_type_id": "6",
+      "profile_type_description": "Heavy Assault",
+      "faction_id": "1",
+      "name": {
+        "en": "Heavy Assault"
+      },
+      "description": {
+        "en": "Heavy Assault"
+      },
+      "image_set_id": "7",
+      "image_id": "59",
+      "image_path": "/files/ps2/images/static/59.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "15",
+      "profile_type_id": "6",
+      "profile_type_description": "Heavy Assault",
+      "faction_id": "3",
+      "name": {
+        "en": "Heavy Assault"
+      },
+      "description": {
+        "en": "Heavy Assault"
+      },
+      "image_set_id": "7",
+      "image_id": "59",
+      "image_path": "/files/ps2/images/static/59.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "7",
+      "profile_type_id": "6",
+      "profile_type_description": "Heavy Assault",
+      "faction_id": "2",
+      "name": {
+        "en": "Heavy Assault"
+      },
+      "description": {
+        "en": "Heavy Assault"
+      },
+      "image_set_id": "7",
+      "image_id": "59",
+      "image_path": "/files/ps2/images/static/59.png",
+      "movement_speed": "4",
+      "backpedal_speed_modifier": "0.75",
+      "sprint_speed_modifier": "1.625",
+      "strafe_speed_modifier": "0.75"
+    },
+    {
+      "profile_id": "252",
+      "profile_type_id": "7",
+      "profile_type_description": "MAX",
+      "faction_id": "4",
+      "name": {
+        "en": "Defector"
+      },
+      "description": {
+        "en": "Defector"
+      },
+      "image_set_id": "68",
+      "image_id": "207",
+      "image_path": "/files/ps2/images/static/207.png",
+      "movement_speed": "3",
+      "backpedal_speed_modifier": "0.7",
+      "sprint_speed_modifier": "1.85",
+      "strafe_speed_modifier": "0.7"
+    },
+    {
+      "profile_id": "23",
+      "profile_type_id": "7",
+      "profile_type_description": "MAX",
+      "faction_id": "1",
+      "name": {
+        "en": "MAX"
+      },
+      "description": {
+        "en": "MAX"
+      },
+      "image_set_id": "68",
+      "image_id": "207",
+      "image_path": "/files/ps2/images/static/207.png",
+      "movement_speed": "3",
+      "backpedal_speed_modifier": "0.7",
+      "sprint_speed_modifier": "2",
+      "strafe_speed_modifier": "0.7"
+    },
+    {
+      "profile_id": "16",
+      "profile_type_id": "7",
+      "profile_type_description": "MAX",
+      "faction_id": "3",
+      "name": {
+        "en": "MAX"
+      },
+      "description": {
+        "en": "MAX"
+      },
+      "image_set_id": "68",
+      "image_id": "207",
+      "image_path": "/files/ps2/images/static/207.png",
+      "movement_speed": "3",
+      "backpedal_speed_modifier": "0.7",
+      "sprint_speed_modifier": "2",
+      "strafe_speed_modifier": "0.7"
+    },
+    {
+      "profile_id": "8",
+      "profile_type_id": "7",
+      "profile_type_description": "MAX",
+      "faction_id": "2",
+      "name": {
+        "en": "MAX"
+      },
+      "description": {
+        "en": "MAX"
+      },
+      "image_set_id": "68",
+      "image_id": "207",
+      "image_path": "/files/ps2/images/static/207.png",
+      "movement_speed": "3",
+      "backpedal_speed_modifier": "0.7",
+      "sprint_speed_modifier": "2",
+      "strafe_speed_modifier": "0.7"
+    }
+  ],
+  "returned": 24
+}

@@ -1,0 +1,829 @@
+{
+  "profile_2_list": [
+    {
+      "profile_id": "1",
+      "description": "Basic Combatant"
+    },
+    {
+      "profile_id": "2",
+      "description": "NC Infiltrator"
+    },
+    {
+      "profile_id": "4",
+      "description": "NC Light Assault"
+    },
+    {
+      "profile_id": "5",
+      "description": "NC Combat Medic"
+    },
+    {
+      "profile_id": "6",
+      "description": "NC Engineer"
+    },
+    {
+      "profile_id": "7",
+      "description": "NC Heavy Assault"
+    },
+    {
+      "profile_id": "8",
+      "description": "NC MAX"
+    },
+    {
+      "profile_id": "9",
+      "description": "Facility Object NPC"
+    },
+    {
+      "profile_id": "10",
+      "description": "TR Infiltrator"
+    },
+    {
+      "profile_id": "12",
+      "description": "TR Light Assault"
+    },
+    {
+      "profile_id": "13",
+      "description": "TR Combat Medic"
+    },
+    {
+      "profile_id": "14",
+      "description": "TR Engineer"
+    },
+    {
+      "profile_id": "15",
+      "description": "TR Heavy Assault"
+    },
+    {
+      "profile_id": "16",
+      "description": "TR MAX"
+    },
+    {
+      "profile_id": "17",
+      "description": "VS Infiltrator"
+    },
+    {
+      "profile_id": "19",
+      "description": "VS Light Assault"
+    },
+    {
+      "profile_id": "20",
+      "description": "VS Combat Medic"
+    },
+    {
+      "profile_id": "21",
+      "description": "VS Engineer"
+    },
+    {
+      "profile_id": "22",
+      "description": "VS Heavy Assault"
+    },
+    {
+      "profile_id": "23",
+      "description": "VS MAX"
+    },
+    {
+      "profile_id": "24",
+      "description": "Flash"
+    },
+    {
+      "profile_id": "25",
+      "description": "APC"
+    },
+    {
+      "profile_id": "26",
+      "description": "Lightning"
+    },
+    {
+      "profile_id": "27",
+      "description": "Harasser"
+    },
+    {
+      "profile_id": "28",
+      "description": "Valkyrie"
+    },
+    {
+      "profile_id": "29",
+      "description": "Magrider"
+    },
+    {
+      "profile_id": "30",
+      "description": "Prowler"
+    },
+    {
+      "profile_id": "31",
+      "description": "Vanguard"
+    },
+    {
+      "profile_id": "32",
+      "description": "Skyguard"
+    },
+    {
+      "profile_id": "33",
+      "description": "Sunderer"
+    },
+    {
+      "profile_id": "34",
+      "description": "Scythe"
+    },
+    {
+      "profile_id": "35",
+      "description": "Mosquito"
+    },
+    {
+      "profile_id": "36",
+      "description": "Reaver"
+    },
+    {
+      "profile_id": "37",
+      "description": "Liberator"
+    },
+    {
+      "profile_id": "38",
+      "description": "Galaxy"
+    },
+    {
+      "profile_id": "39",
+      "description": "Facility - Gate Shield Generator"
+    },
+    {
+      "profile_id": "40",
+      "description": "Facility - SCU Room Shield Generator"
+    },
+    {
+      "profile_id": "41",
+      "description": "Facility - Phalanx Turret"
+    },
+    {
+      "profile_id": "42",
+      "description": "Facility - Turret Control Unit"
+    },
+    {
+      "profile_id": "43",
+      "description": "Facility - Spawn Control Unit"
+    },
+    {
+      "profile_id": "44",
+      "description": "Bomb"
+    },
+    {
+      "profile_id": "45",
+      "description": "Facility - Equipment Terminal"
+    },
+    {
+      "profile_id": "46",
+      "description": "Facility - Vehicle Terminal"
+    },
+    {
+      "profile_id": "47",
+      "description": "Facility - Aircraft Terminal"
+    },
+    {
+      "profile_id": "48",
+      "description": "Facility - Forward Shield Horizontal Generator"
+    },
+    {
+      "profile_id": "49",
+      "description": "Facility - Forward Shield Vertical Generator"
+    },
+    {
+      "profile_id": "50",
+      "description": "Engineer Turrets and Shield"
+    },
+    {
+      "profile_id": "51",
+      "description": "Explosive - C4"
+    },
+    {
+      "profile_id": "52",
+      "description": "NS Vehicle for video"
+    },
+    {
+      "profile_id": "53",
+      "description": "Drop Pod Vehicle"
+    },
+    {
+      "profile_id": "54",
+      "description": "Automatic Engi Turret"
+    },
+    {
+      "profile_id": "55",
+      "description": "Static Vehicle Ammo Dispenser"
+    },
+    {
+      "profile_id": "56",
+      "description": "Medic Shield"
+    },
+    {
+      "profile_id": "57",
+      "description": "Kevmo Test Dummy Profile"
+    },
+    {
+      "profile_id": "58",
+      "description": "Claymore, Prox. Mine, Bouncer"
+    },
+    {
+      "profile_id": "59",
+      "description": "Grenade - Used for multitple grenades"
+    },
+    {
+      "profile_id": "60",
+      "description": "Utility Grenade"
+    },
+    {
+      "profile_id": "61",
+      "description": "Tank Mines"
+    },
+    {
+      "profile_id": "62",
+      "description": "Personal Waypoint"
+    },
+    {
+      "profile_id": "63",
+      "description": "Squad Waypoint"
+    },
+    {
+      "profile_id": "64",
+      "description": "Facility - Galaxy Terminal"
+    },
+    {
+      "profile_id": "65",
+      "description": "Vehicle - Playtest Galaxy (Invuln)"
+    },
+    {
+      "profile_id": "66",
+      "description": "Teleporter"
+    },
+    {
+      "profile_id": "67",
+      "description": "Destroyed Vehicle Debris"
+    },
+    {
+      "profile_id": "68",
+      "description": "ACE Tool"
+    },
+    {
+      "profile_id": "69",
+      "description": "Spawn Beacon"
+    },
+    {
+      "profile_id": "70",
+      "description": "Facility - Transport Terminal"
+    },
+    {
+      "profile_id": "71",
+      "description": "Static Air Ammo Dispenser"
+    },
+    {
+      "profile_id": "72",
+      "description": "Facility - Shield"
+    },
+    {
+      "profile_id": "73",
+      "description": "Light Ground Vehicle Terminal"
+    },
+    {
+      "profile_id": "74",
+      "description": "Observer Camera"
+    },
+    {
+      "profile_id": "75",
+      "description": "Smoke Rally Point"
+    },
+    {
+      "profile_id": "76",
+      "description": "Platoon Waypoint"
+    },
+    {
+      "profile_id": "77",
+      "description": "Warpgate Terminal"
+    },
+    {
+      "profile_id": "78",
+      "description": "Orbital Strike"
+    },
+    {
+      "profile_id": "79",
+      "description": "Phoenix Missile"
+    },
+    {
+      "profile_id": "80",
+      "description": "Vehicle - Recon Drone"
+    },
+    {
+      "profile_id": "81",
+      "description": "Ammo Pack"
+    },
+    {
+      "profile_id": "82",
+      "description": "Facility - AI Phalanx Turret"
+    },
+    {
+      "profile_id": "83",
+      "description": "Facility - AV Phalanx Turret"
+    },
+    {
+      "profile_id": "84",
+      "description": "Facility - AA Phalanx Turret"
+    },
+    {
+      "profile_id": "85",
+      "description": "Tutorial Teleporter"
+    },
+    {
+      "profile_id": "86",
+      "description": "Facility - Galaxy Terminal"
+    },
+    {
+      "profile_id": "87",
+      "description": "Holiday Event NPC"
+    },
+    {
+      "profile_id": "88",
+      "description": "Motion Sensor"
+    },
+    {
+      "profile_id": "89",
+      "description": "NS Crossbow 01: Detect Dart NPC"
+    },
+    {
+      "profile_id": "90",
+      "description": "Decoy Grenade"
+    },
+    {
+      "profile_id": "91",
+      "description": "Medic Deployable: Regen Shield"
+    },
+    {
+      "profile_id": "92",
+      "description": "Vehicle - Spitfire Turret"
+    },
+    {
+      "profile_id": "93",
+      "description": "Directive Waypoint"
+    },
+    {
+      "profile_id": "94",
+      "description": "Resource Depot "
+    },
+    {
+      "profile_id": "95",
+      "description": "ANT"
+    },
+    {
+      "profile_id": "98",
+      "description": "Auraxium Node - Common"
+    },
+    {
+      "profile_id": "99",
+      "description": "Construction: Deployed AV Phalanx Tower"
+    },
+    {
+      "profile_id": "100",
+      "description": "Auraxium Node - Rare"
+    },
+    {
+      "profile_id": "101",
+      "description": "Auraxium Node - Uncommon"
+    },
+    {
+      "profile_id": "102",
+      "description": "Ant Construction: Building Process"
+    },
+    {
+      "profile_id": "103",
+      "description": "Test Generic Terminal"
+    },
+    {
+      "profile_id": "104",
+      "description": "Construction: Deployed AA Phalanx"
+    },
+    {
+      "profile_id": "105",
+      "description": "Construction: Deployed AI Phalanx"
+    },
+    {
+      "profile_id": "106",
+      "description": "Construction: Rampart Wall"
+    },
+    {
+      "profile_id": "108",
+      "description": "Construction: Repair Module"
+    },
+    {
+      "profile_id": "109",
+      "description": "Construction: Sunderer Garage "
+    },
+    {
+      "profile_id": "110",
+      "description": "Construction: Bunker 001"
+    },
+    {
+      "profile_id": "111",
+      "description": "Construction: VP Core 001"
+    },
+    {
+      "profile_id": "112",
+      "description": "Construction: Blast Shield"
+    },
+    {
+      "profile_id": "113",
+      "description": "Construction: Core 001_Core"
+    },
+    {
+      "profile_id": "114",
+      "description": "Construction: Core 001_Shield"
+    },
+    {
+      "profile_id": "115",
+      "description": "Construction: Drop Module"
+    },
+    {
+      "profile_id": "116",
+      "description": "Construction: Projectile Shield Module"
+    },
+    {
+      "profile_id": "117",
+      "description": "Construction: Structure Shield Module"
+    },
+    {
+      "profile_id": "118",
+      "description": "Construction: Repair Module"
+    },
+    {
+      "profile_id": "119",
+      "description": "Construction: Turret AI Module"
+    },
+    {
+      "profile_id": "120",
+      "description": "Construction: Projectile Shield Module: Shield"
+    },
+    {
+      "profile_id": "122",
+      "description": "Construction: Structure Shield Module: Shield"
+    },
+    {
+      "profile_id": "123",
+      "description": "VP Cores: Zone Profiles"
+    },
+    {
+      "profile_id": "124",
+      "description": "Construction: Construction: Silo"
+    },
+    {
+      "profile_id": "125",
+      "description": "Construction: Structure Shield Module: Core Bubble Shield"
+    },
+    {
+      "profile_id": "126",
+      "description": "Construction: Faction Banner"
+    },
+    {
+      "profile_id": "127",
+      "description": "Cortium Node - Common (scaling)"
+    },
+    {
+      "profile_id": "128",
+      "description": "Cortium Node - Uncommon (scaling)"
+    },
+    {
+      "profile_id": "129",
+      "description": "Cortium Node - Rare (scaling)"
+    },
+    {
+      "profile_id": "131",
+      "description": "Construction: Reinforcement Module"
+    },
+    {
+      "profile_id": "132",
+      "description": "Construction: Blast Wall"
+    },
+    {
+      "profile_id": "133",
+      "description": "Construction: Infantry Tower"
+    },
+    {
+      "profile_id": "134",
+      "description": "Construction: Vehicle Ramp"
+    },
+    {
+      "profile_id": "135",
+      "description": "Construction: Lumifiber Rampart Wall "
+    },
+    {
+      "profile_id": "136",
+      "description": "Construction: Alarm Module"
+    },
+    {
+      "profile_id": "137",
+      "description": "Construction: Deployed ION Turret"
+    },
+    {
+      "profile_id": "138",
+      "description": "Targeting Dart"
+    },
+    {
+      "profile_id": "139",
+      "description": "Auraxium Node - Epic"
+    },
+    {
+      "profile_id": "140",
+      "description": "Construction: Deployed AV Phalanx Turret Towerless"
+    },
+    {
+      "profile_id": "141",
+      "description": "Construction: SpawnTube"
+    },
+    {
+      "profile_id": "142",
+      "description": "Construction: VehiclePad"
+    },
+    {
+      "profile_id": "143",
+      "description": "Construction: PillBox"
+    },
+    {
+      "profile_id": "144",
+      "description": "Construction: AmmoTower"
+    },
+    {
+      "profile_id": "145",
+      "description": "Construction: GateWall"
+    },
+    {
+      "profile_id": "146",
+      "description": "Construction: AirPad"
+    },
+    {
+      "profile_id": "148",
+      "description": "Construction: Orbital Strike Gen"
+    },
+    {
+      "profile_id": "149",
+      "description": "Orbital Strike Target"
+    },
+    {
+      "profile_id": "150",
+      "description": "Deployable - Hardlight Barrier"
+    },
+    {
+      "profile_id": "151",
+      "description": "Auraxium Node - Warpgate"
+    },
+    {
+      "profile_id": "152",
+      "description": "Construction: Cortium Module"
+    },
+    {
+      "profile_id": "153",
+      "description": "Construction: Premium Cortium Module"
+    },
+    {
+      "profile_id": "154",
+      "description": "Snowman Soldier"
+    },
+    {
+      "profile_id": "155",
+      "description": "Auraximas Tree"
+    },
+    {
+      "profile_id": "156",
+      "description": "Colossus"
+    },
+    {
+      "profile_id": "157",
+      "description": "Flash - Calldown (Skimmer)"
+    },
+    {
+      "profile_id": "158",
+      "description": "Shared: Router"
+    },
+    {
+      "profile_id": "162",
+      "description": "Meltdown - OS Timer"
+    },
+    {
+      "profile_id": "163",
+      "description": "Bastion Fleet Carrier (Meltdown Skybox)"
+    },
+    {
+      "profile_id": "166",
+      "description": "Orbital Strike Waypoint"
+    },
+    {
+      "profile_id": "167",
+      "description": "Construction: Pain Spire"
+    },
+    {
+      "profile_id": "168",
+      "description": "Construction: Routing Spire"
+    },
+    {
+      "profile_id": "169",
+      "description": "Construction: Artillery Battery"
+    },
+    {
+      "profile_id": "173",
+      "description": "ZONE: Warpgate Recharge Timer"
+    },
+    {
+      "profile_id": "174",
+      "description": "Fireteam 1 Waypoint"
+    },
+    {
+      "profile_id": "176",
+      "description": "Zone Meta Game Event Resources"
+    },
+    {
+      "profile_id": "181",
+      "description": "Anomaly (Event)"
+    },
+    {
+      "profile_id": "187",
+      "description": "Fireteam 2 Waypoint"
+    },
+    {
+      "profile_id": "188",
+      "description": "Fireteam 3 Waypoint"
+    },
+    {
+      "profile_id": "189",
+      "description": "Fireteam 4 Waypoint"
+    },
+    {
+      "profile_id": "190",
+      "description": "NSO Infiltrator"
+    },
+    {
+      "profile_id": "191",
+      "description": "NSO Light Assault"
+    },
+    {
+      "profile_id": "192",
+      "description": "NSO Combat Medic"
+    },
+    {
+      "profile_id": "193",
+      "description": "NSO Engineer"
+    },
+    {
+      "profile_id": "194",
+      "description": "NSO Heavy Assault"
+    },
+    {
+      "profile_id": "198",
+      "description": "Construction: Solid Wall"
+    },
+    {
+      "profile_id": "202",
+      "description": "Javelin"
+    },
+    {
+      "profile_id": "203",
+      "description": "Event: Pumpkin: Boss Pumpkin"
+    },
+    {
+      "profile_id": "205",
+      "description": "Cortium Refinery (Event)"
+    },
+    {
+      "profile_id": "206",
+      "description": "Cortium Refinery Node (Event)"
+    },
+    {
+      "profile_id": "210",
+      "description": "Deliverer Prototype"
+    },
+    {
+      "profile_id": "211",
+      "description": "Wasp"
+    },
+    {
+      "profile_id": "234",
+      "description": "Data Buoy (Event)"
+    },
+    {
+      "profile_id": "251",
+      "description": "OutfitWars.CapturePoint"
+    },
+    {
+      "profile_id": "252",
+      "description": "NSO MAX"
+    },
+    {
+      "profile_id": "253",
+      "description": "Generic.Null.DoNothing"
+    },
+    {
+      "profile_id": "254",
+      "description": "OutiftWars.VehicleTerminal"
+    },
+    {
+      "profile_id": "255",
+      "description": "War Asset: Citadel Shield Bubble"
+    },
+    {
+      "profile_id": "257",
+      "description": "WarAsset.Bastion.Component.Generic"
+    },
+    {
+      "profile_id": "258",
+      "description": "WarAsset.Bastion.Vehicle"
+    },
+    {
+      "profile_id": "259",
+      "description": "WarAsset: ANVIL Vehicle Dispenser"
+    },
+    {
+      "profile_id": "260",
+      "description": "War Asset: Citadel Shield Generator"
+    },
+    {
+      "profile_id": "261",
+      "description": "War Asset: Generic Waypoint Marker"
+    },
+    {
+      "profile_id": "262",
+      "description": "SANC - Map Icon - Black Market"
+    },
+    {
+      "profile_id": "263",
+      "description": "SANC - Map Icon - Resource Vendor"
+    },
+    {
+      "profile_id": "264",
+      "description": "SANC - Map Icon - Outfit Vendor"
+    },
+    {
+      "profile_id": "265",
+      "description": "Flash (Deployable)"
+    },
+    {
+      "profile_id": "266",
+      "description": "Desolation: Cortium Silo"
+    },
+    {
+      "profile_id": "267",
+      "description": "WarAsset: Recon Drones (This reuses ANVIL resources and resists)"
+    },
+    {
+      "profile_id": "268",
+      "description": "WarAsset.Merit.HardlightCanopy.Deployable"
+    },
+    {
+      "profile_id": "269",
+      "description": "WarAsset.Merit.CortiumBomb"
+    },
+    {
+      "profile_id": "270",
+      "description": "Merit Asset - Deployable - Tank Trap"
+    },
+    {
+      "profile_id": "271",
+      "description": "WarAsset.Merit.HardlightCanopy.Shield"
+    },
+    {
+      "profile_id": "272",
+      "description": "Colossus.DeploymentShield"
+    },
+    {
+      "profile_id": "273",
+      "description": "Esamir.Storm.Controller"
+    },
+    {
+      "profile_id": "275",
+      "description": "Tactical.Esamir.Storm.LightningArrester.Deployable"
+    },
+    {
+      "profile_id": "276",
+      "description": "Sanctuary NPC Vendor"
+    },
+    {
+      "profile_id": "277",
+      "description": "Javelin - Campaign"
+    },
+    {
+      "profile_id": "278",
+      "description": "Disabled Esamir Vehicle"
+    },
+    {
+      "profile_id": "279",
+      "description": "Analysis HUD Target"
+    },
+    {
+      "profile_id": "280",
+      "description": "Mission Generic Waypoint"
+    },
+    {
+      "profile_id": "281",
+      "description": "Campaign 01 - Strange Glowing Plant"
+    },
+    {
+      "profile_id": "282",
+      "description": "BigSpacePumpkin (Galact-O-Lantern)"
+    },
+    {
+      "profile_id": "284",
+      "description": "Campaign 01 - Strange Glowing Mineral"
+    }
+  ],
+  "returned": 206
+}

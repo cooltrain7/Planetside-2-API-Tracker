@@ -1,0 +1,650 @@
+{
+  "directive_tree_list": [
+    {
+      "directive_tree_id": "4",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Carbines"
+      },
+      "image_set_id": "14164",
+      "image_id": "79587",
+      "image_path": "/files/ps2/images/static/79587.png"
+    },
+    {
+      "directive_tree_id": "6",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Sniper Rifles"
+      },
+      "image_set_id": "14222",
+      "image_id": "79645",
+      "image_path": "/files/ps2/images/static/79645.png"
+    },
+    {
+      "directive_tree_id": "8",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Light Machine Guns"
+      },
+      "image_set_id": "14193",
+      "image_id": "79616",
+      "image_path": "/files/ps2/images/static/79616.png"
+    },
+    {
+      "directive_tree_id": "10",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Assault Rifles"
+      },
+      "image_set_id": "14160",
+      "image_id": "79583",
+      "image_path": "/files/ps2/images/static/79583.png"
+    },
+    {
+      "directive_tree_id": "13",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Shotguns"
+      },
+      "image_set_id": "14233",
+      "image_id": "79656",
+      "image_path": "/files/ps2/images/static/79656.png"
+    },
+    {
+      "directive_tree_id": "15",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Submachine Guns"
+      },
+      "image_set_id": "14238",
+      "image_id": "79661",
+      "image_path": "/files/ps2/images/static/79661.png"
+    },
+    {
+      "directive_tree_id": "17",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Sidearms"
+      },
+      "image_set_id": "14235",
+      "image_id": "79658",
+      "image_path": "/files/ps2/images/static/79658.png"
+    },
+    {
+      "directive_tree_id": "21",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Explosives"
+      },
+      "image_set_id": "14170",
+      "image_id": "79593",
+      "image_path": "/files/ps2/images/static/79593.png"
+    },
+    {
+      "directive_tree_id": "23",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Liberator"
+      },
+      "image_set_id": "14184",
+      "image_id": "79607",
+      "image_path": "/files/ps2/images/static/79607.png"
+    },
+    {
+      "directive_tree_id": "24",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Light Assault"
+      },
+      "image_set_id": "13589",
+      "image_id": "77993",
+      "image_path": "/files/ps2/images/static/77993.png"
+    },
+    {
+      "directive_tree_id": "25",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Infiltrator"
+      },
+      "image_set_id": "13587",
+      "image_id": "77991",
+      "image_path": "/files/ps2/images/static/77991.png"
+    },
+    {
+      "directive_tree_id": "26",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Engineer"
+      },
+      "image_set_id": "13585",
+      "image_id": "77989",
+      "image_path": "/files/ps2/images/static/77989.png"
+    },
+    {
+      "directive_tree_id": "27",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Heavy Assault"
+      },
+      "image_set_id": "13586",
+      "image_id": "77990",
+      "image_path": "/files/ps2/images/static/77990.png"
+    },
+    {
+      "directive_tree_id": "28",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Combat Medic"
+      },
+      "image_set_id": "13583",
+      "image_id": "77987",
+      "image_path": "/files/ps2/images/static/77987.png"
+    },
+    {
+      "directive_tree_id": "29",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "MAX"
+      },
+      "image_set_id": "13590",
+      "image_id": "77994",
+      "image_path": "/files/ps2/images/static/77994.png"
+    },
+    {
+      "directive_tree_id": "31",
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Force Recon"
+      },
+      "image_set_id": "13588",
+      "image_id": "77992",
+      "image_path": "/files/ps2/images/static/77992.png"
+    },
+    {
+      "directive_tree_id": "33",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "34",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Flash"
+      },
+      "image_set_id": "14214",
+      "image_id": "79637",
+      "image_path": "/files/ps2/images/static/79637.png"
+    },
+    {
+      "directive_tree_id": "35",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Harasser"
+      },
+      "image_set_id": "14175",
+      "image_id": "79598",
+      "image_path": "/files/ps2/images/static/79598.png"
+    },
+    {
+      "directive_tree_id": "36",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Lightning"
+      },
+      "image_set_id": "14188",
+      "image_id": "79611",
+      "image_path": "/files/ps2/images/static/79611.png"
+    },
+    {
+      "directive_tree_id": "37",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Magrider"
+      },
+      "image_set_id": "14195",
+      "image_id": "79618",
+      "image_path": "/files/ps2/images/static/79618.png"
+    },
+    {
+      "directive_tree_id": "38",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Vanguard"
+      },
+      "image_set_id": "14250",
+      "image_id": "79673",
+      "image_path": "/files/ps2/images/static/79673.png"
+    },
+    {
+      "directive_tree_id": "39",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Prowler"
+      },
+      "image_set_id": "14210",
+      "image_id": "79633",
+      "image_path": "/files/ps2/images/static/79633.png"
+    },
+    {
+      "directive_tree_id": "40",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Scythe"
+      },
+      "image_set_id": "14227",
+      "image_id": "79650",
+      "image_path": "/files/ps2/images/static/79650.png"
+    },
+    {
+      "directive_tree_id": "41",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Reaver"
+      },
+      "image_set_id": "14217",
+      "image_id": "79640",
+      "image_path": "/files/ps2/images/static/79640.png"
+    },
+    {
+      "directive_tree_id": "42",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Mosquito"
+      },
+      "image_set_id": "14202",
+      "image_id": "79625",
+      "image_path": "/files/ps2/images/static/79625.png"
+    },
+    {
+      "directive_tree_id": "43",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Sunderer"
+      },
+      "image_set_id": "14243",
+      "image_id": "79666",
+      "image_path": "/files/ps2/images/static/79666.png"
+    },
+    {
+      "directive_tree_id": "44",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Galaxy"
+      },
+      "image_set_id": "14172",
+      "image_id": "79595",
+      "image_path": "/files/ps2/images/static/79595.png"
+    },
+    {
+      "directive_tree_id": "45",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Scout Rifles"
+      },
+      "image_set_id": "14222",
+      "image_id": "79645",
+      "image_path": "/files/ps2/images/static/79645.png"
+    },
+    {
+      "directive_tree_id": "46",
+      "directive_tree_category_id": "5",
+      "name": {
+        "en": "Objectives"
+      },
+      "image_set_id": "14163",
+      "image_id": "79586",
+      "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+      "directive_tree_id": "47",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Launchers"
+      },
+      "image_set_id": "14182",
+      "image_id": "79605",
+      "image_path": "/files/ps2/images/static/79605.png"
+    },
+    {
+      "directive_tree_id": "48",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Valkyrie"
+      },
+      "image_set_id": "14493",
+      "image_id": "80344",
+      "image_path": "/files/ps2/images/static/80344.png"
+    },
+    {
+      "directive_tree_id": "49",
+      "directive_tree_category_id": "5",
+      "name": {
+        "en": "Leadership"
+      },
+      "image_set_id": "14492",
+      "image_id": "80343",
+      "image_path": "/files/ps2/images/static/80343.png"
+    },
+    {
+      "directive_tree_id": "50",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "51",
+      "directive_tree_category_id": "9",
+      "name": {
+        "en": "Basic Training"
+      },
+      "image_set_id": "802639",
+      "image_id": "84293",
+      "image_path": "/files/ps2/images/static/84293.png"
+    },
+    {
+      "directive_tree_id": "53",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Holiday"
+      }
+    },
+    {
+      "directive_tree_id": "56",
+      "directive_tree_category_id": "9",
+      "name": {
+        "en": "Social"
+      },
+      "description": {
+        "en": "Interact with others to earn rewards."
+      },
+      "image_set_id": "802640",
+      "image_id": "84294",
+      "image_path": "/files/ps2/images/static/84294.png"
+    },
+    {
+      "directive_tree_id": "57",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Bounties"
+      },
+      "image_set_id": "802811",
+      "image_id": "84790",
+      "image_path": "/files/ps2/images/static/84790.png"
+    },
+    {
+      "directive_tree_id": "59",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "ANT"
+      },
+      "image_set_id": "803460",
+      "image_id": "86536",
+      "image_path": "/files/ps2/images/static/86536.png"
+    },
+    {
+      "directive_tree_id": "61",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "NS Export Series"
+      },
+      "description": {
+        "en": "Weapons from the Nanite Systems Export series."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "62",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Mayhem Series"
+      },
+      "description": {
+        "en": "Weapons from the Mayhem series."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "64",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween II"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "65",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional II"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "66",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Holiday II"
+      }
+    },
+    {
+      "directive_tree_id": "68",
+      "directive_tree_category_id": "5",
+      "name": {
+        "en": "Construction"
+      },
+      "image_set_id": "804480",
+      "image_id": "89462",
+      "image_path": "/files/ps2/images/static/89462.png"
+    },
+    {
+      "directive_tree_id": "69",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Summer Fun"
+      }
+    },
+    {
+      "directive_tree_id": "70",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween III"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "71",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Auraximas III"
+      }
+    },
+    {
+      "directive_tree_id": "72",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "CQC Primary"
+      },
+      "image_set_id": "14233",
+      "image_id": "79656",
+      "image_path": "/files/ps2/images/static/79656.png"
+    },
+    {
+      "directive_tree_id": "73",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Sidearms"
+      },
+      "image_set_id": "14235",
+      "image_id": "79658",
+      "image_path": "/files/ps2/images/static/79658.png"
+    },
+    {
+      "directive_tree_id": "74",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Long Rifles"
+      },
+      "image_set_id": "14222",
+      "image_id": "79645",
+      "image_path": "/files/ps2/images/static/79645.png"
+    },
+    {
+      "directive_tree_id": "75",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Assault Weapons"
+      },
+      "image_set_id": "14160",
+      "image_id": "79583",
+      "image_path": "/files/ps2/images/static/79583.png"
+    },
+    {
+      "directive_tree_id": "76",
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Launchers"
+      },
+      "image_set_id": "14182",
+      "image_id": "79605",
+      "image_path": "/files/ps2/images/static/79605.png"
+    },
+    {
+      "directive_tree_id": "77",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "EverQuest's 20th Anniversary"
+      }
+    },
+    {
+      "directive_tree_id": "79",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Summer Fun"
+      },
+      "description": {
+        "en": "Available until September 1st."
+      }
+    },
+    {
+      "directive_tree_id": "81",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween 2019"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "82",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween 2019"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "83",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional III"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "84",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Auraximas 2019"
+      },
+      "description": {
+        "en": "Dec. 18 - Jan. 5"
+      }
+    },
+    {
+      "directive_tree_id": "85",
+      "directive_tree_category_id": "9",
+      "name": {
+        "en": "Sanctuary"
+      },
+      "image_set_id": "14201",
+      "image_id": "79624",
+      "image_path": "/files/ps2/images/static/79624.png"
+    },
+    {
+      "directive_tree_id": "88",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Summer Fun 2020"
+      },
+      "description": {
+        "en": "Available until August 16."
+      }
+    },
+    {
+      "directive_tree_id": "89",
+      "name": {
+        "en": "Campaign 01"
+      },
+      "description": {
+        "en": "Codex entries related to The Shattered Warpgate campaign."
+      }
+    },
+    {
+      "directive_tree_id": "90",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween VII"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "92",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional IV"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    }
+  ],
+  "returned": 64
+}

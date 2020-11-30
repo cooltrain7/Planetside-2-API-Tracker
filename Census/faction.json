@@ -1,0 +1,55 @@
+{
+  "faction_list": [
+    {
+      "faction_id": "0",
+      "name": {
+        "en": "None"
+      },
+      "code_tag": "None",
+      "user_selectable": "0"
+    },
+    {
+      "faction_id": "1",
+      "name": {
+        "en": "Vanu Sovereignty"
+      },
+      "image_set_id": "21",
+      "image_id": "94",
+      "image_path": "/files/ps2/images/static/94.png",
+      "code_tag": "VS",
+      "user_selectable": "1"
+    },
+    {
+      "faction_id": "2",
+      "name": {
+        "en": "New Conglomerate"
+      },
+      "image_set_id": "19",
+      "image_id": "12",
+      "image_path": "/files/ps2/images/static/12.png",
+      "code_tag": "NC",
+      "user_selectable": "1"
+    },
+    {
+      "faction_id": "3",
+      "name": {
+        "en": "Terran Republic"
+      },
+      "image_set_id": "20",
+      "image_id": "18",
+      "image_path": "/files/ps2/images/static/18.png",
+      "code_tag": "TR",
+      "user_selectable": "1"
+    },
+    {
+      "faction_id": "4",
+      "name": {
+        "en": "NS Operatives"
+      },
+      "image_set_id": "804586",
+      "code_tag": "NSO",
+      "user_selectable": "1"
+    }
+  ],
+  "returned": 5
+}

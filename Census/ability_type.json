@@ -1,0 +1,52 @@
+{
+  "ability_type_list": [
+    {
+      "ability_type_id": "3"
+    },
+    {
+      "ability_type_id": "4"
+    },
+    {
+      "ability_type_id": "5",
+      "description": "Target not used"
+    },
+    {
+      "ability_type_id": "6"
+    },
+    {
+      "ability_type_id": "8"
+    },
+    {
+      "ability_type_id": "10",
+      "param1": "Check Target Requirement Periodically"
+    },
+    {
+      "ability_type_id": "12"
+    },
+    {
+      "ability_type_id": "13"
+    },
+    {
+      "ability_type_id": "16"
+    },
+    {
+      "ability_type_id": "17",
+      "param1": "Check Target Requirement Periodically"
+    },
+    {
+      "ability_type_id": "19"
+    },
+    {
+      "ability_type_id": "26",
+      "description": "Stays locked on first valid target found"
+    },
+    {
+      "ability_type_id": "30"
+    },
+    {
+      "ability_type_id": "34",
+      "description": "MountedVehicleMaintainOnGuid"
+    }
+  ],
+  "returned": 14
+}

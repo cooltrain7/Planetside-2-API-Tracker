@@ -1,0 +1,45 @@
+{
+  "facility_type_list": [
+    {
+      "facility_type_id": "1",
+      "description": "Default"
+    },
+    {
+      "facility_type_id": "2",
+      "description": "Amp Station"
+    },
+    {
+      "facility_type_id": "3",
+      "description": "Bio Lab"
+    },
+    {
+      "facility_type_id": "4",
+      "description": "Tech Plant"
+    },
+    {
+      "facility_type_id": "5",
+      "description": "Large Outpost"
+    },
+    {
+      "facility_type_id": "6",
+      "description": "Small Outpost"
+    },
+    {
+      "facility_type_id": "7",
+      "description": "Warpgate"
+    },
+    {
+      "facility_type_id": "8",
+      "description": "Interlink Facility"
+    },
+    {
+      "facility_type_id": "9",
+      "description": "Construction Outpost"
+    },
+    {
+      "facility_type_id": "10",
+      "description": "Relic Outpost (Desolation)"
+    }
+  ],
+  "returned": 10
+}

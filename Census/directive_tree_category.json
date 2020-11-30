@@ -1,0 +1,53 @@
+{
+  "directive_tree_category_list": [
+    {
+      "directive_tree_category_id": "3",
+      "name": {
+        "en": "Infantry"
+      }
+    },
+    {
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Vehicles"
+      }
+    },
+    {
+      "directive_tree_category_id": "5",
+      "name": {
+        "en": "Strategic"
+      }
+    },
+    {
+      "directive_tree_category_id": "7",
+      "name": {
+        "en": "Weapons"
+      }
+    },
+    {
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Events"
+      }
+    },
+    {
+      "directive_tree_category_id": "9",
+      "name": {
+        "en": "Basic Training"
+      }
+    },
+    {
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Specialty"
+      }
+    },
+    {
+      "directive_tree_category_id": "16",
+      "name": {
+        "en": "Codex"
+      }
+    }
+  ],
+  "returned": 8
+}

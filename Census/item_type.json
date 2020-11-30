@@ -1,0 +1,180 @@
+{
+  "item_type_list": [
+    {
+      "item_type_id": "1",
+      "name": "Generic",
+      "code": "Generic"
+    },
+    {
+      "item_type_id": "2",
+      "name": "MiniGame (Combat)",
+      "code": "MiniGame"
+    },
+    {
+      "item_type_id": "3",
+      "name": "Create Recipe",
+      "code": "CreateRecipe"
+    },
+    {
+      "item_type_id": "4",
+      "name": "Reward Set",
+      "code": "GiveRewardSet"
+    },
+    {
+      "item_type_id": "5",
+      "name": "External Vendor Item",
+      "code": "ExternalVendor"
+    },
+    {
+      "item_type_id": "6",
+      "name": "Give Quest",
+      "code": "GiveQuest"
+    },
+    {
+      "item_type_id": "11",
+      "name": "Create Vehicle",
+      "code": "CreateVehicle"
+    },
+    {
+      "item_type_id": "12",
+      "name": "Style Card",
+      "code": "StyleCard"
+    },
+    {
+      "item_type_id": "13",
+      "name": "Unlock Player Title",
+      "code": "UnlockPlayerTitle"
+    },
+    {
+      "item_type_id": "14",
+      "name": "Give Currency",
+      "code": "GiveCurrency"
+    },
+    {
+      "item_type_id": "15",
+      "name": "Give Profile",
+      "code": "GiveProfile"
+    },
+    {
+      "item_type_id": "17",
+      "name": "Customization / Tint",
+      "code": "Customization"
+    },
+    {
+      "item_type_id": "19",
+      "name": "Give Mount",
+      "code": "GiveMount"
+    },
+    {
+      "item_type_id": "26",
+      "name": "Weapon",
+      "code": "Weapon"
+    },
+    {
+      "item_type_id": "27",
+      "name": "Attachment",
+      "code": "Attachment"
+    },
+    {
+      "item_type_id": "28",
+      "name": "Boost",
+      "code": "Boost"
+    },
+    {
+      "item_type_id": "29",
+      "name": "Ammo",
+      "code": "Ammo"
+    },
+    {
+      "item_type_id": "30",
+      "name": "Give cert point",
+      "code": "CertPoint"
+    },
+    {
+      "item_type_id": "31",
+      "name": "Loadout tab",
+      "code": "LoadoutTab"
+    },
+    {
+      "item_type_id": "32",
+      "name": "Execute Script",
+      "code": "ExecuteScript"
+    },
+    {
+      "item_type_id": "33",
+      "name": "Vehicle Equipment",
+      "code": "VehicleEquipment"
+    },
+    {
+      "item_type_id": "34",
+      "name": "Name Change",
+      "code": "NameChange"
+    },
+    {
+      "item_type_id": "35",
+      "name": "Server Transfer",
+      "code": "ServerTransfer"
+    },
+    {
+      "item_type_id": "36",
+      "name": "Infantry Equipment",
+      "code": "InfantryEquipment"
+    },
+    {
+      "item_type_id": "37",
+      "name": "Character Slot Token",
+      "code": "CharacterSlotToken"
+    },
+    {
+      "item_type_id": "38",
+      "name": "Vehicle Cosmetic",
+      "code": "VehicleCosmetic"
+    },
+    {
+      "item_type_id": "39",
+      "name": "Infantry Cosmetic",
+      "code": "InfantryCosmetic"
+    },
+    {
+      "item_type_id": "40",
+      "name": "Speech Pack",
+      "code": "SpeechPack"
+    },
+    {
+      "item_type_id": "41",
+      "name": "Resource Charger",
+      "code": "ResourceCharger"
+    },
+    {
+      "item_type_id": "42",
+      "name": "Add Resource Value",
+      "code": "AddResourceValue"
+    },
+    {
+      "item_type_id": "43",
+      "name": "Image Set",
+      "code": "ImageSet"
+    },
+    {
+      "item_type_id": "44",
+      "name": "Terminal Proxy",
+      "code": "TerminalProxy"
+    },
+    {
+      "item_type_id": "45",
+      "name": "Implant",
+      "code": "Implant"
+    },
+    {
+      "item_type_id": "46",
+      "name": "Legacy Implant",
+      "code": "LegacyImplant"
+    },
+    {
+      "item_type_id": "47",
+      "name": "Facility Module",
+      "code": "FacilityModule"
+    }
+  ],
+  "returned": 35
+}

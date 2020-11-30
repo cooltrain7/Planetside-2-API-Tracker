@@ -1,0 +1,790 @@
+{
+  "vehicle_list": [
+    {
+      "vehicle_id": "1",
+      "name": {
+        "en": "Flash"
+      },
+      "description": {
+        "en": "The Flash is an ATV capable of getting the driver and one passenger quickly to the front lines.  The passenger is able to use most of their personal equipment while riding on the back."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost_resource_id": "4",
+      "image_set_id": "98",
+      "image_id": "3975",
+      "image_path": "/files/ps2/images/static/3975.png"
+    },
+    {
+      "vehicle_id": "2",
+      "name": {
+        "en": "Sunderer"
+      },
+      "description": {
+        "en": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "100",
+      "image_id": "4002",
+      "image_path": "/files/ps2/images/static/4002.png"
+    },
+    {
+      "vehicle_id": "3",
+      "name": {
+        "en": "Lightning"
+      },
+      "description": {
+        "en": "The Lightning is a light one man tank.  The Lightning can be outfitted with various types of turrets allowing it to fill anti-air and anti-armor roles."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "94",
+      "image_id": "3984",
+      "image_path": "/files/ps2/images/static/3984.png"
+    },
+    {
+      "vehicle_id": "4",
+      "name": {
+        "en": "Magrider"
+      },
+      "description": {
+        "en": "The Magrider is a hover tank used exclusively by the Vanu Sovereignty.  Its hover capabilities allow it ability strafe and climb more types of terrain beyond other tanks."
+      },
+      "type_id": "2",
+      "type_name": "Hover Tank",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "95",
+      "image_id": "3987",
+      "image_path": "/files/ps2/images/static/3987.png"
+    },
+    {
+      "vehicle_id": "5",
+      "name": {
+        "en": "Vanguard"
+      },
+      "description": {
+        "en": "The Vanguard is a sturdy tank used exclusively by the New Conglomerate.  The vanguard favors heavier front armor compared to other tanks, but this comes at the cost of speed."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "101",
+      "image_id": "4005",
+      "image_path": "/files/ps2/images/static/4005.png"
+    },
+    {
+      "vehicle_id": "6",
+      "name": {
+        "en": "Prowler"
+      },
+      "description": {
+        "en": "The Prowler is a versatile tank used exclusively by the Terran Republic.  It boasts a higher top speed and its twin barrel cannons are capable of inflicting damage quicker than the other tanks."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "450",
+      "cost_resource_id": "4",
+      "image_set_id": "97",
+      "image_id": "3993",
+      "image_path": "/files/ps2/images/static/3993.png"
+    },
+    {
+      "vehicle_id": "7",
+      "name": {
+        "en": "Scythe"
+      },
+      "description": {
+        "en": "The Scythe is a one man air superiority fighter in use exclusively by the Vanu Sovereignty.  Vanu technology allows the Scythe to be a more stable aircraft when hovering and decelerating."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "102",
+      "image_id": "3999",
+      "image_path": "/files/ps2/images/static/3999.png"
+    },
+    {
+      "vehicle_id": "8",
+      "name": {
+        "en": "Reaver"
+      },
+      "description": {
+        "en": "The Reaver is a one man air superiority fighter in use exclusively by the New Conglomerate.  Its powerful engines combined with its great afterburner capacity make this aircraft the fastest empire specific fighter in the skies."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "99",
+      "image_id": "3996",
+      "image_path": "/files/ps2/images/static/3996.png"
+    },
+    {
+      "vehicle_id": "9",
+      "name": {
+        "en": "Mosquito"
+      },
+      "description": {
+        "en": "The Mosquito is a one man air superiority fighter in use exclusively by the Terran Republic.  Decades of refinement have made this aircraft the quickest and most agile of all the empire-specific aircrafts."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "96",
+      "image_id": "3990",
+      "image_path": "/files/ps2/images/static/3990.png"
+    },
+    {
+      "vehicle_id": "10",
+      "name": {
+        "en": "Liberator"
+      },
+      "description": {
+        "en": "The Liberator is a three man gun ship.  The bombardier weapon is very powerful against ground targets and it has a tail gun to ward off enemy fighters."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "93",
+      "image_id": "3981",
+      "image_path": "/files/ps2/images/static/3981.png"
+    },
+    {
+      "vehicle_id": "11",
+      "name": {
+        "en": "Galaxy"
+      },
+      "description": {
+        "en": "The Galaxy is an air transport that can be used to hot drop up to 11 soldiers.  It has four weapon mounts that can be used for defense or outfitted into a gunship role."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "92",
+      "image_id": "3978",
+      "image_path": "/files/ps2/images/static/3978.png"
+    },
+    {
+      "vehicle_id": "12",
+      "name": {
+        "en": "Harasser"
+      },
+      "description": {
+        "en": "The Harasser is an agile 3 man buggy that is available to all empires.  The driver and gunner are both seated inside the cockpit; while the third passenger stands on the rear of the buggy and has access to his own weapons."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "3155",
+      "image_id": "8687",
+      "image_path": "/files/ps2/images/static/8687.png"
+    },
+    {
+      "vehicle_id": "13",
+      "name": {
+        "en": "Drop Pod"
+      },
+      "description": {
+        "en": "Released from orbit, Drop Pods are used to rapidly deploy troops to a battlefield.  Soldiers in the drop pod have some control on the pod's direction and in some cases can use it as an effective weapon, damaging those it lands on."
+      },
+      "type_id": "8",
+      "type_name": "Drop Pod",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "9088",
+      "image_id": "7349",
+      "image_path": "/files/ps2/images/static/7349.png"
+    },
+    {
+      "vehicle_id": "14",
+      "name": {
+        "en": "Valkyrie"
+      },
+      "description": {
+        "en": "The Valkyrie is a six person aircraft used for close air support and transportation. It is crewed by a pilot and a forward gunner with room for four passengers that are able to use their personal equipment while in flight."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "14268",
+      "image_id": "79698",
+      "image_path": "/files/ps2/images/static/79698.png"
+    },
+    {
+      "vehicle_id": "15",
+      "name": {
+        "en": "ANT"
+      },
+      "description": {
+        "en": "ANT Prototype Description"
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "802789",
+      "image_id": "84726",
+      "image_path": "/files/ps2/images/static/84726.png"
+    },
+    {
+      "vehicle_id": "100",
+      "name": {
+        "en": "Xiphos Anti-Personnel Phalanx Turret"
+      },
+      "description": {
+        "en": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "8488",
+      "image_id": "10950",
+      "image_path": "/files/ps2/images/static/10950.png"
+    },
+    {
+      "vehicle_id": "101",
+      "name": {
+        "en": "MANA Anti-Personnel Turret"
+      },
+      "description": {
+        "en": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "9089",
+      "image_id": "4040",
+      "image_path": "/files/ps2/images/static/4040.png"
+    },
+    {
+      "vehicle_id": "102",
+      "name": {
+        "en": "MANA Anti-Vehicle Turret"
+      },
+      "description": {
+        "en": "MANA (Manned Aggressor Neutralizing Assault) Anti-Vehicle turret is deployed by engineers and is effective against large armored targets."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "7956",
+      "image_id": "8053",
+      "image_path": "/files/ps2/images/static/8053.png"
+    },
+    {
+      "vehicle_id": "103",
+      "name": {
+        "en": "Spitfire Auto-Turret"
+      },
+      "description": {
+        "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
+    },
+    {
+      "vehicle_id": "104",
+      "name": {
+        "en": "Spitfire Auto-Turret"
+      },
+      "description": {
+        "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
+    },
+    {
+      "vehicle_id": "105",
+      "name": {
+        "en": "AA SpitFire Turret"
+      },
+      "description": {
+        "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
+    },
+    {
+      "vehicle_id": "150",
+      "name": {
+        "en": "Aspis Anti-Aircraft Phalanx Turret "
+      },
+      "description": {
+        "en": "The Aspis Phalanx Turret rapidly fires 20mm shells that create a burst of flak when within proximity of hostile aircraft."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "8487",
+      "image_id": "4046",
+      "image_path": "/files/ps2/images/static/4046.png"
+    },
+    {
+      "vehicle_id": "151",
+      "name": {
+        "en": "Spear Anti-Vehicle Phalanx Turret"
+      },
+      "description": {
+        "en": "The Spear Anti-Vehicle Phalanx Turret is capable of rapidly firing 120mm AP tank rounds capable of damaging heavily armored targets."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "8489",
+      "image_id": "4052",
+      "image_path": "/files/ps2/images/static/4052.png"
+    },
+    {
+      "vehicle_id": "160",
+      "name": {
+        "en": "Spear Anti-Vehicle Tower"
+      },
+      "description": {
+        "en": "Deployed Spear Phalanx Turret will not be available until the new placement system is complete"
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "8489",
+      "image_id": "4052",
+      "image_path": "/files/ps2/images/static/4052.png"
+    },
+    {
+      "vehicle_id": "161",
+      "name": {
+        "en": "Aspis Anti-Aircraft Phalanx Tower"
+      },
+      "description": {
+        "en": "The Aspis Phalanx Tower rapidly fires high velocity anti-aircraft rounds that are effective against lightly armored targets."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "8487",
+      "image_id": "4046",
+      "image_path": "/files/ps2/images/static/4046.png"
+    },
+    {
+      "vehicle_id": "162",
+      "name": {
+        "en": "Xiphos Anti-Personnel Tower"
+      },
+      "description": {
+        "en": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "cost": "9999",
+      "cost_resource_id": "1",
+      "image_set_id": "8488",
+      "image_id": "10950",
+      "image_path": "/files/ps2/images/static/10950.png"
+    },
+    {
+      "vehicle_id": "163",
+      "name": {
+        "en": "Glaive IPC"
+      },
+      "description": {
+        "en": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires AI module support as well as a manually fired targeting dart to acquire a target."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "8489",
+      "image_id": "4052",
+      "image_path": "/files/ps2/images/static/4052.png"
+    },
+    {
+      "vehicle_id": "1013",
+      "name": {
+        "en": "Recon Drone"
+      },
+      "description": {
+        "en": "A remote control aerial drone that can be used to spot enemy forces."
+      },
+      "type_id": "10",
+      "type_name": "Observer Camera",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "13098",
+      "image_id": "13477",
+      "image_path": "/files/ps2/images/static/13477.png"
+    },
+    {
+      "vehicle_id": "2006",
+      "name": {
+        "en": "Spear Anti-Vehicle Phalanx Turret"
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "8489",
+      "image_id": "4052",
+      "image_path": "/files/ps2/images/static/4052.png"
+    },
+    {
+      "vehicle_id": "2007",
+      "name": {
+        "en": "Colossus"
+      },
+      "description": {
+        "en": "The Colossus is a heavy tank armed with a dynamic Mammoth Cannon primary weapon and four secondary weapons for defense. In addition, the Colossus can deploy into an anti-air skylance battery."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost_resource_id": "4",
+      "image_set_id": "806400",
+      "image_id": "92804",
+      "image_path": "/files/ps2/images/static/92804.png"
+    },
+    {
+      "vehicle_id": "2008",
+      "name": {
+        "en": "Drop Pod"
+      },
+      "description": {
+        "en": "Released from orbit, Drop Pods are used to rapidly deploy troops to a battlefield.  Soldiers in the drop pod have some control on the pod's direction and in some cases can use it as an effective weapon, damaging those it lands on."
+      },
+      "type_id": "8",
+      "type_name": "Drop Pod",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "9088",
+      "image_id": "7349",
+      "image_path": "/files/ps2/images/static/7349.png"
+    },
+    {
+      "vehicle_id": "2009",
+      "name": {
+        "en": "Xiphos Anti-Personnel Phalanx Turret"
+      },
+      "description": {
+        "en": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "8488",
+      "image_id": "10950",
+      "image_path": "/files/ps2/images/static/10950.png"
+    },
+    {
+      "vehicle_id": "2010",
+      "name": {
+        "en": "Flash"
+      },
+      "description": {
+        "en": "<font color=\"#dc9c36\">Single use consumable. Carry up to 2 on the field between resupplies. 40 max.</font><br>The Flash XS-1 is a lightly armored, single-passenger vehicle designed for rapid deployment anywhere on the battlefield."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "50",
+      "cost_resource_id": "4",
+      "image_set_id": "98",
+      "image_id": "3975",
+      "image_path": "/files/ps2/images/static/3975.png"
+    },
+    {
+      "vehicle_id": "2011",
+      "name": {
+        "en": "Forward Station"
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
+    },
+    {
+      "vehicle_id": "2019",
+      "name": {
+        "en": "Bastion Fleet Carrier"
+      },
+      "description": {
+        "en": "The Bastion is a multi-purpose airship with multiple weapon systems, soldier respawn capabilities and fighter launch pads."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "450",
+      "cost_resource_id": "4",
+      "image_set_id": "804395",
+      "image_id": "92694",
+      "image_path": "/files/ps2/images/static/92694.png"
+    },
+    {
+      "vehicle_id": "2021",
+      "name": {
+        "en": "Glaive IPC"
+      },
+      "description": {
+        "en": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires AI module support as well as a manually fired targeting dart to acquire a target."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "8489",
+      "image_id": "4052",
+      "image_path": "/files/ps2/images/static/4052.png"
+    },
+    {
+      "vehicle_id": "2033",
+      "name": {
+        "en": "Javelin"
+      },
+      "description": {
+        "en": "An experimental recon vehicle with hover capabilities, allowing it to quickly traverse all types of terrain."
+      },
+      "type_id": "2",
+      "type_name": "Hover Tank",
+      "cost": "100",
+      "cost_resource_id": "4",
+      "image_set_id": "806219",
+      "image_id": "92337",
+      "image_path": "/files/ps2/images/static/92337.png"
+    },
+    {
+      "vehicle_id": "2036",
+      "name": {
+        "en": "Pumpkin Patch"
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
+    },
+    {
+      "vehicle_id": "2039",
+      "name": {
+        "en": "Deliverer Prototype"
+      },
+      "description": {
+        "en": "A prototype ANT design reconfigured for carrying infantry and MAX units."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "802789",
+      "image_id": "84726",
+      "image_path": "/files/ps2/images/static/84726.png"
+    },
+    {
+      "vehicle_id": "2040",
+      "name": {
+        "en": "Wasp Prototype"
+      },
+      "description": {
+        "en": "This is a prototype configuration of the Valkyrie transport vehicle that can harvest and deposit Cortium while providing close-range anti-vehicle support."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "250",
+      "cost_resource_id": "4",
+      "image_set_id": "14268",
+      "image_id": "79698",
+      "image_path": "/files/ps2/images/static/79698.png"
+    },
+    {
+      "vehicle_id": "2122",
+      "name": {
+        "en": "Mosquito Interceptor"
+      },
+      "description": {
+        "en": "The Mosquito is a one man air superiority fighter in use exclusively by the Terran Republic.  Decades of refinement have made this aircraft the quickest and most agile of all the empire-specific aircrafts."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "96",
+      "image_id": "3990",
+      "image_path": "/files/ps2/images/static/3990.png"
+    },
+    {
+      "vehicle_id": "2123",
+      "name": {
+        "en": "Reaver Interceptor"
+      },
+      "description": {
+        "en": "The Reaver is a one man air superiority fighter in use exclusively by the New Conglomerate.  Its powerful engines combined with its great afterburner capacity make this aircraft the fastest empire specific fighter in the skies."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "99",
+      "image_id": "3996",
+      "image_path": "/files/ps2/images/static/3996.png"
+    },
+    {
+      "vehicle_id": "2124",
+      "name": {
+        "en": "Scythe Interceptor"
+      },
+      "description": {
+        "en": "The Scythe is a one man air superiority fighter in use exclusively by the Vanu Sovereignty.  Vanu technology allows the Scythe to be a more stable aircraft when hovering and decelerating."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "102",
+      "image_id": "3999",
+      "image_path": "/files/ps2/images/static/3999.png"
+    },
+    {
+      "vehicle_id": "2125",
+      "name": {
+        "en": "Javelin"
+      },
+      "description": {
+        "en": "An experimental recon vehicle with hover capabilities, allowing it to quickly traverse all types of terrain."
+      },
+      "type_id": "2",
+      "type_name": "Hover Tank",
+      "cost": "100",
+      "cost_resource_id": "4",
+      "image_set_id": "806219",
+      "image_id": "92337",
+      "image_path": "/files/ps2/images/static/92337.png"
+    },
+    {
+      "vehicle_id": "2128",
+      "name": {
+        "en": "Spitfire Auto-Turret"
+      },
+      "description": {
+        "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
+    },
+    {
+      "vehicle_id": "2129",
+      "name": {
+        "en": "Javelin"
+      },
+      "description": {
+        "en": "An experimental recon vehicle with hover capabilities, allowing it to quickly traverse all types of terrain."
+      },
+      "type_id": "2",
+      "type_name": "Hover Tank",
+      "cost": "100",
+      "cost_resource_id": "4",
+      "image_set_id": "806219",
+      "image_id": "92337",
+      "image_path": "/files/ps2/images/static/92337.png"
+    },
+    {
+      "vehicle_id": "2130",
+      "name": {
+        "en": "Reclaimed Sunderer"
+      },
+      "description": {
+        "en": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "100",
+      "image_id": "4002",
+      "image_path": "/files/ps2/images/static/4002.png"
+    },
+    {
+      "vehicle_id": "2131",
+      "name": {
+        "en": "Reclaimed Galaxy"
+      },
+      "description": {
+        "en": "The Galaxy is an air transport that can be used to hot drop up to 11 soldiers.  It has four weapon mounts that can be used for defense or outfitted into a gunship role."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "92",
+      "image_id": "3978",
+      "image_path": "/files/ps2/images/static/3978.png"
+    },
+    {
+      "vehicle_id": "2132",
+      "name": {
+        "en": "Reclaimed Valkyrie"
+      },
+      "description": {
+        "en": "The Valkyrie is a six person aircraft used for close air support and transportation. It is crewed by a pilot and a forward gunner with room for four passengers that are able to use their personal equipment while in flight."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "14268",
+      "image_id": "79698",
+      "image_path": "/files/ps2/images/static/79698.png"
+    },
+    {
+      "vehicle_id": "2133",
+      "name": {
+        "en": "Reclaimed Magrider"
+      },
+      "description": {
+        "en": "The Magrider is a hover tank used exclusively by the Vanu Sovereignty.  Its hover capabilities allow it ability strafe and climb more types of terrain beyond other tanks."
+      },
+      "type_id": "2",
+      "type_name": "Hover Tank",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "95",
+      "image_id": "3987",
+      "image_path": "/files/ps2/images/static/3987.png"
+    },
+    {
+      "vehicle_id": "2134",
+      "name": {
+        "en": "Reclaimed Vanguard"
+      },
+      "description": {
+        "en": "The Vanguard is a sturdy tank used exclusively by the New Conglomerate.  The vanguard favors heavier front armor compared to other tanks, but this comes at the cost of speed."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "101",
+      "image_id": "4005",
+      "image_path": "/files/ps2/images/static/4005.png"
+    },
+    {
+      "vehicle_id": "2135",
+      "name": {
+        "en": "Reclaimed Prowler"
+      },
+      "description": {
+        "en": "The Prowler is a versatile tank used exclusively by the Terran Republic.  It boasts a higher top speed and its twin barrel cannons are capable of inflicting damage quicker than the other tanks."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "450",
+      "cost_resource_id": "4",
+      "image_set_id": "97",
+      "image_id": "3993",
+      "image_path": "/files/ps2/images/static/3993.png"
+    }
+  ],
+  "returned": 52
+}
