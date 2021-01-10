@@ -10113,6 +10113,366 @@
       "image_path": "/files/ps2/images/static/87678.png"
     },
     {
+      "directive_id": "4150",
+      "directive_tree_id": "93",
+      "directive_tier_id": "4",
+      "objective_set_id": "8123",
+      "name": {
+        "en": "Frigid Defense"
+      },
+      "description": {
+        "en": "Earn Draw Fire ribbons with the Tactical Snowman."
+      },
+      "image_set_id": "93046",
+      "image_id": "81980",
+      "image_path": "/files/ps2/images/static/81980.png"
+    },
+    {
+      "directive_id": "4151",
+      "directive_tree_id": "93",
+      "directive_tier_id": "3",
+      "objective_set_id": "8108",
+      "name": {
+        "en": "Frigid Defense"
+      },
+      "description": {
+        "en": "Earn Draw Fire ribbons with the Tactical Snowman."
+      },
+      "image_set_id": "93046",
+      "image_id": "81980",
+      "image_path": "/files/ps2/images/static/81980.png"
+    },
+    {
+      "directive_id": "4152",
+      "directive_tree_id": "93",
+      "directive_tier_id": "2",
+      "objective_set_id": "8109",
+      "name": {
+        "en": "Frigid Defense"
+      },
+      "description": {
+        "en": "Earn Draw Fire ribbons with the Tactical Snowman."
+      },
+      "image_set_id": "93046",
+      "image_id": "81980",
+      "image_path": "/files/ps2/images/static/81980.png"
+    },
+    {
+      "directive_id": "4153",
+      "directive_tree_id": "93",
+      "directive_tier_id": "1",
+      "objective_set_id": "8110",
+      "name": {
+        "en": "Frigid Defense"
+      },
+      "description": {
+        "en": "Earn Draw Fire ribbons with the Tactical Snowman."
+      },
+      "image_set_id": "93046",
+      "image_id": "81980",
+      "image_path": "/files/ps2/images/static/81980.png"
+    },
+    {
+      "directive_id": "4154",
+      "directive_tree_id": "93",
+      "directive_tier_id": "4",
+      "objective_set_id": "8111",
+      "name": {
+        "en": "Acts of Kindness"
+      },
+      "description": {
+        "en": "Revive fallen allies, or earn Sunderer spawn experience."
+      },
+      "image_set_id": "93182",
+      "image_id": "82502",
+      "image_path": "/files/ps2/images/static/82502.png"
+    },
+    {
+      "directive_id": "4155",
+      "directive_tree_id": "93",
+      "directive_tier_id": "3",
+      "objective_set_id": "8112",
+      "name": {
+        "en": "Acts of Kindness"
+      },
+      "description": {
+        "en": "Revive fallen allies, or earn Sunderer spawn experience."
+      },
+      "image_set_id": "93182",
+      "image_id": "82502",
+      "image_path": "/files/ps2/images/static/82502.png"
+    },
+    {
+      "directive_id": "4156",
+      "directive_tree_id": "93",
+      "directive_tier_id": "2",
+      "objective_set_id": "8113",
+      "name": {
+        "en": "Acts of Kindness"
+      },
+      "description": {
+        "en": "Revive fallen allies, or earn Sunderer spawn experience."
+      },
+      "image_set_id": "93182",
+      "image_id": "82502",
+      "image_path": "/files/ps2/images/static/82502.png"
+    },
+    {
+      "directive_id": "4157",
+      "directive_tree_id": "93",
+      "directive_tier_id": "1",
+      "objective_set_id": "8114",
+      "name": {
+        "en": "Acts of Kindness"
+      },
+      "description": {
+        "en": "Revive fallen allies, or earn Sunderer spawn experience."
+      },
+      "image_set_id": "93182",
+      "image_id": "82502",
+      "image_path": "/files/ps2/images/static/82502.png"
+    },
+    {
+      "directive_id": "4158",
+      "directive_tree_id": "93",
+      "directive_tier_id": "4",
+      "objective_set_id": "8115",
+      "name": {
+        "en": "Slay Ride"
+      },
+      "description": {
+        "en": "Roadkill enemies while any non-camo, non-decal Auraximas vehicle cosmetic is equipped."
+      },
+      "image_set_id": "93044",
+      "image_id": "81978",
+      "image_path": "/files/ps2/images/static/81978.png"
+    },
+    {
+      "directive_id": "4159",
+      "directive_tree_id": "93",
+      "directive_tier_id": "3",
+      "objective_set_id": "8116",
+      "name": {
+        "en": "Slay Ride"
+      },
+      "description": {
+        "en": "Roadkill enemies while any non-camo, non-decal Auraximas vehicle cosmetic is equipped."
+      },
+      "image_set_id": "93044",
+      "image_id": "81978",
+      "image_path": "/files/ps2/images/static/81978.png"
+    },
+    {
+      "directive_id": "4160",
+      "directive_tree_id": "93",
+      "directive_tier_id": "2",
+      "objective_set_id": "8117",
+      "name": {
+        "en": "Slay Ride"
+      },
+      "description": {
+        "en": "Roadkill enemies while any non-camo, non-decal Auraximas vehicle cosmetic is equipped."
+      },
+      "image_set_id": "93044",
+      "image_id": "81978",
+      "image_path": "/files/ps2/images/static/81978.png"
+    },
+    {
+      "directive_id": "4161",
+      "directive_tree_id": "93",
+      "directive_tier_id": "1",
+      "objective_set_id": "8118",
+      "name": {
+        "en": "Slay Ride"
+      },
+      "description": {
+        "en": "Roadkill enemies while any non-camo, non-decal Auraximas vehicle cosmetic is equipped."
+      },
+      "image_set_id": "93044",
+      "image_id": "81978",
+      "image_path": "/files/ps2/images/static/81978.png"
+    },
+    {
+      "directive_id": "4162",
+      "directive_tree_id": "93",
+      "directive_tier_id": "4",
+      "objective_set_id": "8119",
+      "name": {
+        "en": "Seasons Beatings"
+      },
+      "description": {
+        "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, or Icikill."
+      },
+      "image_set_id": "93045",
+      "image_id": "81979",
+      "image_path": "/files/ps2/images/static/81979.png"
+    },
+    {
+      "directive_id": "4163",
+      "directive_tree_id": "93",
+      "directive_tier_id": "3",
+      "objective_set_id": "8120",
+      "name": {
+        "en": "Seasons Beatings"
+      },
+      "description": {
+        "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, or Icikill."
+      },
+      "image_set_id": "93045",
+      "image_id": "81979",
+      "image_path": "/files/ps2/images/static/81979.png"
+    },
+    {
+      "directive_id": "4164",
+      "directive_tree_id": "93",
+      "directive_tier_id": "2",
+      "objective_set_id": "8121",
+      "name": {
+        "en": "Seasons Beatings"
+      },
+      "description": {
+        "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, or Icikill."
+      },
+      "image_set_id": "93045",
+      "image_id": "81979",
+      "image_path": "/files/ps2/images/static/81979.png"
+    },
+    {
+      "directive_id": "4165",
+      "directive_tree_id": "93",
+      "directive_tier_id": "1",
+      "objective_set_id": "8122",
+      "name": {
+        "en": "Seasons Beatings"
+      },
+      "description": {
+        "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, or Icikill."
+      },
+      "image_set_id": "93045",
+      "image_id": "81979",
+      "image_path": "/files/ps2/images/static/81979.png"
+    },
+    {
+      "directive_id": "4166",
+      "directive_tree_id": "93",
+      "directive_tier_id": "1",
+      "objective_set_id": "8124",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "4167",
+      "directive_tree_id": "93",
+      "directive_tier_id": "2",
+      "objective_set_id": "8125",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "4168",
+      "directive_tree_id": "93",
+      "directive_tier_id": "3",
+      "objective_set_id": "8126",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "4169",
+      "directive_tree_id": "93",
+      "directive_tier_id": "4",
+      "objective_set_id": "8127",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "4170",
+      "directive_tree_id": "93",
+      "directive_tier_id": "1",
+      "objective_set_id": "8128",
+      "name": {
+        "en": "Operation: Snow Fort"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "803460",
+      "image_id": "86536",
+      "image_path": "/files/ps2/images/static/86536.png"
+    },
+    {
+      "directive_id": "4171",
+      "directive_tree_id": "93",
+      "directive_tier_id": "2",
+      "objective_set_id": "8129",
+      "name": {
+        "en": "Operation: Snow Fort"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "803460",
+      "image_id": "86536",
+      "image_path": "/files/ps2/images/static/86536.png"
+    },
+    {
+      "directive_id": "4172",
+      "directive_tree_id": "93",
+      "directive_tier_id": "3",
+      "objective_set_id": "8130",
+      "name": {
+        "en": "Operation: Snow Fort"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "803460",
+      "image_id": "86536",
+      "image_path": "/files/ps2/images/static/86536.png"
+    },
+    {
+      "directive_id": "4173",
+      "directive_tree_id": "93",
+      "directive_tier_id": "4",
+      "objective_set_id": "8131",
+      "name": {
+        "en": "Operation: Snow Fort"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "803460",
+      "image_id": "86536",
+      "image_path": "/files/ps2/images/static/86536.png"
+    },
+    {
       "directive_id": "141",
       "directive_tree_id": "28",
       "directive_tier_id": "1",
@@ -10126,6 +10486,38 @@
       "image_set_id": "7996",
       "image_id": "8440",
       "image_path": "/files/ps2/images/static/8440.png"
+    },
+    {
+      "directive_id": "161",
+      "directive_tree_id": "4",
+      "directive_tier_id": "1",
+      "objective_set_id": "4162",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "AF-19 Mercenary"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "162",
+      "directive_tree_id": "4",
+      "directive_tier_id": "1",
+      "objective_set_id": "4163",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "TRAC-5"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "142",
@@ -10276,38 +10668,6 @@
       "image_set_id": "7996",
       "image_id": "8440",
       "image_path": "/files/ps2/images/static/8440.png"
-    },
-    {
-      "directive_id": "161",
-      "directive_tree_id": "4",
-      "directive_tier_id": "1",
-      "objective_set_id": "4162",
-      "qualify_requirement_id": "3310",
-      "name": {
-        "en": "AF-19 Mercenary"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "162",
-      "directive_tree_id": "4",
-      "directive_tier_id": "1",
-      "objective_set_id": "4163",
-      "qualify_requirement_id": "3311",
-      "name": {
-        "en": "TRAC-5"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "163",
@@ -11188,6 +11548,22 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+      "directive_id": "245",
+      "directive_tree_id": "4",
+      "directive_tier_id": "4",
+      "objective_set_id": "4246",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Pulsar C"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
       "directive_id": "218",
       "directive_tree_id": "4",
       "directive_tier_id": "3",
@@ -11609,22 +11985,6 @@
       "qualify_requirement_id": "3312",
       "name": {
         "en": "Zenith VX-5"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "245",
-      "directive_tree_id": "4",
-      "directive_tier_id": "4",
-      "objective_set_id": "4246",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Pulsar C"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -12419,22 +12779,6 @@
       "qualify_requirement_id": "3310",
       "name": {
         "en": "NC14 Bolt Driver"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "410",
-      "directive_tree_id": "8",
-      "directive_tier_id": "2",
-      "objective_set_id": "4411",
-      "qualify_requirement_id": "3310",
-      "name": {
-        "en": "EM6"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -13478,6 +13822,22 @@
       "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+      "directive_id": "389",
+      "directive_tree_id": "8",
+      "directive_tier_id": "1",
+      "objective_set_id": "4390",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "EM6"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
       "directive_id": "361",
       "directive_tree_id": "6",
       "directive_tier_id": "4",
@@ -13925,22 +14285,6 @@
       "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-      "directive_id": "389",
-      "directive_tree_id": "8",
-      "directive_tier_id": "1",
-      "objective_set_id": "4390",
-      "qualify_requirement_id": "3310",
-      "name": {
-        "en": "EM6"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
       "directive_id": "390",
       "directive_tree_id": "8",
       "directive_tier_id": "1",
@@ -14251,6 +14595,22 @@
       "qualify_requirement_id": "3311",
       "name": {
         "en": "T9 CARV-S"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "410",
+      "directive_tree_id": "8",
+      "directive_tier_id": "2",
+      "objective_set_id": "4411",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "EM6"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -14832,6 +15192,21 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "3445",
+      "directive_tree_id": "75",
+      "directive_tier_id": "1",
+      "objective_set_id": "6291",
+      "name": {
+        "en": "NS-15M2"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "447",
@@ -17759,22 +18134,6 @@
       "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-      "directive_id": "709",
-      "directive_tree_id": "17",
-      "directive_tier_id": "2",
-      "objective_set_id": "4710",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Beamer VS3"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "631",
       "directive_tree_id": "15",
       "directive_tier_id": "1",
@@ -18175,22 +18534,6 @@
       "image_set_id": "1566",
       "image_id": "3075",
       "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "710",
-      "directive_tree_id": "17",
-      "directive_tier_id": "2",
-      "objective_set_id": "4711",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Cerberus"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "657",
@@ -19000,12 +19343,29 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "directive_id": "819",
-      "directive_tree_id": "21",
+      "directive_id": "709",
+      "directive_tree_id": "17",
       "directive_tier_id": "2",
-      "objective_set_id": "4820",
+      "objective_set_id": "4710",
+      "qualify_requirement_id": "3312",
       "name": {
-        "en": "C-4"
+        "en": "Beamer VS3"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "710",
+      "directive_tree_id": "17",
+      "directive_tier_id": "2",
+      "objective_set_id": "4711",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Cerberus"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -19523,6 +19883,21 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "3446",
+      "directive_tree_id": "75",
+      "directive_tier_id": "2",
+      "objective_set_id": "6292",
+      "name": {
+        "en": "NS-15M2"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "744",
@@ -20698,6 +21073,21 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+      "directive_id": "819",
+      "directive_tree_id": "21",
+      "directive_tier_id": "2",
+      "objective_set_id": "4820",
+      "name": {
+        "en": "C-4"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
       "directive_id": "820",
       "directive_tree_id": "21",
       "directive_tier_id": "2",
@@ -20768,6 +21158,22 @@
       "qualify_requirement_id": "3311",
       "name": {
         "en": "Frag Grenade"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "898",
+      "directive_tree_id": "33",
+      "directive_tier_id": "3",
+      "objective_set_id": "4899",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Lancer AE"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -21923,22 +22329,6 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "directive_id": "898",
-      "directive_tree_id": "33",
-      "directive_tier_id": "3",
-      "objective_set_id": "4899",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Lancer AE"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
       "directive_id": "899",
       "directive_tree_id": "33",
       "directive_tier_id": "4",
@@ -22220,22 +22610,6 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "1081",
-      "directive_tree_id": "34",
-      "directive_tier_id": "2",
-      "objective_set_id": "5082",
-      "qualify_requirement_id": "3311",
-      "name": {
-        "en": "M12 Kobalt-F"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "917",
@@ -22767,6 +23141,22 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+      "directive_id": "1037",
+      "directive_tree_id": "23",
+      "directive_tier_id": "2",
+      "objective_set_id": "5038",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "L-30R Vektor"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
       "directive_id": "987",
       "directive_tree_id": "23",
       "directive_tier_id": "4",
@@ -23071,22 +23461,6 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "directive_id": "1312",
-      "directive_tree_id": "37",
-      "directive_tier_id": "1",
-      "objective_set_id": "5313",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Saron HRB"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
       "directive_id": "1030",
       "directive_tree_id": "23",
       "directive_tier_id": "3",
@@ -23197,22 +23571,6 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "1037",
-      "directive_tree_id": "23",
-      "directive_tier_id": "2",
-      "objective_set_id": "5038",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "L-30R Vektor"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "1038",
@@ -23517,6 +23875,22 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "1081",
+      "directive_tree_id": "34",
+      "directive_tier_id": "2",
+      "objective_set_id": "5082",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "M12 Kobalt-F"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "1082",
@@ -25615,22 +25989,6 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "directive_id": "1313",
-      "directive_tree_id": "37",
-      "directive_tier_id": "2",
-      "objective_set_id": "5314",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Saron HRB"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "1214",
       "directive_tree_id": "35",
       "directive_tier_id": "3",
@@ -26479,22 +26837,6 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-      "directive_id": "1314",
-      "directive_tree_id": "37",
-      "directive_tier_id": "3",
-      "objective_set_id": "5315",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Saron HRB"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
       "directive_id": "1267",
       "directive_tree_id": "36",
       "directive_tier_id": "4",
@@ -26893,6 +27235,54 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "1312",
+      "directive_tree_id": "37",
+      "directive_tier_id": "1",
+      "objective_set_id": "5313",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Saron HRB"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "1313",
+      "directive_tree_id": "37",
+      "directive_tier_id": "2",
+      "objective_set_id": "5314",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Saron HRB"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "1314",
+      "directive_tree_id": "37",
+      "directive_tier_id": "3",
+      "objective_set_id": "5315",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Saron HRB"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
     },
     {
       "directive_id": "1315",
@@ -27805,6 +28195,21 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "2285",
+      "directive_tree_id": "8",
+      "directive_tier_id": "4",
+      "objective_set_id": "6286",
+      "name": {
+        "en": "NS-15MB"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     },
     {
       "directive_id": "1413",
@@ -28959,6 +29364,21 @@
       "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+      "directive_id": "2290",
+      "directive_tree_id": "8",
+      "directive_tier_id": "1",
+      "objective_set_id": "6291",
+      "name": {
+        "en": "NS-15M2"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
       "directive_id": "1485",
       "directive_tree_id": "42",
       "directive_tier_id": "2",
@@ -29342,6 +29762,22 @@
       "image_path": "/files/ps2/images/static/8305.png"
     },
     {
+      "directive_id": "1695",
+      "directive_tree_id": "26",
+      "directive_tier_id": "3",
+      "objective_set_id": "5696",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "MANA Anti-Personnel Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
       "directive_id": "1585",
       "directive_tree_id": "43",
       "directive_tier_id": "2",
@@ -29495,22 +29931,6 @@
       "image_path": "/files/ps2/images/static/9820.png"
     },
     {
-      "directive_id": "1692",
-      "directive_tree_id": "26",
-      "directive_tier_id": "4",
-      "objective_set_id": "5693",
-      "qualify_requirement_id": "3310",
-      "name": {
-        "en": "MANA Anti-Personnel Turret"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
       "directive_id": "1599",
       "directive_tree_id": "42",
       "directive_tier_id": "4",
@@ -29541,6 +29961,21 @@
       "image_set_id": "13451",
       "image_id": "9820",
       "image_path": "/files/ps2/images/static/9820.png"
+    },
+    {
+      "directive_id": "2291",
+      "directive_tree_id": "8",
+      "directive_tier_id": "2",
+      "objective_set_id": "6292",
+      "name": {
+        "en": "NS-15M2"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "1601",
@@ -29686,22 +30121,6 @@
       "image_path": "/files/ps2/images/static/8446.png"
     },
     {
-      "directive_id": "1693",
-      "directive_tree_id": "26",
-      "directive_tier_id": "1",
-      "objective_set_id": "5694",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "MANA Anti-Personnel Turret"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
       "directive_id": "1678",
       "directive_tree_id": "26",
       "directive_tier_id": "2",
@@ -29715,6 +30134,38 @@
       "image_set_id": "7998",
       "image_id": "8446",
       "image_path": "/files/ps2/images/static/8446.png"
+    },
+    {
+      "directive_id": "1696",
+      "directive_tree_id": "26",
+      "directive_tier_id": "4",
+      "objective_set_id": "5697",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "MANA Anti-Personnel Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "1697",
+      "directive_tree_id": "26",
+      "directive_tier_id": "1",
+      "objective_set_id": "5698",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "MANA Anti-Vehicle Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "1679",
@@ -29919,6 +30370,38 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+      "directive_id": "1692",
+      "directive_tree_id": "26",
+      "directive_tier_id": "4",
+      "objective_set_id": "5693",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "MANA Anti-Personnel Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "1693",
+      "directive_tree_id": "26",
+      "directive_tier_id": "1",
+      "objective_set_id": "5694",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "MANA Anti-Personnel Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
       "directive_id": "1694",
       "directive_tree_id": "26",
       "directive_tier_id": "2",
@@ -29933,54 +30416,6 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "1695",
-      "directive_tree_id": "26",
-      "directive_tier_id": "3",
-      "objective_set_id": "5696",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "MANA Anti-Personnel Turret"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "1696",
-      "directive_tree_id": "26",
-      "directive_tier_id": "4",
-      "objective_set_id": "5697",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "MANA Anti-Personnel Turret"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "1697",
-      "directive_tree_id": "26",
-      "directive_tier_id": "1",
-      "objective_set_id": "5698",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "MANA Anti-Vehicle Turret"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "1698",
@@ -30351,6 +30786,21 @@
       "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+      "directive_id": "2274",
+      "directive_tree_id": "8",
+      "directive_tier_id": "1",
+      "objective_set_id": "6275",
+      "name": {
+        "en": "NS-15MG"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
       "directive_id": "1741",
       "directive_tree_id": "31",
       "directive_tier_id": "1",
@@ -30516,21 +30966,6 @@
       "image_path": "/files/ps2/images/static/9985.png"
     },
     {
-      "directive_id": "2276",
-      "directive_tree_id": "8",
-      "directive_tier_id": "3",
-      "objective_set_id": "6277",
-      "name": {
-        "en": "NS-15MG"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
       "directive_id": "1756",
       "directive_tree_id": "31",
       "directive_tier_id": "4",
@@ -30559,6 +30994,21 @@
       "image_set_id": "13452",
       "image_id": "9985",
       "image_path": "/files/ps2/images/static/9985.png"
+    },
+    {
+      "directive_id": "2275",
+      "directive_tree_id": "8",
+      "directive_tier_id": "2",
+      "objective_set_id": "6276",
+      "name": {
+        "en": "NS-15MG"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "1774",
@@ -30797,22 +31247,6 @@
       "image_path": "/files/ps2/images/static/8662.png"
     },
     {
-      "directive_id": "1974",
-      "directive_tree_id": "33",
-      "directive_tier_id": "2",
-      "objective_set_id": "5975",
-      "qualify_requirement_id": "3310",
-      "name": {
-        "en": "L105 Zephyr PX"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "1906",
       "directive_tree_id": "46",
       "directive_tier_id": "2",
@@ -30980,6 +31414,22 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "1974",
+      "directive_tree_id": "33",
+      "directive_tier_id": "2",
+      "objective_set_id": "5975",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "L105 Zephyr PX"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "1975",
@@ -31352,51 +31802,6 @@
       "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-      "directive_id": "2253",
-      "directive_tree_id": "10",
-      "directive_tier_id": "4",
-      "objective_set_id": "6254",
-      "name": {
-        "en": "NS-11AG"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "2266",
-      "directive_tree_id": "4",
-      "directive_tier_id": "1",
-      "objective_set_id": "6267",
-      "name": {
-        "en": "NS-11CG"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "2267",
-      "directive_tree_id": "4",
-      "directive_tier_id": "2",
-      "objective_set_id": "6268",
-      "name": {
-        "en": "NS-11CG"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "2193",
       "directive_tree_id": "49",
       "directive_tier_id": "1",
@@ -31502,36 +31907,6 @@
       "image_path": "/files/ps2/images/static/80251.png"
     },
     {
-      "directive_id": "2268",
-      "directive_tree_id": "4",
-      "directive_tier_id": "3",
-      "objective_set_id": "6269",
-      "name": {
-        "en": "NS-11CG"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "2269",
-      "directive_tree_id": "4",
-      "directive_tier_id": "4",
-      "objective_set_id": "6270",
-      "name": {
-        "en": "NS-11CG"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
       "directive_id": "2204",
       "directive_tree_id": "49",
       "directive_tier_id": "4",
@@ -31560,6 +31935,21 @@
       "image_set_id": "14459",
       "image_id": "80257",
       "image_path": "/files/ps2/images/static/80257.png"
+    },
+    {
+      "directive_id": "2276",
+      "directive_tree_id": "8",
+      "directive_tier_id": "3",
+      "objective_set_id": "6277",
+      "name": {
+        "en": "NS-15MG"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
     },
     {
       "directive_id": "2206",
@@ -31667,36 +32057,6 @@
       "image_path": "/files/ps2/images/static/80260.png"
     },
     {
-      "directive_id": "2274",
-      "directive_tree_id": "8",
-      "directive_tier_id": "1",
-      "objective_set_id": "6275",
-      "name": {
-        "en": "NS-15MG"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "2275",
-      "directive_tree_id": "8",
-      "directive_tier_id": "2",
-      "objective_set_id": "6276",
-      "name": {
-        "en": "NS-15MG"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "2213",
       "directive_tree_id": "49",
       "directive_tier_id": "1",
@@ -31710,6 +32070,66 @@
       "image_set_id": "14460",
       "image_id": "80260",
       "image_path": "/files/ps2/images/static/80260.png"
+    },
+    {
+      "directive_id": "2277",
+      "directive_tree_id": "8",
+      "directive_tier_id": "4",
+      "objective_set_id": "6278",
+      "name": {
+        "en": "NS-15MG"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "2282",
+      "directive_tree_id": "8",
+      "directive_tier_id": "1",
+      "objective_set_id": "6283",
+      "name": {
+        "en": "NS-15MB"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "2283",
+      "directive_tree_id": "8",
+      "directive_tier_id": "2",
+      "objective_set_id": "6284",
+      "name": {
+        "en": "NS-15MB"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "2284",
+      "directive_tree_id": "8",
+      "directive_tier_id": "3",
+      "objective_set_id": "6285",
+      "name": {
+        "en": "NS-15MB"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
     },
     {
       "directive_id": "2214",
@@ -31907,12 +32327,12 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-      "directive_id": "2277",
-      "directive_tree_id": "8",
+      "directive_id": "2253",
+      "directive_tree_id": "10",
       "directive_tier_id": "4",
-      "objective_set_id": "6278",
+      "objective_set_id": "6254",
       "name": {
-        "en": "NS-15MG"
+        "en": "NS-11AG"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -31922,12 +32342,12 @@
       "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-      "directive_id": "2282",
-      "directive_tree_id": "8",
+      "directive_id": "2266",
+      "directive_tree_id": "4",
       "directive_tier_id": "1",
-      "objective_set_id": "6283",
+      "objective_set_id": "6267",
       "name": {
-        "en": "NS-15MB"
+        "en": "NS-11CG"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -31937,12 +32357,12 @@
       "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-      "directive_id": "2283",
-      "directive_tree_id": "8",
+      "directive_id": "2267",
+      "directive_tree_id": "4",
       "directive_tier_id": "2",
-      "objective_set_id": "6284",
+      "objective_set_id": "6268",
       "name": {
-        "en": "NS-15MB"
+        "en": "NS-11CG"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -31952,12 +32372,12 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "directive_id": "2284",
-      "directive_tree_id": "8",
+      "directive_id": "2268",
+      "directive_tree_id": "4",
       "directive_tier_id": "3",
-      "objective_set_id": "6285",
+      "objective_set_id": "6269",
       "name": {
-        "en": "NS-15MB"
+        "en": "NS-11CG"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -31967,12 +32387,12 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-      "directive_id": "2285",
-      "directive_tree_id": "8",
+      "directive_id": "2269",
+      "directive_tree_id": "4",
       "directive_tier_id": "4",
-      "objective_set_id": "6286",
+      "objective_set_id": "6270",
       "name": {
-        "en": "NS-15MB"
+        "en": "NS-11CG"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -31980,36 +32400,6 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "2290",
-      "directive_tree_id": "8",
-      "directive_tier_id": "1",
-      "objective_set_id": "6291",
-      "name": {
-        "en": "NS-15M2"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "2291",
-      "directive_tree_id": "8",
-      "directive_tier_id": "2",
-      "objective_set_id": "6292",
-      "name": {
-        "en": "NS-15M2"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "2292",
@@ -33922,21 +34312,6 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-      "directive_id": "2805",
-      "directive_tree_id": "61",
-      "directive_tier_id": "2",
-      "objective_set_id": "6833",
-      "name": {
-        "en": "NSX Daimyo"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "2665",
       "directive_tree_id": "33",
       "directive_tier_id": "4",
@@ -34325,22 +34700,6 @@
       "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-      "directive_id": "2770",
-      "directive_tree_id": "33",
-      "directive_tier_id": "3",
-      "objective_set_id": "6774",
-      "qualify_requirement_id": "3311",
-      "name": {
-        "en": "TR Triumph Flare Gun"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
       "directive_id": "2730",
       "directive_tree_id": "59",
       "directive_tier_id": "1",
@@ -34615,6 +34974,22 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "2770",
+      "directive_tree_id": "33",
+      "directive_tier_id": "3",
+      "objective_set_id": "6774",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "TR Triumph Flare Gun"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
     },
     {
       "directive_id": "2771",
@@ -35022,6 +35397,21 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "2805",
+      "directive_tree_id": "61",
+      "directive_tier_id": "2",
+      "objective_set_id": "6833",
+      "name": {
+        "en": "NSX Daimyo"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "2806",
@@ -36570,6 +36960,21 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+      "directive_id": "3049",
+      "directive_tree_id": "65",
+      "directive_tier_id": "3",
+      "objective_set_id": "7074",
+      "name": {
+        "en": "NSX-P Tanto"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
       "directive_id": "2910",
       "directive_tree_id": "62",
       "directive_tier_id": "3",
@@ -36893,6 +37298,22 @@
       "image_set_id": "1566",
       "image_id": "3075",
       "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "3022",
+      "directive_tree_id": "62",
+      "directive_tier_id": "4",
+      "objective_set_id": "7047",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Zenith VX-5AE"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     },
     {
       "directive_id": "2942",
@@ -37318,22 +37739,6 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-      "directive_id": "3022",
-      "directive_tree_id": "62",
-      "directive_tier_id": "4",
-      "objective_set_id": "7047",
-      "qualify_requirement_id": "3312",
-      "name": {
-        "en": "Zenith VX-5AE"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
       "directive_id": "3023",
       "directive_tree_id": "62",
       "directive_tier_id": "1",
@@ -37738,21 +38143,6 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "3049",
-      "directive_tree_id": "65",
-      "directive_tier_id": "3",
-      "objective_set_id": "7074",
-      "name": {
-        "en": "NSX-P Tanto"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
     },
     {
       "directive_id": "3050",
@@ -39432,36 +39822,6 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "3445",
-      "directive_tree_id": "75",
-      "directive_tier_id": "1",
-      "objective_set_id": "6291",
-      "name": {
-        "en": "NS-15M2"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "3446",
-      "directive_tree_id": "75",
-      "directive_tier_id": "2",
-      "objective_set_id": "6292",
-      "name": {
-        "en": "NS-15M2"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "3447",
@@ -41354,21 +41714,6 @@
       "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-      "directive_id": "3598",
-      "directive_tree_id": "74",
-      "directive_tier_id": "2",
-      "objective_set_id": "6586",
-      "name": {
-        "en": "NS-AM7B Archer"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "3573",
       "directive_tree_id": "73",
       "directive_tier_id": "1",
@@ -41742,6 +42087,21 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "3598",
+      "directive_tree_id": "74",
+      "directive_tier_id": "2",
+      "objective_set_id": "6586",
+      "name": {
+        "en": "NS-AM7B Archer"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "3599",
@@ -44185,21 +44545,6 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "directive_id": "4008",
-      "directive_tree_id": "83",
-      "directive_tier_id": "2",
-      "objective_set_id": "7792",
-      "name": {
-        "en": "Thumper SE"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
       "directive_id": "3935",
       "directive_tree_id": "83",
       "directive_tier_id": "3",
@@ -44588,6 +44933,21 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "4008",
+      "directive_tree_id": "83",
+      "directive_tier_id": "2",
+      "objective_set_id": "7792",
+      "name": {
+        "en": "Thumper SE"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "4009",
@@ -45424,5 +45784,5 @@
       "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 2923
+  "returned": 2947
 }

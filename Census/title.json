@@ -2117,7 +2117,25 @@
       "name": {
         "en": "Rocketman"
       }
+    },
+    {
+      "title_id": "406",
+      "name": {
+        "en": "Generous"
+      }
+    },
+    {
+      "title_id": "407",
+      "name": {
+        "en": "Victorious"
+      }
+    },
+    {
+      "title_id": "408",
+      "name": {
+        "en": "Cheerful"
+      }
     }
   ],
-  "returned": 353
+  "returned": 356
 }

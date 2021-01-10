@@ -95089,10 +95089,9 @@
     {
       "skill_line_id": "17298",
       "skill_points": "0",
-      "skill_category_id": "6195",
-      "skill_category_index": "4",
+      "skill_category_index": "99",
       "name": {
-        "en": "Snowman Soldier"
+        "en": "Tactical Snowman"
       },
       "description": {
         "en": "Deploys a dependable Snowman to stand watch over your base.<font color=\"#dc9c36\"><br><br>Only available during Auraximas.</font>"
@@ -95104,10 +95103,9 @@
     {
       "skill_line_id": "17299",
       "skill_points": "0",
-      "skill_category_id": "6193",
-      "skill_category_index": "4",
+      "skill_category_index": "99",
       "name": {
-        "en": "Snowman Soldier"
+        "en": "Tactical Snowman"
       },
       "description": {
         "en": "Deploys a dependable Snowman to stand watch over your base.<font color=\"#dc9c36\"><br><br>Only available during Auraximas.</font>"
@@ -95119,10 +95117,9 @@
     {
       "skill_line_id": "17300",
       "skill_points": "0",
-      "skill_category_id": "6191",
-      "skill_category_index": "4",
+      "skill_category_index": "99",
       "name": {
-        "en": "Snowman Soldier"
+        "en": "Tactical Snowman"
       },
       "description": {
         "en": "Deploys a dependable Snowman to stand watch over your base.<font color=\"#dc9c36\"><br><br>Only available during Auraximas.</font>"
@@ -101792,10 +101789,9 @@
     {
       "skill_line_id": "17793",
       "skill_points": "0",
-      "skill_category_id": "16521",
-      "skill_category_index": "4",
+      "skill_category_index": "99",
       "name": {
-        "en": "Snowman Soldier"
+        "en": "Tactical Snowman"
       },
       "description": {
         "en": "Deploys a dependable Snowman to stand watch over your base.<font color=\"#dc9c36\"><br><br>Only available during Auraximas.</font>"
@@ -102163,6 +102159,246 @@
       "image_set_id": "2055",
       "image_id": "3750",
       "image_path": "/files/ps2/images/static/3750.png"
+    },
+    {
+      "skill_line_id": "17821",
+      "skill_points": "0",
+      "skill_category_id": "4189",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17822",
+      "skill_points": "0",
+      "skill_category_id": "4184",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17823",
+      "skill_points": "0",
+      "skill_category_id": "4191",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17824",
+      "skill_points": "0",
+      "skill_category_id": "4188",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17825",
+      "skill_points": "0",
+      "skill_category_id": "16582",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17826",
+      "skill_points": "0",
+      "skill_category_id": "16566",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17827",
+      "skill_points": "0",
+      "skill_category_id": "16597",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17828",
+      "skill_points": "0",
+      "skill_category_id": "16562",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17829",
+      "skill_points": "0",
+      "skill_category_id": "4151",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17830",
+      "skill_points": "0",
+      "skill_category_id": "4161",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17831",
+      "skill_points": "0",
+      "skill_category_id": "4155",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17832",
+      "skill_points": "0",
+      "skill_category_id": "4165",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17833",
+      "skill_points": "0",
+      "skill_category_id": "4190",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17834",
+      "skill_points": "0",
+      "skill_category_id": "4180",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17835",
+      "skill_points": "0",
+      "skill_category_id": "4192",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17836",
+      "skill_points": "0",
+      "skill_category_id": "4187",
+      "skill_category_index": "0",
+      "name": {
+        "en": "C-4 Present (explosives)"
+      },
+      "description": {
+        "en": "C-4 Explosives are capable of incredible damage to infantry and vehicles alike."
+      },
+      "image_set_id": "1999",
+      "image_id": "3586",
+      "image_path": "/files/ps2/images/static/3586.png"
     }
   ],
   "returned": 5000

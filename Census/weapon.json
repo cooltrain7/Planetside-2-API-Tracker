@@ -6462,14 +6462,6 @@
       "from_iron_sights_ms": "150"
     },
     {
-      "weapon_id": "78042",
-      "turn_modifier": "1.5",
-      "move_modifier": "1",
-      "heat_capacity": "80",
-      "heat_bleed_off_rate": "25",
-      "heat_overheat_penalty_ms": "2000"
-    },
-    {
       "weapon_id": "78043",
       "turn_modifier": "1.5",
       "move_modifier": "1",
@@ -9357,6 +9349,16 @@
       "unequip_ms": "250",
       "to_iron_sights_ms": "150",
       "from_iron_sights_ms": "150"
+    },
+    {
+      "weapon_id": "78533",
+      "turn_modifier": "1",
+      "move_modifier": "1",
+      "sprint_recovery_ms": "300",
+      "equip_ms": "600",
+      "unequip_ms": "250",
+      "to_iron_sights_ms": "0",
+      "from_iron_sights_ms": "0"
     }
   ],
   "returned": 1068

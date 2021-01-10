@@ -1039,9 +1039,7 @@
     },
     {
       "ability_id": "567",
-      "ability_type_id": "10",
-      "distance_max": "150",
-      "radius_max": "150",
+      "ability_type_id": "3",
       "param1": "0"
     },
     {
@@ -15300,15 +15298,13 @@
     },
     {
       "ability_id": "1111128",
-      "ability_type_id": "10",
-      "distance_max": "150",
-      "radius_max": "150"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1111129",
-      "ability_type_id": "10",
-      "distance_max": "150",
-      "radius_max": "150"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1111130",
@@ -16073,9 +16069,8 @@
     },
     {
       "ability_id": "1111408",
-      "ability_type_id": "10",
-      "distance_max": "150",
-      "radius_max": "150"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1111409",
@@ -17666,9 +17661,7 @@
     },
     {
       "ability_id": "1112280",
-      "ability_type_id": "10",
-      "distance_max": "150",
-      "radius_max": "150",
+      "ability_type_id": "3",
       "param1": "0"
     },
     {
@@ -21916,7 +21909,28 @@
     {
       "ability_id": "1115675",
       "ability_type_id": "3"
+    },
+    {
+      "ability_id": "1115692",
+      "ability_type_id": "3"
+    },
+    {
+      "ability_id": "1115693",
+      "ability_type_id": "3"
+    },
+    {
+      "ability_id": "1115694",
+      "ability_type_id": "3"
+    },
+    {
+      "ability_id": "1115695",
+      "ability_type_id": "3"
+    },
+    {
+      "ability_id": "1115699",
+      "ability_type_id": "3",
+      "distance_max": "1"
     }
   ],
-  "returned": 4575
+  "returned": 4580
 }

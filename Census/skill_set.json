@@ -12675,7 +12675,55 @@
       "image_set_id": "8440",
       "image_id": "10071",
       "image_path": "/files/ps2/images/static/10071.png"
+    },
+    {
+      "skill_set_id": "1857",
+      "name": {
+        "en": "Universal: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock Certifications that apply to all non-MAX classes"
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1858",
+      "name": {
+        "en": "Universal: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock Certifications that apply to all non-MAX classes"
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1859",
+      "name": {
+        "en": "Universal: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock Certifications that apply to all non-MAX classes"
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1860",
+      "name": {
+        "en": "Universal: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock Certifications that apply to all non-MAX classes"
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
     }
   ],
-  "returned": 971
+  "returned": 975
 }

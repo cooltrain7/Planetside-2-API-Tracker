@@ -3079,7 +3079,59 @@
       "image_set_id": "14391",
       "image_id": "79724",
       "image_path": "/files/ps2/images/static/79724.png"
+    },
+    {
+      "directive_tree_id": "93",
+      "directive_tier_id": "1",
+      "reward_set_id": "5953",
+      "directive_points": "0",
+      "completion_count": "3",
+      "name": {
+        "en": "Novice"
+      },
+      "image_set_id": "93048",
+      "image_id": "81984",
+      "image_path": "/files/ps2/images/static/81984.png"
+    },
+    {
+      "directive_tree_id": "93",
+      "directive_tier_id": "2",
+      "reward_set_id": "5954",
+      "directive_points": "0",
+      "completion_count": "3",
+      "name": {
+        "en": "Adept"
+      },
+      "image_set_id": "93050",
+      "image_id": "81990",
+      "image_path": "/files/ps2/images/static/81990.png"
+    },
+    {
+      "directive_tree_id": "93",
+      "directive_tier_id": "3",
+      "reward_set_id": "5955",
+      "directive_points": "0",
+      "completion_count": "4",
+      "name": {
+        "en": "Expert"
+      },
+      "image_set_id": "93049",
+      "image_id": "81987",
+      "image_path": "/files/ps2/images/static/81987.png"
+    },
+    {
+      "directive_tree_id": "93",
+      "directive_tier_id": "4",
+      "reward_set_id": "5956",
+      "directive_points": "0",
+      "completion_count": "4",
+      "name": {
+        "en": "Master"
+      },
+      "image_set_id": "93047",
+      "image_id": "81981",
+      "image_path": "/files/ps2/images/static/81981.png"
     }
   ],
-  "returned": 247
+  "returned": 251
 }

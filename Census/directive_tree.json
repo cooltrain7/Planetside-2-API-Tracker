@@ -644,7 +644,17 @@
       "image_set_id": "14396",
       "image_id": "79737",
       "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "93",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Auraximas 2020"
+      },
+      "description": {
+        "en": "Dec. 16 - Jan. 3"
+      }
     }
   ],
-  "returned": 64
+  "returned": 65
 }

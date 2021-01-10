@@ -823,7 +823,11 @@
     {
       "profile_id": "284",
       "description": "Campaign 01 - Strange Glowing Mineral"
+    },
+    {
+      "profile_id": "286",
+      "description": "Sanctuary.ObservationDrone"
     }
   ],
-  "returned": 206
+  "returned": 207
 }
