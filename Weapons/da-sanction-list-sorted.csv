@@ -1,0 +1,707 @@
+1,Mag-Cutter,n
+2,NC4 Mag-Shot,i
+3,AF-19 Mercenary,i
+4,NC1 Gauss Rifle,i
+7,Spawn Beacon,n
+13,Chainblade,n
+14,T1 Cycler,i
+15,TX1 Repeater,i
+19,Force-Blade,n
+20,Pulsar VS1,i
+21,Beamer VS3,i
+30,AS16 NightHawk,h
+43,TRAC-5,i
+44,Solstice VE3,i
+45,Shield Recharging Field,n
+46,Shield Recharging Field,n
+47,Shield Recharging Field,n
+73,GR-22,i
+78,NC6 Gauss SAW,i
+79,T9 CARV,i
+80,Orion VS54,i
+84,Shrike,n
+85,ML-7,n
+86,S1,n
+87,NC14 Bolt Driver,s
+88,99SV,s
+89,VA39 Spectre,s
+93,Medical Applicator 1,n
+94,Medical Applicator 1,n
+95,Medical Applicator 1,n
+99,Medical Kit,n
+100,Medical Kit,n
+101,Medical Kit,n
+124,Nano-Armor Kit 1,n
+125,Nano-Armor Kit 1,n
+126,Nano-Armor Kit 1,n
+128,Mauler S6,h
+129,Nova,h
+153,Ammunition Package 1,n
+154,Shield Recharging Field,n
+200,Anti-Infantry MANA Turret,i
+201,Anti-Infantry MANA Turret,i
+202,Anti-Infantry MANA Turret,i
+266,Phoenix AE,n
+267,Striker AE,n
+268,Lancer AE,n
+271,Carver,n
+285,Ripper,n
+286,Lumine Edge,n
+309,Recon Detection Device 1,n
+316,NS-15MP,i
+376,Ammunition Package 1,n
+377,Ammunition Package 1,n
+429,Claymore,n
+432,C-4,n
+466,Shield Recharging Field,n
+471,Recon Detection Device 1,n
+472,Recon Detection Device 1,n
+473,Recon Detection Device 2,n
+474,Recon Detection Device 3,n
+475,Recon Detection Device 4,n
+476,Recon Detection Device 5,n
+477,Recon Detection Device 2,n
+478,Recon Detection Device 3,n
+479,Recon Detection Device 4,n
+480,Recon Detection Device 5,n
+481,Recon Detection Device 2,n
+482,Recon Detection Device 3,n
+483,Recon Detection Device 4,n
+484,Recon Detection Device 5,n
+485,Recon Detection Device 6,n
+486,Recon Detection Device 6,n
+487,Recon Detection Device 6,n
+500,MANA Anti-Vehicle Turret,n
+501,MANA Anti-Vehicle Turret,n
+502,MANA Anti-Vehicle Turret,n
+503,MANA Anti-Vehicle Turret,n
+551,Xiphos Anti-Personnel Phalanx Turret,n
+552,Xiphos Anti-Personnel Phalanx Turret,n
+553,Xiphos Anti-Personnel Phalanx Turret,n
+554,MANA Anti-Personnel Turret,n
+555,MANA Anti-Personnel Turret,n
+556,MANA Anti-Personnel Turret,n
+557,MANA Anti-Personnel Turret,n
+650,Tank Mine,n
+700,Aspis Anti-Aircraft Phalanx Turret,n
+701,Aspis Anti-Aircraft Phalanx Turret,n
+702,Aspis Anti-Aircraft Phalanx Turret,n
+703,Spear Anti-Vehicle Phalanx Turret,n
+704,Spear Anti-Vehicle Phalanx Turret,n
+705,Spear Anti-Vehicle Phalanx Turret,n
+724,Xiphos Anti-Personnel Phalanx Turret,n
+727,Aspis Anti-Aircraft Phalanx Turret,n
+730,Spear Anti-Vehicle Phalanx Turret,n
+880,Sticky Grenade,n
+881,Sticky Grenade,n
+882,Sticky Grenade,n
+883,Nanite Healing Grenade,n
+884,Nanite Revive Grenade,n
+1044,Bouncing Betty,n
+1045,Proximity Mine,n
+1082,MAX Punch,n
+1083,MAX Punch,n
+1084,MAX Punch,n
+1095,Anti-Vehicle Grenade,n
+1096,Concussion Grenade,n
+1097,NS Baron G5B,n
+1252,Nano-Armor Kit 2,n
+1253,Nano-Armor Kit 3,n
+1254,Nano-Armor Kit 4,n
+1255,Nano-Armor Kit 5,n
+1256,Nano-Armor Kit 2,n
+1257,Nano-Armor Kit 3,n
+1258,Nano-Armor Kit 4,n
+1259,Nano-Armor Kit 5,n
+1260,Nano-Armor Kit 2,n
+1261,Nano-Armor Kit 3,n
+1262,Nano-Armor Kit 4,n
+1263,Nano-Armor Kit 5,n
+1264,Ammunition Package 2,n
+1265,Ammunition Package 3,n
+1266,Ammunition Package 4,n
+1267,Ammunition Package 5,n
+1268,Ammunition Package 6,n
+1269,Ammunition Package 2,n
+1270,Ammunition Package 3,n
+1271,Ammunition Package 4,n
+1272,Ammunition Package 5,n
+1273,Ammunition Package 6,n
+1274,Ammunition Package 2,n
+1275,Ammunition Package 3,n
+1276,Ammunition Package 4,n
+1277,Ammunition Package 5,n
+1278,Ammunition Package 6,n
+1608,Medical Applicator 2,n
+1609,Medical Applicator 3,n
+1610,Medical Applicator 4,n
+1611,Medical Applicator 5,n
+1612,Medical Applicator 6,n
+1617,Medical Applicator 2,n
+1618,Medical Applicator 3,n
+1619,Medical Applicator 4,n
+1620,Medical Applicator 5,n
+1621,Medical Applicator 6,n
+1626,Medical Applicator 2,n
+1627,Medical Applicator 3,n
+1628,Medical Applicator 4,n
+1629,Medical Applicator 5,n
+1630,Medical Applicator 6,n
+1849,NS Baron G5G,n
+1869,19A Fortuna,i
+1879,NC6A GODSAW,i
+1884,The Brawler,h
+1889,The Executive,i
+1894,Betelgeuse 54-A,i
+1899,Tempest,i
+1904,T1A Unity,i
+1909,Darkstar,i
+1914,TRAC-Shot,i
+1919,Eclipse VE3A,i
+1924,"T9A ""Butcher""",i
+1934,Havoc,h
+1939,Chaos,h
+1944,Shuriken,i
+1949,Skorpios,i
+1954,The President,i
+1959,The Immortal,i
+1964,The Kraken,n
+1969,The Moonshot,s
+1974,Bighorn .50M,s
+1979,Parsec VX3-A,s
+1984,GD Guardian,i
+1989,DMR-99,i
+1994,Revenant,i
+2001,NS-44P Commissioner,i
+2308,Hunter QCX,n
+2309,Heartstring,n
+2310,Blackheart,n
+2311,NS-30 Vandal,i
+2312,NS-30B Vandal,i
+2313,NS-30G Vandal,i
+2314,MKV Suppressed,i
+2315,MKV-B Suppressed,i
+2316,MKV-G Suppressed,i
+2317,Hunter QCX-B,n
+2318,Hunter QCX-G,n
+2500,M12 Kobalt-F,n
+2501,M12 Kobalt-F,n
+2502,M12 Kobalt-F,n
+2507,M20 Basilisk-F,n
+2508,M20 Basilisk-F,n
+2509,M20 Basilisk-F,n
+2510,M40 Fury-F,n
+2511,M40 Fury-F,n
+2512,M40 Fury-F,n
+2657,S12 Renegade,n
+2658,S12 Renegade,n
+2659,S12 Renegade,n
+2800,M12 Kobalt,g
+2801,M12 Kobalt,g
+2802,M12 Kobalt,g
+2803,M20 Basilisk,g
+2804,M20 Basilisk,g
+2805,M20 Basilisk,g
+2806,M12 Kobalt,g
+2807,M12 Kobalt,g
+2808,M12 Kobalt,g
+2809,M20 Basilisk,g
+2810,M20 Basilisk,g
+2811,M20 Basilisk,g
+2832,M60-G Bulldog,g
+2833,M60-G Bulldog,g
+2834,M60-G Bulldog,g
+2835,M60-G Bulldog,g
+2836,M60-G Bulldog,g
+2837,M60-G Bulldog,g
+2874,M40 Fury,g
+2875,M40 Fury,g
+2876,M40 Fury,g
+2877,M40 Fury,g
+2878,M40 Fury,g
+2879,M40 Fury,g
+3080,G30 Walker,g
+3081,G30 Walker,g
+3082,G30 Walker,g
+3083,G30 Walker,g
+3084,G30 Walker,g
+3085,G30 Walker,g
+3086,G40-F Ranger,g
+3087,G40-F Ranger,g
+3088,G40-F Ranger,g
+3089,G40-F Ranger,g
+3090,G40-F Ranger,g
+3091,G40-F Ranger,g
+3100,C75 Viper,t
+3101,C75 Viper,t
+3102,C75 Viper,t
+3103,L100 Python AP,t
+3104,L100 Python AP,t
+3105,L100 Python AP,t
+3106,Skyguard,t
+3107,Skyguard,t
+3108,Skyguard,t
+3153,L100 Python HESH,t
+3154,L100 Python HESH,t
+3155,L100 Python HESH,t
+3156,L100 Python HEAT,t
+3157,L100 Python HEAT,t
+3158,L100 Python HEAT,t
+3400,Supernova PC,t
+3401,M12 Kobalt,g
+3402,M20 Basilisk,g
+3403,G30 Walker,g
+3404,Proton II PPA,g
+3406,G40-F Ranger,g
+3427,Supernova-R PC,t
+3441,E540 Halberd,g
+3442,Saron HRB,g
+3460,Supernova FPC,t
+3461,Supernova VPC,t
+3700,Titan-150 HEAT,t
+3701,M12 Kobalt,g
+3702,M20 Basilisk,g
+3703,G30 Walker,g
+3704,Enforcer ML85,g
+3707,C85 Canister,g
+3708,G40-F Ranger,g
+3709,E540 Halberd,g
+3730,Titan-150 AP,t
+3731,Titan-150 HESH,t
+3756,150mm Titan-R HEAT,t
+4000,P2-120 HEAT,t
+4001,M12 Kobalt,g
+4002,M20 Basilisk,g
+4003,G30 Walker,g
+4007,P525 Marauder,g
+4008,P2-120 AP,t
+4009,P2-120 HESH,t
+4010,G40-F Ranger,g
+4015,E540 Halberd,g
+4016,P2-120-R HEAT,t
+4029,G30 Vulcan,g
+4300,Photon A2A Missile Pods,p
+4301,Dual Photon Pods,p
+4302,Saron Laser Cannon,p
+4304,V26 Maelstrom Turbo Laser,p
+4305,Light PPA,p
+4445,Antares LC,n
+4446,Hornet Missiles,n
+4447,Coyote Missiles,n
+4600,M20 Mustang,p
+4601,Breaker Rocket Pods,p
+4602,Tomcat A2AM Pods,p
+4604,Vortek Rotary,p
+4605,M30 Mustang AH,p
+4745,M20 Kestrel,n
+4746,Hornet Missiles,n
+4747,Coyote Missiles,n
+4900,M18 Needler,p
+4903,Hellfire Rocket Pods,p
+4905,Tomcat A2AM Pods,p
+4906,M14 Banshee,p
+4911,M18 Rotary,p
+5050,M18 Locust,n
+5051,Hornet Missiles,n
+5052,Coyote Missiles,n
+5200,M20 Drake,g
+5202,M20 Drake,g
+5204,M20 Drake,g
+5206,L-30R Vektor,p
+5207,L-30R Vektor,p
+5208,L-30R Vektor,p
+5209,AP30 Shredder,g
+5210,AP30 Shredder,g
+5211,AP30 Shredder,g
+5212,A30 Walker,g
+5213,A30 Walker,g
+5214,A30 Walker,g
+5215,CAS30 Tank Buster,p
+5216,CAS30 Tank Buster,p
+5217,CAS30 Tank Buster,p
+5218,L-24R Spur,n
+5219,L-24R Spur,n
+5220,L-24R Spur,n
+5221,M60-A Bulldog,g
+5222,M60-A Bulldog,g
+5223,M60-A Bulldog,g
+5224,C150 Dalton,g
+5225,C150 Dalton,g
+5226,C150 Dalton,g
+5227,L105 Zephyr,g
+5228,L105 Zephyr,g
+5229,L105 Zephyr,g
+5250,L105 Zephyr PX,g
+5251,L105 Zephyr PX,g
+5252,L105 Zephyr PX,g
+5441,Dual-75 Duster,n
+5442,Dual-75 Duster,n
+5443,Dual-75 Duster,n
+5494,Hyena Missile Launcher,n
+5495,Hyena Missile Launcher,n
+5496,Hyena Missile Launcher,n
+5500,M20 Drake,n
+5501,M20 Drake,n
+5502,M20 Drake,n
+5503,M20 Drake,n
+5504,M20 Drake,n
+5505,M20 Drake,n
+5506,M20 Drake,n
+5507,M20 Drake,n
+5508,M20 Drake,n
+5509,M20 Drake,n
+5510,M20 Drake,n
+5511,M20 Drake,n
+5512,A30 Walker,n
+5513,A30 Walker,n
+5514,M60-A Bulldog,n
+5515,M60-A Bulldog,n
+5516,A30 Walker,n
+5517,A30 Walker,n
+5518,M60-A Bulldog,n
+5519,M60-A Bulldog,n
+5520,A30 Walker,n
+5521,A30 Walker,n
+5522,M60-A Bulldog,n
+5523,M60-A Bulldog,n
+6010,Nano-Armor Kit 6,n
+6011,Nano-Armor Kit 6,n
+6012,Nano-Armor Kit 6,n
+6050,Decoy Grenade,n
+6100,M12 Kobalt-H,g
+6101,M12 Kobalt-H,g
+6102,M12 Kobalt-H,g
+6103,M20 Basilisk-H,g
+6104,M20 Basilisk-H,g
+6105,M20 Basilisk-H,g
+6106,G30 Walker,g
+6107,G30 Walker,g
+6108,G30 Walker,g
+6109,G40-F Ranger,g
+6110,G40-F Ranger,g
+6111,G40-F Ranger,g
+6112,M60-G Bulldog-H,g
+6113,M60-G Bulldog-H,g
+6114,M60-G Bulldog-H,g
+6115,M40 Fury-H,g
+6116,M40 Fury-H,g
+6117,M40 Fury-H,g
+6118,E540 Halberd-H,g
+6119,E540 Halberd-H,g
+6120,E540 Halberd-H,g
+6121,G20 Vulcan-H,g
+6122,P525 Marauder-H,g
+6123,Enforcer ML65-H,g
+6124,C85 Canister-H,g
+6125,Proton II PPA-H,g
+6126,Saron HRB-H,g
+6550,M20 Wyvern,n
+6551,M20 Wyvern,n
+6552,M20 Wyvern,n
+6553,CAS 14-E,n
+6554,CAS 14-E,n
+6555,CAS 14-E,n
+6556,Hellion G20,n
+6557,Hellion G20,n
+6558,Hellion G20,n
+6559,Pelter Rocket Pod,n
+6560,Pelter Rocket Pod,n
+6561,Pelter Rocket Pod,n
+6562,VLG Missile Launcher,n
+6563,VLG Missile Launcher,n
+6564,VLG Missile Launcher,n
+7101,Gauss Rifle Burst,i
+7102,Gauss Rifle S,n
+7103,Carnage AR,i
+7104,NC9 A-Tross,i
+7108,Reaper DMR,i
+7124,Cycler TRV,i
+7125,SABR-13,i
+7126,T1B Cycler,i
+7127,T1S Cycler,n
+7128,TAR,i
+7129,TORQ-9,i
+7148,H-V45,i
+7149,CME,i
+7150,Equinox VE2 Burst,i
+7152,Corvus VA55,i
+7153,Terminus VX-9,i
+7169,GD-7F,i
+7170,AC-X11,i
+7171,Gauss Compact Burst,i
+7172,Gauss Compact S,n
+7173,Razor GD-23,i
+7174,AF-4A Bandit,i
+7190,T5 AMC,i
+7191,TRAC-5 Burst,i
+7192,TRAC-5 S,n
+7193,LC3 Jaguar,i
+7194,HC1 Cougar,i
+7211,Pulsar C,i
+7212,Solstice Burst,i
+7213,Solstice SF,n
+7214,Serpent VE92,i
+7215,Zenith VX-5,i
+7232,EM1,i
+7233,GD-22S,i
+7234,NC6S Gauss SAW S,i
+7235,EM6,i
+7236,LA1 Anchor,i
+7253,T9 CARV-S,i
+7254,MSW-R,i
+7255,T16 Rhino,i
+7256,TMG-50,i
+7257,T32 Bull,i
+7274,VX29 Polaris,i
+7275,Pulsar LSW,i
+7276,SVA-88,i
+7277,Flare VE6,i
+7278,Ursa,i
+7301,AF-8 RailJack,s
+7316,TRAP-M1,s
+7337,Phaseshift VX-S,s
+7358,AF-18 Stalker,i
+7365,SOAS-20,i
+7372,Artemis VX26,i
+7379,NC4-FB Mag-Shot,i
+7388,LA8 Rebel,i
+7389,LA3 Desperado,i
+7390,NC08 Mag-Scatter,n
+7391,TX1-FB Repeater,i
+7400,TX2 Emperor,i
+7401,TS2 Inquisitor,i
+7402,T4 AMP,i
+7403,Beamer VS3-FB,i
+7412,Manticore SX40,i
+7413,Cerberus,i
+7414,Spiker,i
+7423,NC12 Sweeper,h
+7432,TS4 Haymaker,h
+7441,Thanatos VE70,h
+7494,NS-7 PDW,i
+7495,NS-7B PDW,i
+7496,NS-7G PDW,i
+7505,AF-34 Mattock,n
+7506,AF-41 Hacksaw,n
+7507,AF-23 Grinder,n
+7512,M6 Onslaught,n
+7513,M2 Mutilator,n
+7518,MRC3 Mercy,n
+7519,Nebula VM20,n
+7520,Cosmos VM3,n
+7525,Blueshift VM5,n
+7528,NC05 Jackhammer,n
+7533,T7 Mini-Chaingun,n
+7540,Lasher X2,n
+7609,Restoration Kit,n
+7610,Restoration Kit,n
+7611,Restoration Kit,n
+7755,Flash Grenade,n
+15000,M1 Heavy Cycler,n
+15001,M3 Pounder HEG,n
+15004,NS-10 Burster,n
+15012,M1 Heavy Cycler,n
+15013,M3 Pounder HEG,n
+15016,NS-10 Burster,n
+15024,M6 Onslaught,n
+15025,M2 Mutilator,n
+15030,MRC3 Mercy,n
+16000,NCM1 Scattercannon,n
+16001,NCM2 Falcon,n
+16004,NS-10 Burster,n
+16012,NCM1 Scattercannon,n
+16013,NCM2 Falcon,n
+16016,NS-10 Burster,n
+16024,AF-34 Mattock,n
+16025,AF-41 Hacksaw,n
+16026,AF-23 Grinder,n
+16028,NCM3 Raven,n
+16029,NCM3 Raven,n
+16030,MR1 Fracture,n
+16031,MR1 Fracture,n
+16032,Vortex VM21,n
+16033,Vortex VM21,n
+17000,Quasar VM1,n
+17001,Comet VM2,n
+17004,NS-10 Burster,n
+17012,Quasar VM1,n
+17013,Comet VM2,n
+17016,NS-10 Burster,n
+17024,Nebula VM20,n
+17025,Cosmos VM3,n
+17030,Blueshift VM5,n
+19000,LC2 Lynx,i
+20000,VX6-7,i
+24000,Gauss SPR,s
+24001,SAS-R,s
+24002,Impetus,i
+24003,LA80,s
+24004,EM4 Longshot,s
+24007,AF-6 Shadow,i
+24008,Warden,i
+25000,M77-B,s
+25001,TSAR-42,s
+25002,KSR-35,i
+25003,SR-7,s
+25004,RAMS .50M,s
+25007,HSR-1,i
+25008,AMR-66,i
+26000,XM98,s
+26001,Ghost,s
+26002,Phantom VA23,i
+26003,V10,s
+26004,Parallax VX3,s
+26007,Nyx VX31,i
+26008,Eidolon VE33,i
+27000,AF-4 Cyclone,i
+27001,Blitz GD-10,i
+27005,AF-4G Cyclone,i
+28000,SMG-46 Armistice,i
+28001,PDW-16 Hailstorm,i
+28005,SMG-46G Armistice,i
+29000,Eridani SX5,i
+29001,Sirius SX12,i
+29005,Eridani SX5G,i
+33002,NC15 Phoenix,n
+33003,AF-22 Crow,n
+33004,Hawk GD-68,n
+34002,T2 Striker,n
+34003,M9 SKEP Launcher,n
+34004,ASP-30 Grounder,n
+35002,Lancer VS22,n
+35003,Hades VSH4,n
+35004,Nemesis VSH9,n
+39000,FA1 Barrage,h
+39001,TRS-12 Uppercut,h
+39002,TAS-16 Blackjack,h
+40000,AF-57 Piston,h
+40001,GD-66 Claw,h
+40002,LA39 Bruiser,h
+41000,Pandora VX25,h
+41001,Phobos VX86,h
+41002,Deimos VA29,h
+44505,Frag Grenade,n
+44506,Smoke Grenade,n
+44605,Frag Grenade,n
+44705,Plasma Grenade,n
+50051,EMP Grenade,n
+50560,NS Decimator,n
+50561,NS Annihilator,n
+50562,Hunter QCX-P,n
+69999,NS-11P,i
+70998,NS-11A,i
+71563,Anti-Vehicle MANA Turret,n
+71564,Anti-Vehicle MANA Turret,n
+71565,Anti-Vehicle MANA Turret,n
+75005,NS-11C,i
+75034,NS-15M1,i
+75063,NS-44 Commissioner,i
+75071,NS-357 Underboss,i
+75083,NS Baron G5,n
+75170,NS-44G Commissioner,i
+75171,NS-357G Underboss,i
+75172,NS-44B Commissioner,i
+75173,NS-357B Underboss,i
+75234,NS-11CP,i
+75268,NS-357P Underboss,i
+75285,Motion Spotter 1,n
+75286,Motion Spotter 2,n
+75287,Motion Spotter 3,n
+75288,Motion Spotter 4,n
+75289,Motion Spotter 5,n
+75490,NS Patriot Flare Gun,n
+75517,NC Patriot Flare Gun,i
+75519,TR Patriot Flare Gun,i
+75521,VS Patriot Flare Gun,i
+76358,NS Deep Freeze,n
+77822,Gauss Prime,i
+800623,C-4 ARX,n
+800624,Auraxium Mag-Cutter,n
+800625,Auraxium Chainblade,n
+800626,Auraxium Force-Blade,n
+800627,NS AutoBlade,n
+801969,The Slasher,n
+801970,NS CandyCannon 3000,n
+802025,Auraxium Slasher,n
+802099,NS-11AB,i
+802100,NS-11CB,i
+802101,NS-11AG,i
+802102,NS-11CG,i
+802104,NS-15MG,i
+802105,NS-15MB,i
+802106,NS-15M2,i
+802299,NS Decimator-G,n
+802300,NS Decimator-B,n
+802301,NS Annihilator-G,n
+802302,NS Annihilator-B,n
+802315,Hexedge,n
+802316,Hardlight Dagger,n
+802317,Damascus Edge,n
+802319,NS-15M AE,i
+802322,NS Baron G5AE,n
+802512,Spitfire Auto-Turret,n
+802514,Spitfire Auto-Turret,n
+802515,Spitfire Auto-Turret,n
+802516,Spitfire Auto-Turret,n
+802517,Spitfire Auto-Turret,n
+802518,Spitfire Auto-Turret,n
+802584,Icikill,n
+802733,NS-44L Blackhand,i
+802738,SVA-GG,i
+802771,NS-AM7 Archer,i
+802781,NS-44LB Blackhand,i
+802782,NS-44LG Blackhand,i
+802902,NS Harrower,n
+802903,NS Campion,n
+802910,NS-AM7B Archer,i
+802921,NS-AM7G Archer,i
+803699,NS-15 Gallows,i
+803824,NS-44 Commissioner AE,i
+803825,NS-44 Commissioner AE,i
+803826,NS-44 Commissioner AE,i
+804138,NS-61 Emissary,i
+804243,NSX Tanto,i
+804246,NSX Yumi,i
+804249,NSX Naginata,i
+804252,NSX Tomoe,i
+804255,NSX Daimyo,s
+804405,NS-61B Emissary,i
+804428,NS-61G Emissary,i
+804960,NS-44LP Blackhand,i
+6002640,"NS-61 ""Ravenous"" Emissary",i
+6002661,"NS-44L ""Ravenous"" Blackhand",i
+6002732,Parallax VX3-AE,s
+6002745,RAMS-AE .50M,s
+6002758,EM4-AE Longshot,s
+6002772,Eridani SX5-AE,i
+6002800,SMG-46AE Armistice,i
+6002824,AF-4AE Cyclone,i
+6002852,H-V45 AE,i
+6002874,TAR-AE,i
+6002896,GR-22AE,i
+6002918,NS-AM7 VS/AE Archer,i
+6002930,NS-AM7 AE/TR Archer,i
+6002943,NS-AM7 AE/NC Archer,i
+6003059,MKV-P Suppressed,i
+6003571,"NS-11A ""Heatwave""",i
+6003665,NS-45 Pilot,i
+6003704,"NS-45 ""Brass"" Pilot",i
+6003752,NSX-P Tanto,i
+6003793,NS-44L Showdown,i
+6003850,MGR-S1 Gladius,i
+6003879,MG-S1 Jackal,i
+6003925,VE-S Canis,i
+6003943,NS-357 IA,i
+6003947,AF-4A Bandit AE,i
+6003967,Zenith VX-5AE,i
+6003968,LC2 Lynx AE,i
+6004008,AF-18 Stalker AE,i
+6004009,SOAS-20 AE,i
+6004010,Artemis VX26 AE,i
+6004118,VE-H Maw,i
+6004120,MG-H1 Watchman,i
+6004209,MGR-M1 Bishop,i
+6004214,VE-LR Obelisk,i
+6004216,MG-HBR1 Dragoon,i
+6004218,MGR-L1 Promise,i
+6004570,PS1-AV Suppressor,i
