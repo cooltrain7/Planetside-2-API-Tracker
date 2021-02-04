@@ -30,6 +30,7 @@ With special thanks to Rhett for extraction
 
 ##  The Issues
 Have any issue with the census collection or stream API? Want a feature added? Add it here for community tracking.
+Labels are split for Rest API,Streaming API, and Features. These can then have a High, Medium, Or Low priority.
 
 ## Planetside API Services
 A collection of sites, and applications that use the planetside 2 API.
