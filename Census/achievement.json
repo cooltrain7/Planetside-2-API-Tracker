@@ -85107,7 +85107,87 @@
       "image_set_id": "8017",
       "image_id": "8338",
       "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "92810",
+      "item_id": "6009854",
+      "objective_group_id": "18659",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "Excursion Kukri"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "92811",
+      "item_id": "6009854",
+      "objective_group_id": "18660",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "Excursion Kukri"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "92812",
+      "item_id": "6009854",
+      "objective_group_id": "18661",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "Excursion Kukri"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "92813",
+      "item_id": "6009854",
+      "objective_group_id": "18662",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Excursion Kukri"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "92814",
+      "item_id": "6009854",
+      "objective_group_id": "18658",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "Excursion Kukri"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     }
   ],
-  "returned": 5334
+  "returned": 5339
 }

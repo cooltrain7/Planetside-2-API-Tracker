@@ -21350,33 +21350,28 @@
     },
     {
       "ability_id": "1115405",
-      "ability_type_id": "10",
-      "distance_max": "1",
-      "radius_max": "1"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1115406",
-      "ability_type_id": "10",
-      "distance_max": "1",
-      "radius_max": "1"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1115407",
-      "ability_type_id": "10",
-      "distance_max": "1",
-      "radius_max": "1"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1115408",
-      "ability_type_id": "10",
-      "distance_max": "1",
-      "radius_max": "1"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1115409",
-      "ability_type_id": "10",
-      "distance_max": "1",
-      "radius_max": "1"
+      "ability_type_id": "3",
+      "param1": "0"
     },
     {
       "ability_id": "1115410",

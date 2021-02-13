@@ -654,7 +654,17 @@
       "description": {
         "en": "Dec. 16 - Jan. 3"
       }
+    },
+    {
+      "directive_tree_id": "94",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Valentine's Day 2021"
+      },
+      "description": {
+        "en": "Feb. 9 - Feb. 14"
+      }
     }
   ],
-  "returned": 65
+  "returned": 66
 }
