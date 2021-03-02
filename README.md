@@ -42,7 +42,7 @@ A collection of sites, and applications that use the planetside 2 API.
  - [Tide OP Tracker](http://tide-op-tracker.ddns.net/)
  - [PS2 Population Tracker](https://ps2.nice.kiwi/)
  - [PS2Alerts](https://ps2alerts.com/)
- - [PS2-Alerts.io](ps2-alerts.github.io)
+ - [PS2-Alerts.io](https://ps2-alerts.github.io)
 
  Planetside 2 Repositories
 
