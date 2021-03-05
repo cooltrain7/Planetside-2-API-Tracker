@@ -689,30 +689,6 @@
       }
     },
     {
-      "region_id": "18205",
-      "zone_id": "2",
-      "initial_faction_id": "3",
-      "name": {
-        "en": "Berjess Overlook"
-      }
-    },
-    {
-      "region_id": "18206",
-      "zone_id": "2",
-      "initial_faction_id": "0",
-      "name": {
-        "en": "Sunken Relay Station"
-      }
-    },
-    {
-      "region_id": "18207",
-      "zone_id": "2",
-      "initial_faction_id": "0",
-      "name": {
-        "en": "Lowland Trading Post"
-      }
-    },
-    {
       "region_id": "4101",
       "zone_id": "4",
       "initial_faction_id": "1",
@@ -2057,14 +2033,6 @@
       }
     },
     {
-      "region_id": "18204",
-      "zone_id": "6",
-      "initial_faction_id": "2",
-      "name": {
-        "en": "Cobalt Geological Outpost"
-      }
-    },
-    {
       "region_id": "18001",
       "zone_id": "8",
       "initial_faction_id": "3",
@@ -2374,6 +2342,38 @@
       "initial_faction_id": "3",
       "name": {
         "en": "The Rink"
+      }
+    },
+    {
+      "region_id": "18204",
+      "zone_id": "6",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Cobalt Geological Outpost"
+      }
+    },
+    {
+      "region_id": "18205",
+      "zone_id": "2",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Berjess Overlook"
+      }
+    },
+    {
+      "region_id": "18206",
+      "zone_id": "2",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Sunken Relay Station"
+      }
+    },
+    {
+      "region_id": "18207",
+      "zone_id": "2",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Lowland Trading Post"
       }
     },
     {

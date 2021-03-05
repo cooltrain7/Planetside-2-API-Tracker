@@ -746,875 +746,19 @@
       "description": "Indar - WG.Highlands to LO8.IndarBay"
     },
     {
-      "zone_id": "6",
-      "facility_id_a": "204000",
-      "facility_id_b": "204001",
-      "description": "Amerish - Kwahtee to Kwahtee.West"
+      "zone_id": "2",
+      "facility_id_a": "400130",
+      "facility_id_b": "5700"
     },
     {
-      "zone_id": "6",
-      "facility_id_a": "204000",
-      "facility_id_b": "204002",
-      "description": "Amerish - Kwahtee to Kwahtee.East"
+      "zone_id": "2",
+      "facility_id_a": "400132",
+      "facility_id_b": "215"
     },
     {
-      "zone_id": "6",
-      "facility_id_a": "204000",
-      "facility_id_b": "204003",
-      "description": "Amerish - Kwahtee to Kwahtee.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205000",
-      "facility_id_b": "205001",
-      "description": "Amerish - Ikanam to Ikanam.NW"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205000",
-      "facility_id_b": "205002",
-      "description": "Amerish - Ikanam to Ikanam.NE"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205000",
-      "facility_id_b": "205003",
-      "description": "Amerish - Ikanam to Ikanam.S"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205002",
-      "facility_id_b": "222320"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "206000",
-      "facility_id_b": "206001",
-      "description": "Amerish - Heyoka to Heyoka.N"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "206000",
-      "facility_id_b": "206002",
-      "description": "Amerish - Heyoka to Heyoka.S"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "207000",
-      "facility_id_b": "207001",
-      "description": "Amerish - Sungrey to Sungrey.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "207000",
-      "facility_id_b": "207002",
-      "description": "Amerish - Sungrey to Sungrey.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "207000",
-      "facility_id_b": "207003",
-      "description": "Amerish - Sungrey to Sungrey.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "208000",
-      "facility_id_b": "208001",
-      "description": "Amerish - Mekala to Mekala.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "208000",
-      "facility_id_b": "208002",
-      "description": "Amerish - Mekala to Mekala.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209000",
-      "facility_id_b": "209001",
-      "description": "Amerish - Onatha to Onatha.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209000",
-      "facility_id_b": "209002",
-      "description": "Amerish - Onatha to Onatha.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209000",
-      "facility_id_b": "209003",
-      "description": "Amerish - Onatha to Onatha.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209001",
-      "facility_id_b": "209002"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209003",
-      "facility_id_b": "209001"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "210000",
-      "facility_id_b": "210001",
-      "description": "Amerish - Wokuk to Wokuk.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "210000",
-      "facility_id_b": "210002",
-      "description": "Amerish - Wokuk to Wokuk.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "210000",
-      "facility_id_b": "210003",
-      "description": "Amerish - Wokuk to Wokuk.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "211000",
-      "facility_id_b": "211001",
-      "description": "Amerish - Tumas to Tumas.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "211000",
-      "facility_id_b": "211002",
-      "description": "Amerish - Tumas to Tumas.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212000",
-      "facility_id_b": "212001",
-      "description": "Amerish - Xelas to Xelas.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212000",
-      "facility_id_b": "212002",
-      "description": "Amerish - Xelas to Xelas.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212000",
-      "facility_id_b": "212003",
-      "description": "Amerish - Xelas to Xelas.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212001",
-      "facility_id_b": "212003"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212002",
-      "facility_id_b": "212001"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "213000",
-      "facility_id_b": "205001",
-      "description": "Amerish - LO1.LithCorpSecureMine to Ikanam.NW"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "214000",
-      "facility_id_b": "207001",
-      "description": "Amerish - LO2.NCArsenal to Sungrey.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "214000",
-      "facility_id_b": "222060",
-      "description": "Amerish - LO2.NCArsenal to SO.7.AuraxiComNetworkHub"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "214000",
-      "facility_id_b": "222320",
-      "description": "Amerish - LO2.NCArsenal to SO.32"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "215000",
-      "facility_id_b": "209001",
-      "description": "Amerish - LO3.CruxMiningOperation to Onatha.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "216000",
-      "facility_id_b": "208001",
-      "description": "Amerish - LO4.CruxHeadquarters to Mekala.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "217000",
-      "facility_id_b": "222060",
-      "description": "Amerish - LO5.TheBastion to SO.7.AuraxiComNetwork"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "217000",
-      "facility_id_b": "222350",
-      "description": "Amerish - LO5.TheBastion to SO.35"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "218000",
-      "facility_id_b": "211002",
-      "description": "Amerish - LO6.AuraxisFirearms to Tumas.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "219000",
-      "facility_id_b": "212001",
-      "description": "Amerish - LO7.SplitPeakPass to Xelas.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "219000",
-      "facility_id_b": "222160",
-      "description": "Amerish - LO7.SplitPeakPass to SO.17.EastHillCheckpoint"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "219000",
-      "facility_id_b": "222190",
-      "description": "Amerish - LO7.SplitPeakPass to SO.20.AuraxiCom"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "220000",
-      "facility_id_b": "210002",
-      "description": "Amerish - LO8.WestPassWatchtower to Wokuk.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "220000",
-      "facility_id_b": "222180",
-      "description": "Amerish - LO8.WestPassWatchtower to SO.19.ChimneyRock"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "220000",
-      "facility_id_b": "400129"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "221000",
-      "facility_id_b": "212003",
-      "description": "Amerish - LO9.GraniteValleyGarrison to Xelas.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "221000",
-      "facility_id_b": "222250",
-      "description": "Amerish - LO9.GraniteValleyGarrison to SO.26.AuraxianCryobank"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222000",
-      "facility_id_b": "200000",
-      "description": "Amerish - SO1.StoneRidge to WG.NW"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222000",
-      "facility_id_b": "213000",
-      "description": "Amerish - SO1.StoneRidge to LO1.LithCorpSecureMine"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222010",
-      "facility_id_b": "222300",
-      "description": "Amerish - SO2.NorthGrove to SO.30"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222010",
-      "facility_id_b": "222310",
-      "description": "Amerish - SO2.NorthGrove to SO.31"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222020",
-      "facility_id_b": "201000",
-      "description": "Amerish - SO3.JaggedLanceMine to WG.NE"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222020",
-      "facility_id_b": "222030",
-      "description": "Amerish - SO3.JaggedLanceMine to SO4.HiddenHidge"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222020",
-      "facility_id_b": "260004",
-      "description": "Amerish - SO.3 to SO.8"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222030",
-      "facility_id_b": "207003",
-      "description": "Amerish - SO4.HiddenHidge to Sungrey.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222040",
-      "facility_id_b": "200000",
-      "description": "Amerish - SO5.SolTechCharging to WG.NW"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222040",
-      "facility_id_b": "222050",
-      "description": "Amerish - SO.5 to SO.6"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222040",
-      "facility_id_b": "222290",
-      "description": "Amerish - SO5.SolTechCharging to SO.29"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222050",
-      "facility_id_b": "200000",
-      "description": "Amerish - SO6.DesertedMineShaft to WG.NW"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222050",
-      "facility_id_b": "222000",
-      "description": "Amerish - SO.1 to SO.6"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222050",
-      "facility_id_b": "222100",
-      "description": "Amerish - SO6.DesertedMineShaft to SO.11.WestFoothillsAirdock"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222060",
-      "facility_id_b": "216000",
-      "description": "Amerish - SO7.AuraxiComNetworkHub to LO4.CruxHeadquarters"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222080",
-      "facility_id_b": "204003",
-      "description": "Amerish - SO9.GenudinePhysicsLab to Kwahtee.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222080",
-      "facility_id_b": "222330",
-      "description": "Amerish - SO9.GenudinePhysicsLab to SO.33"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222090",
-      "facility_id_b": "204002",
-      "description": "Amerish - SO10.CobaltCommunications to Kwahtee.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222090",
-      "facility_id_b": "400129"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222100",
-      "facility_id_b": "217000",
-      "description": "Amerish - SO11.WestFoothillsAirdock to LO5.TheBastion"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222110",
-      "facility_id_b": "206001",
-      "description": "Amerish - SO12.DeepCoreGeolab to Heyoka.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222110",
-      "facility_id_b": "217000",
-      "description": "Amerish - SO12.DeepCoreGeolab to LO5.TheBastion"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222120",
-      "facility_id_b": "216000",
-      "description": "Amerish - SO13.BlackshardTungstenMine to LO4.CruxHeadquarters"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222130",
-      "facility_id_b": "201000",
-      "description": "Amerish - SO14.ShadeSpireFarm to Amerish.WG.NE"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222130",
-      "facility_id_b": "215000",
-      "description": "Amerish - SO14.ShadeSpireFarm to LO3.CruxMining"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222150",
-      "facility_id_b": "216000",
-      "description": "Amerish - SO16.RockSlideOutlook to LO4.CruxHeadquarters"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222150",
-      "facility_id_b": "222280",
-      "description": "Amerish - SO16.RockSlideOutlook to LO10.TheAscent"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222150",
-      "facility_id_b": "222350",
-      "description": "Amerish - SO16.RockSlideOutlook to SO.35"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222160",
-      "facility_id_b": "209003",
-      "description": "Amerish - SO17.EastHillsCheckpoint to Onatha.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222170",
-      "facility_id_b": "222360",
-      "description": "Amerish - SO18.SilverValleyArsenal to SO.36"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222180",
-      "facility_id_b": "206002",
-      "description": "Amerish - SO19.ChimneyRockDepot to Heyoka.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222180",
-      "facility_id_b": "211001",
-      "description": "Amerish - SO19.ChimneyRockDepot to Tumas.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222190",
-      "facility_id_b": "208002",
-      "description": "Amerish - SO20.AuraxiComSubstation to Mekala.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222190",
-      "facility_id_b": "218000",
-      "description": "Amerish - SO20.AuraxiComSubstation to LO6.AuraxisFirearmsCorp"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222220",
-      "facility_id_b": "210003",
-      "description": "Amerish - SO23.TorremarStorageYard to Wokuk.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222220",
-      "facility_id_b": "222240",
-      "description": "Amerish - SO23.TorremarStorageYard to SO.25.AramaxChemicalCo"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222230",
-      "facility_id_b": "218000",
-      "description": "Amerish - SO24.HighRoadsStation to LO6.AuraxisFirearmsCorp"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222230",
-      "facility_id_b": "222380",
-      "description": "Amerish - SO24.HighRoadsStation to SO.38"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222240",
-      "facility_id_b": "203000",
-      "description": "Amerish - SO25.AramaxChemicalCo to WG.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222240",
-      "facility_id_b": "222380",
-      "description": "Amerish - SO.25 to SO.38"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222250",
-      "facility_id_b": "203000",
-      "description": "Amerish - SO26.AuraxianCryoBank to WG.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222270",
-      "facility_id_b": "218000",
-      "description": "Amerish - SO28.RavenLanding to LO6.AuraxisFirearmsCorp"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222270",
-      "facility_id_b": "222280",
-      "description": "Amerish - SO28.RavenLanding to LO10.TheAscent"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222270",
-      "facility_id_b": "222350",
-      "description": "Amerish - SO28.RavenLanding to SO.35"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222290",
-      "facility_id_b": "204001",
-      "description": "Amerish - SO.29 to Kwathee .West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222300",
-      "facility_id_b": "205002",
-      "description": "Amerish - SO.30 to Ikanam.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222310",
-      "facility_id_b": "207002",
-      "description": "Amerish - SO.31 to Sungrey.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222320",
-      "facility_id_b": "205003",
-      "description": "Amerish - SO.32 to Ikanam.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222330",
-      "facility_id_b": "222340",
-      "description": "Amerish - SO.33 to SO.34"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222340",
-      "facility_id_b": "210001",
-      "description": "Amerish - SO.34 to Wokuk.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222340",
-      "facility_id_b": "400129"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222350",
-      "facility_id_b": "222280",
-      "description": "Amerish - SO.35 to LO.10.TheAscent"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222360",
-      "facility_id_b": "209002",
-      "description": "Amerish - SO.36 to Onatha.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222380",
-      "facility_id_b": "203000",
-      "description": "Amerish - SO.38 to Amerish.WG.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "222380",
-      "facility_id_b": "222250",
-      "description": "Amerish - SO.26 to SO.38"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "230000",
-      "facility_id_b": "258000",
-      "description": "Esamir - SO1.PalosSolar to WG.NW"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "231000",
-      "facility_id_b": "230000",
-      "description": "Esamir - SO.1 to SO.2"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "231000",
-      "facility_id_b": "232000",
-      "description": "Esamir - SO.2 to SO.3"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "231000",
-      "facility_id_b": "253000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "231000",
-      "facility_id_b": "258000",
-      "description": "Esamir - SO2.NorthernWeighStation to WG.NW"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "232000",
-      "facility_id_b": "255010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "232000",
-      "facility_id_b": "258000",
-      "description": "Esamir - SO3.HavenOutpost to WG.NW"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "234000",
-      "facility_id_b": "244620"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "234000",
-      "facility_id_b": "255030"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "237000",
-      "facility_id_b": "246000",
-      "description": "Esamir - SO8.TheTraverse to LO2.EsamirMunitions"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "239000",
-      "facility_id_b": "246000",
-      "description": "Esamir - SO10.ThePit to LO2.EsamirMunitions"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "240000",
-      "facility_id_b": "244200",
-      "description": "Esamir - SO11.OldShoreCheckpoint to SO17.BridgeWard"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "240000",
-      "facility_id_b": "244300",
-      "description": "Esamir - SO11.OldShoreCheckpoint to SO18.FrostbiteHarbor"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "240000",
-      "facility_id_b": "252010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "240000",
-      "facility_id_b": "259000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "243000",
-      "facility_id_b": "252010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244000",
-      "facility_id_b": "242000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244000",
-      "facility_id_b": "257000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244100",
-      "facility_id_b": "248000",
-      "description": "Esamir - SO16.EchoValley to LO4.SaerroListening"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244100",
-      "facility_id_b": "249000",
-      "description": "Esamir - SO16.EchoValley to LO5.GlacierStation"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244200",
-      "facility_id_b": "249000",
-      "description": "Esamir - SO17.BridgeWard to LO5.GlacierStation"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244200",
-      "facility_id_b": "252010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244300",
-      "facility_id_b": "259000",
-      "description": "Esamir - SO18.FrostbiteHarbor to WG.SW"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244500",
-      "facility_id_b": "251030"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244600",
-      "facility_id_b": "244300",
-      "description": "Esamir - SO.18 to SO.21"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244600",
-      "facility_id_b": "244500"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244600",
-      "facility_id_b": "259000",
-      "description": "Esamir - SO21.TwoStoneBeach to WG.South"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244610",
-      "facility_id_b": "233000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244610",
-      "facility_id_b": "234000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "244620",
-      "facility_id_b": "248000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "245000",
-      "facility_id_b": "230000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "245000",
-      "facility_id_b": "237000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "245000",
-      "facility_id_b": "251010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "248000",
-      "facility_id_b": "244610"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "253000",
-      "facility_id_b": "233000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "253000",
-      "facility_id_b": "237000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "254000",
-      "facility_id_b": "244610"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "254000",
-      "facility_id_b": "246000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "254000",
-      "facility_id_b": "248000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "255030",
-      "facility_id_b": "233000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "255030",
-      "facility_id_b": "255010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "256000",
-      "facility_id_b": "236000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "256000",
-      "facility_id_b": "242000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "256000",
-      "facility_id_b": "256030"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "256000",
-      "facility_id_b": "260000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "256030",
-      "facility_id_b": "248000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "260000",
-      "facility_id_b": "236000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "260000",
-      "facility_id_b": "242000"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "260004",
-      "facility_id_b": "201000",
-      "description": "Amerish - SO8.AmerishARXReserve to WG.NE"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "260004",
-      "facility_id_b": "222120",
-      "description": "Amerish - SO8.AmerishARXReserve to SO.13.BlackshardTungstenMine"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "260004",
-      "facility_id_b": "222130",
-      "description": "Amerish - SO.8 to SO.14"
+      "zone_id": "2",
+      "facility_id_a": "400132",
+      "facility_id_b": "5100"
     },
     {
       "zone_id": "4",
@@ -2315,88 +1459,970 @@
       "description": "Hossin - Chac to Chac.South"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310066",
-      "facility_id_b": "310073",
-      "description": "QAzone.AmpStation->QAzone.SO1"
+      "zone_id": "6",
+      "facility_id_a": "204000",
+      "facility_id_b": "204001",
+      "description": "Amerish - Kwahtee to Kwahtee.West"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310066",
-      "facility_id_b": "310076",
-      "description": "QAzone.AmpStation->QAzone.SO4"
+      "zone_id": "6",
+      "facility_id_a": "204000",
+      "facility_id_b": "204002",
+      "description": "Amerish - Kwahtee to Kwahtee.East"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310067",
-      "facility_id_b": "310074",
-      "description": "QAzone.BioLab->QAzone.SO.2"
+      "zone_id": "6",
+      "facility_id_a": "204000",
+      "facility_id_b": "204003",
+      "description": "Amerish - Kwahtee to Kwahtee.South"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310067",
-      "facility_id_b": "310075",
-      "description": "QAzone.BioLab->QAzone.SO.3"
+      "zone_id": "6",
+      "facility_id_a": "205000",
+      "facility_id_b": "205001",
+      "description": "Amerish - Ikanam to Ikanam.NW"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310068",
-      "facility_id_b": "310073",
-      "description": "QAzone.TechPlant->QAzone.SO.1"
+      "zone_id": "6",
+      "facility_id_a": "205000",
+      "facility_id_b": "205002",
+      "description": "Amerish - Ikanam to Ikanam.NE"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310068",
-      "facility_id_b": "310074",
-      "description": "QAzone.TechPlant->QAzone.SO.2"
+      "zone_id": "6",
+      "facility_id_a": "205000",
+      "facility_id_b": "205003",
+      "description": "Amerish - Ikanam to Ikanam.S"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310071",
-      "facility_id_b": "310073",
-      "description": "QAzone.LO.1->QAzone.SO.1"
+      "zone_id": "6",
+      "facility_id_a": "205002",
+      "facility_id_b": "222320"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310071",
-      "facility_id_b": "310074",
-      "description": "QAzone.LO.1->QAzone.SO.2"
+      "zone_id": "6",
+      "facility_id_a": "206000",
+      "facility_id_b": "206001",
+      "description": "Amerish - Heyoka to Heyoka.N"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310071",
-      "facility_id_b": "310075",
-      "description": "QAzone.LO.1->QAzone.SO.3"
+      "zone_id": "6",
+      "facility_id_a": "206000",
+      "facility_id_b": "206002",
+      "description": "Amerish - Heyoka to Heyoka.S"
     },
     {
-      "zone_id": "59",
-      "facility_id_a": "310071",
-      "facility_id_b": "310076",
-      "description": "QAzone.LO.1->QAzone.SO.4"
+      "zone_id": "6",
+      "facility_id_a": "207000",
+      "facility_id_b": "207001",
+      "description": "Amerish - Sungrey to Sungrey.West"
     },
     {
-      "zone_id": "95",
-      "facility_id_a": "310088",
-      "facility_id_b": "310061",
-      "description": "Tutorial - TR Spawn to Training Facility"
+      "zone_id": "6",
+      "facility_id_a": "207000",
+      "facility_id_b": "207002",
+      "description": "Amerish - Sungrey to Sungrey.North"
     },
     {
-      "zone_id": "95",
-      "facility_id_a": "310088",
-      "facility_id_b": "310062",
-      "description": "Tutorial - NC Spawn to Training Facility"
+      "zone_id": "6",
+      "facility_id_a": "207000",
+      "facility_id_b": "207003",
+      "description": "Amerish - Sungrey to Sungrey.East"
     },
     {
-      "zone_id": "95",
-      "facility_id_a": "310088",
-      "facility_id_b": "310063",
-      "description": "Tutorial - VS Spawn to Training Facility"
+      "zone_id": "6",
+      "facility_id_a": "208000",
+      "facility_id_b": "208001",
+      "description": "Amerish - Mekala to Mekala.North"
     },
     {
-      "zone_id": "95",
-      "facility_id_a": "310088",
-      "facility_id_b": "310612",
-      "description": "Link from Training Facility to Gate Shield facility so the generator can be overloaded"
+      "zone_id": "6",
+      "facility_id_a": "208000",
+      "facility_id_b": "208002",
+      "description": "Amerish - Mekala to Mekala.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209000",
+      "facility_id_b": "209001",
+      "description": "Amerish - Onatha to Onatha.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209000",
+      "facility_id_b": "209002",
+      "description": "Amerish - Onatha to Onatha.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209000",
+      "facility_id_b": "209003",
+      "description": "Amerish - Onatha to Onatha.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209001",
+      "facility_id_b": "209002"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209003",
+      "facility_id_b": "209001"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "210000",
+      "facility_id_b": "210001",
+      "description": "Amerish - Wokuk to Wokuk.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "210000",
+      "facility_id_b": "210002",
+      "description": "Amerish - Wokuk to Wokuk.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "210000",
+      "facility_id_b": "210003",
+      "description": "Amerish - Wokuk to Wokuk.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "211000",
+      "facility_id_b": "211001",
+      "description": "Amerish - Tumas to Tumas.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "211000",
+      "facility_id_b": "211002",
+      "description": "Amerish - Tumas to Tumas.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212000",
+      "facility_id_b": "212001",
+      "description": "Amerish - Xelas to Xelas.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212000",
+      "facility_id_b": "212002",
+      "description": "Amerish - Xelas to Xelas.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212000",
+      "facility_id_b": "212003",
+      "description": "Amerish - Xelas to Xelas.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212001",
+      "facility_id_b": "212003"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212002",
+      "facility_id_b": "212001"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "213000",
+      "facility_id_b": "205001",
+      "description": "Amerish - LO1.LithCorpSecureMine to Ikanam.NW"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "214000",
+      "facility_id_b": "207001",
+      "description": "Amerish - LO2.NCArsenal to Sungrey.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "214000",
+      "facility_id_b": "222060",
+      "description": "Amerish - LO2.NCArsenal to SO.7.AuraxiComNetworkHub"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "214000",
+      "facility_id_b": "222320",
+      "description": "Amerish - LO2.NCArsenal to SO.32"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "215000",
+      "facility_id_b": "209001",
+      "description": "Amerish - LO3.CruxMiningOperation to Onatha.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "216000",
+      "facility_id_b": "208001",
+      "description": "Amerish - LO4.CruxHeadquarters to Mekala.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "217000",
+      "facility_id_b": "222060",
+      "description": "Amerish - LO5.TheBastion to SO.7.AuraxiComNetwork"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "217000",
+      "facility_id_b": "222350",
+      "description": "Amerish - LO5.TheBastion to SO.35"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "218000",
+      "facility_id_b": "211002",
+      "description": "Amerish - LO6.AuraxisFirearms to Tumas.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "219000",
+      "facility_id_b": "212001",
+      "description": "Amerish - LO7.SplitPeakPass to Xelas.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "219000",
+      "facility_id_b": "222160",
+      "description": "Amerish - LO7.SplitPeakPass to SO.17.EastHillCheckpoint"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "219000",
+      "facility_id_b": "222190",
+      "description": "Amerish - LO7.SplitPeakPass to SO.20.AuraxiCom"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "220000",
+      "facility_id_b": "210002",
+      "description": "Amerish - LO8.WestPassWatchtower to Wokuk.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "220000",
+      "facility_id_b": "222180",
+      "description": "Amerish - LO8.WestPassWatchtower to SO.19.ChimneyRock"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "220000",
+      "facility_id_b": "400129"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "221000",
+      "facility_id_b": "212003",
+      "description": "Amerish - LO9.GraniteValleyGarrison to Xelas.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "221000",
+      "facility_id_b": "222250",
+      "description": "Amerish - LO9.GraniteValleyGarrison to SO.26.AuraxianCryobank"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222000",
+      "facility_id_b": "200000",
+      "description": "Amerish - SO1.StoneRidge to WG.NW"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222000",
+      "facility_id_b": "213000",
+      "description": "Amerish - SO1.StoneRidge to LO1.LithCorpSecureMine"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222010",
+      "facility_id_b": "222300",
+      "description": "Amerish - SO2.NorthGrove to SO.30"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222010",
+      "facility_id_b": "222310",
+      "description": "Amerish - SO2.NorthGrove to SO.31"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222020",
+      "facility_id_b": "201000",
+      "description": "Amerish - SO3.JaggedLanceMine to WG.NE"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222020",
+      "facility_id_b": "222030",
+      "description": "Amerish - SO3.JaggedLanceMine to SO4.HiddenHidge"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222020",
+      "facility_id_b": "260004",
+      "description": "Amerish - SO.3 to SO.8"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222030",
+      "facility_id_b": "207003",
+      "description": "Amerish - SO4.HiddenHidge to Sungrey.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222040",
+      "facility_id_b": "200000",
+      "description": "Amerish - SO5.SolTechCharging to WG.NW"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222040",
+      "facility_id_b": "222050",
+      "description": "Amerish - SO.5 to SO.6"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222040",
+      "facility_id_b": "222290",
+      "description": "Amerish - SO5.SolTechCharging to SO.29"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222050",
+      "facility_id_b": "200000",
+      "description": "Amerish - SO6.DesertedMineShaft to WG.NW"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222050",
+      "facility_id_b": "222000",
+      "description": "Amerish - SO.1 to SO.6"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222050",
+      "facility_id_b": "222100",
+      "description": "Amerish - SO6.DesertedMineShaft to SO.11.WestFoothillsAirdock"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222060",
+      "facility_id_b": "216000",
+      "description": "Amerish - SO7.AuraxiComNetworkHub to LO4.CruxHeadquarters"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222080",
+      "facility_id_b": "204003",
+      "description": "Amerish - SO9.GenudinePhysicsLab to Kwahtee.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222080",
+      "facility_id_b": "222330",
+      "description": "Amerish - SO9.GenudinePhysicsLab to SO.33"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222090",
+      "facility_id_b": "204002",
+      "description": "Amerish - SO10.CobaltCommunications to Kwahtee.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222090",
+      "facility_id_b": "400129"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222100",
+      "facility_id_b": "217000",
+      "description": "Amerish - SO11.WestFoothillsAirdock to LO5.TheBastion"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222110",
+      "facility_id_b": "206001",
+      "description": "Amerish - SO12.DeepCoreGeolab to Heyoka.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222110",
+      "facility_id_b": "217000",
+      "description": "Amerish - SO12.DeepCoreGeolab to LO5.TheBastion"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222120",
+      "facility_id_b": "216000",
+      "description": "Amerish - SO13.BlackshardTungstenMine to LO4.CruxHeadquarters"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222130",
+      "facility_id_b": "201000",
+      "description": "Amerish - SO14.ShadeSpireFarm to Amerish.WG.NE"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222130",
+      "facility_id_b": "215000",
+      "description": "Amerish - SO14.ShadeSpireFarm to LO3.CruxMining"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222150",
+      "facility_id_b": "216000",
+      "description": "Amerish - SO16.RockSlideOutlook to LO4.CruxHeadquarters"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222150",
+      "facility_id_b": "222280",
+      "description": "Amerish - SO16.RockSlideOutlook to LO10.TheAscent"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222150",
+      "facility_id_b": "222350",
+      "description": "Amerish - SO16.RockSlideOutlook to SO.35"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222160",
+      "facility_id_b": "209003",
+      "description": "Amerish - SO17.EastHillsCheckpoint to Onatha.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222170",
+      "facility_id_b": "222360",
+      "description": "Amerish - SO18.SilverValleyArsenal to SO.36"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222180",
+      "facility_id_b": "206002",
+      "description": "Amerish - SO19.ChimneyRockDepot to Heyoka.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222180",
+      "facility_id_b": "211001",
+      "description": "Amerish - SO19.ChimneyRockDepot to Tumas.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222190",
+      "facility_id_b": "208002",
+      "description": "Amerish - SO20.AuraxiComSubstation to Mekala.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222190",
+      "facility_id_b": "218000",
+      "description": "Amerish - SO20.AuraxiComSubstation to LO6.AuraxisFirearmsCorp"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222220",
+      "facility_id_b": "210003",
+      "description": "Amerish - SO23.TorremarStorageYard to Wokuk.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222220",
+      "facility_id_b": "222240",
+      "description": "Amerish - SO23.TorremarStorageYard to SO.25.AramaxChemicalCo"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222230",
+      "facility_id_b": "218000",
+      "description": "Amerish - SO24.HighRoadsStation to LO6.AuraxisFirearmsCorp"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222230",
+      "facility_id_b": "222380",
+      "description": "Amerish - SO24.HighRoadsStation to SO.38"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222240",
+      "facility_id_b": "203000",
+      "description": "Amerish - SO25.AramaxChemicalCo to WG.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222240",
+      "facility_id_b": "222380",
+      "description": "Amerish - SO.25 to SO.38"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222250",
+      "facility_id_b": "203000",
+      "description": "Amerish - SO26.AuraxianCryoBank to WG.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222270",
+      "facility_id_b": "218000",
+      "description": "Amerish - SO28.RavenLanding to LO6.AuraxisFirearmsCorp"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222270",
+      "facility_id_b": "222280",
+      "description": "Amerish - SO28.RavenLanding to LO10.TheAscent"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222270",
+      "facility_id_b": "222350",
+      "description": "Amerish - SO28.RavenLanding to SO.35"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222290",
+      "facility_id_b": "204001",
+      "description": "Amerish - SO.29 to Kwathee .West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222300",
+      "facility_id_b": "205002",
+      "description": "Amerish - SO.30 to Ikanam.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222310",
+      "facility_id_b": "207002",
+      "description": "Amerish - SO.31 to Sungrey.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222320",
+      "facility_id_b": "205003",
+      "description": "Amerish - SO.32 to Ikanam.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222330",
+      "facility_id_b": "222340",
+      "description": "Amerish - SO.33 to SO.34"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222340",
+      "facility_id_b": "210001",
+      "description": "Amerish - SO.34 to Wokuk.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222340",
+      "facility_id_b": "400129"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222350",
+      "facility_id_b": "222280",
+      "description": "Amerish - SO.35 to LO.10.TheAscent"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222360",
+      "facility_id_b": "209002",
+      "description": "Amerish - SO.36 to Onatha.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222380",
+      "facility_id_b": "203000",
+      "description": "Amerish - SO.38 to Amerish.WG.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "222380",
+      "facility_id_b": "222250",
+      "description": "Amerish - SO.26 to SO.38"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "260004",
+      "facility_id_b": "201000",
+      "description": "Amerish - SO8.AmerishARXReserve to WG.NE"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "260004",
+      "facility_id_b": "222120",
+      "description": "Amerish - SO8.AmerishARXReserve to SO.13.BlackshardTungstenMine"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "260004",
+      "facility_id_b": "222130",
+      "description": "Amerish - SO.8 to SO.14"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "400128",
+      "facility_id_b": "212002"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "400128",
+      "facility_id_b": "222170"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "230000",
+      "facility_id_b": "258000",
+      "description": "Esamir - SO1.PalosSolar to WG.NW"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "231000",
+      "facility_id_b": "230000",
+      "description": "Esamir - SO.1 to SO.2"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "231000",
+      "facility_id_b": "232000",
+      "description": "Esamir - SO.2 to SO.3"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "231000",
+      "facility_id_b": "253000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "231000",
+      "facility_id_b": "258000",
+      "description": "Esamir - SO2.NorthernWeighStation to WG.NW"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "232000",
+      "facility_id_b": "255010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "232000",
+      "facility_id_b": "258000",
+      "description": "Esamir - SO3.HavenOutpost to WG.NW"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "234000",
+      "facility_id_b": "244620"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "234000",
+      "facility_id_b": "255030"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "237000",
+      "facility_id_b": "246000",
+      "description": "Esamir - SO8.TheTraverse to LO2.EsamirMunitions"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "239000",
+      "facility_id_b": "246000",
+      "description": "Esamir - SO10.ThePit to LO2.EsamirMunitions"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "240000",
+      "facility_id_b": "244200",
+      "description": "Esamir - SO11.OldShoreCheckpoint to SO17.BridgeWard"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "240000",
+      "facility_id_b": "244300",
+      "description": "Esamir - SO11.OldShoreCheckpoint to SO18.FrostbiteHarbor"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "240000",
+      "facility_id_b": "252010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "240000",
+      "facility_id_b": "259000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "243000",
+      "facility_id_b": "252010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244000",
+      "facility_id_b": "242000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244000",
+      "facility_id_b": "257000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244100",
+      "facility_id_b": "248000",
+      "description": "Esamir - SO16.EchoValley to LO4.SaerroListening"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244100",
+      "facility_id_b": "249000",
+      "description": "Esamir - SO16.EchoValley to LO5.GlacierStation"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244200",
+      "facility_id_b": "249000",
+      "description": "Esamir - SO17.BridgeWard to LO5.GlacierStation"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244200",
+      "facility_id_b": "252010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244300",
+      "facility_id_b": "259000",
+      "description": "Esamir - SO18.FrostbiteHarbor to WG.SW"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244500",
+      "facility_id_b": "251030"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244600",
+      "facility_id_b": "244300",
+      "description": "Esamir - SO.18 to SO.21"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244600",
+      "facility_id_b": "244500"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244600",
+      "facility_id_b": "259000",
+      "description": "Esamir - SO21.TwoStoneBeach to WG.South"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244610",
+      "facility_id_b": "233000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244610",
+      "facility_id_b": "234000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "244620",
+      "facility_id_b": "248000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "245000",
+      "facility_id_b": "230000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "245000",
+      "facility_id_b": "237000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "245000",
+      "facility_id_b": "251010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "248000",
+      "facility_id_b": "244610"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "253000",
+      "facility_id_b": "233000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "253000",
+      "facility_id_b": "237000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "254000",
+      "facility_id_b": "244610"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "254000",
+      "facility_id_b": "246000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "254000",
+      "facility_id_b": "248000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "255030",
+      "facility_id_b": "233000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "255030",
+      "facility_id_b": "255010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "256000",
+      "facility_id_b": "236000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "256000",
+      "facility_id_b": "242000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "256000",
+      "facility_id_b": "256030"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "256000",
+      "facility_id_b": "260000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "256030",
+      "facility_id_b": "248000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "260000",
+      "facility_id_b": "236000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "260000",
+      "facility_id_b": "242000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400133",
+      "facility_id_b": "260010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400134",
+      "facility_id_b": "239000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400134",
+      "facility_id_b": "251030"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400135",
+      "facility_id_b": "244610"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400135",
+      "facility_id_b": "246000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400311",
+      "facility_id_b": "251010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400311",
+      "facility_id_b": "251030"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400314",
+      "facility_id_b": "239000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400314",
+      "facility_id_b": "249000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400314",
+      "facility_id_b": "254000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400315",
+      "facility_id_b": "236000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400315",
+      "facility_id_b": "244620"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400316",
+      "facility_id_b": "243000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400316",
+      "facility_id_b": "257000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400316",
+      "facility_id_b": "260010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400317",
+      "facility_id_b": "244100"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400317",
+      "facility_id_b": "400133"
     },
     {
       "zone_id": "10",
@@ -2520,6 +2546,90 @@
       "zone_id": "14",
       "facility_id_a": "400022",
       "facility_id_b": "400021"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310066",
+      "facility_id_b": "310073",
+      "description": "QAzone.AmpStation->QAzone.SO1"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310066",
+      "facility_id_b": "310076",
+      "description": "QAzone.AmpStation->QAzone.SO4"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310067",
+      "facility_id_b": "310074",
+      "description": "QAzone.BioLab->QAzone.SO.2"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310067",
+      "facility_id_b": "310075",
+      "description": "QAzone.BioLab->QAzone.SO.3"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310068",
+      "facility_id_b": "310073",
+      "description": "QAzone.TechPlant->QAzone.SO.1"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310068",
+      "facility_id_b": "310074",
+      "description": "QAzone.TechPlant->QAzone.SO.2"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310071",
+      "facility_id_b": "310073",
+      "description": "QAzone.LO.1->QAzone.SO.1"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310071",
+      "facility_id_b": "310074",
+      "description": "QAzone.LO.1->QAzone.SO.2"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310071",
+      "facility_id_b": "310075",
+      "description": "QAzone.LO.1->QAzone.SO.3"
+    },
+    {
+      "zone_id": "59",
+      "facility_id_a": "310071",
+      "facility_id_b": "310076",
+      "description": "QAzone.LO.1->QAzone.SO.4"
+    },
+    {
+      "zone_id": "95",
+      "facility_id_a": "310088",
+      "facility_id_b": "310061",
+      "description": "Tutorial - TR Spawn to Training Facility"
+    },
+    {
+      "zone_id": "95",
+      "facility_id_a": "310088",
+      "facility_id_b": "310062",
+      "description": "Tutorial - NC Spawn to Training Facility"
+    },
+    {
+      "zone_id": "95",
+      "facility_id_a": "310088",
+      "facility_id_b": "310063",
+      "description": "Tutorial - VS Spawn to Training Facility"
+    },
+    {
+      "zone_id": "95",
+      "facility_id_a": "310088",
+      "facility_id_b": "310612",
+      "description": "Link from Training Facility to Gate Shield facility so the generator can be overloaded"
     },
     {
       "zone_id": "309",
@@ -2702,56 +2812,6 @@
       "facility_id_b": "400099"
     },
     {
-      "zone_id": "6",
-      "facility_id_a": "400128",
-      "facility_id_b": "212002"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "400128",
-      "facility_id_b": "222170"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "400130",
-      "facility_id_b": "5700"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "400132",
-      "facility_id_b": "215"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "400132",
-      "facility_id_b": "5100"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400133",
-      "facility_id_b": "260010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400134",
-      "facility_id_b": "239000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400134",
-      "facility_id_b": "251030"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400135",
-      "facility_id_b": "244610"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400135",
-      "facility_id_b": "246000"
-    },
-    {
       "zone_id": "338",
       "facility_id_a": "400284",
       "facility_id_b": "400278"
@@ -2840,66 +2900,6 @@
       "zone_id": "338",
       "facility_id_a": "400293",
       "facility_id_b": "400292"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400311",
-      "facility_id_b": "251010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400311",
-      "facility_id_b": "251030"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400314",
-      "facility_id_b": "239000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400314",
-      "facility_id_b": "249000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400314",
-      "facility_id_b": "254000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400315",
-      "facility_id_b": "236000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400315",
-      "facility_id_b": "244620"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400316",
-      "facility_id_b": "243000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400316",
-      "facility_id_b": "257000"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400316",
-      "facility_id_b": "260010"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400317",
-      "facility_id_b": "244100"
-    },
-    {
-      "zone_id": "8",
-      "facility_id_a": "400317",
-      "facility_id_b": "400133"
     }
   ],
   "returned": 518
