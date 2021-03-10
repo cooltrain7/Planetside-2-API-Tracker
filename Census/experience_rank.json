@@ -61,34 +61,6 @@
       "xp_max": "375",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "2",
-      "xp_max": "375",
-      "vs": {
-        "title": {
           "en": "Novus 1"
         },
         "image_set_id": "1828",
@@ -111,6 +83,34 @@
         "image_id": "4066"
       },
       "tr_image_path": "/files/ps2/images/static/4066.png"
+    },
+    {
+      "rank": "2",
+      "xp_max": "375",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "3",
@@ -285,34 +285,6 @@
       "xp_max": "11625",
       "vs": {
         "title": {
-          "en": "Aspirant 1"
-        },
-        "image_set_id": "1828",
-        "image_id": "4065"
-      },
-      "vs_image_path": "/files/ps2/images/static/4065.png",
-      "nc": {
-        "title": {
-          "en": "Trooper 1"
-        },
-        "image_set_id": "1628",
-        "image_id": "4067"
-      },
-      "nc_image_path": "/files/ps2/images/static/4067.png",
-      "tr": {
-        "title": {
-          "en": "Lance Cpl. 1"
-        },
-        "image_set_id": "1728",
-        "image_id": "4066"
-      },
-      "tr_image_path": "/files/ps2/images/static/4066.png"
-    },
-    {
-      "rank": "6",
-      "xp_max": "11625",
-      "vs": {
-        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -335,6 +307,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "6",
+      "xp_max": "11625",
+      "vs": {
+        "title": {
+          "en": "Aspirant 1"
+        },
+        "image_set_id": "1828",
+        "image_id": "4065"
+      },
+      "vs_image_path": "/files/ps2/images/static/4065.png",
+      "nc": {
+        "title": {
+          "en": "Trooper 1"
+        },
+        "image_set_id": "1628",
+        "image_id": "4067"
+      },
+      "nc_image_path": "/files/ps2/images/static/4067.png",
+      "tr": {
+        "title": {
+          "en": "Lance Cpl. 1"
+        },
+        "image_set_id": "1728",
+        "image_id": "4066"
+      },
+      "tr_image_path": "/files/ps2/images/static/4066.png"
     },
     {
       "rank": "7",
@@ -397,6 +397,34 @@
       "xp_max": "24000",
       "vs": {
         "title": {
+          "en": "Lictor 1"
+        },
+        "image_set_id": "1828",
+        "image_id": "4065"
+      },
+      "vs_image_path": "/files/ps2/images/static/4065.png",
+      "nc": {
+        "title": {
+          "en": "Gunner 1"
+        },
+        "image_set_id": "1628",
+        "image_id": "4067"
+      },
+      "nc_image_path": "/files/ps2/images/static/4067.png",
+      "tr": {
+        "title": {
+          "en": "Corporal 1"
+        },
+        "image_set_id": "1728",
+        "image_id": "4066"
+      },
+      "tr_image_path": "/files/ps2/images/static/4066.png"
+    },
+    {
+      "rank": "8",
+      "xp_max": "24000",
+      "vs": {
+        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -421,32 +449,32 @@
       "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
-      "rank": "8",
-      "xp_max": "24000",
+      "rank": "9",
+      "xp_max": "31875",
       "vs": {
         "title": {
-          "en": "Lictor 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1828",
-        "image_id": "4065"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "vs_image_path": "/files/ps2/images/static/4065.png",
+      "vs_image_path": "/files/ps2/images/static/88685.png",
       "nc": {
         "title": {
-          "en": "Gunner 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1628",
-        "image_id": "4067"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "nc_image_path": "/files/ps2/images/static/4067.png",
+      "nc_image_path": "/files/ps2/images/static/88685.png",
       "tr": {
         "title": {
-          "en": "Corporal 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1728",
-        "image_id": "4066"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "tr_image_path": "/files/ps2/images/static/4066.png"
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "9",
@@ -475,34 +503,6 @@
         "image_id": "4066"
       },
       "tr_image_path": "/files/ps2/images/static/4066.png"
-    },
-    {
-      "rank": "9",
-      "xp_max": "31875",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "10",
@@ -621,34 +621,6 @@
       "xp_max": "69000",
       "vs": {
         "title": {
-          "en": "Decanus 2"
-        },
-        "image_set_id": "1833",
-        "image_id": "4080"
-      },
-      "vs_image_path": "/files/ps2/images/static/4080.png",
-      "nc": {
-        "title": {
-          "en": "Guerilla 2"
-        },
-        "image_set_id": "1633",
-        "image_id": "4082"
-      },
-      "nc_image_path": "/files/ps2/images/static/4082.png",
-      "tr": {
-        "title": {
-          "en": "Sergeant 2"
-        },
-        "image_set_id": "1733",
-        "image_id": "4081"
-      },
-      "tr_image_path": "/files/ps2/images/static/4081.png"
-    },
-    {
-      "rank": "12",
-      "xp_max": "69000",
-      "vs": {
-        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -671,6 +643,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "12",
+      "xp_max": "69000",
+      "vs": {
+        "title": {
+          "en": "Decanus 2"
+        },
+        "image_set_id": "1833",
+        "image_id": "4080"
+      },
+      "vs_image_path": "/files/ps2/images/static/4080.png",
+      "nc": {
+        "title": {
+          "en": "Guerilla 2"
+        },
+        "image_set_id": "1633",
+        "image_id": "4082"
+      },
+      "nc_image_path": "/files/ps2/images/static/4082.png",
+      "tr": {
+        "title": {
+          "en": "Sergeant 2"
+        },
+        "image_set_id": "1733",
+        "image_id": "4081"
+      },
+      "tr_image_path": "/files/ps2/images/static/4081.png"
     },
     {
       "rank": "13",
@@ -957,34 +957,6 @@
       "xp_max": "190500",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "18",
-      "xp_max": "190500",
-      "vs": {
-        "title": {
           "en": "Prefect 2"
         },
         "image_set_id": "1833",
@@ -1007,6 +979,34 @@
         "image_id": "4081"
       },
       "tr_image_path": "/files/ps2/images/static/4081.png"
+    },
+    {
+      "rank": "18",
+      "xp_max": "190500",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "19",
@@ -1293,34 +1293,6 @@
       "xp_max": "394125",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "24",
-      "xp_max": "394125",
-      "vs": {
-        "title": {
           "en": "Legionary 2"
         },
         "image_set_id": "1841",
@@ -1343,6 +1315,34 @@
         "image_id": "4106"
       },
       "tr_image_path": "/files/ps2/images/static/4106.png"
+    },
+    {
+      "rank": "24",
+      "xp_max": "394125",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "25",
@@ -1461,6 +1461,34 @@
       "xp_max": "543750",
       "vs": {
         "title": {
+          "en": "Adherent 2"
+        },
+        "image_set_id": "1841",
+        "image_id": "4104"
+      },
+      "vs_image_path": "/files/ps2/images/static/4104.png",
+      "nc": {
+        "title": {
+          "en": "Guardsman 2"
+        },
+        "image_set_id": "1641",
+        "image_id": "4105"
+      },
+      "nc_image_path": "/files/ps2/images/static/4105.png",
+      "tr": {
+        "title": {
+          "en": "First Sgt. 2"
+        },
+        "image_set_id": "1741",
+        "image_id": "4106"
+      },
+      "tr_image_path": "/files/ps2/images/static/4106.png"
+    },
+    {
+      "rank": "27",
+      "xp_max": "543750",
+      "vs": {
+        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -1485,32 +1513,32 @@
       "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
-      "rank": "27",
-      "xp_max": "543750",
+      "rank": "28",
+      "xp_max": "600000",
       "vs": {
         "title": {
-          "en": "Adherent 2"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1841",
-        "image_id": "4104"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "vs_image_path": "/files/ps2/images/static/4104.png",
+      "vs_image_path": "/files/ps2/images/static/88685.png",
       "nc": {
         "title": {
-          "en": "Guardsman 2"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1641",
-        "image_id": "4105"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "nc_image_path": "/files/ps2/images/static/4105.png",
+      "nc_image_path": "/files/ps2/images/static/88685.png",
       "tr": {
         "title": {
-          "en": "First Sgt. 2"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1741",
-        "image_id": "4106"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "tr_image_path": "/files/ps2/images/static/4106.png"
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "28",
@@ -1541,62 +1569,6 @@
       "tr_image_path": "/files/ps2/images/static/4106.png"
     },
     {
-      "rank": "28",
-      "xp_max": "600000",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "29",
-      "xp_max": "657375",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
       "rank": "29",
       "xp_max": "657375",
       "vs": {
@@ -1623,6 +1595,34 @@
         "image_id": "4106"
       },
       "tr_image_path": "/files/ps2/images/static/4106.png"
+    },
+    {
+      "rank": "29",
+      "xp_max": "657375",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "30",
@@ -1909,6 +1909,34 @@
       "xp_max": "1087125",
       "vs": {
         "title": {
+          "en": "Arcanus 1"
+        },
+        "image_set_id": "1856",
+        "image_id": "4149"
+      },
+      "vs_image_path": "/files/ps2/images/static/4149.png",
+      "nc": {
+        "title": {
+          "en": "Commando 1"
+        },
+        "image_set_id": "1656",
+        "image_id": "4150"
+      },
+      "nc_image_path": "/files/ps2/images/static/4150.png",
+      "tr": {
+        "title": {
+          "en": "Warrant Officer 1"
+        },
+        "image_set_id": "1756",
+        "image_id": "4151"
+      },
+      "tr_image_path": "/files/ps2/images/static/4151.png"
+    },
+    {
+      "rank": "35",
+      "xp_max": "1087125",
+      "vs": {
+        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -1933,32 +1961,32 @@
       "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
-      "rank": "35",
-      "xp_max": "1087125",
+      "rank": "36",
+      "xp_max": "1177125",
       "vs": {
         "title": {
-          "en": "Arcanus 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1856",
-        "image_id": "4149"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "vs_image_path": "/files/ps2/images/static/4149.png",
+      "vs_image_path": "/files/ps2/images/static/88685.png",
       "nc": {
         "title": {
-          "en": "Commando 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1656",
-        "image_id": "4150"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "nc_image_path": "/files/ps2/images/static/4150.png",
+      "nc_image_path": "/files/ps2/images/static/88685.png",
       "tr": {
         "title": {
-          "en": "Warrant Officer 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1756",
-        "image_id": "4151"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "tr_image_path": "/files/ps2/images/static/4151.png"
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "36",
@@ -1989,8 +2017,8 @@
       "tr_image_path": "/files/ps2/images/static/4151.png"
     },
     {
-      "rank": "36",
-      "xp_max": "1177125",
+      "rank": "37",
+      "xp_max": "1268250",
       "vs": {
         "title": {
           "en": "A.S.P. Operative"
@@ -2043,34 +2071,6 @@
         "image_id": "4151"
       },
       "tr_image_path": "/files/ps2/images/static/4151.png"
-    },
-    {
-      "rank": "37",
-      "xp_max": "1268250",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "38",
@@ -2133,6 +2133,34 @@
       "xp_max": "1453875",
       "vs": {
         "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "39",
+      "xp_max": "1453875",
+      "vs": {
+        "title": {
           "en": "Justicar 2"
         },
         "image_set_id": "1856",
@@ -2157,8 +2185,8 @@
       "tr_image_path": "/files/ps2/images/static/4151.png"
     },
     {
-      "rank": "39",
-      "xp_max": "1453875",
+      "rank": "40",
+      "xp_max": "1548375",
       "vs": {
         "title": {
           "en": "A.S.P. Operative"
@@ -2211,34 +2239,6 @@
         "image_id": "4168"
       },
       "tr_image_path": "/files/ps2/images/static/4168.png"
-    },
-    {
-      "rank": "40",
-      "xp_max": "1548375",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "41",
@@ -2301,34 +2301,6 @@
       "xp_max": "1765500",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "42",
-      "xp_max": "1765500",
-      "vs": {
-        "title": {
           "en": "Ascendant 1"
         },
         "image_set_id": "1862",
@@ -2351,6 +2323,34 @@
         "image_id": "4168"
       },
       "tr_image_path": "/files/ps2/images/static/4168.png"
+    },
+    {
+      "rank": "42",
+      "xp_max": "1765500",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "43",
@@ -2413,34 +2413,6 @@
       "xp_max": "1987125",
       "vs": {
         "title": {
-          "en": "Ascendant 3"
-        },
-        "image_set_id": "1862",
-        "image_id": "4169"
-      },
-      "vs_image_path": "/files/ps2/images/static/4169.png",
-      "nc": {
-        "title": {
-          "en": "Deputy 3"
-        },
-        "image_set_id": "1662",
-        "image_id": "4167"
-      },
-      "nc_image_path": "/files/ps2/images/static/4167.png",
-      "tr": {
-        "title": {
-          "en": "First Lt. 3"
-        },
-        "image_set_id": "1762",
-        "image_id": "4168"
-      },
-      "tr_image_path": "/files/ps2/images/static/4168.png"
-    },
-    {
-      "rank": "44",
-      "xp_max": "1987125",
-      "vs": {
-        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -2463,6 +2435,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "44",
+      "xp_max": "1987125",
+      "vs": {
+        "title": {
+          "en": "Ascendant 3"
+        },
+        "image_set_id": "1862",
+        "image_id": "4169"
+      },
+      "vs_image_path": "/files/ps2/images/static/4169.png",
+      "nc": {
+        "title": {
+          "en": "Deputy 3"
+        },
+        "image_set_id": "1662",
+        "image_id": "4167"
+      },
+      "nc_image_path": "/files/ps2/images/static/4167.png",
+      "tr": {
+        "title": {
+          "en": "First Lt. 3"
+        },
+        "image_set_id": "1762",
+        "image_id": "4168"
+      },
+      "tr_image_path": "/files/ps2/images/static/4168.png"
     },
     {
       "rank": "45",
@@ -2581,6 +2581,34 @@
       "xp_max": "2361750",
       "vs": {
         "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "47",
+      "xp_max": "2361750",
+      "vs": {
+        "title": {
           "en": "Primus 2"
         },
         "image_set_id": "1862",
@@ -2603,62 +2631,6 @@
         "image_id": "4168"
       },
       "tr_image_path": "/files/ps2/images/static/4168.png"
-    },
-    {
-      "rank": "47",
-      "xp_max": "2361750",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "48",
-      "xp_max": "2494500",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "48",
@@ -2689,32 +2661,32 @@
       "tr_image_path": "/files/ps2/images/static/4168.png"
     },
     {
-      "rank": "49",
-      "xp_max": "2628375",
+      "rank": "48",
+      "xp_max": "2494500",
       "vs": {
         "title": {
-          "en": "Primus 4"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1862",
-        "image_id": "4169"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "vs_image_path": "/files/ps2/images/static/4169.png",
+      "vs_image_path": "/files/ps2/images/static/88685.png",
       "nc": {
         "title": {
-          "en": "Ensign 4"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1662",
-        "image_id": "4167"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "nc_image_path": "/files/ps2/images/static/4167.png",
+      "nc_image_path": "/files/ps2/images/static/88685.png",
       "tr": {
         "title": {
-          "en": "Lt. Commander 4"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1762",
-        "image_id": "4168"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "tr_image_path": "/files/ps2/images/static/4168.png"
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "49",
@@ -2743,6 +2715,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "49",
+      "xp_max": "2628375",
+      "vs": {
+        "title": {
+          "en": "Primus 4"
+        },
+        "image_set_id": "1862",
+        "image_id": "4169"
+      },
+      "vs_image_path": "/files/ps2/images/static/4169.png",
+      "nc": {
+        "title": {
+          "en": "Ensign 4"
+        },
+        "image_set_id": "1662",
+        "image_id": "4167"
+      },
+      "nc_image_path": "/files/ps2/images/static/4167.png",
+      "tr": {
+        "title": {
+          "en": "Lt. Commander 4"
+        },
+        "image_set_id": "1762",
+        "image_id": "4168"
+      },
+      "tr_image_path": "/files/ps2/images/static/4168.png"
     },
     {
       "rank": "50",
@@ -2805,34 +2805,6 @@
       "xp_max": "2916375",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "51",
-      "xp_max": "2916375",
-      "vs": {
-        "title": {
           "en": "Centurion 1"
         },
         "image_set_id": "1869",
@@ -2855,6 +2827,34 @@
         "image_id": "4190"
       },
       "tr_image_path": "/files/ps2/images/static/4190.png"
+    },
+    {
+      "rank": "51",
+      "xp_max": "2916375",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "52",
@@ -2917,34 +2917,6 @@
       "xp_max": "3225750",
       "vs": {
         "title": {
-          "en": "Centurion 3"
-        },
-        "image_set_id": "1869",
-        "image_id": "4189"
-      },
-      "vs_image_path": "/files/ps2/images/static/4189.png",
-      "nc": {
-        "title": {
-          "en": "Agent 3"
-        },
-        "image_set_id": "1669",
-        "image_id": "4188"
-      },
-      "nc_image_path": "/files/ps2/images/static/4188.png",
-      "tr": {
-        "title": {
-          "en": "Commander 3"
-        },
-        "image_set_id": "1769",
-        "image_id": "4190"
-      },
-      "tr_image_path": "/files/ps2/images/static/4190.png"
-    },
-    {
-      "rank": "53",
-      "xp_max": "3225750",
-      "vs": {
-        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -2967,6 +2939,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "53",
+      "xp_max": "3225750",
+      "vs": {
+        "title": {
+          "en": "Centurion 3"
+        },
+        "image_set_id": "1869",
+        "image_id": "4189"
+      },
+      "vs_image_path": "/files/ps2/images/static/4189.png",
+      "nc": {
+        "title": {
+          "en": "Agent 3"
+        },
+        "image_set_id": "1669",
+        "image_id": "4188"
+      },
+      "nc_image_path": "/files/ps2/images/static/4188.png",
+      "tr": {
+        "title": {
+          "en": "Commander 3"
+        },
+        "image_set_id": "1769",
+        "image_id": "4190"
+      },
+      "tr_image_path": "/files/ps2/images/static/4190.png"
     },
     {
       "rank": "54",
@@ -3141,34 +3141,6 @@
       "xp_max": "3891750",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "57",
-      "xp_max": "3891750",
-      "vs": {
-        "title": {
           "en": "Signifer 2"
         },
         "image_set_id": "1869",
@@ -3191,6 +3163,34 @@
         "image_id": "4190"
       },
       "tr_image_path": "/files/ps2/images/static/4190.png"
+    },
+    {
+      "rank": "57",
+      "xp_max": "3891750",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "58",
@@ -3253,6 +3253,34 @@
       "xp_max": "4248375",
       "vs": {
         "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "59",
+      "xp_max": "4248375",
+      "vs": {
+        "title": {
           "en": "Signifer 4"
         },
         "image_set_id": "1869",
@@ -3275,62 +3303,6 @@
         "image_id": "4190"
       },
       "tr_image_path": "/files/ps2/images/static/4190.png"
-    },
-    {
-      "rank": "59",
-      "xp_max": "4248375",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "60",
-      "xp_max": "4428375",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "60",
@@ -3361,8 +3333,8 @@
       "tr_image_path": "/files/ps2/images/static/4231.png"
     },
     {
-      "rank": "61",
-      "xp_max": "4626375",
+      "rank": "60",
+      "xp_max": "4428375",
       "vs": {
         "title": {
           "en": "A.S.P. Operative"
@@ -3417,32 +3389,32 @@
       "tr_image_path": "/files/ps2/images/static/4231.png"
     },
     {
-      "rank": "62",
-      "xp_max": "4825500",
+      "rank": "61",
+      "xp_max": "4626375",
       "vs": {
         "title": {
-          "en": "Castellan 2"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1883",
-        "image_id": "4232"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "vs_image_path": "/files/ps2/images/static/4232.png",
+      "vs_image_path": "/files/ps2/images/static/88685.png",
       "nc": {
         "title": {
-          "en": "Warden 2"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1683",
-        "image_id": "4230"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "nc_image_path": "/files/ps2/images/static/4230.png",
+      "nc_image_path": "/files/ps2/images/static/88685.png",
       "tr": {
         "title": {
-          "en": "Major 2"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1783",
-        "image_id": "4231"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "tr_image_path": "/files/ps2/images/static/4231.png"
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "62",
@@ -3471,6 +3443,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "62",
+      "xp_max": "4825500",
+      "vs": {
+        "title": {
+          "en": "Castellan 2"
+        },
+        "image_set_id": "1883",
+        "image_id": "4232"
+      },
+      "vs_image_path": "/files/ps2/images/static/4232.png",
+      "nc": {
+        "title": {
+          "en": "Warden 2"
+        },
+        "image_set_id": "1683",
+        "image_id": "4230"
+      },
+      "nc_image_path": "/files/ps2/images/static/4230.png",
+      "tr": {
+        "title": {
+          "en": "Major 2"
+        },
+        "image_set_id": "1783",
+        "image_id": "4231"
+      },
+      "tr_image_path": "/files/ps2/images/static/4231.png"
     },
     {
       "rank": "63",
@@ -3533,6 +3533,34 @@
       "xp_max": "5227125",
       "vs": {
         "title": {
+          "en": "Castellan 4"
+        },
+        "image_set_id": "1883",
+        "image_id": "4232"
+      },
+      "vs_image_path": "/files/ps2/images/static/4232.png",
+      "nc": {
+        "title": {
+          "en": "Warden 4"
+        },
+        "image_set_id": "1683",
+        "image_id": "4230"
+      },
+      "nc_image_path": "/files/ps2/images/static/4230.png",
+      "tr": {
+        "title": {
+          "en": "Major 4"
+        },
+        "image_set_id": "1783",
+        "image_id": "4231"
+      },
+      "tr_image_path": "/files/ps2/images/static/4231.png"
+    },
+    {
+      "rank": "64",
+      "xp_max": "5227125",
+      "vs": {
+        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -3557,32 +3585,32 @@
       "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
-      "rank": "64",
-      "xp_max": "5227125",
+      "rank": "65",
+      "xp_max": "5429625",
       "vs": {
         "title": {
-          "en": "Castellan 4"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1883",
-        "image_id": "4232"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "vs_image_path": "/files/ps2/images/static/4232.png",
+      "vs_image_path": "/files/ps2/images/static/88685.png",
       "nc": {
         "title": {
-          "en": "Warden 4"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1683",
-        "image_id": "4230"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "nc_image_path": "/files/ps2/images/static/4230.png",
+      "nc_image_path": "/files/ps2/images/static/88685.png",
       "tr": {
         "title": {
-          "en": "Major 4"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1783",
-        "image_id": "4231"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "tr_image_path": "/files/ps2/images/static/4231.png"
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "65",
@@ -3613,8 +3641,8 @@
       "tr_image_path": "/files/ps2/images/static/4231.png"
     },
     {
-      "rank": "65",
-      "xp_max": "5429625",
+      "rank": "66",
+      "xp_max": "5654625",
       "vs": {
         "title": {
           "en": "A.S.P. Operative"
@@ -3669,62 +3697,6 @@
       "tr_image_path": "/files/ps2/images/static/4231.png"
     },
     {
-      "rank": "66",
-      "xp_max": "5654625",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "67",
-      "xp_max": "5881875",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
       "rank": "67",
       "xp_max": "5881875",
       "vs": {
@@ -3751,6 +3723,62 @@
         "image_id": "4231"
       },
       "tr_image_path": "/files/ps2/images/static/4231.png"
+    },
+    {
+      "rank": "67",
+      "xp_max": "5881875",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "68",
+      "xp_max": "6111375",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "68",
@@ -3781,62 +3809,6 @@
       "tr_image_path": "/files/ps2/images/static/4231.png"
     },
     {
-      "rank": "68",
-      "xp_max": "6111375",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "69",
-      "xp_max": "6343125",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
       "rank": "69",
       "xp_max": "6343125",
       "vs": {
@@ -3863,6 +3835,34 @@
         "image_id": "4231"
       },
       "tr_image_path": "/files/ps2/images/static/4231.png"
+    },
+    {
+      "rank": "69",
+      "xp_max": "6343125",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "70",
@@ -3981,6 +3981,34 @@
       "xp_max": "7092375",
       "vs": {
         "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "72",
+      "xp_max": "7092375",
+      "vs": {
+        "title": {
           "en": "Legate 2"
         },
         "image_set_id": "1893",
@@ -4003,62 +4031,6 @@
         "image_id": "4262"
       },
       "tr_image_path": "/files/ps2/images/static/4262.png"
-    },
-    {
-      "rank": "72",
-      "xp_max": "7092375",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "73",
-      "xp_max": "7353375",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "73",
@@ -4087,6 +4059,34 @@
         "image_id": "4262"
       },
       "tr_image_path": "/files/ps2/images/static/4262.png"
+    },
+    {
+      "rank": "73",
+      "xp_max": "7353375",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "74",
@@ -4317,6 +4317,34 @@
       "xp_max": "8773125",
       "vs": {
         "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "78",
+      "xp_max": "8773125",
+      "vs": {
+        "title": {
           "en": "Archon 3"
         },
         "image_set_id": "1893",
@@ -4341,8 +4369,8 @@
       "tr_image_path": "/files/ps2/images/static/4262.png"
     },
     {
-      "rank": "78",
-      "xp_max": "8773125",
+      "rank": "79",
+      "xp_max": "9079125",
       "vs": {
         "title": {
           "en": "A.S.P. Operative"
@@ -4395,34 +4423,6 @@
         "image_id": "4262"
       },
       "tr_image_path": "/files/ps2/images/static/4262.png"
-    },
-    {
-      "rank": "79",
-      "xp_max": "9079125",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "80",
@@ -4485,34 +4485,6 @@
       "xp_max": "9731625",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "81",
-      "xp_max": "9731625",
-      "vs": {
-        "title": {
           "en": "Archon 6"
         },
         "image_set_id": "1903",
@@ -4535,6 +4507,34 @@
         "image_id": "4291"
       },
       "tr_image_path": "/files/ps2/images/static/4291.png"
+    },
+    {
+      "rank": "81",
+      "xp_max": "9731625",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "82",
@@ -4597,34 +4597,6 @@
       "xp_max": "10429125",
       "vs": {
         "title": {
-          "en": "Praetor 2"
-        },
-        "image_set_id": "1903",
-        "image_id": "4292"
-      },
-      "vs_image_path": "/files/ps2/images/static/4292.png",
-      "nc": {
-        "title": {
-          "en": "Maj. General 2"
-        },
-        "image_set_id": "1703",
-        "image_id": "4290"
-      },
-      "nc_image_path": "/files/ps2/images/static/4290.png",
-      "tr": {
-        "title": {
-          "en": "Maj. General 2"
-        },
-        "image_set_id": "1803",
-        "image_id": "4291"
-      },
-      "tr_image_path": "/files/ps2/images/static/4291.png"
-    },
-    {
-      "rank": "83",
-      "xp_max": "10429125",
-      "vs": {
-        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -4647,6 +4619,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "83",
+      "xp_max": "10429125",
+      "vs": {
+        "title": {
+          "en": "Praetor 2"
+        },
+        "image_set_id": "1903",
+        "image_id": "4292"
+      },
+      "vs_image_path": "/files/ps2/images/static/4292.png",
+      "nc": {
+        "title": {
+          "en": "Maj. General 2"
+        },
+        "image_set_id": "1703",
+        "image_id": "4290"
+      },
+      "nc_image_path": "/files/ps2/images/static/4290.png",
+      "tr": {
+        "title": {
+          "en": "Maj. General 2"
+        },
+        "image_set_id": "1803",
+        "image_id": "4291"
+      },
+      "tr_image_path": "/files/ps2/images/static/4291.png"
     },
     {
       "rank": "84",
@@ -4709,34 +4709,6 @@
       "xp_max": "11144625",
       "vs": {
         "title": {
-          "en": "Praetor 4"
-        },
-        "image_set_id": "1903",
-        "image_id": "4292"
-      },
-      "vs_image_path": "/files/ps2/images/static/4292.png",
-      "nc": {
-        "title": {
-          "en": "Maj. General 4"
-        },
-        "image_set_id": "1703",
-        "image_id": "4290"
-      },
-      "nc_image_path": "/files/ps2/images/static/4290.png",
-      "tr": {
-        "title": {
-          "en": "Maj. General 4"
-        },
-        "image_set_id": "1803",
-        "image_id": "4291"
-      },
-      "tr_image_path": "/files/ps2/images/static/4291.png"
-    },
-    {
-      "rank": "85",
-      "xp_max": "11144625",
-      "vs": {
-        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -4759,6 +4731,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "85",
+      "xp_max": "11144625",
+      "vs": {
+        "title": {
+          "en": "Praetor 4"
+        },
+        "image_set_id": "1903",
+        "image_id": "4292"
+      },
+      "vs_image_path": "/files/ps2/images/static/4292.png",
+      "nc": {
+        "title": {
+          "en": "Maj. General 4"
+        },
+        "image_set_id": "1703",
+        "image_id": "4290"
+      },
+      "nc_image_path": "/files/ps2/images/static/4290.png",
+      "tr": {
+        "title": {
+          "en": "Maj. General 4"
+        },
+        "image_set_id": "1803",
+        "image_id": "4291"
+      },
+      "tr_image_path": "/files/ps2/images/static/4291.png"
     },
     {
       "rank": "86",
@@ -4821,34 +4821,6 @@
       "xp_max": "11941125",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "87",
-      "xp_max": "11941125",
-      "vs": {
-        "title": {
           "en": "Praetor 6"
         },
         "image_set_id": "1903",
@@ -4871,6 +4843,34 @@
         "image_id": "4291"
       },
       "tr_image_path": "/files/ps2/images/static/4291.png"
+    },
+    {
+      "rank": "87",
+      "xp_max": "11941125",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "88",
@@ -4989,34 +4989,6 @@
       "xp_max": "13169625",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "90",
-      "xp_max": "13169625",
-      "vs": {
-        "title": {
           "en": "Harbinger 3"
         },
         "image_set_id": "1927",
@@ -5039,6 +5011,34 @@
         "image_id": "4362"
       },
       "tr_image_path": "/files/ps2/images/static/4362.png"
+    },
+    {
+      "rank": "90",
+      "xp_max": "13169625",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "91",
@@ -5101,34 +5101,6 @@
       "xp_max": "14083125",
       "vs": {
         "title": {
-          "en": "Harbinger 5"
-        },
-        "image_set_id": "1927",
-        "image_id": "4363"
-      },
-      "vs_image_path": "/files/ps2/images/static/4363.png",
-      "nc": {
-        "title": {
-          "en": "Deputy Director 5"
-        },
-        "image_set_id": "1727",
-        "image_id": "4364"
-      },
-      "nc_image_path": "/files/ps2/images/static/4364.png",
-      "tr": {
-        "title": {
-          "en": "Lt. General 5"
-        },
-        "image_set_id": "1827",
-        "image_id": "4362"
-      },
-      "tr_image_path": "/files/ps2/images/static/4362.png"
-    },
-    {
-      "rank": "92",
-      "xp_max": "14083125",
-      "vs": {
-        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -5151,6 +5123,34 @@
         "image_id": "88685"
       },
       "tr_image_path": "/files/ps2/images/static/88685.png"
+    },
+    {
+      "rank": "92",
+      "xp_max": "14083125",
+      "vs": {
+        "title": {
+          "en": "Harbinger 5"
+        },
+        "image_set_id": "1927",
+        "image_id": "4363"
+      },
+      "vs_image_path": "/files/ps2/images/static/4363.png",
+      "nc": {
+        "title": {
+          "en": "Deputy Director 5"
+        },
+        "image_set_id": "1727",
+        "image_id": "4364"
+      },
+      "nc_image_path": "/files/ps2/images/static/4364.png",
+      "tr": {
+        "title": {
+          "en": "Lt. General 5"
+        },
+        "image_set_id": "1827",
+        "image_id": "4362"
+      },
+      "tr_image_path": "/files/ps2/images/static/4362.png"
     },
     {
       "rank": "93",
@@ -5213,6 +5213,34 @@
       "xp_max": "15014625",
       "vs": {
         "title": {
+          "en": "Primarch 1"
+        },
+        "image_set_id": "1927",
+        "image_id": "4363"
+      },
+      "vs_image_path": "/files/ps2/images/static/4363.png",
+      "nc": {
+        "title": {
+          "en": "Director General 1"
+        },
+        "image_set_id": "1727",
+        "image_id": "4364"
+      },
+      "nc_image_path": "/files/ps2/images/static/4364.png",
+      "tr": {
+        "title": {
+          "en": "General 1"
+        },
+        "image_set_id": "1827",
+        "image_id": "4362"
+      },
+      "tr_image_path": "/files/ps2/images/static/4362.png"
+    },
+    {
+      "rank": "94",
+      "xp_max": "15014625",
+      "vs": {
+        "title": {
           "en": "A.S.P. Operative"
         },
         "image_set_id": "804210",
@@ -5237,32 +5265,32 @@
       "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
-      "rank": "94",
-      "xp_max": "15014625",
+      "rank": "95",
+      "xp_max": "15487125",
       "vs": {
         "title": {
-          "en": "Primarch 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1927",
-        "image_id": "4363"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "vs_image_path": "/files/ps2/images/static/4363.png",
+      "vs_image_path": "/files/ps2/images/static/88685.png",
       "nc": {
         "title": {
-          "en": "Director General 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1727",
-        "image_id": "4364"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "nc_image_path": "/files/ps2/images/static/4364.png",
+      "nc_image_path": "/files/ps2/images/static/88685.png",
       "tr": {
         "title": {
-          "en": "General 1"
+          "en": "A.S.P. Operative"
         },
-        "image_set_id": "1827",
-        "image_id": "4362"
+        "image_set_id": "804210",
+        "image_id": "88685"
       },
-      "tr_image_path": "/files/ps2/images/static/4362.png"
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "95",
@@ -5291,34 +5319,6 @@
         "image_id": "4362"
       },
       "tr_image_path": "/files/ps2/images/static/4362.png"
-    },
-    {
-      "rank": "95",
-      "xp_max": "15487125",
-      "vs": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "96",
@@ -5381,34 +5381,6 @@
       "xp_max": "16558125",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "97",
-      "xp_max": "16558125",
-      "vs": {
-        "title": {
           "en": "Primarch 4"
         },
         "image_set_id": "1927",
@@ -5431,6 +5403,34 @@
         "image_id": "4362"
       },
       "tr_image_path": "/files/ps2/images/static/4362.png"
+    },
+    {
+      "rank": "97",
+      "xp_max": "16558125",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "98",
@@ -5549,34 +5549,6 @@
       "xp_max": "18868950",
       "vs": {
         "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "vs_image_path": "/files/ps2/images/static/88685.png",
-      "nc": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "nc_image_path": "/files/ps2/images/static/88685.png",
-      "tr": {
-        "title": {
-          "en": "A.S.P. Operative"
-        },
-        "image_set_id": "804210",
-        "image_id": "88685"
-      },
-      "tr_image_path": "/files/ps2/images/static/88685.png"
-    },
-    {
-      "rank": "100",
-      "xp_max": "18868950",
-      "vs": {
-        "title": {
           "en": "Paragon"
         },
         "image_set_id": "1927",
@@ -5599,6 +5571,34 @@
         "image_id": "4362"
       },
       "tr_image_path": "/files/ps2/images/static/4362.png"
+    },
+    {
+      "rank": "100",
+      "xp_max": "18868950",
+      "vs": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "vs_image_path": "/files/ps2/images/static/88685.png",
+      "nc": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "nc_image_path": "/files/ps2/images/static/88685.png",
+      "tr": {
+        "title": {
+          "en": "A.S.P. Operative"
+        },
+        "image_set_id": "804210",
+        "image_id": "88685"
+      },
+      "tr_image_path": "/files/ps2/images/static/88685.png"
     },
     {
       "rank": "101",

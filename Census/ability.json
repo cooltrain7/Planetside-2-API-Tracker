@@ -21925,7 +21925,12 @@
       "ability_id": "1115699",
       "ability_type_id": "3",
       "distance_max": "1"
+    },
+    {
+      "ability_id": "1115775",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "5000"
     }
   ],
-  "returned": 4580
+  "returned": 4581
 }

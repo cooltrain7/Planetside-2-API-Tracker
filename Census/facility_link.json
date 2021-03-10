@@ -2,6 +2,21 @@
   "facility_link_list": [
     {
       "zone_id": "2",
+      "facility_id_a": "400130",
+      "facility_id_b": "5700"
+    },
+    {
+      "zone_id": "2",
+      "facility_id_a": "400132",
+      "facility_id_b": "215"
+    },
+    {
+      "zone_id": "2",
+      "facility_id_a": "400132",
+      "facility_id_b": "5100"
+    },
+    {
+      "zone_id": "2",
       "facility_id_a": "201",
       "facility_id_b": "209"
     },
@@ -746,21 +761,6 @@
       "description": "Indar - WG.Highlands to LO8.IndarBay"
     },
     {
-      "zone_id": "2",
-      "facility_id_a": "400130",
-      "facility_id_b": "5700"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "400132",
-      "facility_id_b": "215"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "400132",
-      "facility_id_b": "5100"
-    },
-    {
       "zone_id": "4",
       "facility_id_a": "261000",
       "facility_id_b": "262000",
@@ -1460,181 +1460,6 @@
     },
     {
       "zone_id": "6",
-      "facility_id_a": "204000",
-      "facility_id_b": "204001",
-      "description": "Amerish - Kwahtee to Kwahtee.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "204000",
-      "facility_id_b": "204002",
-      "description": "Amerish - Kwahtee to Kwahtee.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "204000",
-      "facility_id_b": "204003",
-      "description": "Amerish - Kwahtee to Kwahtee.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205000",
-      "facility_id_b": "205001",
-      "description": "Amerish - Ikanam to Ikanam.NW"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205000",
-      "facility_id_b": "205002",
-      "description": "Amerish - Ikanam to Ikanam.NE"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205000",
-      "facility_id_b": "205003",
-      "description": "Amerish - Ikanam to Ikanam.S"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "205002",
-      "facility_id_b": "222320"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "206000",
-      "facility_id_b": "206001",
-      "description": "Amerish - Heyoka to Heyoka.N"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "206000",
-      "facility_id_b": "206002",
-      "description": "Amerish - Heyoka to Heyoka.S"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "207000",
-      "facility_id_b": "207001",
-      "description": "Amerish - Sungrey to Sungrey.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "207000",
-      "facility_id_b": "207002",
-      "description": "Amerish - Sungrey to Sungrey.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "207000",
-      "facility_id_b": "207003",
-      "description": "Amerish - Sungrey to Sungrey.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "208000",
-      "facility_id_b": "208001",
-      "description": "Amerish - Mekala to Mekala.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "208000",
-      "facility_id_b": "208002",
-      "description": "Amerish - Mekala to Mekala.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209000",
-      "facility_id_b": "209001",
-      "description": "Amerish - Onatha to Onatha.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209000",
-      "facility_id_b": "209002",
-      "description": "Amerish - Onatha to Onatha.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209000",
-      "facility_id_b": "209003",
-      "description": "Amerish - Onatha to Onatha.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209001",
-      "facility_id_b": "209002"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209003",
-      "facility_id_b": "209001"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "210000",
-      "facility_id_b": "210001",
-      "description": "Amerish - Wokuk to Wokuk.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "210000",
-      "facility_id_b": "210002",
-      "description": "Amerish - Wokuk to Wokuk.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "210000",
-      "facility_id_b": "210003",
-      "description": "Amerish - Wokuk to Wokuk.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "211000",
-      "facility_id_b": "211001",
-      "description": "Amerish - Tumas to Tumas.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "211000",
-      "facility_id_b": "211002",
-      "description": "Amerish - Tumas to Tumas.East"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212000",
-      "facility_id_b": "212001",
-      "description": "Amerish - Xelas to Xelas.West"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212000",
-      "facility_id_b": "212002",
-      "description": "Amerish - Xelas to Xelas.North"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212000",
-      "facility_id_b": "212003",
-      "description": "Amerish - Xelas to Xelas.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212001",
-      "facility_id_b": "212003"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212002",
-      "facility_id_b": "212001"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "213000",
-      "facility_id_b": "205001",
-      "description": "Amerish - LO1.LithCorpSecureMine to Ikanam.NW"
-    },
-    {
-      "zone_id": "6",
       "facility_id_a": "214000",
       "facility_id_b": "207001",
       "description": "Amerish - LO2.NCArsenal to Sungrey.West"
@@ -2083,6 +1908,181 @@
       "zone_id": "6",
       "facility_id_a": "400128",
       "facility_id_b": "222170"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "204000",
+      "facility_id_b": "204001",
+      "description": "Amerish - Kwahtee to Kwahtee.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "204000",
+      "facility_id_b": "204002",
+      "description": "Amerish - Kwahtee to Kwahtee.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "204000",
+      "facility_id_b": "204003",
+      "description": "Amerish - Kwahtee to Kwahtee.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "205000",
+      "facility_id_b": "205001",
+      "description": "Amerish - Ikanam to Ikanam.NW"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "205000",
+      "facility_id_b": "205002",
+      "description": "Amerish - Ikanam to Ikanam.NE"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "205000",
+      "facility_id_b": "205003",
+      "description": "Amerish - Ikanam to Ikanam.S"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "205002",
+      "facility_id_b": "222320"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "206000",
+      "facility_id_b": "206001",
+      "description": "Amerish - Heyoka to Heyoka.N"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "206000",
+      "facility_id_b": "206002",
+      "description": "Amerish - Heyoka to Heyoka.S"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "207000",
+      "facility_id_b": "207001",
+      "description": "Amerish - Sungrey to Sungrey.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "207000",
+      "facility_id_b": "207002",
+      "description": "Amerish - Sungrey to Sungrey.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "207000",
+      "facility_id_b": "207003",
+      "description": "Amerish - Sungrey to Sungrey.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "208000",
+      "facility_id_b": "208001",
+      "description": "Amerish - Mekala to Mekala.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "208000",
+      "facility_id_b": "208002",
+      "description": "Amerish - Mekala to Mekala.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209000",
+      "facility_id_b": "209001",
+      "description": "Amerish - Onatha to Onatha.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209000",
+      "facility_id_b": "209002",
+      "description": "Amerish - Onatha to Onatha.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209000",
+      "facility_id_b": "209003",
+      "description": "Amerish - Onatha to Onatha.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209001",
+      "facility_id_b": "209002"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "209003",
+      "facility_id_b": "209001"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "210000",
+      "facility_id_b": "210001",
+      "description": "Amerish - Wokuk to Wokuk.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "210000",
+      "facility_id_b": "210002",
+      "description": "Amerish - Wokuk to Wokuk.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "210000",
+      "facility_id_b": "210003",
+      "description": "Amerish - Wokuk to Wokuk.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "211000",
+      "facility_id_b": "211001",
+      "description": "Amerish - Tumas to Tumas.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "211000",
+      "facility_id_b": "211002",
+      "description": "Amerish - Tumas to Tumas.East"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212000",
+      "facility_id_b": "212001",
+      "description": "Amerish - Xelas to Xelas.West"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212000",
+      "facility_id_b": "212002",
+      "description": "Amerish - Xelas to Xelas.North"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212000",
+      "facility_id_b": "212003",
+      "description": "Amerish - Xelas to Xelas.South"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212001",
+      "facility_id_b": "212003"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "212002",
+      "facility_id_b": "212001"
+    },
+    {
+      "zone_id": "6",
+      "facility_id_a": "213000",
+      "facility_id_b": "205001",
+      "description": "Amerish - LO1.LithCorpSecureMine to Ikanam.NW"
     },
     {
       "zone_id": "8",
