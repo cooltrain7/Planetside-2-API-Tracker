@@ -102399,7 +102399,37 @@
       "image_set_id": "1999",
       "image_id": "3586",
       "image_path": "/files/ps2/images/static/3586.png"
+    },
+    {
+      "skill_line_id": "17837",
+      "skill_points": "0",
+      "skill_category_id": "16724",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Maximum Ammo Capacity"
+      },
+      "description": {
+        "en": "Increases the maximum ammo capacity of the weapon."
+      },
+      "image_set_id": "2049",
+      "image_id": "3744",
+      "image_path": "/files/ps2/images/static/3744.png"
+    },
+    {
+      "skill_line_id": "17838",
+      "skill_points": "0",
+      "skill_category_id": "16725",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Reload Speed"
+      },
+      "description": {
+        "en": "Reduces the time it takes to reload the weapon."
+      },
+      "image_set_id": "2055",
+      "image_id": "3750",
+      "image_path": "/files/ps2/images/static/3750.png"
     }
   ],
-  "returned": 7023
+  "returned": 7025
 }

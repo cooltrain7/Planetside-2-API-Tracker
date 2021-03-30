@@ -12723,7 +12723,21 @@
       "image_set_id": "1563",
       "image_id": "2706",
       "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1861",
+      "skill_points": "875",
+      "required_item_id": "6008684",
+      "name": {
+        "en": "PRIMARY WEAPON: LB00 Python AP"
+      },
+      "description": {
+        "en": "The Python AP is loaded with fast-moving armor-piercing rounds that are strong against armored targets, but have little explosive yield. All factions can use this weapon."
+      },
+      "image_set_id": "2079",
+      "image_id": "3798",
+      "image_path": "/files/ps2/images/static/3798.png"
     }
   ],
-  "returned": 975
+  "returned": 976
 }

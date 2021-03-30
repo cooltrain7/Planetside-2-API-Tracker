@@ -29873,7 +29873,31 @@
       "image_set_id": "646",
       "image_id": "2140",
       "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16724",
+      "skill_set_id": "1861",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16725",
+      "skill_set_id": "1861",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
     }
   ],
-  "returned": 2247
+  "returned": 2249
 }
