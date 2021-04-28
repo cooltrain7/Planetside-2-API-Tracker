@@ -2141,7 +2141,25 @@
       "name": {
         "en": "Matchmaker"
       }
+    },
+    {
+      "title_id": "410",
+      "name": {
+        "en": "Researcher"
+      }
+    },
+    {
+      "title_id": "411",
+      "name": {
+        "en": "Bushwhacker"
+      }
+    },
+    {
+      "title_id": "412",
+      "name": {
+        "en": "Scavenger"
+      }
     }
   ],
-  "returned": 357
+  "returned": 360
 }

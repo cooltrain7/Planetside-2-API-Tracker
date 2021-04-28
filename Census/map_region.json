@@ -2870,20 +2870,31 @@
       "facility_name": "Aurora Materials Lab",
       "facility_type_id": "6",
       "facility_type": "Small Outpost",
-      "location_x": "1523.074",
-      "location_y": "131.3031",
-      "location_z": "-357.9702"
+      "location_x": "1431.570068",
+      "location_y": "123.978256",
+      "location_z": "-501.545166"
     },
     {
       "map_region_id": "18005",
       "zone_id": "8",
       "facility_id": "234000",
-      "facility_name": "Apex Genetics",
-      "facility_type_id": "6",
-      "facility_type": "Small Outpost",
+      "facility_name": "Mani Containment Site",
+      "facility_type_id": "11",
+      "facility_type": "Containment Site",
       "location_x": "1099.279",
       "location_y": "135.9144",
       "location_z": "409.8246"
+    },
+    {
+      "map_region_id": "18006",
+      "zone_id": "8",
+      "facility_id": "235000",
+      "facility_name": "Stillwater Watch",
+      "facility_type_id": "9",
+      "facility_type": "Construction Outpost",
+      "location_x": "1871.567",
+      "location_y": "71.16946",
+      "location_z": "1174.458"
     },
     {
       "map_region_id": "18007",
@@ -2985,6 +2996,17 @@
       "location_z": "-785.2059"
     },
     {
+      "map_region_id": "18018",
+      "zone_id": "8",
+      "facility_id": "247000",
+      "facility_name": "Northpoint Ruins",
+      "facility_type_id": "9",
+      "facility_type": "Construction Outpost",
+      "location_x": "2612.332",
+      "location_y": "84.41334",
+      "location_z": "1121.946"
+    },
+    {
       "map_region_id": "18019",
       "zone_id": "8",
       "facility_id": "248000",
@@ -3009,10 +3031,10 @@
     {
       "map_region_id": "18022",
       "zone_id": "8",
-      "facility_id": "400311",
-      "facility_name": "Andvari Ruins",
-      "facility_type_id": "9",
-      "facility_type": "Construction Outpost",
+      "facility_id": "400326",
+      "facility_name": "Andvari Containment Site",
+      "facility_type_id": "11",
+      "facility_type": "Containment Site",
       "location_x": "82",
       "location_y": "112",
       "location_z": "-2490"
@@ -3088,11 +3110,6 @@
       "location_z": "-1999.223",
       "reward_amount": "50",
       "reward_currency_id": "4"
-    },
-    {
-      "map_region_id": "18031",
-      "zone_id": "8",
-      "facility_name": "The Shattered Warpgate"
     },
     {
       "map_region_id": "18032",
@@ -3197,7 +3214,7 @@
       "map_region_id": "18058",
       "zone_id": "8",
       "facility_id": "255010",
-      "facility_name": "Mani Processing Plant",
+      "facility_name": "Steelshore Processing",
       "facility_type_id": "6",
       "facility_type": "Small Outpost",
       "location_x": "2416.213",
@@ -3205,10 +3222,21 @@
       "location_z": "-211.8569"
     },
     {
+      "map_region_id": "18059",
+      "zone_id": "8",
+      "facility_id": "255020",
+      "facility_name": "Steelshore Reconstruction",
+      "facility_type_id": "6",
+      "facility_type": "Small Outpost",
+      "location_x": "2578.249",
+      "location_y": "36.13608",
+      "location_z": "304.5212"
+    },
+    {
       "map_region_id": "18060",
       "zone_id": "8",
       "facility_id": "255030",
-      "facility_name": "Mani Lake Outpost",
+      "facility_name": "Esper Research Station",
       "facility_type_id": "6",
       "facility_type": "Small Outpost",
       "location_x": "1860.761",
@@ -3314,9 +3342,9 @@
       "facility_name": "Tapp Waystation",
       "facility_type_id": "9",
       "facility_type": "Construction Outpost",
-      "location_x": "-426.41",
-      "location_y": "125.05",
-      "location_z": "-1785.58"
+      "location_x": "-342.569336",
+      "location_y": "117.106079",
+      "location_z": "-1751.916504"
     },
     {
       "map_region_id": "18210",
@@ -3325,9 +3353,9 @@
       "facility_name": "Untapped Reservoir",
       "facility_type_id": "9",
       "facility_type": "Construction Outpost",
-      "location_x": "669.816833",
-      "location_y": "145.961075",
-      "location_z": "-499.824646"
+      "location_x": "757.12",
+      "location_y": "139.73",
+      "location_z": "-407.94"
     },
     {
       "map_region_id": "18249",
@@ -3352,17 +3380,17 @@
       "facility_name": "Vidar Observation Site",
       "facility_type_id": "9",
       "facility_type": "Construction Outpost",
-      "location_x": "910.731567",
-      "location_y": "-4.591265",
-      "location_z": "1434.519165"
+      "location_x": "1342.113403",
+      "location_y": "24.764065",
+      "location_z": "2176.018066"
     },
     {
       "map_region_id": "18252",
       "zone_id": "8",
-      "facility_id": "400316",
-      "facility_name": "Excavion DS-01E",
-      "facility_type_id": "5",
-      "facility_type": "Large Outpost",
+      "facility_id": "400327",
+      "facility_name": "Ymir Containment Site",
+      "facility_type_id": "11",
+      "facility_type": "Containment Site",
       "location_x": "-2047.06",
       "location_y": "103.53",
       "location_z": "1556.34"
@@ -3377,7 +3405,23 @@
       "location_x": "-440.229645",
       "location_y": "156.246552",
       "location_z": "1150.347046"
+    },
+    {
+      "map_region_id": "18261",
+      "zone_id": "8",
+      "facility_id": "400328",
+      "facility_name": "Spral Oasis",
+      "facility_type_id": "9",
+      "facility_type": "Construction Outpost",
+      "location_x": "-1454.66",
+      "location_y": "82.26",
+      "location_z": "1098.23"
+    },
+    {
+      "map_region_id": "18262",
+      "zone_id": "8",
+      "facility_name": "The Shattered Warpgate"
     }
   ],
-  "returned": 305
+  "returned": 309
 }

@@ -95065,7 +95065,7 @@
         "en": "Phylactery"
       },
       "description": {
-        "en": "Earning enough experience ticks will allow you to auto-revive upon death."
+        "en": "Multiple revives from allies charges your self-revive."
       },
       "image_set_id": "804065",
       "image_id": "88254",
@@ -96692,7 +96692,7 @@
         "en": "Heavyweight"
       },
       "description": {
-        "en": "Reduces flinch from being struck at the cost of a movement speed reduction."
+        "en": "Reduces screen shake and prevents you from being thrown by knockback effects."
       },
       "image_set_id": "804457",
       "image_id": "89393",

@@ -26226,6 +26226,214 @@
     },
     {
       "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "-2",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "-1",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "-1",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "-1",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "0",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "0",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "0",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "0",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "1",
+      "y": "8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "1",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "1",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "1",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "1",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "2",
+      "y": "7",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "2",
+      "y": "8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "2",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "2",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "2",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "3",
+      "y": "7",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "3",
+      "y": "8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "3",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "3",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "4",
+      "y": "8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18006",
+      "x": "4",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18007",
+      "x": "5",
+      "y": "5",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18007",
+      "x": "6",
+      "y": "4",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
       "map_region_id": "18007",
       "x": "6",
       "y": "5",
@@ -27378,6 +27586,158 @@
     },
     {
       "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-4",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-4",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-3",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-3",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-3",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-2",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-2",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-2",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-2",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-1",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-1",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-1",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "-1",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "0",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "0",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "0",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "0",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "1",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18018",
+      "x": "1",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
       "map_region_id": "18019",
       "x": "1",
       "y": "1",
@@ -27461,6 +27821,14 @@
       "map_region_id": "18019",
       "x": "4",
       "y": "0",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18019",
+      "x": "5",
+      "y": "-1",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -27515,14 +27883,6 @@
     {
       "zone_id": "8",
       "map_region_id": "18020",
-      "x": "2",
-      "y": "-2",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18020",
       "x": "3",
       "y": "-5",
       "hex_type": "0",
@@ -27539,24 +27899,8 @@
     {
       "zone_id": "8",
       "map_region_id": "18020",
-      "x": "3",
-      "y": "-3",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18020",
       "x": "4",
       "y": "-5",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18020",
-      "x": "4",
-      "y": "-4",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -27995,14 +28339,6 @@
     {
       "zone_id": "8",
       "map_region_id": "18025",
-      "x": "-1",
-      "y": "2",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18025",
       "x": "0",
       "y": "-2",
       "hex_type": "0",
@@ -28035,14 +28371,6 @@
     {
       "zone_id": "8",
       "map_region_id": "18025",
-      "x": "0",
-      "y": "2",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18025",
       "x": "1",
       "y": "-2",
       "hex_type": "0",
@@ -28061,6 +28389,14 @@
       "map_region_id": "18025",
       "x": "1",
       "y": "0",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18025",
+      "x": "2",
+      "y": "-2",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -29082,1521 +29418,9 @@
     },
     {
       "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-7",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-6",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-6",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-5",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-5",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-5",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-4",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-4",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-4",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-4",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-4",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-4",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-3",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-2",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "-1",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "0",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "1",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "2",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
+      "map_region_id": "18032",
       "x": "3",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "3",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "4",
-      "y": "20",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "5",
-      "y": "20",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "6",
-      "y": "20",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "7",
-      "y": "19",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "8",
-      "y": "18",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "14",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "15",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "16",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "9",
-      "y": "17",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "5",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "12",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "10",
-      "y": "13",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "11",
-      "y": "4",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "11",
-      "y": "5",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "11",
-      "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "11",
-      "y": "9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "11",
-      "y": "10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "11",
-      "y": "11",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "12",
-      "y": "4",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "12",
-      "y": "5",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18031",
-      "x": "13",
-      "y": "3",
+      "y": "-3",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -30605,6 +29429,14 @@
       "map_region_id": "18032",
       "x": "3",
       "y": "-2",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18032",
+      "x": "4",
+      "y": "-4",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -30645,14 +29477,6 @@
       "map_region_id": "18032",
       "x": "5",
       "y": "-2",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18032",
-      "x": "5",
-      "y": "-1",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -31315,80 +30139,8 @@
     {
       "zone_id": "8",
       "map_region_id": "18038",
-      "x": "10",
-      "y": "-10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "10",
-      "y": "-9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "10",
-      "y": "-8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "10",
-      "y": "-7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "11",
-      "y": "-10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "11",
-      "y": "-9",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "11",
-      "y": "-8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
       "x": "11",
       "y": "-7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "12",
-      "y": "-10",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18038",
-      "x": "12",
-      "y": "-9",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -31906,6 +30658,110 @@
     },
     {
       "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-7",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-6",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-6",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-5",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-5",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-5",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-4",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-4",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-4",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-3",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-3",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-3",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18059",
+      "x": "-2",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
       "map_region_id": "18060",
       "x": "-7",
       "y": "11",
@@ -32308,6 +31164,14 @@
       "zone_id": "8",
       "map_region_id": "18067",
       "x": "-1",
+      "y": "2",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18067",
+      "x": "-1",
       "y": "3",
       "hex_type": "0",
       "type_name": "Unrestricted access"
@@ -32317,6 +31181,14 @@
       "map_region_id": "18067",
       "x": "-1",
       "y": "4",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18067",
+      "x": "0",
+      "y": "2",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -32404,6 +31276,46 @@
       "zone_id": "8",
       "map_region_id": "18068",
       "x": "4",
+      "y": "3",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18068",
+      "x": "4",
+      "y": "4",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18068",
+      "x": "4",
+      "y": "5",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18068",
+      "x": "5",
+      "y": "3",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18068",
+      "x": "5",
+      "y": "4",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18068",
+      "x": "6",
       "y": "3",
       "hex_type": "0",
       "type_name": "Unrestricted access"
@@ -33267,8 +32179,8 @@
     {
       "zone_id": "8",
       "map_region_id": "18251",
-      "x": "4",
-      "y": "4",
+      "x": "3",
+      "y": "6",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -33276,7 +32188,15 @@
       "zone_id": "8",
       "map_region_id": "18251",
       "x": "4",
-      "y": "5",
+      "y": "6",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "4",
+      "y": "7",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -33284,7 +32204,7 @@
       "zone_id": "8",
       "map_region_id": "18251",
       "x": "5",
-      "y": "3",
+      "y": "6",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -33292,7 +32212,7 @@
       "zone_id": "8",
       "map_region_id": "18251",
       "x": "5",
-      "y": "4",
+      "y": "7",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -33300,7 +32220,7 @@
       "zone_id": "8",
       "map_region_id": "18251",
       "x": "5",
-      "y": "5",
+      "y": "8",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -33308,7 +32228,7 @@
       "zone_id": "8",
       "map_region_id": "18251",
       "x": "6",
-      "y": "3",
+      "y": "6",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -33316,7 +32236,87 @@
       "zone_id": "8",
       "map_region_id": "18251",
       "x": "6",
-      "y": "4",
+      "y": "7",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "6",
+      "y": "8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "7",
+      "y": "6",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "7",
+      "y": "7",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "7",
+      "y": "8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "8",
+      "y": "6",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "8",
+      "y": "7",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "8",
+      "y": "8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "9",
+      "y": "6",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "9",
+      "y": "7",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18251",
+      "x": "9",
+      "y": "8",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -33492,22 +32492,6 @@
       "zone_id": "8",
       "map_region_id": "18253",
       "x": "7",
-      "y": "-8",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "7",
-      "y": "-7",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "7",
       "y": "-6",
       "hex_type": "0",
       "type_name": "Unrestricted access"
@@ -33547,6 +32531,102 @@
     {
       "zone_id": "8",
       "map_region_id": "18253",
+      "x": "8",
+      "y": "-6",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "8",
+      "y": "-5",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "8",
+      "y": "-4",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "8",
+      "y": "-3",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "8",
+      "y": "-2",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "9",
+      "y": "-6",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "9",
+      "y": "-5",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "9",
+      "y": "-4",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "9",
+      "y": "-3",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18253",
+      "x": "9",
+      "y": "-2",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18261",
+      "x": "7",
+      "y": "-8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18261",
+      "x": "7",
+      "y": "-7",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18261",
       "x": "8",
       "y": "-9",
       "hex_type": "0",
@@ -33554,7 +32634,7 @@
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
+      "map_region_id": "18261",
       "x": "8",
       "y": "-8",
       "hex_type": "0",
@@ -33562,7 +32642,7 @@
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
+      "map_region_id": "18261",
       "x": "8",
       "y": "-7",
       "hex_type": "0",
@@ -33570,47 +32650,7 @@
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "8",
-      "y": "-6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "8",
-      "y": "-5",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "8",
-      "y": "-4",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "8",
-      "y": "-3",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "8",
-      "y": "-2",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18253",
+      "map_region_id": "18261",
       "x": "9",
       "y": "-9",
       "hex_type": "0",
@@ -33618,7 +32658,7 @@
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
+      "map_region_id": "18261",
       "x": "9",
       "y": "-8",
       "hex_type": "0",
@@ -33626,7 +32666,7 @@
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
+      "map_region_id": "18261",
       "x": "9",
       "y": "-7",
       "hex_type": "0",
@@ -33634,44 +32674,524 @@
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "9",
-      "y": "-6",
+      "map_region_id": "18261",
+      "x": "10",
+      "y": "-10",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "9",
-      "y": "-5",
+      "map_region_id": "18261",
+      "x": "10",
+      "y": "-9",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "9",
-      "y": "-4",
+      "map_region_id": "18261",
+      "x": "10",
+      "y": "-8",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
-      "x": "9",
-      "y": "-3",
+      "map_region_id": "18261",
+      "x": "10",
+      "y": "-7",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
     {
       "zone_id": "8",
-      "map_region_id": "18253",
+      "map_region_id": "18261",
+      "x": "11",
+      "y": "-10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18261",
+      "x": "11",
+      "y": "-9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18261",
+      "x": "11",
+      "y": "-8",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18261",
+      "x": "12",
+      "y": "-10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18261",
+      "x": "12",
+      "y": "-9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "1",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "1",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "2",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "2",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "2",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "2",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "2",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "3",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "3",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "3",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "3",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "3",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "3",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "4",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "4",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "4",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "4",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "4",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "4",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "4",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "5",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "6",
+      "y": "16",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "7",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "7",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "7",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "7",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "7",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "7",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "7",
+      "y": "15",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "8",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "8",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "8",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "8",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "8",
+      "y": "13",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "8",
+      "y": "14",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
       "x": "9",
-      "y": "-2",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "9",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "9",
+      "y": "11",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "9",
+      "y": "12",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "10",
+      "y": "9",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "10",
+      "y": "10",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18262",
+      "x": "10",
+      "y": "11",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     }
   ],
-  "returned": 4209
+  "returned": 4149
 }

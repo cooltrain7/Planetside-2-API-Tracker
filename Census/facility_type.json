@@ -39,7 +39,11 @@
     {
       "facility_type_id": "10",
       "description": "Relic Outpost (Desolation)"
+    },
+    {
+      "facility_type_id": "11",
+      "description": "Containment Site"
     }
   ],
-  "returned": 10
+  "returned": 11
 }

@@ -21927,10 +21927,105 @@
       "distance_max": "1"
     },
     {
+      "ability_id": "1115715",
+      "ability_type_id": "6",
+      "param1": "0"
+    },
+    {
+      "ability_id": "1115716",
+      "ability_type_id": "3",
+      "distance_max": "1"
+    },
+    {
+      "ability_id": "1115720",
+      "ability_type_id": "18",
+      "reuse_delay_msec": "60000",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1115739",
+      "ability_type_id": "19",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
       "ability_id": "1115775",
       "ability_type_id": "12",
       "reuse_delay_msec": "5000"
+    },
+    {
+      "ability_id": "1115802",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "60000",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1115805",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "60000",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1115856",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "2500"
+    },
+    {
+      "ability_id": "1115857",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "3000"
     }
   ],
-  "returned": 4581
+  "returned": 4589
 }

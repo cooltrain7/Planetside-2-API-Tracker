@@ -2069,7 +2069,15 @@
       "zone_id": "8",
       "initial_faction_id": "1",
       "name": {
-        "en": "Apex Genetics"
+        "en": "Mani Containment Site"
+      }
+    },
+    {
+      "region_id": "18006",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Stillwater Watch"
       }
     },
     {
@@ -2145,6 +2153,14 @@
       }
     },
     {
+      "region_id": "18018",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Northpoint Ruins"
+      }
+    },
+    {
       "region_id": "18019",
       "zone_id": "8",
       "initial_faction_id": "1",
@@ -2165,7 +2181,7 @@
       "zone_id": "8",
       "initial_faction_id": "3",
       "name": {
-        "en": "Andvari Ruins"
+        "en": "Andvari Containment Site"
       }
     },
     {
@@ -2214,14 +2230,6 @@
       "initial_faction_id": "2",
       "name": {
         "en": "Esamir Southern Warpgate"
-      }
-    },
-    {
-      "region_id": "18031",
-      "zone_id": "8",
-      "initial_faction_id": "0",
-      "name": {
-        "en": "The Shattered Warpgate"
       }
     },
     {
@@ -2301,7 +2309,15 @@
       "zone_id": "8",
       "initial_faction_id": "1",
       "name": {
-        "en": "Mani Processing Plant"
+        "en": "Steelshore Processing"
+      }
+    },
+    {
+      "region_id": "18059",
+      "zone_id": "8",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Steelshore Reconstruction"
       }
     },
     {
@@ -2309,7 +2325,7 @@
       "zone_id": "8",
       "initial_faction_id": "1",
       "name": {
-        "en": "Mani Lake Outpost"
+        "en": "Esper Research Station"
       }
     },
     {
@@ -2429,17 +2445,33 @@
       "zone_id": "8",
       "initial_faction_id": "3",
       "name": {
-        "en": "Excavion DS-01E"
+        "en": "Ymir Containment Site"
       }
     },
     {
       "region_id": "18253",
       "zone_id": "8",
-      "initial_faction_id": "0",
+      "initial_faction_id": "2",
       "name": {
         "en": "Jord"
       }
+    },
+    {
+      "region_id": "18261",
+      "zone_id": "8",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Spral Oasis"
+      }
+    },
+    {
+      "region_id": "18262",
+      "zone_id": "8",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "The Shattered Warpgate"
+      }
     }
   ],
-  "returned": 305
+  "returned": 309
 }

@@ -89,7 +89,7 @@
       },
       "type_id": "5",
       "type_name": "Four Wheeled Ground Vehicle",
-      "cost": "450",
+      "cost": "0",
       "cost_resource_id": "4",
       "image_set_id": "97",
       "image_id": "3993",
@@ -784,7 +784,23 @@
       "image_set_id": "97",
       "image_id": "3993",
       "image_path": "/files/ps2/images/static/3993.png"
+    },
+    {
+      "vehicle_id": "2136",
+      "name": {
+        "en": "Dervish"
+      },
+      "description": {
+        "en": "The Dervish is an airborne, heavy fighter. The pilot commands light forward-facing weaponry while a secondary gunner operates a top-turret that is capable of warding off enemy air vehicles and applying additional pressure to attack targets."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "93",
+      "image_id": "3981",
+      "image_path": "/files/ps2/images/static/3981.png"
     }
   ],
-  "returned": 52
+  "returned": 53
 }

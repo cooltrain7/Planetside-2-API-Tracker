@@ -827,7 +827,43 @@
     {
       "profile_id": "286",
       "description": "Sanctuary.ObservationDrone"
+    },
+    {
+      "profile_id": "287",
+      "description": "Triangulation Spike (Campaign)"
+    },
+    {
+      "profile_id": "288",
+      "description": "Dervish"
+    },
+    {
+      "profile_id": "289",
+      "description": "Facility - Containment Site Damage - Holo Graffiti"
+    },
+    {
+      "profile_id": "290",
+      "description": "Facility - Spawn Control Unit - Attackable"
+    },
+    {
+      "profile_id": "291",
+      "description": "Mission: Recon Sweep Waypoint"
+    },
+    {
+      "profile_id": "292",
+      "description": "ContainmentSite.VehicleBayShield.Weakspot"
+    },
+    {
+      "profile_id": "293",
+      "description": "ContainmentSite - Reliquary Shield Control"
+    },
+    {
+      "profile_id": "294",
+      "description": "Containment Site - Destroyable Cover - Plant"
+    },
+    {
+      "profile_id": "295",
+      "description": "Vehicle: Deploayble: Buoy"
     }
   ],
-  "returned": 207
+  "returned": 216
 }

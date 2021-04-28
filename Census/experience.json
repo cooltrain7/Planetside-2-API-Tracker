@@ -5893,7 +5893,37 @@
       "experience_id": "1543",
       "description": "Galaxy (Campaign) Spawn Bonus",
       "xp": "3"
+    },
+    {
+      "experience_id": "1544",
+      "description": "tutorial2.grantBr1",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1545",
+      "description": "Door Lock Repair",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1546",
+      "description": "Destroy Shield Door Lock",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1547",
+      "description": "Containment Site - Gate Shield Gen - Destroy",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1548",
+      "description": "Containment Site - Gate Shield Gen - Destroy Assist",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1549",
+      "description": "Containment Site - Gate Shield Gen - Repair",
+      "xp": "5"
     }
   ],
-  "returned": 1179
+  "returned": 1185
 }
