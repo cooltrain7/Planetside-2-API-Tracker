@@ -479,7 +479,7 @@
 7540,Heavy Weapon,Lasher X2,none
 7528,Heavy Weapon,NC05 Jackhammer,none
 7533,Heavy Weapon,T7 Mini-Chaingun,none
-6008686,Heavy Weapon,Grenade Printer,
+6008686,Heavy Weapon,Grenade Printer,max
 803732,Heavy Weapon,Lasher X2 AE,none
 6004144,Heavy Weapon,Lasher X2-P,none
 803756,Heavy Weapon,NC05 Jackhammer AE,none
@@ -888,36 +888,36 @@
 802584,Knife,Icikill,none
 286,Knife,Lumine Edge,none
 1,Knife,Mag-Cutter,none
-1082,Knife,MAX Punch,max
-1083,Knife,MAX Punch,max
-1084,Knife,MAX Punch,max
+1082,Knife,MAX Punch,none
+1083,Knife,MAX Punch,none
+1084,Knife,MAX Punch,none
 800627,Knife,NS AutoBlade,none
 802903,Knife,NS Campion,none
 802902,Knife,NS Harrower,none
 285,Knife,Ripper,none
 801969,Knife,The Slasher,none
-6008651,Knife,Ancient Psykinetic Blade,
-6005453,Knife,Carver AE,
-6008687,Knife,Defector Claws,
-6006080,Knife,Fatestealer,
-6005451,Knife,Lumine Edge AE,
-6006081,Knife,Nightshade,
-6006146,Knife,NS Campion,
-6006147,Knife,NS Campion,
-6004825,Knife,NS Commando,
-6009600,Knife,NS Firebug,
-6009463,Knife,NS Icebreaker,
-6009515,Knife,NS Icebreaker,
-6009516,Knife,NS Icebreaker,
-6009517,Knife,NS Icebreaker,
-6009518,Knife,NS Icebreaker,
-802904,Knife,NS Victory,
-6006067,Knife,NS-A Commando,
-6005664,Knife,NS-G Commando,
-804113,Knife,"NS-TMC-01 ""His Regards""",
-6005743,Knife,NS-W Survivor,
-804795,Knife,NSX Amaterasu,
-6005452,Knife,Ripper AE,
+6008651,Knife,Ancient Psykinetic Blade,none
+6005453,Knife,Carver AE,none
+6008687,Knife,Defector Claws,none
+6006080,Knife,Fatestealer,none
+6005451,Knife,Lumine Edge AE,none
+6006081,Knife,Nightshade,none
+6006146,Knife,NS Campion,none
+6006147,Knife,NS Campion,none
+6004825,Knife,NS Commando,none
+6009600,Knife,NS Firebug,none
+6009463,Knife,NS Icebreaker,none
+6009515,Knife,NS Icebreaker,none
+6009516,Knife,NS Icebreaker,none
+6009517,Knife,NS Icebreaker,none
+6009518,Knife,NS Icebreaker,none
+802904,Knife,NS Victory,none
+6006067,Knife,NS-A Commando,none
+6005664,Knife,NS-G Commando,none
+804113,Knife,"NS-TMC-01 ""His Regards""",none
+6005743,Knife,NS-W Survivor,none
+804795,Knife,NSX Amaterasu,none
+6005452,Knife,Ripper AE,none
 1894,LMG,Betelgeuse 54-A,infantry
 7232,LMG,EM1,infantry
 7235,LMG,EM6,infantry
