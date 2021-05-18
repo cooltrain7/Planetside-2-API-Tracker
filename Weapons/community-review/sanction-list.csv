@@ -168,45 +168,45 @@
 6008665,Assault Rifle,"NSX ""Networked"" Yumi",infantry
 6008371,Assault Rifle,PSA-02 Diamondback,
 6006188,Assault Rifle,VE-A Lacerta,
-6008906,Bastion Bombard,Mauler Cannon,
-6008907,Bastion Bombard,Mauler Cannon,
-6008908,Bastion Bombard,Mauler Cannon,
-6008909,Bastion Bombard,Mauler Cannon,
-6009001,Bastion Bombard,Mauler Cannon,
-6009002,Bastion Bombard,Mauler Cannon,
-6009003,Bastion Bombard,Mauler Cannon,
-6009004,Bastion Bombard,Mauler Cannon,
-6009005,Bastion Bombard,Mauler Cannon,
-6009006,Bastion Bombard,Mauler Cannon,
-6009007,Bastion Bombard,Mauler Cannon,
-6009008,Bastion Bombard,Mauler Cannon,
-6008901,Bastion Point Defense,Bastion CDWS,
-6009023,Bastion Point Defense,Bastion CDWS,
-6009024,Bastion Point Defense,Bastion CDWS,
-6008903,Bastion Point Defense,Bastion CIWS,
-6008904,Bastion Point Defense,Bastion CIWS,
-6008905,Bastion Point Defense,Bastion CIWS,
-6008928,Bastion Point Defense,Bastion CIWS,
-6009015,Bastion Point Defense,Bastion CIWS,
-6009016,Bastion Point Defense,Bastion CIWS,
-6009017,Bastion Point Defense,Bastion CIWS,
-6009018,Bastion Point Defense,Bastion CIWS,
-6009019,Bastion Point Defense,Bastion CIWS,
-6009020,Bastion Point Defense,Bastion CIWS,
-6009021,Bastion Point Defense,Bastion CIWS,
-6009022,Bastion Point Defense,Bastion CIWS,
-6008910,Bastion Weapon System,Bastion Battery,
-6008911,Bastion Weapon System,Bastion Battery,
-6008929,Bastion Weapon System,Bastion Battery,
-6008930,Bastion Weapon System,Bastion Battery,
-6009036,Bastion Weapon System,Bastion Battery,
-6009037,Bastion Weapon System,Bastion Battery,
-6009038,Bastion Weapon System,Bastion Battery,
-6009039,Bastion Weapon System,Bastion Battery,
-6009040,Bastion Weapon System,Bastion Battery,
-6009041,Bastion Weapon System,Bastion Battery,
-6009042,Bastion Weapon System,Bastion Battery,
-6009043,Bastion Weapon System,Bastion Battery,
+6008906,Bastion Bombard,Mauler Cannon,none
+6008907,Bastion Bombard,Mauler Cannon,none
+6008908,Bastion Bombard,Mauler Cannon,none
+6008909,Bastion Bombard,Mauler Cannon,none
+6009001,Bastion Bombard,Mauler Cannon,none
+6009002,Bastion Bombard,Mauler Cannon,none
+6009003,Bastion Bombard,Mauler Cannon,none
+6009004,Bastion Bombard,Mauler Cannon,none
+6009005,Bastion Bombard,Mauler Cannon,none
+6009006,Bastion Bombard,Mauler Cannon,none
+6009007,Bastion Bombard,Mauler Cannon,none
+6009008,Bastion Bombard,Mauler Cannon,none
+6008901,Bastion Point Defense,Bastion CDWS,none
+6009023,Bastion Point Defense,Bastion CDWS,none
+6009024,Bastion Point Defense,Bastion CDWS,none
+6008903,Bastion Point Defense,Bastion CIWS,none
+6008904,Bastion Point Defense,Bastion CIWS,none
+6008905,Bastion Point Defense,Bastion CIWS,none
+6008928,Bastion Point Defense,Bastion CIWS,none
+6009015,Bastion Point Defense,Bastion CIWS,none
+6009016,Bastion Point Defense,Bastion CIWS,none
+6009017,Bastion Point Defense,Bastion CIWS,none
+6009018,Bastion Point Defense,Bastion CIWS,none
+6009019,Bastion Point Defense,Bastion CIWS,none
+6009020,Bastion Point Defense,Bastion CIWS,none
+6009021,Bastion Point Defense,Bastion CIWS,none
+6009022,Bastion Point Defense,Bastion CIWS,none
+6008910,Bastion Weapon System,Bastion Battery,none
+6008911,Bastion Weapon System,Bastion Battery,none
+6008929,Bastion Weapon System,Bastion Battery,none
+6008930,Bastion Weapon System,Bastion Battery,none
+6009036,Bastion Weapon System,Bastion Battery,none
+6009037,Bastion Weapon System,Bastion Battery,none
+6009038,Bastion Weapon System,Bastion Battery,none
+6009039,Bastion Weapon System,Bastion Battery,none
+6009040,Bastion Weapon System,Bastion Battery,none
+6009041,Bastion Weapon System,Bastion Battery,none
+6009042,Bastion Weapon System,Bastion Battery,none
+6009043,Bastion Weapon System,Bastion Battery,none
 25008,Battle Rifle,AMR-66,infantry
 1989,Battle Rifle,DMR-99,infantry
 26008,Battle Rifle,Eidolon VE33,infantry
@@ -255,74 +255,74 @@
 6005055,Carbine,MGR-C1 Charger,
 6009656,Carbine,"NS-11 ""Endeavor"" Carbine",infantry
 6005110,Carbine,VE-C Horizon,
-6009235,Colossus Front Left Weapon,M12 Goblin SP,
-6009239,Colossus Front Left Weapon,M12 Goblin SP,
-6009243,Colossus Front Left Weapon,M12 Goblin SP,
-6009251,Colossus Front Left Weapon,M12 Goblin SP,
-6008750,Colossus Front Left Weapon,M20 Gecko,
-6009227,Colossus Front Left Weapon,M20 Gecko,
-6009231,Colossus Front Left Weapon,M20 Gecko,
-6009247,Colossus Front Left Weapon,M20 Gecko,
-6009255,Colossus Front Left Weapon,M60 Pug,
-6009259,Colossus Front Left Weapon,M60 Pug,
-6009263,Colossus Front Left Weapon,M60 Pug,
-6009267,Colossus Front Left Weapon,M60 Pug,
-6009271,Colossus Front Left Weapon,M75 Fang,
-6009275,Colossus Front Left Weapon,M75 Fang,
-6009279,Colossus Front Left Weapon,M75 Fang,
-6009283,Colossus Front Left Weapon,M75 Fang,
-6009234,Colossus Front Right Weapon,M12 Goblin SP,
-6009238,Colossus Front Right Weapon,M12 Goblin SP,
-6009242,Colossus Front Right Weapon,M12 Goblin SP,
-6009250,Colossus Front Right Weapon,M12 Goblin SP,
-6008749,Colossus Front Right Weapon,M20 Gecko,
-6009226,Colossus Front Right Weapon,M20 Gecko,
-6009230,Colossus Front Right Weapon,M20 Gecko,
-6009246,Colossus Front Right Weapon,M20 Gecko,
-6009254,Colossus Front Right Weapon,M60 Pug,
-6009258,Colossus Front Right Weapon,M60 Pug,
-6009262,Colossus Front Right Weapon,M60 Pug,
-6009266,Colossus Front Right Weapon,M60 Pug,
-6009270,Colossus Front Right Weapon,M75 Fang,
-6009274,Colossus Front Right Weapon,M75 Fang,
-6009278,Colossus Front Right Weapon,M75 Fang,
-6009282,Colossus Front Right Weapon,M75 Fang,
-6003420,Colossus Primary Weapon,Mammoth Cannon,
-6008734,Colossus Primary Weapon,Mammoth Cannon,
-6008735,Colossus Primary Weapon,Mammoth Cannon,
-6008736,Colossus Primary Weapon,Mammoth Cannon,
-6009273,Colossus Rear Left Weapon,Dingo ML-6,
-6009277,Colossus Rear Left Weapon,Dingo ML-6,
-6009281,Colossus Rear Left Weapon,Dingo ML-6,
-6009285,Colossus Rear Left Weapon,Dingo ML-6,
-6009237,Colossus Rear Left Weapon,M12 Goblin SP,
-6009241,Colossus Rear Left Weapon,M12 Goblin SP,
-6009245,Colossus Rear Left Weapon,M12 Goblin SP,
-6009253,Colossus Rear Left Weapon,M12 Goblin SP,
-6008752,Colossus Rear Left Weapon,M20 Gecko,
-6009229,Colossus Rear Left Weapon,M20 Gecko,
-6009233,Colossus Rear Left Weapon,M20 Gecko,
-6009249,Colossus Rear Left Weapon,M20 Gecko,
-6009257,Colossus Rear Left Weapon,M60 Pug,
-6009261,Colossus Rear Left Weapon,M60 Pug,
-6009265,Colossus Rear Left Weapon,M60 Pug,
-6009269,Colossus Rear Left Weapon,M60 Pug,
-6009272,Colossus Rear Right Weapon,Dingo ML-6,
-6009276,Colossus Rear Right Weapon,Dingo ML-6,
-6009280,Colossus Rear Right Weapon,Dingo ML-6,
-6009284,Colossus Rear Right Weapon,Dingo ML-6,
-6009236,Colossus Rear Right Weapon,M12 Goblin SP,
-6009240,Colossus Rear Right Weapon,M12 Goblin SP,
-6009244,Colossus Rear Right Weapon,M12 Goblin SP,
-6009252,Colossus Rear Right Weapon,M12 Goblin SP,
-6008751,Colossus Rear Right Weapon,M20 Gecko,
-6009228,Colossus Rear Right Weapon,M20 Gecko,
-6009232,Colossus Rear Right Weapon,M20 Gecko,
-6009248,Colossus Rear Right Weapon,M20 Gecko,
-6009256,Colossus Rear Right Weapon,M60 Pug,
-6009260,Colossus Rear Right Weapon,M60 Pug,
-6009264,Colossus Rear Right Weapon,M60 Pug,
-6009268,Colossus Rear Right Weapon,M60 Pug,
+6009235,Colossus Front Left Weapon,M12 Goblin SP,none
+6009239,Colossus Front Left Weapon,M12 Goblin SP,none
+6009243,Colossus Front Left Weapon,M12 Goblin SP,none
+6009251,Colossus Front Left Weapon,M12 Goblin SP,none
+6008750,Colossus Front Left Weapon,M20 Gecko,none
+6009227,Colossus Front Left Weapon,M20 Gecko,none
+6009231,Colossus Front Left Weapon,M20 Gecko,none
+6009247,Colossus Front Left Weapon,M20 Gecko,none
+6009255,Colossus Front Left Weapon,M60 Pug,none
+6009259,Colossus Front Left Weapon,M60 Pug,none
+6009263,Colossus Front Left Weapon,M60 Pug,none
+6009267,Colossus Front Left Weapon,M60 Pug,none
+6009271,Colossus Front Left Weapon,M75 Fang,none
+6009275,Colossus Front Left Weapon,M75 Fang,none
+6009279,Colossus Front Left Weapon,M75 Fang,none
+6009283,Colossus Front Left Weapon,M75 Fang,none
+6009234,Colossus Front Right Weapon,M12 Goblin SP,none
+6009238,Colossus Front Right Weapon,M12 Goblin SP,none
+6009242,Colossus Front Right Weapon,M12 Goblin SP,none
+6009250,Colossus Front Right Weapon,M12 Goblin SP,none
+6008749,Colossus Front Right Weapon,M20 Gecko,none
+6009226,Colossus Front Right Weapon,M20 Gecko,none
+6009230,Colossus Front Right Weapon,M20 Gecko,none
+6009246,Colossus Front Right Weapon,M20 Gecko,none
+6009254,Colossus Front Right Weapon,M60 Pug,none
+6009258,Colossus Front Right Weapon,M60 Pug,none
+6009262,Colossus Front Right Weapon,M60 Pug,none
+6009266,Colossus Front Right Weapon,M60 Pug,none
+6009270,Colossus Front Right Weapon,M75 Fang,none
+6009274,Colossus Front Right Weapon,M75 Fang,none
+6009278,Colossus Front Right Weapon,M75 Fang,none
+6009282,Colossus Front Right Weapon,M75 Fang,none
+6003420,Colossus Primary Weapon,Mammoth Cannon,none
+6008734,Colossus Primary Weapon,Mammoth Cannon,none
+6008735,Colossus Primary Weapon,Mammoth Cannon,none
+6008736,Colossus Primary Weapon,Mammoth Cannon,none
+6009273,Colossus Rear Left Weapon,Dingo ML-6,none
+6009277,Colossus Rear Left Weapon,Dingo ML-6,none
+6009281,Colossus Rear Left Weapon,Dingo ML-6,none
+6009285,Colossus Rear Left Weapon,Dingo ML-6,none
+6009237,Colossus Rear Left Weapon,M12 Goblin SP,none
+6009241,Colossus Rear Left Weapon,M12 Goblin SP,none
+6009245,Colossus Rear Left Weapon,M12 Goblin SP,none
+6009253,Colossus Rear Left Weapon,M12 Goblin SP,none
+6008752,Colossus Rear Left Weapon,M20 Gecko,none
+6009229,Colossus Rear Left Weapon,M20 Gecko,none
+6009233,Colossus Rear Left Weapon,M20 Gecko,none
+6009249,Colossus Rear Left Weapon,M20 Gecko,none
+6009257,Colossus Rear Left Weapon,M60 Pug,none
+6009261,Colossus Rear Left Weapon,M60 Pug,none
+6009265,Colossus Rear Left Weapon,M60 Pug,none
+6009269,Colossus Rear Left Weapon,M60 Pug,none
+6009272,Colossus Rear Right Weapon,Dingo ML-6,none
+6009276,Colossus Rear Right Weapon,Dingo ML-6,none
+6009280,Colossus Rear Right Weapon,Dingo ML-6,none
+6009284,Colossus Rear Right Weapon,Dingo ML-6,none
+6009236,Colossus Rear Right Weapon,M12 Goblin SP,none
+6009240,Colossus Rear Right Weapon,M12 Goblin SP,none
+6009244,Colossus Rear Right Weapon,M12 Goblin SP,none
+6009252,Colossus Rear Right Weapon,M12 Goblin SP,none
+6008751,Colossus Rear Right Weapon,M20 Gecko,none
+6009228,Colossus Rear Right Weapon,M20 Gecko,none
+6009232,Colossus Rear Right Weapon,M20 Gecko,none
+6009248,Colossus Rear Right Weapon,M20 Gecko,none
+6009256,Colossus Rear Right Weapon,M60 Pug,none
+6009260,Colossus Rear Right Weapon,M60 Pug,none
+6009264,Colossus Rear Right Weapon,M60 Pug,none
+6009268,Colossus Rear Right Weapon,M60 Pug,none
 2310,Crossbow,Blackheart,none
 2309,Crossbow,Heartstring,none
 2308,Crossbow,Hunter QCX,none
