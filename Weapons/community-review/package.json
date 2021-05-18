@@ -1,0 +1,11 @@
+{
+        "name": "compile-list",
+        "type": "module",
+	"scripts": {
+		"compile": "node list.js compile",
+		"resort": "node list.js resort"
+	},
+	"dependencies": {
+		"fast-csv": "^4.3.6"
+	}
+}
