@@ -1041,7 +1041,7 @@
 3402,Magrider Gunner Weapon,M20 Basilisk,gunner
 3404,Magrider Gunner Weapon,Proton II PPA,gunner
 3442,Magrider Gunner Weapon,Saron HRB,gunner
-802897,Magrider Gunner Weapon,Aphelion VEX-4 ,
+802897,Magrider Gunner Weapon,Aphelion VEX-4 ,gunner
 6006400,Magrider Gunner Weapon,Halberd SE,gunner
 3460,Magrider Primary Weapon,Supernova FPC,armor
 3400,Magrider Primary Weapon,Supernova PC,armor
@@ -1127,7 +1127,7 @@
 4002,Prowler Gunner Weapon,M20 Basilisk,gunner
 4007,Prowler Gunner Weapon,P525 Marauder,gunner
 6006398,Prowler Gunner Weapon,Halberd SE,gunner
-802874,Prowler Gunner Weapon,MR11 Gatekeeper,
+802874,Prowler Gunner Weapon,MR11 Gatekeeper,gunner
 4008,Prowler Primary Weapon,P2-120 AP,armor
 4000,Prowler Primary Weapon,P2-120 HEAT,armor
 4009,Prowler Primary Weapon,P2-120 HESH,armor
@@ -1382,7 +1382,7 @@
 3701,Vanguard Gunner Weapon,M12 Kobalt,gunner
 3702,Vanguard Gunner Weapon,M20 Basilisk,gunner
 6006399,Vanguard Gunner Weapon,Halberd SE,gunner
-802899,Vanguard Gunner Weapon,M96 Mjolnir,
+802899,Vanguard Gunner Weapon,M96 Mjolnir,gunner
 3756,Vanguard Primary Weapon,150mm Titan-R HEAT,armor
 3730,Vanguard Primary Weapon,Titan-150 AP,armor
 3700,Vanguard Primary Weapon,Titan-150 HEAT,armor
