@@ -163,9 +163,9 @@
 7151,Assault Rifle,Equinox VE2,
 6006187,Assault Rifle,MG-A1 Arbalest,
 6006186,Assault Rifle,MGR-A1 Vanquisher,
-6009604,Assault Rifle,"NS-11 ""Endeavor"" Assault Rifle",
-6008645,Assault Rifle,"NSX ""Ivory"" Yumi",
-6008665,Assault Rifle,"NSX ""Networked"" Yumi",
+6009604,Assault Rifle,"NS-11 ""Endeavor"" Assault Rifle",infantry
+6008645,Assault Rifle,"NSX ""Ivory"" Yumi",infantry
+6008665,Assault Rifle,"NSX ""Networked"" Yumi",infantry
 6008371,Assault Rifle,PSA-02 Diamondback,
 6006188,Assault Rifle,VE-A Lacerta,
 6008906,Bastion Bombard,Mauler Cannon,
@@ -253,7 +253,7 @@
 7192,Carbine,TRAC-5 S,none
 6005049,Carbine,MG-C1 Kindred,
 6005055,Carbine,MGR-C1 Charger,
-6009656,Carbine,"NS-11 ""Endeavor"" Carbine",
+6009656,Carbine,"NS-11 ""Endeavor"" Carbine",infantry
 6005110,Carbine,VE-C Horizon,
 6009235,Colossus Front Left Weapon,M12 Goblin SP,
 6009239,Colossus Front Left Weapon,M12 Goblin SP,
@@ -480,14 +480,14 @@
 7528,Heavy Weapon,NC05 Jackhammer,none
 7533,Heavy Weapon,T7 Mini-Chaingun,none
 6008686,Heavy Weapon,Grenade Printer,
-803732,Heavy Weapon,Lasher X2 AE,
-6004144,Heavy Weapon,Lasher X2-P,
-803756,Heavy Weapon,NC05 Jackhammer AE,
-6004174,Heavy Weapon,NC05-P Jackhammer,
+803732,Heavy Weapon,Lasher X2 AE,none
+6004144,Heavy Weapon,Lasher X2-P,none
+803756,Heavy Weapon,NC05 Jackhammer AE,none
+6004174,Heavy Weapon,NC05-P Jackhammer,none
 6006332,Heavy Weapon,NS-03 Thumper,
 6009426,Heavy Weapon,NS-03 Thumper SE,
-803779,Heavy Weapon,T7 Mini-Chaingun AE,
-6004168,Heavy Weapon,T7-P Mini-Chaingun,
+803779,Heavy Weapon,T7 Mini-Chaingun AE,none
+6004168,Heavy Weapon,T7-P Mini-Chaingun,none
 6005967,Hybrid Rifle,NSX-A Kuwa,
 200,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
@@ -951,14 +951,14 @@
 7278,LMG,Ursa,infantry
 6004118,LMG,VE-H Maw,infantry
 7274,LMG,VX29 Polaris,infantry
-6006299,LMG,LA1 Service Anchor,
-6005331,LMG,MG-H1 Watchman AE,
-6005330,LMG,MGR-L1 Promise AE,
-6009672,LMG,"NS-15 ""Endeavor"" Machinegun",
-6008644,LMG,"NSX ""Ivory"" Naginata",
-6008668,LMG,"NSX ""Networked"" Naginata",
-6004197,LMG,NSX-P Naginata,
-6005332,LMG,VE-H Maw AE,
+6006299,LMG,LA1 Service Anchor,infantry
+6005331,LMG,MG-H1 Watchman AE,infantry
+6005330,LMG,MGR-L1 Promise AE,infantry
+6009672,LMG,"NS-15 ""Endeavor"" Machinegun",infantry
+6008644,LMG,"NSX ""Ivory"" Naginata",infantry
+6008668,LMG,"NSX ""Networked"" Naginata",infantry
+6004197,LMG,NSX-P Naginata,infantry
+6005332,LMG,VE-H Maw AE,infantry
 5209,Liberator Belly Weapon,AP30 Shredder,gunner
 5210,Liberator Belly Weapon,AP30 Shredder,gunner
 5211,Liberator Belly Weapon,AP30 Shredder,gunner
@@ -1110,10 +1110,10 @@
 6004995,Pistol,Ectoblaster,
 6006092,Pistol,"LA3 ""Jackpot"" Desperado",
 803007,Pistol,NC Triumph Flare Gun,
-6009652,Pistol,"NS-357 ""Endeavor"" Underboss",
-6009722,Pistol,NS-45P Pilot,
-6004413,Pistol,"NS-61 ""Ivory"" Emissary",
-6008666,Pistol,"NS-61 ""Networked"" Emissary",
+6009652,Pistol,"NS-357 ""Endeavor"" Underboss",infantry
+6009722,Pistol,NS-45P Pilot,infantry
+6004413,Pistol,"NS-61 ""Ivory"" Emissary",infantry
+6008666,Pistol,"NS-61 ""Networked"" Emissary",infantry
 6005969,Pistol,NSX-A Yawara,
 6004714,Pistol,Soldier Soaker,
 803008,Pistol,TR Triumph Flare Gun,
@@ -1206,7 +1206,7 @@
 1899,SMG,Tempest ,infantry
 6003925,SMG,VE-S Canis,infantry
 6009203,SMG,NS-66 Punisher,
-6009623,SMG,"NS-7 ""Endeavor"" PDW",
+6009623,SMG,"NS-7 ""Endeavor"" PDW",infantry
 6008660,SMG,"NSX ""Ivory"" Tengu",
 6008671,SMG,"NSX ""Networked"" Tengu",
 804257,SMG,NSX Tengu,
@@ -1226,8 +1226,8 @@
 7365,Scout Rifle,SOAS-20,infantry
 6004009,Scout Rifle,SOAS-20 AE,infantry
 6004198,Scout Rifle,Mystery Weapon,
-6008654,Scout Rifle,"NSX ""Ivory"" Tomoe",
-6008669,Scout Rifle,"NSX ""Networked"" Tomoe",
+6008654,Scout Rifle,"NSX ""Ivory"" Tomoe",infantry
+6008669,Scout Rifle,"NSX ""Networked"" Tomoe",infantry
 4305,Scythe Nose Cannon,Light PPA,air
 4302,Scythe Nose Cannon,Saron Laser Cannon,air
 4304,Scythe Nose Cannon,V26 Maelstrom Turbo Laser,air
@@ -1298,8 +1298,8 @@
 26000,Sniper Rifle,XM98,sniper
 6004294,Sniper Rifle,AM7-XOXO,
 6004992,Sniper Rifle,NS-AM8 Shortbow,
-6008652,Sniper Rifle,"NSX ""Ivory"" Daimyo",
-6008670,Sniper Rifle,"NSX ""Networked"" Daimyo",
+6008652,Sniper Rifle,"NSX ""Ivory"" Daimyo",infantry
+6008670,Sniper Rifle,"NSX ""Networked"" Daimyo",infantry
 6008496,Sniper Rifle,PSA-01 Hammerhead AMR,
 6006850,Sniper Rifle,SR-200,
 3080,Sunderer Front Gunner,G30 Walker,gunner
