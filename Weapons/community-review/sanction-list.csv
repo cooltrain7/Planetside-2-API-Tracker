@@ -124,10 +124,10 @@
 804724,AV MAX (Right),NS-20G Gorgon,max
 804726,AV MAX (Right),NS-20G Gorgon,max
 804728,AV MAX (Right),NS-20G Gorgon,max
-802768,Aerial Combat Weapon,Rocklet Rifle,
-804939,Aerial Combat Weapon,Rocklet Rifle,
-804940,Aerial Combat Weapon,Rocklet Rifle,
-6005191,Aerial Combat Weapon,Rocklet Rifle,
+802768,Aerial Combat Weapon,Rocklet Rifle,none
+804939,Aerial Combat Weapon,Rocklet Rifle,none
+804940,Aerial Combat Weapon,Rocklet Rifle,none
+6005191,Aerial Combat Weapon,Rocklet Rifle,none
 7103,Assault Rifle,Carnage AR,infantry
 7149,Assault Rifle,CME,infantry
 7152,Assault Rifle,Corvus VA55,infantry
@@ -1173,12 +1173,12 @@
 267,Rocket Launcher,Striker AE,none
 34002,Rocket Launcher,T2 Striker,none
 1964,Rocket Launcher,The Kraken,none
-6003611,Rocket Launcher,"NS ""Heatwave"" Decimator",
-6004407,Rocket Launcher,"NS ""Jackpot"" Decimator",
-6002637,Rocket Launcher,"NS-R3 ""Ravenous"" Swarm",
-802969,Rocket Launcher,NS-R3 Swarm,
-804179,Rocket Launcher,NSX Masamune,
-6005966,Rocket Launcher,NSX-A Muramasa,
+6003611,Rocket Launcher,"NS ""Heatwave"" Decimator",none
+6004407,Rocket Launcher,"NS ""Jackpot"" Decimator",none
+6002637,Rocket Launcher,"NS-R3 ""Ravenous"" Swarm",none
+802969,Rocket Launcher,NS-R3 Swarm,none
+804179,Rocket Launcher,NSX Masamune,none
+6005966,Rocket Launcher,NSX-A Muramasa,none
 27000,SMG,AF-4 Cyclone,infantry
 6002824,SMG,AF-4AE Cyclone,infantry
 27005,SMG,AF-4G Cyclone,infantry
