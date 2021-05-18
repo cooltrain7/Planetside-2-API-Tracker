@@ -974,10 +974,10 @@
 5441,Liberator Belly Weapon,Dual-75 Duster,none
 5442,Liberator Belly Weapon,Dual-75 Duster,none
 5443,Liberator Belly Weapon,Dual-75 Duster,none
-6005463,Liberator Belly Weapon,AP30 Shredder,
-6005464,Liberator Belly Weapon,C150 Dalton,
-6005462,Liberator Belly Weapon,Dual-75 Duster,
-6005466,Liberator Belly Weapon,L105 Zephyr,
+6005463,Liberator Belly Weapon,AP30 Shredder,gunner
+6005464,Liberator Belly Weapon,C150 Dalton,gunner
+6005462,Liberator Belly Weapon,Dual-75 Duster,none
+6005466,Liberator Belly Weapon,L105 Zephyr,gunner
 5215,Liberator Nose Cannon,CAS30 Tank Buster,air
 5216,Liberator Nose Cannon,CAS30 Tank Buster,air
 5217,Liberator Nose Cannon,CAS30 Tank Buster,air
@@ -987,9 +987,9 @@
 5218,Liberator Nose Cannon,L-24R Spur,none
 5219,Liberator Nose Cannon,L-24R Spur,none
 5220,Liberator Nose Cannon,L-24R Spur,none
-6005461,Liberator Nose Cannon,CAS30 Tank Buster,
-6005455,Liberator Nose Cannon,L-24R Spur,
-6005454,Liberator Nose Cannon,L-30R Vektor,
+6005461,Liberator Nose Cannon,CAS30 Tank Buster,air
+6005455,Liberator Nose Cannon,L-24R Spur,none
+6005454,Liberator Nose Cannon,L-30R Vektor,air
 5212,Liberator Tail Weapon,A30 Walker,gunner
 5213,Liberator Tail Weapon,A30 Walker,gunner
 5214,Liberator Tail Weapon,A30 Walker,gunner
@@ -1002,10 +1002,10 @@
 5494,Liberator Tail Weapon,Hyena Missile Launcher,none
 5495,Liberator Tail Weapon,Hyena Missile Launcher,none
 5496,Liberator Tail Weapon,Hyena Missile Launcher,none
-6005459,Liberator Tail Weapon,A30 Walker,
-6005456,Liberator Tail Weapon,Hyena Missile Launcher,
-6005457,Liberator Tail Weapon,M20 Drake,
-6005460,Liberator Tail Weapon,M60-A Bulldog,
+6005459,Liberator Tail Weapon,A30 Walker,gunner
+6005456,Liberator Tail Weapon,Hyena Missile Launcher,none
+6005457,Liberator Tail Weapon,M20 Drake,gunner
+6005460,Liberator Tail Weapon,M60-A Bulldog,gunner
 3100,Lightning Primary Weapon ,C75 Viper,armor
 3101,Lightning Primary Weapon ,C75 Viper,armor
 3102,Lightning Primary Weapon ,C75 Viper,armor
