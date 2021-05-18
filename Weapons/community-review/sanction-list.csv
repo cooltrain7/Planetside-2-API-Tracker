@@ -2,21 +2,21 @@
 15016,AA MAX (Left),NS-10 Burster,none
 16016,AA MAX (Left),NS-10 Burster,none
 17016,AA MAX (Left),NS-10 Burster,none
-804742,AA MAX (Left),NS-10B Burster,none
-804744,AA MAX (Left),NS-10B Burster,none
-804746,AA MAX (Left),NS-10B Burster,none
-804748,AA MAX (Left),NS-10G Burster,none
-804750,AA MAX (Left),NS-10G Burster,none
-804752,AA MAX (Left),NS-10G Burster,none
+804742,AA MAX (Left),NS-10B Burster,
+804744,AA MAX (Left),NS-10B Burster,
+804746,AA MAX (Left),NS-10B Burster,
+804748,AA MAX (Left),NS-10G Burster,
+804750,AA MAX (Left),NS-10G Burster,
+804752,AA MAX (Left),NS-10G Burster,
 15004,AA MAX (Right),NS-10 Burster,none
 16004,AA MAX (Right),NS-10 Burster,none
 17004,AA MAX (Right),NS-10 Burster,none
-804741,AA MAX (Right),NS-10B Burster,none
-804743,AA MAX (Right),NS-10B Burster,none
-804745,AA MAX (Right),NS-10B Burster,none
-804747,AA MAX (Right),NS-10G Burster,none
-804749,AA MAX (Right),NS-10G Burster,none
-804751,AA MAX (Right),NS-10G Burster,none
+804741,AA MAX (Right),NS-10B Burster,
+804743,AA MAX (Right),NS-10B Burster,
+804745,AA MAX (Right),NS-10B Burster,
+804747,AA MAX (Right),NS-10G Burster,
+804749,AA MAX (Right),NS-10G Burster,
+804751,AA MAX (Right),NS-10G Burster,
 7507,AI MAX (Left),AF-23 Grinder,none
 7505,AI MAX (Left),AF-34 Mattock,none
 7506,AI MAX (Left),AF-41 Hacksaw,none
@@ -94,36 +94,36 @@
 16013,AV MAX (Left),NCM2 Falcon,none
 16028,AV MAX (Left),NCM3 Raven,none
 16032,AV MAX (Left),Vortex VM21,none
-6003600,AV MAX (Left),"NS-20 ""Heatwave"" Gorgon",none
-6003601,AV MAX (Left),"NS-20 ""Heatwave"" Gorgon",none
-6003603,AV MAX (Left),"NS-20 ""Heatwave"" Gorgon",none
-804652,AV MAX (Left),NS-20 Gorgon,none
-804654,AV MAX (Left),NS-20 Gorgon,none
-804656,AV MAX (Left),NS-20 Gorgon,none
-804717,AV MAX (Left),NS-20B Gorgon,none
-804719,AV MAX (Left),NS-20B Gorgon,none
-804721,AV MAX (Left),NS-20B Gorgon,none
-804723,AV MAX (Left),NS-20G Gorgon,none
-804725,AV MAX (Left),NS-20G Gorgon,none
-804727,AV MAX (Left),NS-20G Gorgon,none
+6003600,AV MAX (Left),"NS-20 ""Heatwave"" Gorgon",
+6003601,AV MAX (Left),"NS-20 ""Heatwave"" Gorgon",
+6003603,AV MAX (Left),"NS-20 ""Heatwave"" Gorgon",
+804652,AV MAX (Left),NS-20 Gorgon,
+804654,AV MAX (Left),NS-20 Gorgon,
+804656,AV MAX (Left),NS-20 Gorgon,
+804717,AV MAX (Left),NS-20B Gorgon,
+804719,AV MAX (Left),NS-20B Gorgon,
+804721,AV MAX (Left),NS-20B Gorgon,
+804723,AV MAX (Left),NS-20G Gorgon,
+804725,AV MAX (Left),NS-20G Gorgon,
+804727,AV MAX (Left),NS-20G Gorgon,
 17001,AV MAX (Right),Comet VM2,none
 15001,AV MAX (Right),M3 Pounder HEG,none
 16031,AV MAX (Right),MR1 Fracture,none
 16001,AV MAX (Right),NCM2 Falcon,none
 16029,AV MAX (Right),NCM3 Raven,none
 16033,AV MAX (Right),Vortex VM21,none
-6003599,AV MAX (Right),"NS-20 ""Heatwave"" Gorgon",none
-6003602,AV MAX (Right),"NS-20 ""Heatwave"" Gorgon",none
-6003604,AV MAX (Right),"NS-20 ""Heatwave"" Gorgon",none
-804653,AV MAX (Right),NS-20 Gorgon,none
-804655,AV MAX (Right),NS-20 Gorgon,none
-804657,AV MAX (Right),NS-20 Gorgon,none
-804718,AV MAX (Right),NS-20B Gorgon,none
-804720,AV MAX (Right),NS-20B Gorgon,none
-804722,AV MAX (Right),NS-20B Gorgon,none
-804724,AV MAX (Right),NS-20G Gorgon,none
-804726,AV MAX (Right),NS-20G Gorgon,none
-804728,AV MAX (Right),NS-20G Gorgon,none
+6003599,AV MAX (Right),"NS-20 ""Heatwave"" Gorgon",
+6003602,AV MAX (Right),"NS-20 ""Heatwave"" Gorgon",
+6003604,AV MAX (Right),"NS-20 ""Heatwave"" Gorgon",
+804653,AV MAX (Right),NS-20 Gorgon,
+804655,AV MAX (Right),NS-20 Gorgon,
+804657,AV MAX (Right),NS-20 Gorgon,
+804718,AV MAX (Right),NS-20B Gorgon,
+804720,AV MAX (Right),NS-20B Gorgon,
+804722,AV MAX (Right),NS-20B Gorgon,
+804724,AV MAX (Right),NS-20G Gorgon,
+804726,AV MAX (Right),NS-20G Gorgon,
+804728,AV MAX (Right),NS-20G Gorgon,
 802768,Aerial Combat Weapon,Rocklet Rifle,
 804939,Aerial Combat Weapon,Rocklet Rifle,
 804940,Aerial Combat Weapon,Rocklet Rifle,
