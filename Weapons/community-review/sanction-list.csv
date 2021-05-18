@@ -335,13 +335,13 @@
 429,Explosive,Claymore,none
 1045,Explosive,Proximity Mine,none
 650,Explosive,Tank Mine,none
-6009782,Explosive,C-4 Present,
-804701,Explosive,Command Uplink Device,
-6005243,Explosive,F.U.S.E. (Anti-Infantry),
-6005422,Explosive,Proximity Mine,
-6005963,Explosive,Proximity Mine,
-6005961,Explosive,Tank Mine,
-6005962,Explosive,Tank Mine,
+6009782,Explosive,C-4 Present,none
+804701,Explosive,Command Uplink Device,none
+6005243,Explosive,F.U.S.E. (Anti-Infantry),none
+6005422,Explosive,Proximity Mine,none
+6005963,Explosive,Proximity Mine,none
+6005961,Explosive,Tank Mine,none
+6005962,Explosive,Tank Mine,none
 2500,Flash Primary Weapon,M12 Kobalt-F,none
 2501,Flash Primary Weapon,M12 Kobalt-F,none
 2502,Flash Primary Weapon,M12 Kobalt-F,none
@@ -419,22 +419,22 @@
 880,Grenade,Sticky Grenade,none
 881,Grenade,Sticky Grenade,none
 882,Grenade,Sticky Grenade,none
-6009524,Grenade,Condensate Grenade,
-6004750,Grenade,Flamewake Grenade,
-6005182,Grenade,Frag Grenade,
-6009583,Grenade,Infernal Grenade,
-6009459,Grenade,Lightning Grenade,
-6003738,Grenade,Nano-Repair Grenade,
-6003418,Grenade,NSX Fujin,
-6005472,Grenade,NSX Raijin,
-6003847,Grenade,Pumpkin Grenade,
-6002453,Grenade,Quick-Det Flash Grenade,
-6005304,Grenade,Smoke Grenade,
-6005328,Grenade,Sticky Grenade,
-6004742,Grenade,Water Balloon,
-6004743,Grenade,Water Balloon,
-6004744,Grenade,Water Balloon,
-6007252,Grenade,Water Balloon,
+6009524,Grenade,Condensate Grenade,none
+6004750,Grenade,Flamewake Grenade,none
+6005182,Grenade,Frag Grenade,none
+6009583,Grenade,Infernal Grenade,none
+6009459,Grenade,Lightning Grenade,none
+6003738,Grenade,Nano-Repair Grenade,none
+6003418,Grenade,NSX Fujin,none
+6005472,Grenade,NSX Raijin,none
+6003847,Grenade,Pumpkin Grenade,none
+6002453,Grenade,Quick-Det Flash Grenade,none
+6005304,Grenade,Smoke Grenade,none
+6005328,Grenade,Sticky Grenade,none
+6004742,Grenade,Water Balloon,none
+6004743,Grenade,Water Balloon,none
+6004744,Grenade,Water Balloon,none
+6007252,Grenade,Water Balloon,none
 6124,Harasser Top Gunner,C85 Canister-H,gunner
 6118,Harasser Top Gunner,E540 Halberd-H,gunner
 6119,Harasser Top Gunner,E540 Halberd-H,gunner
