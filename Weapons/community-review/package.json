@@ -1,5 +1,5 @@
 {
-  "name": "compile-list",
+  "name": "sanction-list",
   "type": "module",
   "scripts": {
     "compile": "node list.js compile",
