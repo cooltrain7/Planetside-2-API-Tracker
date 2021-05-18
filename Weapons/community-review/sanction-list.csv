@@ -41,53 +41,53 @@
 16012,AI MAX (Right),NCM1 Scattercannon,max
 17024,AI MAX (Right),Nebula VM20,max
 17012,AI MAX (Right),Quasar VM1,max
-6004869,ANT Harvesting Tool,WLT-ARX Mining Laser,
-6004870,ANT Harvesting Tool,WLT-ARX Mining Laser,
-6004871,ANT Harvesting Tool,WLT-ARX Mining Laser,
-6005888,ANT Harvesting Tool,WLT-ARX Mining Laser,
-6002141,ANT Harvesting Tool,WLT-Howler Mining Laser,
-6002142,ANT Harvesting Tool,WLT-Howler Mining Laser,
-6002143,ANT Harvesting Tool,WLT-Howler Mining Laser,
-6005435,ANT Harvesting Tool,WLT-Howler Mining Laser,
-803423,ANT Harvesting Tool,WLT-Mandible Mining Laser,
-803424,ANT Harvesting Tool,WLT-Mandible Mining Laser,
-803425,ANT Harvesting Tool,WLT-Mandible Mining Laser,
-6005436,ANT Harvesting Tool,WLT-Mandible Mining Laser,
-803485,ANT Top Turret,G30 Walker,
-803486,ANT Top Turret,G30 Walker,
-803487,ANT Top Turret,G30 Walker,
-6005429,ANT Top Turret,G30 Walker,
-803488,ANT Top Turret,G40-F Ranger,
-803489,ANT Top Turret,G40-F Ranger,
-803490,ANT Top Turret,G40-F Ranger,
-6005430,ANT Top Turret,G40-F Ranger,
-803482,ANT Top Turret,M12 Kobalt,
-803483,ANT Top Turret,M12 Kobalt,
-803484,ANT Top Turret,M12 Kobalt,
-6005432,ANT Top Turret,M12 Kobalt,
-803501,ANT Top Turret,M20 Basilisk,
-803502,ANT Top Turret,M20 Basilisk,
-803503,ANT Top Turret,M20 Basilisk,
-6005428,ANT Top Turret,M20 Basilisk,
-6005536,ANT Top Turret,M20 Basilisk,
-6005537,ANT Top Turret,M20 Basilisk,
-6005538,ANT Top Turret,M20 Basilisk,
-803491,ANT Top Turret,M40 Fury,
-803492,ANT Top Turret,M40 Fury,
-803493,ANT Top Turret,M40 Fury,
-6005431,ANT Top Turret,M40 Fury,
-803494,ANT Top Turret,M60-G Bulldog,
-803495,ANT Top Turret,M60-G Bulldog,
-803496,ANT Top Turret,M60-G Bulldog,
-6005433,ANT Top Turret,M60-G Bulldog,
-6005541,ANT Top Turret,WLT-Weaver Mining Turret,
-6005542,ANT Top Turret,WLT-Weaver Mining Turret,
-6005543,ANT Top Turret,WLT-Weaver Mining Turret,
-6006283,ANT Top Turret,WLT-Weaver Mining Turret,
-803497,ANT Top Turret,WLT-Yellowjacket Mining Laser,
-803498,ANT Top Turret,WLT-Yellowjacket Mining Laser,
-803499,ANT Top Turret,WLT-Yellowjacket Mining Laser,
-6005434,ANT Top Turret,WLT-Yellowjacket Mining Laser,
+6004869,ANT Harvesting Tool,WLT-ARX Mining Laser,none
+6004870,ANT Harvesting Tool,WLT-ARX Mining Laser,none
+6004871,ANT Harvesting Tool,WLT-ARX Mining Laser,none
+6005888,ANT Harvesting Tool,WLT-ARX Mining Laser,none
+6002141,ANT Harvesting Tool,WLT-Howler Mining Laser,none
+6002142,ANT Harvesting Tool,WLT-Howler Mining Laser,none
+6002143,ANT Harvesting Tool,WLT-Howler Mining Laser,none
+6005435,ANT Harvesting Tool,WLT-Howler Mining Laser,none
+803423,ANT Harvesting Tool,WLT-Mandible Mining Laser,none
+803424,ANT Harvesting Tool,WLT-Mandible Mining Laser,none
+803425,ANT Harvesting Tool,WLT-Mandible Mining Laser,none
+6005436,ANT Harvesting Tool,WLT-Mandible Mining Laser,none
+803485,ANT Top Turret,G30 Walker,gunner
+803486,ANT Top Turret,G30 Walker,gunner
+803487,ANT Top Turret,G30 Walker,gunner
+6005429,ANT Top Turret,G30 Walker,gunner
+803488,ANT Top Turret,G40-F Ranger,gunner
+803489,ANT Top Turret,G40-F Ranger,gunner
+803490,ANT Top Turret,G40-F Ranger,gunner
+6005430,ANT Top Turret,G40-F Ranger,gunner
+803482,ANT Top Turret,M12 Kobalt,gunner
+803483,ANT Top Turret,M12 Kobalt,gunner
+803484,ANT Top Turret,M12 Kobalt,gunner
+6005432,ANT Top Turret,M12 Kobalt,gunner
+803501,ANT Top Turret,M20 Basilisk,gunner
+803502,ANT Top Turret,M20 Basilisk,gunner
+803503,ANT Top Turret,M20 Basilisk,gunner
+6005428,ANT Top Turret,M20 Basilisk,gunner
+6005536,ANT Top Turret,M20 Basilisk,gunner
+6005537,ANT Top Turret,M20 Basilisk,gunner
+6005538,ANT Top Turret,M20 Basilisk,gunner
+803491,ANT Top Turret,M40 Fury,gunner
+803492,ANT Top Turret,M40 Fury,gunner
+803493,ANT Top Turret,M40 Fury,gunner
+6005431,ANT Top Turret,M40 Fury,gunner
+803494,ANT Top Turret,M60-G Bulldog,gunner
+803495,ANT Top Turret,M60-G Bulldog,gunner
+803496,ANT Top Turret,M60-G Bulldog,gunner
+6005433,ANT Top Turret,M60-G Bulldog,gunner
+6005541,ANT Top Turret,WLT-Weaver Mining Turret,none
+6005542,ANT Top Turret,WLT-Weaver Mining Turret,none
+6005543,ANT Top Turret,WLT-Weaver Mining Turret,none
+6006283,ANT Top Turret,WLT-Weaver Mining Turret,none
+803497,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
+803498,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
+803499,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
+6005434,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 17013,AV MAX (Left),Comet VM2,max
 15013,AV MAX (Left),M3 Pounder HEG,max
 16030,AV MAX (Left),MR1 Fracture,max
