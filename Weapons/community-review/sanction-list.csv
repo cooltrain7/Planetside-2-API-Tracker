@@ -496,66 +496,10 @@
 803035,Infantry Abilities,AA SpitFire Turret,
 803036,Infantry Abilities,AA SpitFire Turret,
 6002561,Infantry Abilities,ADMIN: Orbital Strike Gun,
-803785,Infantry Abilities,AE Medical Applicator 1,
-803786,Infantry Abilities,AE Medical Applicator 1,
-803787,Infantry Abilities,AE Medical Applicator 1,
-6006606,Infantry Abilities,AE Medical Applicator 1,
-803788,Infantry Abilities,AE Medical Applicator 2,
-803793,Infantry Abilities,AE Medical Applicator 2,
-803798,Infantry Abilities,AE Medical Applicator 2,
-6006607,Infantry Abilities,AE Medical Applicator 2,
-803789,Infantry Abilities,AE Medical Applicator 3,
-803794,Infantry Abilities,AE Medical Applicator 3,
-803799,Infantry Abilities,AE Medical Applicator 3,
-6006608,Infantry Abilities,AE Medical Applicator 3,
-803790,Infantry Abilities,AE Medical Applicator 4,
-803795,Infantry Abilities,AE Medical Applicator 4,
-803800,Infantry Abilities,AE Medical Applicator 4,
-6006609,Infantry Abilities,AE Medical Applicator 4,
-803791,Infantry Abilities,AE Medical Applicator 5,
-803796,Infantry Abilities,AE Medical Applicator 5,
-803801,Infantry Abilities,AE Medical Applicator 5,
-6006610,Infantry Abilities,AE Medical Applicator 5,
-803792,Infantry Abilities,AE Medical Applicator 6,
-803797,Infantry Abilities,AE Medical Applicator 6,
-803802,Infantry Abilities,AE Medical Applicator 6,
-6006611,Infantry Abilities,AE Medical Applicator 6,
-803804,Infantry Abilities,AE Nano-Armor Kit 1,
-803809,Infantry Abilities,AE Nano-Armor Kit 1,
-803815,Infantry Abilities,AE Nano-Armor Kit 1,
-6006682,Infantry Abilities,AE Nano-Armor Kit 1,
-803803,Infantry Abilities,AE Nano-Armor Kit 2,
-803810,Infantry Abilities,AE Nano-Armor Kit 2,
-803816,Infantry Abilities,AE Nano-Armor Kit 2,
-6006683,Infantry Abilities,AE Nano-Armor Kit 2,
-803805,Infantry Abilities,AE Nano-Armor Kit 3,
-803811,Infantry Abilities,AE Nano-Armor Kit 3,
-803817,Infantry Abilities,AE Nano-Armor Kit 3,
-6006684,Infantry Abilities,AE Nano-Armor Kit 3,
-803807,Infantry Abilities,AE Nano-Armor Kit 4,
-803812,Infantry Abilities,AE Nano-Armor Kit 4,
-803818,Infantry Abilities,AE Nano-Armor Kit 4,
-6006685,Infantry Abilities,AE Nano-Armor Kit 4,
-803808,Infantry Abilities,AE Nano-Armor Kit 5,
-803813,Infantry Abilities,AE Nano-Armor Kit 5,
-803819,Infantry Abilities,AE Nano-Armor Kit 5,
-6006700,Infantry Abilities,AE Nano-Armor Kit 5,
-803806,Infantry Abilities,AE Nano-Armor Kit 6,
-803814,Infantry Abilities,AE Nano-Armor Kit 6,
-803820,Infantry Abilities,AE Nano-Armor Kit 6,
-6006701,Infantry Abilities,AE Nano-Armor Kit 6,
 6002366,Infantry Abilities,Alarm Module,
 6002367,Infantry Abilities,Alarm Module,
 6002368,Infantry Abilities,Alarm Module,
 6005628,Infantry Abilities,Alarm Module,
-6005225,Infantry Abilities,Ammunition Package 1,
-6005226,Infantry Abilities,Ammunition Package 2,
-6005227,Infantry Abilities,Ammunition Package 3,
-6005228,Infantry Abilities,Ammunition Package 4,
-6005229,Infantry Abilities,Ammunition Package 5,
-6005230,Infantry Abilities,Ammunition Package 6,
-6005223,Infantry Abilities,Anti-Infantry MANA Turret,
-6005424,Infantry Abilities,Anti-Vehicle MANA Turret,
 6009044,Infantry Abilities,Armory War Asset Orbital Strike,
 803025,Infantry Abilities,AV SpitFire Turret,
 803026,Infantry Abilities,AV SpitFire Turret,
@@ -629,22 +573,8 @@
 6002361,Infantry Abilities,Lumifiber Rampart Wall,
 6002362,Infantry Abilities,Lumifiber Rampart Wall,
 6005646,Infantry Abilities,Lumifiber Rampart Wall,
-6005425,Infantry Abilities,MANA Anti-Vehicle Turret,
-6005372,Infantry Abilities,Medical Applicator 1,
-6005373,Infantry Abilities,Medical Applicator 2,
-6005374,Infantry Abilities,Medical Applicator 3,
-6005375,Infantry Abilities,Medical Applicator 4,
-6005376,Infantry Abilities,Medical Applicator 5,
-6005377,Infantry Abilities,Medical Applicator 6,
-6005263,Infantry Abilities,Medical Kit,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
-6005217,Infantry Abilities,Nano-Armor Kit 1,
-6005218,Infantry Abilities,Nano-Armor Kit 2,
-6005219,Infantry Abilities,Nano-Armor Kit 3,
-6005220,Infantry Abilities,Nano-Armor Kit 4,
-6005221,Infantry Abilities,Nano-Armor Kit 5,
-6005222,Infantry Abilities,Nano-Armor Kit 6,
 6009605,Infantry Abilities,NE-11 PML,
 6009487,Infantry Abilities,Neutralizer Device,
 6002554,Infantry Abilities,Orbital Strike Target Designator,
@@ -666,30 +596,6 @@
 803606,Infantry Abilities,Rampart Wall,
 803607,Infantry Abilities,Rampart Wall,
 6005698,Infantry Abilities,Rampart Wall,
-804870,Infantry Abilities,RD-GG Recon Device,
-804871,Infantry Abilities,RD-GG Recon Device,
-804872,Infantry Abilities,RD-GG Recon Device,
-804873,Infantry Abilities,RD-GG Recon Device 2,
-804874,Infantry Abilities,RD-GG Recon Device 2,
-804875,Infantry Abilities,RD-GG Recon Device 2,
-804876,Infantry Abilities,RD-GG Recon Device 3,
-804877,Infantry Abilities,RD-GG Recon Device 3,
-804878,Infantry Abilities,RD-GG Recon Device 3,
-804879,Infantry Abilities,RD-GG Recon Device 4,
-804880,Infantry Abilities,RD-GG Recon Device 4,
-804881,Infantry Abilities,RD-GG Recon Device 4,
-804882,Infantry Abilities,RD-GG Recon Device 5,
-804883,Infantry Abilities,RD-GG Recon Device 5,
-804884,Infantry Abilities,RD-GG Recon Device 5,
-804869,Infantry Abilities,RD-GG Recon Device 6,
-804885,Infantry Abilities,RD-GG Recon Device 6,
-804886,Infantry Abilities,RD-GG Recon Device 6,
-6005169,Infantry Abilities,Recon Detection Device 1,
-6005170,Infantry Abilities,Recon Detection Device 2,
-6005171,Infantry Abilities,Recon Detection Device 3,
-6005172,Infantry Abilities,Recon Detection Device 4,
-6005173,Infantry Abilities,Recon Detection Device 5,
-6005174,Infantry Abilities,Recon Detection Device 6,
 804974,Infantry Abilities,Reinforcements Module,
 804975,Infantry Abilities,Reinforcements Module,
 804976,Infantry Abilities,Reinforcements Module,
@@ -702,7 +608,6 @@
 6004530,Infantry Abilities,Reserve Hardlight Barrier,
 6004531,Infantry Abilities,Reserve Hardlight Barrier,
 6005329,Infantry Abilities,Reserve Hardlight Barrier,
-6005267,Infantry Abilities,Restoration Kit,
 6003551,Infantry Abilities,Router,
 6003552,Infantry Abilities,Router,
 6003553,Infantry Abilities,Router,
@@ -725,9 +630,6 @@
 6002405,Infantry Abilities,Spear Anti-Vehicle Turret,
 6002419,Infantry Abilities,Spear Anti-Vehicle Turret,
 6005650,Infantry Abilities,Spear Anti-Vehicle Turret,
-6005426,Infantry Abilities,Spitfire Auto-Turret,
-6005427,Infantry Abilities,Spitfire Auto-Turret,
-6009294,Infantry Abilities,Spitfire Auto-Turret,
 310,Infantry Abilities,Stealth Test,
 6009572,Infantry Abilities,Stormglider Drone,
 804266,Infantry Abilities,Structure Shield Module,
@@ -768,51 +670,115 @@
 200,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 202,Infantry Abilities,Anti-Infantry MANA Turret,infantry
+6005223,Infantry Abilities,Anti-Infantry MANA Turret,infantry
+803785,Infantry Abilities,AE Medical Applicator 1,none
+803786,Infantry Abilities,AE Medical Applicator 1,none
+803787,Infantry Abilities,AE Medical Applicator 1,none
+6006606,Infantry Abilities,AE Medical Applicator 1,none
+803788,Infantry Abilities,AE Medical Applicator 2,none
+803793,Infantry Abilities,AE Medical Applicator 2,none
+803798,Infantry Abilities,AE Medical Applicator 2,none
+6006607,Infantry Abilities,AE Medical Applicator 2,none
+803789,Infantry Abilities,AE Medical Applicator 3,none
+803794,Infantry Abilities,AE Medical Applicator 3,none
+803799,Infantry Abilities,AE Medical Applicator 3,none
+6006608,Infantry Abilities,AE Medical Applicator 3,none
+803790,Infantry Abilities,AE Medical Applicator 4,none
+803795,Infantry Abilities,AE Medical Applicator 4,none
+803800,Infantry Abilities,AE Medical Applicator 4,none
+6006609,Infantry Abilities,AE Medical Applicator 4,none
+803791,Infantry Abilities,AE Medical Applicator 5,none
+803796,Infantry Abilities,AE Medical Applicator 5,none
+803801,Infantry Abilities,AE Medical Applicator 5,none
+6006610,Infantry Abilities,AE Medical Applicator 5,none
+803792,Infantry Abilities,AE Medical Applicator 6,none
+803797,Infantry Abilities,AE Medical Applicator 6,none
+803802,Infantry Abilities,AE Medical Applicator 6,none
+6006611,Infantry Abilities,AE Medical Applicator 6,none
+803804,Infantry Abilities,AE Nano-Armor Kit 1,none
+803809,Infantry Abilities,AE Nano-Armor Kit 1,none
+803815,Infantry Abilities,AE Nano-Armor Kit 1,none
+6006682,Infantry Abilities,AE Nano-Armor Kit 1,none
+803803,Infantry Abilities,AE Nano-Armor Kit 2,none
+803810,Infantry Abilities,AE Nano-Armor Kit 2,none
+803816,Infantry Abilities,AE Nano-Armor Kit 2,none
+6006683,Infantry Abilities,AE Nano-Armor Kit 2,none
+803805,Infantry Abilities,AE Nano-Armor Kit 3,none
+803811,Infantry Abilities,AE Nano-Armor Kit 3,none
+803817,Infantry Abilities,AE Nano-Armor Kit 3,none
+6006684,Infantry Abilities,AE Nano-Armor Kit 3,none
+803807,Infantry Abilities,AE Nano-Armor Kit 4,none
+803812,Infantry Abilities,AE Nano-Armor Kit 4,none
+803818,Infantry Abilities,AE Nano-Armor Kit 4,none
+6006685,Infantry Abilities,AE Nano-Armor Kit 4,none
+803808,Infantry Abilities,AE Nano-Armor Kit 5,none
+803813,Infantry Abilities,AE Nano-Armor Kit 5,none
+803819,Infantry Abilities,AE Nano-Armor Kit 5,none
+6006700,Infantry Abilities,AE Nano-Armor Kit 5,none
+803806,Infantry Abilities,AE Nano-Armor Kit 6,none
+803814,Infantry Abilities,AE Nano-Armor Kit 6,none
+803820,Infantry Abilities,AE Nano-Armor Kit 6,none
+6006701,Infantry Abilities,AE Nano-Armor Kit 6,none
 153,Infantry Abilities,Ammunition Package 1,none
 376,Infantry Abilities,Ammunition Package 1,none
 377,Infantry Abilities,Ammunition Package 1,none
+6005225,Infantry Abilities,Ammunition Package 1,none
 1264,Infantry Abilities,Ammunition Package 2,none
 1269,Infantry Abilities,Ammunition Package 2,none
 1274,Infantry Abilities,Ammunition Package 2,none
+6005226,Infantry Abilities,Ammunition Package 2,none
 1265,Infantry Abilities,Ammunition Package 3,none
 1270,Infantry Abilities,Ammunition Package 3,none
 1275,Infantry Abilities,Ammunition Package 3,none
+6005227,Infantry Abilities,Ammunition Package 3,none
 1266,Infantry Abilities,Ammunition Package 4,none
 1271,Infantry Abilities,Ammunition Package 4,none
 1276,Infantry Abilities,Ammunition Package 4,none
+6005228,Infantry Abilities,Ammunition Package 4,none
 1267,Infantry Abilities,Ammunition Package 5,none
 1272,Infantry Abilities,Ammunition Package 5,none
 1277,Infantry Abilities,Ammunition Package 5,none
+6005229,Infantry Abilities,Ammunition Package 5,none
 1268,Infantry Abilities,Ammunition Package 6,none
 1273,Infantry Abilities,Ammunition Package 6,none
 1278,Infantry Abilities,Ammunition Package 6,none
+6005230,Infantry Abilities,Ammunition Package 6,none
 71563,Infantry Abilities,Anti-Vehicle MANA Turret,none
 71564,Infantry Abilities,Anti-Vehicle MANA Turret,none
 71565,Infantry Abilities,Anti-Vehicle MANA Turret,none
+6005424,Infantry Abilities,Anti-Vehicle MANA Turret,none
 500,Infantry Abilities,MANA Anti-Vehicle Turret,none
 501,Infantry Abilities,MANA Anti-Vehicle Turret,none
 502,Infantry Abilities,MANA Anti-Vehicle Turret,none
+6005425,Infantry Abilities,MANA Anti-Vehicle Turret,none
 93,Infantry Abilities,Medical Applicator 1,none
 94,Infantry Abilities,Medical Applicator 1,none
 95,Infantry Abilities,Medical Applicator 1,none
+6005372,Infantry Abilities,Medical Applicator 1,none
 1608,Infantry Abilities,Medical Applicator 2,none
 1617,Infantry Abilities,Medical Applicator 2,none
 1626,Infantry Abilities,Medical Applicator 2,none
+6005373,Infantry Abilities,Medical Applicator 2,none
 1609,Infantry Abilities,Medical Applicator 3,none
 1618,Infantry Abilities,Medical Applicator 3,none
 1627,Infantry Abilities,Medical Applicator 3,none
+6005374,Infantry Abilities,Medical Applicator 3,none
 1610,Infantry Abilities,Medical Applicator 4,none
 1619,Infantry Abilities,Medical Applicator 4,none
 1628,Infantry Abilities,Medical Applicator 4,none
+6005375,Infantry Abilities,Medical Applicator 4,none
 1611,Infantry Abilities,Medical Applicator 5,none
 1620,Infantry Abilities,Medical Applicator 5,none
 1629,Infantry Abilities,Medical Applicator 5,none
+6005376,Infantry Abilities,Medical Applicator 5,none
 1612,Infantry Abilities,Medical Applicator 6,none
 1621,Infantry Abilities,Medical Applicator 6,none
 1630,Infantry Abilities,Medical Applicator 6,none
+6005377,Infantry Abilities,Medical Applicator 6,none
 99,Infantry Abilities,Medical Kit,none
 100,Infantry Abilities,Medical Kit,none
 101,Infantry Abilities,Medical Kit,none
+6005263,Infantry Abilities,Medical Kit,none
 75285,Infantry Abilities,Motion Spotter 1,none
 75286,Infantry Abilities,Motion Spotter 2,none
 75287,Infantry Abilities,Motion Spotter 3,none
@@ -821,42 +787,73 @@
 124,Infantry Abilities,Nano-Armor Kit 1,none
 125,Infantry Abilities,Nano-Armor Kit 1,none
 126,Infantry Abilities,Nano-Armor Kit 1,none
+6005217,Infantry Abilities,Nano-Armor Kit 1,none
 1252,Infantry Abilities,Nano-Armor Kit 2,none
 1256,Infantry Abilities,Nano-Armor Kit 2,none
 1260,Infantry Abilities,Nano-Armor Kit 2,none
+6005218,Infantry Abilities,Nano-Armor Kit 2,none
 1253,Infantry Abilities,Nano-Armor Kit 3,none
 1257,Infantry Abilities,Nano-Armor Kit 3,none
 1261,Infantry Abilities,Nano-Armor Kit 3,none
+6005219,Infantry Abilities,Nano-Armor Kit 3,none
 1254,Infantry Abilities,Nano-Armor Kit 4,none
 1258,Infantry Abilities,Nano-Armor Kit 4,none
 1262,Infantry Abilities,Nano-Armor Kit 4,none
+6005220,Infantry Abilities,Nano-Armor Kit 4,none
 1255,Infantry Abilities,Nano-Armor Kit 5,none
 1259,Infantry Abilities,Nano-Armor Kit 5,none
 1263,Infantry Abilities,Nano-Armor Kit 5,none
+6005221,Infantry Abilities,Nano-Armor Kit 5,none
 6010,Infantry Abilities,Nano-Armor Kit 6,none
 6011,Infantry Abilities,Nano-Armor Kit 6,none
 6012,Infantry Abilities,Nano-Armor Kit 6,none
+6005222,Infantry Abilities,Nano-Armor Kit 6,none
+804870,Infantry Abilities,RD-GG Recon Device,none
+804871,Infantry Abilities,RD-GG Recon Device,none
+804872,Infantry Abilities,RD-GG Recon Device,none
+804873,Infantry Abilities,RD-GG Recon Device 2,none
+804874,Infantry Abilities,RD-GG Recon Device 2,none
+804875,Infantry Abilities,RD-GG Recon Device 2,none
+804876,Infantry Abilities,RD-GG Recon Device 3,none
+804877,Infantry Abilities,RD-GG Recon Device 3,none
+804878,Infantry Abilities,RD-GG Recon Device 3,none
+804879,Infantry Abilities,RD-GG Recon Device 4,none
+804880,Infantry Abilities,RD-GG Recon Device 4,none
+804881,Infantry Abilities,RD-GG Recon Device 4,none
+804882,Infantry Abilities,RD-GG Recon Device 5,none
+804883,Infantry Abilities,RD-GG Recon Device 5,none
+804884,Infantry Abilities,RD-GG Recon Device 5,none
+804869,Infantry Abilities,RD-GG Recon Device 6,none
+804885,Infantry Abilities,RD-GG Recon Device 6,none
+804886,Infantry Abilities,RD-GG Recon Device 6,none
 309,Infantry Abilities,Recon Detection Device 1,none
 471,Infantry Abilities,Recon Detection Device 1,none
 472,Infantry Abilities,Recon Detection Device 1,none
+6005169,Infantry Abilities,Recon Detection Device 1,none
 473,Infantry Abilities,Recon Detection Device 2,none
 477,Infantry Abilities,Recon Detection Device 2,none
 481,Infantry Abilities,Recon Detection Device 2,none
+6005170,Infantry Abilities,Recon Detection Device 2,none
 474,Infantry Abilities,Recon Detection Device 3,none
 478,Infantry Abilities,Recon Detection Device 3,none
 482,Infantry Abilities,Recon Detection Device 3,none
+6005171,Infantry Abilities,Recon Detection Device 3,none
 475,Infantry Abilities,Recon Detection Device 4,none
 479,Infantry Abilities,Recon Detection Device 4,none
 483,Infantry Abilities,Recon Detection Device 4,none
+6005172,Infantry Abilities,Recon Detection Device 4,none
 476,Infantry Abilities,Recon Detection Device 5,none
 480,Infantry Abilities,Recon Detection Device 5,none
 484,Infantry Abilities,Recon Detection Device 5,none
+6005173,Infantry Abilities,Recon Detection Device 5,none
 485,Infantry Abilities,Recon Detection Device 6,none
 486,Infantry Abilities,Recon Detection Device 6,none
 487,Infantry Abilities,Recon Detection Device 6,none
+6005174,Infantry Abilities,Recon Detection Device 6,none
 7609,Infantry Abilities,Restoration Kit,none
 7610,Infantry Abilities,Restoration Kit,none
 7611,Infantry Abilities,Restoration Kit,none
+6005267,Infantry Abilities,Restoration Kit,none
 45,Infantry Abilities,Shield Recharging Field,none
 46,Infantry Abilities,Shield Recharging Field,none
 47,Infantry Abilities,Shield Recharging Field,none
@@ -869,6 +866,9 @@
 802516,Infantry Abilities,Spitfire Auto-Turret,none
 802517,Infantry Abilities,Spitfire Auto-Turret,none
 802518,Infantry Abilities,Spitfire Auto-Turret,none
+6005426,Infantry Abilities,Spitfire Auto-Turret,none
+6005427,Infantry Abilities,Spitfire Auto-Turret,none
+6009294,Infantry Abilities,Spitfire Auto-Turret,none
 6005423,Infantry Weapons,MANA Anti-Personnel Turret,
 554,Infantry Weapons,MANA Anti-Personnel Turret,none
 555,Infantry Weapons,MANA Anti-Personnel Turret,none
