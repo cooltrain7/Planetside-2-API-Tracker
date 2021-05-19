@@ -1058,24 +1058,22 @@
 4905,Mosquito Wing Mount,Tomcat A2AM Pods,air
 5052,Mosquito Wing Mount,Coyote Missiles,none
 5051,Mosquito Wing Mount,Hornet Missiles,none
-6006090,Pistol,"""Jackpot"" Cerberus",
 6004995,Pistol,Ectoblaster,
-6006092,Pistol,"LA3 ""Jackpot"" Desperado",
-803007,Pistol,NC Triumph Flare Gun,
 6005969,Pistol,NSX-A Yawara,
 6004714,Pistol,Soldier Soaker,
-803008,Pistol,TR Triumph Flare Gun,
-6006091,Pistol,"TX2 ""Jackpot"" Emperor",
-803009,Pistol,VS Triumph Flare Gun,
+6006090,Pistol,"""Jackpot"" Cerberus",infantry
 21,Pistol,Beamer VS3,infantry
 7403,Pistol,Beamer VS3-FB,infantry
 7413,Pistol,Cerberus,infantry
+6006092,Pistol,"LA3 ""Jackpot"" Desperado",infantry
 7389,Pistol,LA3 Desperado,infantry
 7388,Pistol,LA8 Rebel,infantry
 7412,Pistol,Manticore SX40,infantry
 75517,Pistol,NC Patriot Flare Gun,infantry
+803007,Pistol,NC Triumph Flare Gun,infantry
 2,Pistol,NC4 Mag-Shot,infantry
 7379,Pistol,NC4-FB Mag-Shot,infantry
+75490,Pistol,NS Patriot Flare Gun,infantry
 6009652,Pistol,"NS-357 ""Endeavor"" Underboss",infantry
 6003943,Pistol,NS-357 IA,infantry
 75071,Pistol,NS-357 Underboss,infantry
@@ -1110,15 +1108,17 @@
 1959,Pistol,The Immortal,infantry
 1954,Pistol,The President,infantry
 75519,Pistol,TR Patriot Flare Gun,infantry
+803008,Pistol,TR Triumph Flare Gun,infantry
 7401,Pistol,TS2 Inquisitor,infantry
 15,Pistol,TX1 Repeater,infantry
 7391,Pistol,TX1-FB Repeater,infantry
+6006091,Pistol,"TX2 ""Jackpot"" Emperor",infantry
 7400,Pistol,TX2 Emperor,infantry
 75521,Pistol,VS Patriot Flare Gun,infantry
+803009,Pistol,VS Triumph Flare Gun,infantry
 7390,Pistol,NC08 Mag-Scatter,none
 801970,Pistol,NS CandyCannon 3000,none
 76358,Pistol,NS Deep Freeze,none
-75490,Pistol,NS Patriot Flare Gun,none
 4015,Prowler Gunner Weapon,E540 Halberd,gunner
 4029,Prowler Gunner Weapon,G30 Vulcan,gunner
 4003,Prowler Gunner Weapon,G30 Walker,gunner
