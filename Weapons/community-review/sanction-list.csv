@@ -342,25 +342,25 @@
 650,Explosive,Tank Mine,none
 6005961,Explosive,Tank Mine,none
 6005962,Explosive,Tank Mine,none
-6004753,Flash Primary Weapon,LA7 Buzzard,
-6005168,Flash Primary Weapon,M12 Kobalt-F,
-6005166,Flash Primary Weapon,M20 Basilisk-F,
-6004754,Flash Primary Weapon,M4-F Pillager,
-6005167,Flash Primary Weapon,M40 Fury-F,
-6005224,Flash Primary Weapon,S12 Renegade,
-6004752,Flash Primary Weapon,V30-F Starfall,
+6004753,Flash Primary Weapon,LA7 Buzzard,none
 2500,Flash Primary Weapon,M12 Kobalt-F,none
 2501,Flash Primary Weapon,M12 Kobalt-F,none
 2502,Flash Primary Weapon,M12 Kobalt-F,none
+6005168,Flash Primary Weapon,M12 Kobalt-F,none
 2507,Flash Primary Weapon,M20 Basilisk-F,none
 2508,Flash Primary Weapon,M20 Basilisk-F,none
 2509,Flash Primary Weapon,M20 Basilisk-F,none
+6005166,Flash Primary Weapon,M20 Basilisk-F,none
+6004754,Flash Primary Weapon,M4-F Pillager,none
 2510,Flash Primary Weapon,M40 Fury-F,none
 2511,Flash Primary Weapon,M40 Fury-F,none
 2512,Flash Primary Weapon,M40 Fury-F,none
+6005167,Flash Primary Weapon,M40 Fury-F,none
 2657,Flash Primary Weapon,S12 Renegade,none
 2658,Flash Primary Weapon,S12 Renegade,none
 2659,Flash Primary Weapon,S12 Renegade,none
+6005224,Flash Primary Weapon,S12 Renegade,none
+6004752,Flash Primary Weapon,V30-F Starfall,none
 5502,Galaxy Left Weapon,M20 Drake,none
 5506,Galaxy Left Weapon,M20 Drake,none
 5510,Galaxy Left Weapon,M20 Drake,none
@@ -965,34 +965,34 @@
 5495,Liberator Tail Weapon,Hyena Missile Launcher,none
 5496,Liberator Tail Weapon,Hyena Missile Launcher,none
 6005456,Liberator Tail Weapon,Hyena Missile Launcher,none
-6005302,Lightning Primary Weapon,C75 Viper,
-6005299,Lightning Primary Weapon,L100 Python AP,
-6005300,Lightning Primary Weapon,L100 Python HEAT,
-6005301,Lightning Primary Weapon,L100 Python HESH,
 6009461,Lightning Primary Weapon,L20 Anaconda,
 6009490,Lightning Primary Weapon,L20 Anaconda,
 6009491,Lightning Primary Weapon,L20 Anaconda,
 6009492,Lightning Primary Weapon,L20 Anaconda,
-6005068,Lightning Primary Weapon,LB00 Python AP,
-6005069,Lightning Primary Weapon,LB00 Python AP,
-6005070,Lightning Primary Weapon,LB00 Python AP,
-6008684,Lightning Primary Weapon,LB00 Python AP,
-6005303,Lightning Primary Weapon,Skyguard,
 3100,Lightning Primary Weapon,C75 Viper,armor
 3101,Lightning Primary Weapon,C75 Viper,armor
 3102,Lightning Primary Weapon,C75 Viper,armor
+6005302,Lightning Primary Weapon,C75 Viper,armor
 3103,Lightning Primary Weapon,L100 Python AP,armor
 3104,Lightning Primary Weapon,L100 Python AP,armor
 3105,Lightning Primary Weapon,L100 Python AP,armor
+6005299,Lightning Primary Weapon,L100 Python AP,armor
 3156,Lightning Primary Weapon,L100 Python HEAT,armor
 3157,Lightning Primary Weapon,L100 Python HEAT,armor
 3158,Lightning Primary Weapon,L100 Python HEAT,armor
+6005300,Lightning Primary Weapon,L100 Python HEAT,armor
 3153,Lightning Primary Weapon,L100 Python HESH,armor
 3154,Lightning Primary Weapon,L100 Python HESH,armor
 3155,Lightning Primary Weapon,L100 Python HESH,armor
+6005301,Lightning Primary Weapon,L100 Python HESH,armor
+6005068,Lightning Primary Weapon,LB00 Python AP,armor
+6005069,Lightning Primary Weapon,LB00 Python AP,armor
+6005070,Lightning Primary Weapon,LB00 Python AP,armor
+6008684,Lightning Primary Weapon,LB00 Python AP,armor
 3106,Lightning Primary Weapon,Skyguard,armor
 3107,Lightning Primary Weapon,Skyguard,armor
 3108,Lightning Primary Weapon,Skyguard,armor
+6005303,Lightning Primary Weapon,Skyguard,armor
 1894,LMG,Betelgeuse 54-A,infantry
 7232,LMG,EM1,infantry
 7235,LMG,EM6,infantry
@@ -1206,11 +1206,11 @@
 4300,Scythe Wing Mount,Photon A2A Missile Pods,air
 4447,Scythe Wing Mount,Coyote Missiles,none
 4446,Scythe Wing Mount,Hornet Missiles,none
-6005713,Shotgun,The Little Helper,
 75083,Shotgun,NS Baron G5,none
 802322,Shotgun,NS Baron G5AE,none
 1097,Shotgun,NS Baron G5B,none
 1849,Shotgun,NS Baron G5G,none
+6005713,Shotgun,The Little Helper,none
 40000,Shotgun,AF-57 Piston,shotgun
 30,Shotgun,AS16 NightHawk,shotgun
 1939,Shotgun,Chaos,shotgun
