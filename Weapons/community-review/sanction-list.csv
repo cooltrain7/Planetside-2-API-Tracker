@@ -476,8 +476,8 @@
 6122,Harasser Top Gunner,P525 Marauder-H,gunner
 6125,Harasser Top Gunner,Proton II PPA-H,gunner
 6126,Harasser Top Gunner,Saron HRB-H,gunner
-6006332,Heavy Weapon,NS-03 Thumper,
-6009426,Heavy Weapon,NS-03 Thumper SE,
+6006332,Heavy Weapon,NS-03 Thumper,none
+6009426,Heavy Weapon,NS-03 Thumper SE,none
 6008686,Heavy Weapon,Grenade Printer,max
 7540,Heavy Weapon,Lasher X2,none
 803732,Heavy Weapon,Lasher X2 AE,none
@@ -1262,7 +1262,7 @@
 28005,SMG,SMG-46G Armistice,infantry
 1899,SMG,Tempest,infantry
 6003925,SMG,VE-S Canis,infantry
-6004294,Sniper Rifle,AM7-XOXO,
+6004294,Sniper Rifle,AM7-XOXO,infantry
 6004992,Sniper Rifle,NS-AM8 Shortbow,
 6008496,Sniper Rifle,PSA-01 Hammerhead AMR,
 6006850,Sniper Rifle,SR-200,
