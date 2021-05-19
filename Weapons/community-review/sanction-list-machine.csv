@@ -364,6 +364,7 @@
 75173,infantry
 75234,infantry
 75268,infantry
+75490,infantry
 75517,infantry
 75519,infantry
 75521,infantry
@@ -389,6 +390,9 @@
 802900,gunner
 802910,infantry
 802921,infantry
+803007,infantry
+803008,infantry
+803009,infantry
 803699,infantry
 803824,infantry
 803825,infantry
@@ -499,6 +503,9 @@
 6005382,gunner
 6005383,gunner
 6005384,gunner
+6006090,infantry
+6006091,infantry
+6006092,infantry
 6006299,infantry
 6006397,gunner
 6006398,gunner
