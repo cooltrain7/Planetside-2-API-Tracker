@@ -476,8 +476,6 @@
 6122,Harasser Top Gunner,P525 Marauder-H,gunner
 6125,Harasser Top Gunner,Proton II PPA-H,gunner
 6126,Harasser Top Gunner,Saron HRB-H,gunner
-6006332,Heavy Weapon,NS-03 Thumper,none
-6009426,Heavy Weapon,NS-03 Thumper SE,none
 6008686,Heavy Weapon,Grenade Printer,max
 7540,Heavy Weapon,Lasher X2,none
 803732,Heavy Weapon,Lasher X2 AE,none
@@ -485,6 +483,8 @@
 7528,Heavy Weapon,NC05 Jackhammer,none
 803756,Heavy Weapon,NC05 Jackhammer AE,none
 6004174,Heavy Weapon,NC05-P Jackhammer,none
+6006332,Heavy Weapon,NS-03 Thumper,none
+6009426,Heavy Weapon,NS-03 Thumper SE,none
 7533,Heavy Weapon,T7 Mini-Chaingun,none
 803779,Heavy Weapon,T7 Mini-Chaingun AE,none
 6004168,Heavy Weapon,T7-P Mini-Chaingun,none
@@ -918,53 +918,53 @@
 285,Knife,Ripper,none
 6005452,Knife,Ripper AE,none
 801969,Knife,The Slasher,none
-6005463,Liberator Belly Weapon,AP30 Shredder,gunner
-6005464,Liberator Belly Weapon,C150 Dalton,gunner
-6005462,Liberator Belly Weapon,Dual-75 Duster,none
-6005466,Liberator Belly Weapon,L105 Zephyr,gunner
 5209,Liberator Belly Weapon,AP30 Shredder,gunner
 5210,Liberator Belly Weapon,AP30 Shredder,gunner
 5211,Liberator Belly Weapon,AP30 Shredder,gunner
+6005463,Liberator Belly Weapon,AP30 Shredder,gunner
 5224,Liberator Belly Weapon,C150 Dalton,gunner
 5225,Liberator Belly Weapon,C150 Dalton,gunner
 5226,Liberator Belly Weapon,C150 Dalton,gunner
+6005464,Liberator Belly Weapon,C150 Dalton,gunner
 5227,Liberator Belly Weapon,L105 Zephyr,gunner
 5228,Liberator Belly Weapon,L105 Zephyr,gunner
 5229,Liberator Belly Weapon,L105 Zephyr,gunner
+6005466,Liberator Belly Weapon,L105 Zephyr,gunner
 5250,Liberator Belly Weapon,L105 Zephyr PX,gunner
 5251,Liberator Belly Weapon,L105 Zephyr PX,gunner
 5252,Liberator Belly Weapon,L105 Zephyr PX,gunner
 5441,Liberator Belly Weapon,Dual-75 Duster,none
 5442,Liberator Belly Weapon,Dual-75 Duster,none
 5443,Liberator Belly Weapon,Dual-75 Duster,none
-6005461,Liberator Nose Cannon,CAS30 Tank Buster,air
-6005455,Liberator Nose Cannon,L-24R Spur,none
-6005454,Liberator Nose Cannon,L-30R Vektor,air
+6005462,Liberator Belly Weapon,Dual-75 Duster,none
 5215,Liberator Nose Cannon,CAS30 Tank Buster,air
 5216,Liberator Nose Cannon,CAS30 Tank Buster,air
 5217,Liberator Nose Cannon,CAS30 Tank Buster,air
+6005461,Liberator Nose Cannon,CAS30 Tank Buster,air
 5206,Liberator Nose Cannon,L-30R Vektor,air
 5207,Liberator Nose Cannon,L-30R Vektor,air
 5208,Liberator Nose Cannon,L-30R Vektor,air
+6005454,Liberator Nose Cannon,L-30R Vektor,air
 5218,Liberator Nose Cannon,L-24R Spur,none
 5219,Liberator Nose Cannon,L-24R Spur,none
 5220,Liberator Nose Cannon,L-24R Spur,none
-6005459,Liberator Tail Weapon,A30 Walker,gunner
-6005456,Liberator Tail Weapon,Hyena Missile Launcher,none
-6005457,Liberator Tail Weapon,M20 Drake,gunner
-6005460,Liberator Tail Weapon,M60-A Bulldog,gunner
+6005455,Liberator Nose Cannon,L-24R Spur,none
 5212,Liberator Tail Weapon,A30 Walker,gunner
 5213,Liberator Tail Weapon,A30 Walker,gunner
 5214,Liberator Tail Weapon,A30 Walker,gunner
+6005459,Liberator Tail Weapon,A30 Walker,gunner
 5200,Liberator Tail Weapon,M20 Drake,gunner
 5202,Liberator Tail Weapon,M20 Drake,gunner
 5204,Liberator Tail Weapon,M20 Drake,gunner
+6005457,Liberator Tail Weapon,M20 Drake,gunner
 5221,Liberator Tail Weapon,M60-A Bulldog,gunner
 5222,Liberator Tail Weapon,M60-A Bulldog,gunner
 5223,Liberator Tail Weapon,M60-A Bulldog,gunner
+6005460,Liberator Tail Weapon,M60-A Bulldog,gunner
 5494,Liberator Tail Weapon,Hyena Missile Launcher,none
 5495,Liberator Tail Weapon,Hyena Missile Launcher,none
 5496,Liberator Tail Weapon,Hyena Missile Launcher,none
+6005456,Liberator Tail Weapon,Hyena Missile Launcher,none
 6005302,Lightning Primary Weapon,C75 Viper,
 6005299,Lightning Primary Weapon,L100 Python AP,
 6005300,Lightning Primary Weapon,L100 Python HEAT,
@@ -1262,10 +1262,10 @@
 28005,SMG,SMG-46G Armistice,infantry
 1899,SMG,Tempest,infantry
 6003925,SMG,VE-S Canis,infantry
-6004294,Sniper Rifle,AM7-XOXO,infantry
 6004992,Sniper Rifle,NS-AM8 Shortbow,
 6008496,Sniper Rifle,PSA-01 Hammerhead AMR,
 6006850,Sniper Rifle,SR-200,
+6004294,Sniper Rifle,AM7-XOXO,infantry
 24002,Sniper Rifle,Impetus,infantry
 25002,Sniper Rifle,KSR-35,infantry
 6002943,Sniper Rifle,NS-AM7 AE/NC Archer,infantry
