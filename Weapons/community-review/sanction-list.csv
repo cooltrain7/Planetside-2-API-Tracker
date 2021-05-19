@@ -496,10 +496,6 @@
 803035,Infantry Abilities,AA SpitFire Turret,
 803036,Infantry Abilities,AA SpitFire Turret,
 6002561,Infantry Abilities,ADMIN: Orbital Strike Gun,
-6002366,Infantry Abilities,Alarm Module,
-6002367,Infantry Abilities,Alarm Module,
-6002368,Infantry Abilities,Alarm Module,
-6005628,Infantry Abilities,Alarm Module,
 6009044,Infantry Abilities,Armory War Asset Orbital Strike,
 803025,Infantry Abilities,AV SpitFire Turret,
 803026,Infantry Abilities,AV SpitFire Turret,
@@ -509,164 +505,33 @@
 803030,Infantry Abilities,AV SpitFire Turret,
 6004611,Infantry Abilities,Bending Beacon,
 6006353,Infantry Abilities,Bending Beacon,
-804980,Infantry Abilities,Blast Wall,
-804981,Infantry Abilities,Blast Wall,
-804982,Infantry Abilities,Blast Wall,
-6005634,Infantry Abilities,Blast Wall,
-803614,Infantry Abilities,Bunker,
-803615,Infantry Abilities,Bunker,
-803616,Infantry Abilities,Bunker,
-6005701,Infantry Abilities,Bunker,
 6009090,Infantry Abilities,Caltrop,
 804846,Infantry Abilities,Cert Fountain,
 6009069,Infantry Abilities,Cortium Bomb,
-804702,Infantry Abilities,Cortium Silo,
-804703,Infantry Abilities,Cortium Silo,
-804704,Infantry Abilities,Cortium Silo,
-6005657,Infantry Abilities,Cortium Silo,
-803469,Infantry Abilities,Deconstruction Tool,
-6009753,Infantry Abilities,Elysium Refinery,
-6002466,Infantry Abilities,Elysium Spawn Tube,
-6002467,Infantry Abilities,Elysium Spawn Tube,
-6002468,Infantry Abilities,Elysium Spawn Tube,
-6005659,Infantry Abilities,Elysium Spawn Tube,
-804954,Infantry Abilities,Faction Banner,
-804955,Infantry Abilities,Faction Banner,
-804956,Infantry Abilities,Faction Banner,
-6005640,Infantry Abilities,Faction Banner,
-6004292,Infantry Abilities,Flail Targeting Dart,
 6009000,Infantry Abilities,Flash XS-1,
 6009009,Infantry Abilities,Flash XS-1,
-6002390,Infantry Abilities,Glaive IPC,
-6002391,Infantry Abilities,Glaive IPC,
-6002392,Infantry Abilities,Glaive IPC,
-6005636,Infantry Abilities,Glaive IPC,
 6002954,Infantry Abilities,Hardlight Barrier,
 6002955,Infantry Abilities,Hardlight Barrier,
 6002956,Infantry Abilities,Hardlight Barrier,
 6005515,Infantry Abilities,Hardlight Barrier,
 6009064,Infantry Abilities,Hardlight Canopy,
-803617,Infantry Abilities,HIVE,
-803618,Infantry Abilities,HIVE,
-803619,Infantry Abilities,HIVE,
-803588,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,
-803589,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,
-803590,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,
-6005622,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,
-6002348,Infantry Abilities,Infantry Tower,
-6002349,Infantry Abilities,Infantry Tower,
-6002350,Infantry Abilities,Infantry Tower,
-6005644,Infantry Abilities,Infantry Tower,
 6009093,Infantry Abilities,Infradine,
-6002553,Infantry Abilities,IPC Targeting Dart,
 6009047,Infantry Abilities,Javelin XS-1,
-6002496,Infantry Abilities,Light Air Terminal,
-6002497,Infantry Abilities,Light Air Terminal,
-6002498,Infantry Abilities,Light Air Terminal,
-6005626,Infantry Abilities,Light Air Terminal,
-6002472,Infantry Abilities,Light Vehicle Terminal,
-6002473,Infantry Abilities,Light Vehicle Terminal,
-6002474,Infantry Abilities,Light Vehicle Terminal,
-6005663,Infantry Abilities,Light Vehicle Terminal,
 6009467,Infantry Abilities,Lightning Arrester,
-6002360,Infantry Abilities,Lumifiber Rampart Wall,
-6002361,Infantry Abilities,Lumifiber Rampart Wall,
-6002362,Infantry Abilities,Lumifiber Rampart Wall,
-6005646,Infantry Abilities,Lumifiber Rampart Wall,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
 6009605,Infantry Abilities,NE-11 PML,
 6009487,Infantry Abilities,Neutralizer Device,
-6002554,Infantry Abilities,Orbital Strike Target Designator,
-6002524,Infantry Abilities,Orbital Strike Uplink,
-6002525,Infantry Abilities,Orbital Strike Uplink,
-6002526,Infantry Abilities,Orbital Strike Uplink,
-6005648,Infantry Abilities,Orbital Strike Uplink,
 6009058,Infantry Abilities,Ordnance Dampener,
-6004284,Infantry Abilities,Pain Spire,
-6004421,Infantry Abilities,Pain Spire,
-6004423,Infantry Abilities,Pain Spire,
-6005706,Infantry Abilities,Pain Spire,
-6002478,Infantry Abilities,Pillbox,
-6002479,Infantry Abilities,Pillbox,
-6002480,Infantry Abilities,Pillbox,
-6005652,Infantry Abilities,Pillbox,
 6005102,Infantry Abilities,Pumpking Slayer,
-803605,Infantry Abilities,Rampart Wall,
-803606,Infantry Abilities,Rampart Wall,
-803607,Infantry Abilities,Rampart Wall,
-6005698,Infantry Abilities,Rampart Wall,
-804974,Infantry Abilities,Reinforcements Module,
-804975,Infantry Abilities,Reinforcements Module,
-804976,Infantry Abilities,Reinforcements Module,
-6005654,Infantry Abilities,Reinforcements Module,
-804269,Infantry Abilities,Repair Module,
-804270,Infantry Abilities,Repair Module,
-804271,Infantry Abilities,Repair Module,
-6005666,Infantry Abilities,Repair Module,
 6004529,Infantry Abilities,Reserve Hardlight Barrier,
 6004530,Infantry Abilities,Reserve Hardlight Barrier,
 6004531,Infantry Abilities,Reserve Hardlight Barrier,
 6005329,Infantry Abilities,Reserve Hardlight Barrier,
-6003551,Infantry Abilities,Router,
-6003552,Infantry Abilities,Router,
-6003553,Infantry Abilities,Router,
-6005655,Infantry Abilities,Router,
-6004286,Infantry Abilities,Routing Spire,
-6004425,Infantry Abilities,Routing Spire,
-6004427,Infantry Abilities,Routing Spire,
-6005703,Infantry Abilities,Routing Spire,
 6009723,Infantry Abilities,Shield Matrix Pylon,
-804263,Infantry Abilities,Skywall Shield Emitter,
-804264,Infantry Abilities,Skywall Shield Emitter,
-804265,Infantry Abilities,Skywall Shield Emitter,
-6005672,Infantry Abilities,Skywall Shield Emitter,
-6004873,Infantry Abilities,Solid Wall,
-803427,Infantry Abilities,Spear Anti-Vehicle Tower,
-803428,Infantry Abilities,Spear Anti-Vehicle Tower,
-803429,Infantry Abilities,Spear Anti-Vehicle Tower,
-6005638,Infantry Abilities,Spear Anti-Vehicle Tower,
-6002399,Infantry Abilities,Spear Anti-Vehicle Turret,
-6002405,Infantry Abilities,Spear Anti-Vehicle Turret,
-6002419,Infantry Abilities,Spear Anti-Vehicle Turret,
-6005650,Infantry Abilities,Spear Anti-Vehicle Turret,
 310,Infantry Abilities,Stealth Test,
 6009572,Infantry Abilities,Stormglider Drone,
-804266,Infantry Abilities,Structure Shield Module,
-804267,Infantry Abilities,Structure Shield Module,
-804268,Infantry Abilities,Structure Shield Module,
-6005669,Infantry Abilities,Structure Shield Module,
-803611,Infantry Abilities,Sunderer Garage,
-803612,Infantry Abilities,Sunderer Garage,
-803613,Infantry Abilities,Sunderer Garage,
-6005700,Infantry Abilities,Sunderer Garage,
 6004201,Infantry Abilities,Tactical Snowman,
-6004288,Infantry Abilities,The Flail,
-6004446,Infantry Abilities,The Flail,
-6004448,Infantry Abilities,The Flail,
-6005632,Infantry Abilities,The Flail,
-804272,Infantry Abilities,Turret AI Module,
-804273,Infantry Abilities,Turret AI Module,
-804274,Infantry Abilities,Turret AI Module,
-6005668,Infantry Abilities,Turret AI Module,
-6002484,Infantry Abilities,Vehicle Ammo Dispenser,
-6002485,Infantry Abilities,Vehicle Ammo Dispenser,
-6002486,Infantry Abilities,Vehicle Ammo Dispenser,
-6005630,Infantry Abilities,Vehicle Ammo Dispenser,
-6002490,Infantry Abilities,Vehicle Gate,
-6002491,Infantry Abilities,Vehicle Gate,
-6002492,Infantry Abilities,Vehicle Gate,
-6005642,Infantry Abilities,Vehicle Gate,
-6002354,Infantry Abilities,Vehicle Ramp,
-6002355,Infantry Abilities,Vehicle Ramp,
-6002356,Infantry Abilities,Vehicle Ramp,
-6005661,Infantry Abilities,Vehicle Ramp,
-803470,Infantry Abilities,Welding Device,
-6004272,Infantry Abilities,Welding Device,
-803591,Infantry Abilities,Xiphos Anti-Personnel Tower,
-803592,Infantry Abilities,Xiphos Anti-Personnel Tower,
-803593,Infantry Abilities,Xiphos Anti-Personnel Tower,
-6005624,Infantry Abilities,Xiphos Anti-Personnel Tower,
 200,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 202,Infantry Abilities,Anti-Infantry MANA Turret,infantry
@@ -719,6 +584,10 @@
 803814,Infantry Abilities,AE Nano-Armor Kit 6,none
 803820,Infantry Abilities,AE Nano-Armor Kit 6,none
 6006701,Infantry Abilities,AE Nano-Armor Kit 6,none
+6002366,Infantry Abilities,Alarm Module,none
+6002367,Infantry Abilities,Alarm Module,none
+6002368,Infantry Abilities,Alarm Module,none
+6005628,Infantry Abilities,Alarm Module,none
 153,Infantry Abilities,Ammunition Package 1,none
 376,Infantry Abilities,Ammunition Package 1,none
 377,Infantry Abilities,Ammunition Package 1,none
@@ -747,6 +616,57 @@
 71564,Infantry Abilities,Anti-Vehicle MANA Turret,none
 71565,Infantry Abilities,Anti-Vehicle MANA Turret,none
 6005424,Infantry Abilities,Anti-Vehicle MANA Turret,none
+804980,Infantry Abilities,Blast Wall,none
+804981,Infantry Abilities,Blast Wall,none
+804982,Infantry Abilities,Blast Wall,none
+6005634,Infantry Abilities,Blast Wall,none
+803614,Infantry Abilities,Bunker,none
+803615,Infantry Abilities,Bunker,none
+803616,Infantry Abilities,Bunker,none
+6005701,Infantry Abilities,Bunker,none
+804702,Infantry Abilities,Cortium Silo,none
+804703,Infantry Abilities,Cortium Silo,none
+804704,Infantry Abilities,Cortium Silo,none
+6005657,Infantry Abilities,Cortium Silo,none
+803469,Infantry Abilities,Deconstruction Tool,none
+6009753,Infantry Abilities,Elysium Refinery,none
+6002466,Infantry Abilities,Elysium Spawn Tube,none
+6002467,Infantry Abilities,Elysium Spawn Tube,none
+6002468,Infantry Abilities,Elysium Spawn Tube,none
+6005659,Infantry Abilities,Elysium Spawn Tube,none
+804954,Infantry Abilities,Faction Banner,none
+804955,Infantry Abilities,Faction Banner,none
+804956,Infantry Abilities,Faction Banner,none
+6005640,Infantry Abilities,Faction Banner,none
+6004292,Infantry Abilities,Flail Targeting Dart,none
+6002390,Infantry Abilities,Glaive IPC,none
+6002391,Infantry Abilities,Glaive IPC,none
+6002392,Infantry Abilities,Glaive IPC,none
+6005636,Infantry Abilities,Glaive IPC,none
+803617,Infantry Abilities,HIVE,none
+803618,Infantry Abilities,HIVE,none
+803619,Infantry Abilities,HIVE,none
+803588,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,none
+803589,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,none
+803590,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,none
+6005622,Infantry Abilities,Hoplon Anti-Aircraft Phalanx Tower,none
+6002348,Infantry Abilities,Infantry Tower,none
+6002349,Infantry Abilities,Infantry Tower,none
+6002350,Infantry Abilities,Infantry Tower,none
+6005644,Infantry Abilities,Infantry Tower,none
+6002553,Infantry Abilities,IPC Targeting Dart,none
+6002496,Infantry Abilities,Light Air Terminal,none
+6002497,Infantry Abilities,Light Air Terminal,none
+6002498,Infantry Abilities,Light Air Terminal,none
+6005626,Infantry Abilities,Light Air Terminal,none
+6002472,Infantry Abilities,Light Vehicle Terminal,none
+6002473,Infantry Abilities,Light Vehicle Terminal,none
+6002474,Infantry Abilities,Light Vehicle Terminal,none
+6005663,Infantry Abilities,Light Vehicle Terminal,none
+6002360,Infantry Abilities,Lumifiber Rampart Wall,none
+6002361,Infantry Abilities,Lumifiber Rampart Wall,none
+6002362,Infantry Abilities,Lumifiber Rampart Wall,none
+6005646,Infantry Abilities,Lumifiber Rampart Wall,none
 500,Infantry Abilities,MANA Anti-Vehicle Turret,none
 501,Infantry Abilities,MANA Anti-Vehicle Turret,none
 502,Infantry Abilities,MANA Anti-Vehicle Turret,none
@@ -808,6 +728,23 @@
 6011,Infantry Abilities,Nano-Armor Kit 6,none
 6012,Infantry Abilities,Nano-Armor Kit 6,none
 6005222,Infantry Abilities,Nano-Armor Kit 6,none
+6002554,Infantry Abilities,Orbital Strike Target Designator,none
+6002524,Infantry Abilities,Orbital Strike Uplink,none
+6002525,Infantry Abilities,Orbital Strike Uplink,none
+6002526,Infantry Abilities,Orbital Strike Uplink,none
+6005648,Infantry Abilities,Orbital Strike Uplink,none
+6004284,Infantry Abilities,Pain Spire,none
+6004421,Infantry Abilities,Pain Spire,none
+6004423,Infantry Abilities,Pain Spire,none
+6005706,Infantry Abilities,Pain Spire,none
+6002478,Infantry Abilities,Pillbox,none
+6002479,Infantry Abilities,Pillbox,none
+6002480,Infantry Abilities,Pillbox,none
+6005652,Infantry Abilities,Pillbox,none
+803605,Infantry Abilities,Rampart Wall,none
+803606,Infantry Abilities,Rampart Wall,none
+803607,Infantry Abilities,Rampart Wall,none
+6005698,Infantry Abilities,Rampart Wall,none
 804870,Infantry Abilities,RD-GG Recon Device,none
 804871,Infantry Abilities,RD-GG Recon Device,none
 804872,Infantry Abilities,RD-GG Recon Device,none
@@ -850,16 +787,45 @@
 486,Infantry Abilities,Recon Detection Device 6,none
 487,Infantry Abilities,Recon Detection Device 6,none
 6005174,Infantry Abilities,Recon Detection Device 6,none
+804974,Infantry Abilities,Reinforcements Module,none
+804975,Infantry Abilities,Reinforcements Module,none
+804976,Infantry Abilities,Reinforcements Module,none
+6005654,Infantry Abilities,Reinforcements Module,none
+804269,Infantry Abilities,Repair Module,none
+804270,Infantry Abilities,Repair Module,none
+804271,Infantry Abilities,Repair Module,none
+6005666,Infantry Abilities,Repair Module,none
 7609,Infantry Abilities,Restoration Kit,none
 7610,Infantry Abilities,Restoration Kit,none
 7611,Infantry Abilities,Restoration Kit,none
 6005267,Infantry Abilities,Restoration Kit,none
+6003551,Infantry Abilities,Router,none
+6003552,Infantry Abilities,Router,none
+6003553,Infantry Abilities,Router,none
+6005655,Infantry Abilities,Router,none
+6004286,Infantry Abilities,Routing Spire,none
+6004425,Infantry Abilities,Routing Spire,none
+6004427,Infantry Abilities,Routing Spire,none
+6005703,Infantry Abilities,Routing Spire,none
 45,Infantry Abilities,Shield Recharging Field,none
 46,Infantry Abilities,Shield Recharging Field,none
 47,Infantry Abilities,Shield Recharging Field,none
 154,Infantry Abilities,Shield Recharging Field,none
 466,Infantry Abilities,Shield Recharging Field,none
+804263,Infantry Abilities,Skywall Shield Emitter,none
+804264,Infantry Abilities,Skywall Shield Emitter,none
+804265,Infantry Abilities,Skywall Shield Emitter,none
+6005672,Infantry Abilities,Skywall Shield Emitter,none
+6004873,Infantry Abilities,Solid Wall,none
 7,Infantry Abilities,Spawn Beacon,none
+803427,Infantry Abilities,Spear Anti-Vehicle Tower,none
+803428,Infantry Abilities,Spear Anti-Vehicle Tower,none
+803429,Infantry Abilities,Spear Anti-Vehicle Tower,none
+6005638,Infantry Abilities,Spear Anti-Vehicle Tower,none
+6002399,Infantry Abilities,Spear Anti-Vehicle Turret,none
+6002405,Infantry Abilities,Spear Anti-Vehicle Turret,none
+6002419,Infantry Abilities,Spear Anti-Vehicle Turret,none
+6005650,Infantry Abilities,Spear Anti-Vehicle Turret,none
 802512,Infantry Abilities,Spitfire Auto-Turret,none
 802514,Infantry Abilities,Spitfire Auto-Turret,none
 802515,Infantry Abilities,Spitfire Auto-Turret,none
@@ -869,6 +835,40 @@
 6005426,Infantry Abilities,Spitfire Auto-Turret,none
 6005427,Infantry Abilities,Spitfire Auto-Turret,none
 6009294,Infantry Abilities,Spitfire Auto-Turret,none
+804266,Infantry Abilities,Structure Shield Module,none
+804267,Infantry Abilities,Structure Shield Module,none
+804268,Infantry Abilities,Structure Shield Module,none
+6005669,Infantry Abilities,Structure Shield Module,none
+803611,Infantry Abilities,Sunderer Garage,none
+803612,Infantry Abilities,Sunderer Garage,none
+803613,Infantry Abilities,Sunderer Garage,none
+6005700,Infantry Abilities,Sunderer Garage,none
+6004288,Infantry Abilities,The Flail,none
+6004446,Infantry Abilities,The Flail,none
+6004448,Infantry Abilities,The Flail,none
+6005632,Infantry Abilities,The Flail,none
+804272,Infantry Abilities,Turret AI Module,none
+804273,Infantry Abilities,Turret AI Module,none
+804274,Infantry Abilities,Turret AI Module,none
+6005668,Infantry Abilities,Turret AI Module,none
+6002484,Infantry Abilities,Vehicle Ammo Dispenser,none
+6002485,Infantry Abilities,Vehicle Ammo Dispenser,none
+6002486,Infantry Abilities,Vehicle Ammo Dispenser,none
+6005630,Infantry Abilities,Vehicle Ammo Dispenser,none
+6002490,Infantry Abilities,Vehicle Gate,none
+6002491,Infantry Abilities,Vehicle Gate,none
+6002492,Infantry Abilities,Vehicle Gate,none
+6005642,Infantry Abilities,Vehicle Gate,none
+6002354,Infantry Abilities,Vehicle Ramp,none
+6002355,Infantry Abilities,Vehicle Ramp,none
+6002356,Infantry Abilities,Vehicle Ramp,none
+6005661,Infantry Abilities,Vehicle Ramp,none
+803470,Infantry Abilities,Welding Device,none
+6004272,Infantry Abilities,Welding Device,none
+803591,Infantry Abilities,Xiphos Anti-Personnel Tower,none
+803592,Infantry Abilities,Xiphos Anti-Personnel Tower,none
+803593,Infantry Abilities,Xiphos Anti-Personnel Tower,none
+6005624,Infantry Abilities,Xiphos Anti-Personnel Tower,none
 6005423,Infantry Weapons,MANA Anti-Personnel Turret,
 554,Infantry Weapons,MANA Anti-Personnel Turret,none
 555,Infantry Weapons,MANA Anti-Personnel Turret,none
