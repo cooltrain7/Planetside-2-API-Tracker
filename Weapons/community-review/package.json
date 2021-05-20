@@ -2,8 +2,9 @@
   "name": "sanction-list",
   "type": "module",
   "scripts": {
+    "sort": "node list.js sort",
     "compile": "node list.js compile",
-      "resort": "node list.js resort"
+    "sort-compile": "node list sort-compile"
   },
   "dependencies": {
     "fast-csv": "^4.3.6"

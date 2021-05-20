@@ -18,8 +18,8 @@ const { headers, rows } = await new Promise( resolve =>
 			.on( 'end', () => resolve( { headers, rows } ) );
 	} );
 
-//resort sanction-list
-if( process.argv[2] === 'resort' )
+//sort sanction-list
+if( process.argv[2] === 'sort' || process.argv[2] === 'sort-compile' )
 {
 	rows.sort( ( a, b ) =>
 		{
@@ -40,12 +40,22 @@ if( process.argv[2] === 'resort' )
 		} );
 }
 
-//compile into machine list
-else if( process.argv[2] === 'compile' )
+//compile into machine lists
+if( process.argv[2] === 'compile' || process.argv[2] === 'sort-compile' )
 {
 	csv.writeToPath( 'sanction-list-machine.csv',
 		rows
 			.filter( r => r.Sanction !== 'none' && r.Sanction !== '' )
+			.map( r => { delete r['Item Category']; delete r['Item Name']; return r; } )
+			.sort( ( a, b ) => parseInt( a['Item ID'] ) - parseInt( b['Item ID'] ) ),
+		{
+			encoding: 'utf8',
+			writeBOM: true,
+			writeHeaders: false
+		} );
+	csv.writeToPath( 'sanction-list-machine-with-none.csv',
+		rows
+			.filter( r => r.Sanction !== '' )
 			.map( r => { delete r['Item Category']; delete r['Item Name']; return r; } )
 			.sort( ( a, b ) => parseInt( a['Item ID'] ) - parseInt( b['Item ID'] ) ),
 		{
