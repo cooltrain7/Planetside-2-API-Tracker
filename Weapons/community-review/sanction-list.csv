@@ -92,11 +92,11 @@
 803498,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 803499,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 6005434,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
-7151,Assault Rifle,Equinox VE2,
-6006187,Assault Rifle,MG-A1 Arbalest,
-6006186,Assault Rifle,MGR-A1 Vanquisher,
-6008371,Assault Rifle,PSA-02 Diamondback,
-6006188,Assault Rifle,VE-A Lacerta,
+7151,Assault Rifle,Equinox VE2,none
+6006187,Assault Rifle,MG-A1 Arbalest,infantry
+6006186,Assault Rifle,MGR-A1 Vanquisher,infantry
+6008371,Assault Rifle,PSA-02 Diamondback,infantry
+6006188,Assault Rifle,VE-A Lacerta,infantry
 7103,Assault Rifle,Carnage AR,infantry
 7149,Assault Rifle,CME,infantry
 7152,Assault Rifle,Corvus VA55,infantry
