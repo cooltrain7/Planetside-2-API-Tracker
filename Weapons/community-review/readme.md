@@ -7,5 +7,6 @@ I hope that we as a community can use this list to come together on some updates
 Please make pull requests on this list and we can merge the final results back into a more optimized list later.
 
 There's a script to resort the human list and compile it into the machine list:
-* npm run resort
-* npm run compile
+* `npm run sort` (will sort the human readable list)
+* `npm run compile` (will compile the machine readable lists from the human readable list)
+* `npm run sort-compile` (will run both above commands)
