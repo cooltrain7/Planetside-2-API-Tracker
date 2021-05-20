@@ -92,11 +92,6 @@
 803498,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 803499,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 6005434,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
-7151,Assault Rifle,Equinox VE2,none
-6006187,Assault Rifle,MG-A1 Arbalest,infantry
-6006186,Assault Rifle,MGR-A1 Vanquisher,infantry
-6008371,Assault Rifle,PSA-02 Diamondback,infantry
-6006188,Assault Rifle,VE-A Lacerta,infantry
 7103,Assault Rifle,Carnage AR,infantry
 7149,Assault Rifle,CME,infantry
 7152,Assault Rifle,Corvus VA55,infantry
@@ -109,6 +104,8 @@
 6002896,Assault Rifle,GR-22AE,infantry
 7148,Assault Rifle,H-V45,infantry
 6002852,Assault Rifle,H-V45 AE,infantry
+6006187,Assault Rifle,MG-A1 Arbalest,infantry
+6006186,Assault Rifle,MGR-A1 Vanquisher,infantry
 4,Assault Rifle,NC1 Gauss Rifle,infantry
 7104,Assault Rifle,NC9 A-Tross,infantry
 6009604,Assault Rifle,"NS-11 ""Endeavor"" Assault Rifle",infantry
@@ -120,6 +117,7 @@
 6008645,Assault Rifle,"NSX ""Ivory"" Yumi",infantry
 6008665,Assault Rifle,"NSX ""Networked"" Yumi",infantry
 804246,Assault Rifle,NSX Yumi,infantry
+6008371,Assault Rifle,PSA-02 Diamondback,infantry
 20,Assault Rifle,Pulsar VS1,infantry
 7108,Assault Rifle,Reaper DMR,infantry
 7125,Assault Rifle,SABR-13,infantry
@@ -130,6 +128,8 @@
 6002874,Assault Rifle,TAR-AE,infantry
 7153,Assault Rifle,Terminus VX-9,infantry
 7129,Assault Rifle,TORQ-9,infantry
+6006188,Assault Rifle,VE-A Lacerta,infantry
+7151,Assault Rifle,Equinox VE2,none
 7102,Assault Rifle,Gauss Rifle S,none
 7127,Assault Rifle,T1S Cycler,none
 17013,AV MAX (Left),Comet VM2,max
