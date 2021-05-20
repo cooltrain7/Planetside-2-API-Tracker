@@ -43,21 +43,20 @@ if( process.argv[2] === 'sort' || process.argv[2] === 'sort-compile' )
 //compile into machine lists
 if( process.argv[2] === 'compile' || process.argv[2] === 'sort-compile' )
 {
-	csv.writeToPath( 'sanction-list-machine.csv',
-		rows
-			.filter( r => r.Sanction !== 'none' && r.Sanction !== '' )
-			.map( r => { delete r['Item Category']; delete r['Item Name']; return r; } )
-			.sort( ( a, b ) => parseInt( a['Item ID'] ) - parseInt( b['Item ID'] ) ),
+	//map rows into machine based rows
+	//(have to copy into new objects so race condition doesn't change regular rows before they are written)
+	const rows_machine = rows
+		.filter( r => r.Sanction !== '' )
+		.map( r => { return { ['Item ID']: r['Item ID'], Sanction: r.Sanction }; } )
+		.sort( ( a, b ) => parseInt( a['Item ID'] ) - parseInt( b['Item ID'] ) );
+
+	csv.writeToPath( 'sanction-list-machine.csv', rows_machine.filter( r => r.Sanction !== 'none' ),
 		{
 			encoding: 'utf8',
 			writeBOM: true,
 			writeHeaders: false
 		} );
-	csv.writeToPath( 'sanction-list-machine-with-none.csv',
-		rows
-			.filter( r => r.Sanction !== '' )
-			.map( r => { delete r['Item Category']; delete r['Item Name']; return r; } )
-			.sort( ( a, b ) => parseInt( a['Item ID'] ) - parseInt( b['Item ID'] ) ),
+	csv.writeToPath( 'sanction-list-machine-with-none.csv', rows_machine,
 		{
 			encoding: 'utf8',
 			writeBOM: true,
