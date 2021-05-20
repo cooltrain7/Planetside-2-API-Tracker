@@ -1263,7 +1263,6 @@
 1899,SMG,Tempest,infantry
 6003925,SMG,VE-S Canis,infantry
 6004992,Sniper Rifle,NS-AM8 Shortbow,
-6008496,Sniper Rifle,PSA-01 Hammerhead AMR,
 6006850,Sniper Rifle,SR-200,
 6004294,Sniper Rifle,AM7-XOXO,infantry
 24002,Sniper Rifle,Impetus,infantry
@@ -1275,6 +1274,7 @@
 802910,Sniper Rifle,NS-AM7B Archer,infantry
 802921,Sniper Rifle,NS-AM7G Archer,infantry
 26002,Sniper Rifle,Phantom VA23,infantry
+6008496,Sniper Rifle,PSA-01 Hammerhead AMR,infantry
 88,Sniper Rifle,99SV,sniper
 7301,Sniper Rifle,AF-8 RailJack,sniper
 1974,Sniper Rifle,Bighorn .50M,sniper
