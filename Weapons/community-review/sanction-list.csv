@@ -520,9 +520,7 @@
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
 6005102,Infantry Abilities,Pumpking Slayer,
-6009723,Infantry Abilities,Shield Matrix Pylon,
 310,Infantry Abilities,Stealth Test,
-6009572,Infantry Abilities,Stormglider Drone,
 200,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 202,Infantry Abilities,Anti-Infantry MANA Turret,infantry
@@ -818,6 +816,7 @@
 6004425,Infantry Abilities,Routing Spire,none
 6004427,Infantry Abilities,Routing Spire,none
 6005703,Infantry Abilities,Routing Spire,none
+6009723,Infantry Abilities,Shield Matrix Pylon,none
 45,Infantry Abilities,Shield Recharging Field,none
 46,Infantry Abilities,Shield Recharging Field,none
 47,Infantry Abilities,Shield Recharging Field,none
@@ -847,6 +846,7 @@
 6005426,Infantry Abilities,Spitfire Auto-Turret,none
 6005427,Infantry Abilities,Spitfire Auto-Turret,none
 6009294,Infantry Abilities,Spitfire Auto-Turret,none
+6009572,Infantry Abilities,Stormglider Drone,none
 804266,Infantry Abilities,Structure Shield Module,none
 804267,Infantry Abilities,Structure Shield Module,none
 804268,Infantry Abilities,Structure Shield Module,none
