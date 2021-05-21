@@ -502,18 +502,6 @@
 803779,Heavy Weapon,T7 Mini-Chaingun AE,none
 6004168,Heavy Weapon,T7-P Mini-Chaingun,none
 6005967,Hybrid Rifle,NSX-A Kuwa,
-803031,Infantry Abilities,AA SpitFire Turret,
-803032,Infantry Abilities,AA SpitFire Turret,
-803033,Infantry Abilities,AA SpitFire Turret,
-803034,Infantry Abilities,AA SpitFire Turret,
-803035,Infantry Abilities,AA SpitFire Turret,
-803036,Infantry Abilities,AA SpitFire Turret,
-803025,Infantry Abilities,AV SpitFire Turret,
-803026,Infantry Abilities,AV SpitFire Turret,
-803027,Infantry Abilities,AV SpitFire Turret,
-803028,Infantry Abilities,AV SpitFire Turret,
-803029,Infantry Abilities,AV SpitFire Turret,
-803030,Infantry Abilities,AV SpitFire Turret,
 804846,Infantry Abilities,Cert Fountain,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
@@ -523,6 +511,12 @@
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 202,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 6005223,Infantry Abilities,Anti-Infantry MANA Turret,infantry
+803031,Infantry Abilities,AA SpitFire Turret,none
+803032,Infantry Abilities,AA SpitFire Turret,none
+803033,Infantry Abilities,AA SpitFire Turret,none
+803034,Infantry Abilities,AA SpitFire Turret,none
+803035,Infantry Abilities,AA SpitFire Turret,none
+803036,Infantry Abilities,AA SpitFire Turret,none
 6002561,Infantry Abilities,ADMIN: Orbital Strike Gun,none
 803785,Infantry Abilities,AE Medical Applicator 1,none
 803786,Infantry Abilities,AE Medical Applicator 1,none
@@ -605,6 +599,12 @@
 71565,Infantry Abilities,Anti-Vehicle MANA Turret,none
 6005424,Infantry Abilities,Anti-Vehicle MANA Turret,none
 6009044,Infantry Abilities,Armory War Asset Orbital Strike,none
+803025,Infantry Abilities,AV SpitFire Turret,none
+803026,Infantry Abilities,AV SpitFire Turret,none
+803027,Infantry Abilities,AV SpitFire Turret,none
+803028,Infantry Abilities,AV SpitFire Turret,none
+803029,Infantry Abilities,AV SpitFire Turret,none
+803030,Infantry Abilities,AV SpitFire Turret,none
 6004611,Infantry Abilities,Bending Beacon,none
 6006353,Infantry Abilities,Bending Beacon,none
 804980,Infantry Abilities,Blast Wall,none
