@@ -92,6 +92,18 @@
 803498,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 803499,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 6005434,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
+6009864,Assault Rifle,UNKNOWN Assault Rifle #6009864,
+6009891,Assault Rifle,UNKNOWN Assault Rifle #6009891,
+6009892,Assault Rifle,UNKNOWN Assault Rifle #6009892,
+6009893,Assault Rifle,UNKNOWN Assault Rifle #6009893,
+6009894,Assault Rifle,UNKNOWN Assault Rifle #6009894,
+6009895,Assault Rifle,UNKNOWN Assault Rifle #6009895,
+6009896,Assault Rifle,UNKNOWN Assault Rifle #6009896,
+6009897,Assault Rifle,UNKNOWN Assault Rifle #6009897,
+6009898,Assault Rifle,UNKNOWN Assault Rifle #6009898,
+6009899,Assault Rifle,UNKNOWN Assault Rifle #6009899,
+6009900,Assault Rifle,UNKNOWN Assault Rifle #6009900,
+6009901,Assault Rifle,UNKNOWN Assault Rifle #6009901,
 7103,Assault Rifle,Carnage AR,infantry
 7149,Assault Rifle,CME,infantry
 7152,Assault Rifle,Corvus VA55,infantry
@@ -529,6 +541,7 @@
 6004531,Infantry Abilities,Reserve Hardlight Barrier,
 6005329,Infantry Abilities,Reserve Hardlight Barrier,
 6009723,Infantry Abilities,Shield Matrix Pylon,
+6009856,Infantry Abilities,Signal Scanner,
 310,Infantry Abilities,Stealth Test,
 6009572,Infantry Abilities,Stormglider Drone,
 6004201,Infantry Abilities,Tactical Snowman,
@@ -875,6 +888,7 @@
 556,Infantry Weapons,MANA Anti-Personnel Turret,none
 557,Infantry Weapons,MANA Anti-Personnel Turret,none
 503,Infantry Weapons,MANA Anti-Vehicle Turret,none
+6009854,Knife,Excursion Kukri,
 6008651,Knife,Ancient Psykinetic Blade,none
 800625,Knife,Auraxium Chainblade,none
 800626,Knife,Auraxium Force-Blade,none
@@ -1061,6 +1075,9 @@
 6004995,Pistol,Ectoblaster,
 6005969,Pistol,NSX-A Yawara,
 6004714,Pistol,Soldier Soaker,
+6009902,Pistol,UNKNOWN Pistol #6009902,
+6009903,Pistol,UNKNOWN Pistol #6009903,
+6009904,Pistol,UNKNOWN Pistol #6009904,
 6006090,Pistol,"""Jackpot"" Cerberus",infantry
 21,Pistol,Beamer VS3,infantry
 7403,Pistol,Beamer VS3-FB,infantry
@@ -1151,6 +1168,9 @@
 4602,Reaver Wing Mount,Tomcat A2AM Pods,air
 4747,Reaver Wing Mount,Coyote Missiles,none
 4746,Reaver Wing Mount,Hornet Missiles,none
+6009905,Rocket Launcher,UNKNOWN Rocket Launcher #6009905,
+6009906,Rocket Launcher,UNKNOWN Rocket Launcher #6009906,
+6009907,Rocket Launcher,UNKNOWN Rocket Launcher #6009907,
 33003,Rocket Launcher,AF-22 Crow,none
 34004,Rocket Launcher,ASP-30 Grounder,none
 35003,Rocket Launcher,Hades VSH4,none
@@ -1179,7 +1199,11 @@
 267,Rocket Launcher,Striker AE,none
 34002,Rocket Launcher,T2 Striker,none
 1964,Rocket Launcher,The Kraken,none
+6009973,Scout Rifle,"AF-18 ""Hazmat"" Stalker",
+6009972,Scout Rifle,"Artemis ""Hazmat"" VX26",
 6004198,Scout Rifle,Mystery Weapon,
+6009974,Scout Rifle,"NSX ""Hazmat"" Tomoe",
+6009971,Scout Rifle,"SOAS-20 ""Hazmat""",
 7358,Scout Rifle,AF-18 Stalker,infantry
 6004008,Scout Rifle,AF-18 Stalker AE,infantry
 24007,Scout Rifle,AF-6 Shadow,infantry
@@ -1206,6 +1230,10 @@
 4300,Scythe Wing Mount,Photon A2A Missile Pods,air
 4447,Scythe Wing Mount,Coyote Missiles,none
 4446,Scythe Wing Mount,Hornet Missiles,none
+6009866,Shotgun,"NS ""Lucky"" Baron G5",
+6009908,Shotgun,UNKNOWN Shotgun #6009908,
+6009909,Shotgun,UNKNOWN Shotgun #6009909,
+6009910,Shotgun,UNKNOWN Shotgun #6009910,
 75083,Shotgun,NS Baron G5,none
 802322,Shotgun,NS Baron G5AE,none
 1097,Shotgun,NS Baron G5B,none
@@ -1351,9 +1379,14 @@
 2837,Sunderer Rear Gunner,M60-G Bulldog,gunner
 6005242,Sunderer Rear Gunner,M60-G Bulldog,gunner
 6003075,UNKNOWN #6003075,UNKNOWN #6003075,
+6010049,UNKNOWN #6010049,UNKNOWN #6010049,
+6010115,UNKNOWN #6010115,UNKNOWN #6010115,
+6010117,UNKNOWN #6010117,UNKNOWN #6010117,
 6002421,UNKNOWN Admin: Base Gun,Admin: Base Gun,
 6002429,UNKNOWN BaseSmash: Crystal Gun,BaseSmash: Crystal Gun,
-6002396,UNKNOWN Glaive IPC,Glaive IPC,
+6009860,UNKNOWN Dervish Default Nose Cannon,Dervish Default Nose Cannon,
+6009927,UNKNOWN Dervish Heavy Nose Weapon,Dervish Heavy Nose Weapon,
+6009928,UNKNOWN Dervish Micro-Rockets,Dervish Micro-Rockets,
 6553,Valkyrie Nose Gunner,CAS 14-E,none
 6554,Valkyrie Nose Gunner,CAS 14-E,none
 6555,Valkyrie Nose Gunner,CAS 14-E,none
@@ -1388,12 +1421,9 @@
 3700,Vanguard Primary Weapon,Titan-150 HEAT,armor
 3731,Vanguard Primary Weapon,Titan-150 HESH,armor
 6008733,Vehicle Abilities,NEST Launcher,
+6002396,Vehicle Weapons,Glaive IPC,
 6002397,Vehicle Weapons,Glaive IPC,
 6002398,Vehicle Weapons,Glaive IPC,
-6004400,Vehicle Weapons,Glaive IPC,
-6004444,Vehicle Weapons,Glaive IPC,
-6004445,Vehicle Weapons,Glaive IPC,
-6006068,Vehicle Weapons,Glaive IPC,
 6006069,Vehicle Weapons,Glaive IPC,
 803594,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,
 803595,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,
@@ -1407,6 +1437,10 @@
 6002451,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,
 6002452,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,
 6009835,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,
+6004400,Vehicle Weapons,The Flail,
+6004444,Vehicle Weapons,The Flail,
+6004445,Vehicle Weapons,The Flail,
+6006068,Vehicle Weapons,The Flail,
 728,Vehicle Weapons,UNKNOWN Vehicle Weapons #728,
 729,Vehicle Weapons,UNKNOWN Vehicle Weapons #729,
 731,Vehicle Weapons,UNKNOWN Vehicle Weapons #731,
