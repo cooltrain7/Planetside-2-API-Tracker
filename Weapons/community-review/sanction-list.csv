@@ -516,22 +516,13 @@
 6004611,Infantry Abilities,Bending Beacon,
 6006353,Infantry Abilities,Bending Beacon,
 804846,Infantry Abilities,Cert Fountain,
-6002954,Infantry Abilities,Hardlight Barrier,
-6002955,Infantry Abilities,Hardlight Barrier,
-6002956,Infantry Abilities,Hardlight Barrier,
-6005515,Infantry Abilities,Hardlight Barrier,
 6009093,Infantry Abilities,Infradine,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
 6005102,Infantry Abilities,Pumpking Slayer,
-6004529,Infantry Abilities,Reserve Hardlight Barrier,
-6004530,Infantry Abilities,Reserve Hardlight Barrier,
-6004531,Infantry Abilities,Reserve Hardlight Barrier,
-6005329,Infantry Abilities,Reserve Hardlight Barrier,
 6009723,Infantry Abilities,Shield Matrix Pylon,
 310,Infantry Abilities,Stealth Test,
 6009572,Infantry Abilities,Stormglider Drone,
-6004201,Infantry Abilities,Tactical Snowman,
 200,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 202,Infantry Abilities,Anti-Infantry MANA Turret,infantry
@@ -649,6 +640,10 @@
 6002391,Infantry Abilities,Glaive IPC,none
 6002392,Infantry Abilities,Glaive IPC,none
 6005636,Infantry Abilities,Glaive IPC,none
+6002954,Infantry Abilities,Hardlight Barrier,none
+6002955,Infantry Abilities,Hardlight Barrier,none
+6002956,Infantry Abilities,Hardlight Barrier,none
+6005515,Infantry Abilities,Hardlight Barrier,none
 6009064,Infantry Abilities,Hardlight Canopy,none
 803617,Infantry Abilities,HIVE,none
 803618,Infantry Abilities,HIVE,none
@@ -807,6 +802,10 @@
 804270,Infantry Abilities,Repair Module,none
 804271,Infantry Abilities,Repair Module,none
 6005666,Infantry Abilities,Repair Module,none
+6004529,Infantry Abilities,Reserve Hardlight Barrier,none
+6004530,Infantry Abilities,Reserve Hardlight Barrier,none
+6004531,Infantry Abilities,Reserve Hardlight Barrier,none
+6005329,Infantry Abilities,Reserve Hardlight Barrier,none
 7609,Infantry Abilities,Restoration Kit,none
 7610,Infantry Abilities,Restoration Kit,none
 7611,Infantry Abilities,Restoration Kit,none
@@ -856,6 +855,7 @@
 803612,Infantry Abilities,Sunderer Garage,none
 803613,Infantry Abilities,Sunderer Garage,none
 6005700,Infantry Abilities,Sunderer Garage,none
+6004201,Infantry Abilities,Tactical Snowman,none
 6004288,Infantry Abilities,The Flail,none
 6004446,Infantry Abilities,The Flail,none
 6004448,Infantry Abilities,The Flail,none
