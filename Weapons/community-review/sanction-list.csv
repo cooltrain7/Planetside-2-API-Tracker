@@ -517,31 +517,20 @@
 803030,Infantry Abilities,AV SpitFire Turret,
 6004611,Infantry Abilities,Bending Beacon,
 6006353,Infantry Abilities,Bending Beacon,
-6009090,Infantry Abilities,Caltrop,
 804846,Infantry Abilities,Cert Fountain,
-6009069,Infantry Abilities,Cortium Bomb,
-6009000,Infantry Abilities,Flash XS-1,
-6009009,Infantry Abilities,Flash XS-1,
 6002954,Infantry Abilities,Hardlight Barrier,
 6002955,Infantry Abilities,Hardlight Barrier,
 6002956,Infantry Abilities,Hardlight Barrier,
 6005515,Infantry Abilities,Hardlight Barrier,
-6009064,Infantry Abilities,Hardlight Canopy,
 6009093,Infantry Abilities,Infradine,
-6009047,Infantry Abilities,Javelin XS-1,
-6009467,Infantry Abilities,Lightning Arrester,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
-6009605,Infantry Abilities,NE-11 PML,
-6009487,Infantry Abilities,Neutralizer Device,
-6009058,Infantry Abilities,Ordnance Dampener,
 6005102,Infantry Abilities,Pumpking Slayer,
 6004529,Infantry Abilities,Reserve Hardlight Barrier,
 6004530,Infantry Abilities,Reserve Hardlight Barrier,
 6004531,Infantry Abilities,Reserve Hardlight Barrier,
 6005329,Infantry Abilities,Reserve Hardlight Barrier,
 6009723,Infantry Abilities,Shield Matrix Pylon,
-6009856,Infantry Abilities,Signal Scanner,
 310,Infantry Abilities,Stealth Test,
 6009572,Infantry Abilities,Stormglider Drone,
 6004201,Infantry Abilities,Tactical Snowman,
@@ -637,6 +626,8 @@
 803615,Infantry Abilities,Bunker,none
 803616,Infantry Abilities,Bunker,none
 6005701,Infantry Abilities,Bunker,none
+6009090,Infantry Abilities,Caltrop,none
+6009069,Infantry Abilities,Cortium Bomb,none
 804702,Infantry Abilities,Cortium Silo,none
 804703,Infantry Abilities,Cortium Silo,none
 804704,Infantry Abilities,Cortium Silo,none
@@ -652,10 +643,13 @@
 804956,Infantry Abilities,Faction Banner,none
 6005640,Infantry Abilities,Faction Banner,none
 6004292,Infantry Abilities,Flail Targeting Dart,none
+6009000,Infantry Abilities,Flash XS-1,none
+6009009,Infantry Abilities,Flash XS-1,none
 6002390,Infantry Abilities,Glaive IPC,none
 6002391,Infantry Abilities,Glaive IPC,none
 6002392,Infantry Abilities,Glaive IPC,none
 6005636,Infantry Abilities,Glaive IPC,none
+6009064,Infantry Abilities,Hardlight Canopy,none
 803617,Infantry Abilities,HIVE,none
 803618,Infantry Abilities,HIVE,none
 803619,Infantry Abilities,HIVE,none
@@ -668,6 +662,7 @@
 6002350,Infantry Abilities,Infantry Tower,none
 6005644,Infantry Abilities,Infantry Tower,none
 6002553,Infantry Abilities,IPC Targeting Dart,none
+6009047,Infantry Abilities,Javelin XS-1,none
 6002496,Infantry Abilities,Light Air Terminal,none
 6002497,Infantry Abilities,Light Air Terminal,none
 6002498,Infantry Abilities,Light Air Terminal,none
@@ -676,6 +671,7 @@
 6002473,Infantry Abilities,Light Vehicle Terminal,none
 6002474,Infantry Abilities,Light Vehicle Terminal,none
 6005663,Infantry Abilities,Light Vehicle Terminal,none
+6009467,Infantry Abilities,Lightning Arrester,none
 6002360,Infantry Abilities,Lumifiber Rampart Wall,none
 6002361,Infantry Abilities,Lumifiber Rampart Wall,none
 6002362,Infantry Abilities,Lumifiber Rampart Wall,none
@@ -741,11 +737,14 @@
 6011,Infantry Abilities,Nano-Armor Kit 6,none
 6012,Infantry Abilities,Nano-Armor Kit 6,none
 6005222,Infantry Abilities,Nano-Armor Kit 6,none
+6009605,Infantry Abilities,NE-11 PML,none
+6009487,Infantry Abilities,Neutralizer Device,none
 6002554,Infantry Abilities,Orbital Strike Target Designator,none
 6002524,Infantry Abilities,Orbital Strike Uplink,none
 6002525,Infantry Abilities,Orbital Strike Uplink,none
 6002526,Infantry Abilities,Orbital Strike Uplink,none
 6005648,Infantry Abilities,Orbital Strike Uplink,none
+6009058,Infantry Abilities,Ordnance Dampener,none
 6004284,Infantry Abilities,Pain Spire,none
 6004421,Infantry Abilities,Pain Spire,none
 6004423,Infantry Abilities,Pain Spire,none
@@ -825,6 +824,7 @@
 47,Infantry Abilities,Shield Recharging Field,none
 154,Infantry Abilities,Shield Recharging Field,none
 466,Infantry Abilities,Shield Recharging Field,none
+6009856,Infantry Abilities,Signal Scanner,none
 804263,Infantry Abilities,Skywall Shield Emitter,none
 804264,Infantry Abilities,Skywall Shield Emitter,none
 804265,Infantry Abilities,Skywall Shield Emitter,none
