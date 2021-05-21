@@ -926,6 +926,9 @@
 6002918,infantry
 6002930,infantry
 6002943,infantry
+6002954,none
+6002955,none
+6002956,none
 6003059,infantry
 6003172,none
 6003173,none
@@ -971,6 +974,7 @@
 6004168,none
 6004174,none
 6004197,infantry
+6004201,none
 6004209,infantry
 6004214,infantry
 6004216,infantry
@@ -992,6 +996,9 @@
 6004445,none
 6004446,none
 6004448,none
+6004529,none
+6004530,none
+6004531,none
 6004570,infantry
 6004742,none
 6004743,none
@@ -1055,6 +1062,7 @@
 6005303,armor
 6005304,none
 6005328,none
+6005329,none
 6005330,infantry
 6005331,infantry
 6005332,infantry
@@ -1117,6 +1125,7 @@
 6005496,none
 6005497,none
 6005498,none
+6005515,none
 6005536,gunner
 6005537,gunner
 6005538,gunner
