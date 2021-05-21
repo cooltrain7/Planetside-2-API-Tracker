@@ -517,31 +517,20 @@
 803030,Infantry Abilities,AV SpitFire Turret,
 6004611,Infantry Abilities,Bending Beacon,
 6006353,Infantry Abilities,Bending Beacon,
-6009090,Infantry Abilities,Caltrop,
 804846,Infantry Abilities,Cert Fountain,
-6009069,Infantry Abilities,Cortium Bomb,
-6009000,Infantry Abilities,Flash XS-1,
-6009009,Infantry Abilities,Flash XS-1,
 6002954,Infantry Abilities,Hardlight Barrier,
 6002955,Infantry Abilities,Hardlight Barrier,
 6002956,Infantry Abilities,Hardlight Barrier,
 6005515,Infantry Abilities,Hardlight Barrier,
-6009064,Infantry Abilities,Hardlight Canopy,
 6009093,Infantry Abilities,Infradine,
-6009047,Infantry Abilities,Javelin XS-1,
-6009467,Infantry Abilities,Lightning Arrester,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
-6009605,Infantry Abilities,NE-11 PML,
-6009487,Infantry Abilities,Neutralizer Device,
-6009058,Infantry Abilities,Ordnance Dampener,
 6005102,Infantry Abilities,Pumpking Slayer,
 6004529,Infantry Abilities,Reserve Hardlight Barrier,
 6004530,Infantry Abilities,Reserve Hardlight Barrier,
 6004531,Infantry Abilities,Reserve Hardlight Barrier,
 6005329,Infantry Abilities,Reserve Hardlight Barrier,
 6009723,Infantry Abilities,Shield Matrix Pylon,
-6009856,Infantry Abilities,Signal Scanner,
 310,Infantry Abilities,Stealth Test,
 6009572,Infantry Abilities,Stormglider Drone,
 6004201,Infantry Abilities,Tactical Snowman,
@@ -637,6 +626,8 @@
 803615,Infantry Abilities,Bunker,none
 803616,Infantry Abilities,Bunker,none
 6005701,Infantry Abilities,Bunker,none
+6009090,Infantry Abilities,Caltrop,none
+6009069,Infantry Abilities,Cortium Bomb,none
 804702,Infantry Abilities,Cortium Silo,none
 804703,Infantry Abilities,Cortium Silo,none
 804704,Infantry Abilities,Cortium Silo,none
@@ -652,10 +643,13 @@
 804956,Infantry Abilities,Faction Banner,none
 6005640,Infantry Abilities,Faction Banner,none
 6004292,Infantry Abilities,Flail Targeting Dart,none
+6009000,Infantry Abilities,Flash XS-1,none
+6009009,Infantry Abilities,Flash XS-1,none
 6002390,Infantry Abilities,Glaive IPC,none
 6002391,Infantry Abilities,Glaive IPC,none
 6002392,Infantry Abilities,Glaive IPC,none
 6005636,Infantry Abilities,Glaive IPC,none
+6009064,Infantry Abilities,Hardlight Canopy,none
 803617,Infantry Abilities,HIVE,none
 803618,Infantry Abilities,HIVE,none
 803619,Infantry Abilities,HIVE,none
@@ -668,6 +662,7 @@
 6002350,Infantry Abilities,Infantry Tower,none
 6005644,Infantry Abilities,Infantry Tower,none
 6002553,Infantry Abilities,IPC Targeting Dart,none
+6009047,Infantry Abilities,Javelin XS-1,none
 6002496,Infantry Abilities,Light Air Terminal,none
 6002497,Infantry Abilities,Light Air Terminal,none
 6002498,Infantry Abilities,Light Air Terminal,none
@@ -676,6 +671,7 @@
 6002473,Infantry Abilities,Light Vehicle Terminal,none
 6002474,Infantry Abilities,Light Vehicle Terminal,none
 6005663,Infantry Abilities,Light Vehicle Terminal,none
+6009467,Infantry Abilities,Lightning Arrester,none
 6002360,Infantry Abilities,Lumifiber Rampart Wall,none
 6002361,Infantry Abilities,Lumifiber Rampart Wall,none
 6002362,Infantry Abilities,Lumifiber Rampart Wall,none
@@ -741,11 +737,14 @@
 6011,Infantry Abilities,Nano-Armor Kit 6,none
 6012,Infantry Abilities,Nano-Armor Kit 6,none
 6005222,Infantry Abilities,Nano-Armor Kit 6,none
+6009605,Infantry Abilities,NE-11 PML,none
+6009487,Infantry Abilities,Neutralizer Device,none
 6002554,Infantry Abilities,Orbital Strike Target Designator,none
 6002524,Infantry Abilities,Orbital Strike Uplink,none
 6002525,Infantry Abilities,Orbital Strike Uplink,none
 6002526,Infantry Abilities,Orbital Strike Uplink,none
 6005648,Infantry Abilities,Orbital Strike Uplink,none
+6009058,Infantry Abilities,Ordnance Dampener,none
 6004284,Infantry Abilities,Pain Spire,none
 6004421,Infantry Abilities,Pain Spire,none
 6004423,Infantry Abilities,Pain Spire,none
@@ -825,6 +824,7 @@
 47,Infantry Abilities,Shield Recharging Field,none
 154,Infantry Abilities,Shield Recharging Field,none
 466,Infantry Abilities,Shield Recharging Field,none
+6009856,Infantry Abilities,Signal Scanner,none
 804263,Infantry Abilities,Skywall Shield Emitter,none
 804264,Infantry Abilities,Skywall Shield Emitter,none
 804265,Infantry Abilities,Skywall Shield Emitter,none
@@ -882,13 +882,12 @@
 803592,Infantry Abilities,Xiphos Anti-Personnel Tower,none
 803593,Infantry Abilities,Xiphos Anti-Personnel Tower,none
 6005624,Infantry Abilities,Xiphos Anti-Personnel Tower,none
-6005423,Infantry Weapons,MANA Anti-Personnel Turret,
 554,Infantry Weapons,MANA Anti-Personnel Turret,none
 555,Infantry Weapons,MANA Anti-Personnel Turret,none
 556,Infantry Weapons,MANA Anti-Personnel Turret,none
 557,Infantry Weapons,MANA Anti-Personnel Turret,none
+6005423,Infantry Weapons,MANA Anti-Personnel Turret,none
 503,Infantry Weapons,MANA Anti-Vehicle Turret,none
-6009854,Knife,Excursion Kukri,
 6008651,Knife,Ancient Psykinetic Blade,none
 800625,Knife,Auraxium Chainblade,none
 800626,Knife,Auraxium Force-Blade,none
@@ -899,6 +898,7 @@
 13,Knife,Chainblade,none
 802317,Knife,Damascus Edge,none
 6008687,Knife,Defector Claws,none
+6009854,Knife,Excursion Kukri,none
 6006080,Knife,Fatestealer,none
 19,Knife,Force-Blade,none
 802316,Knife,Hardlight Dagger,none
@@ -1230,10 +1230,10 @@
 4300,Scythe Wing Mount,Photon A2A Missile Pods,air
 4447,Scythe Wing Mount,Coyote Missiles,none
 4446,Scythe Wing Mount,Hornet Missiles,none
-6009866,Shotgun,"NS ""Lucky"" Baron G5",
 6009908,Shotgun,UNKNOWN Shotgun #6009908,
 6009909,Shotgun,UNKNOWN Shotgun #6009909,
 6009910,Shotgun,UNKNOWN Shotgun #6009910,
+6009866,Shotgun,"NS ""Lucky"" Baron G5",none
 75083,Shotgun,NS Baron G5,none
 802322,Shotgun,NS Baron G5AE,none
 1097,Shotgun,NS Baron G5B,none
@@ -1421,45 +1421,45 @@
 3700,Vanguard Primary Weapon,Titan-150 HEAT,armor
 3731,Vanguard Primary Weapon,Titan-150 HESH,armor
 6008733,Vehicle Abilities,NEST Launcher,
-6002396,Vehicle Weapons,Glaive IPC,
-6002397,Vehicle Weapons,Glaive IPC,
-6002398,Vehicle Weapons,Glaive IPC,
-6006069,Vehicle Weapons,Glaive IPC,
-803594,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,
-803595,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,
-803596,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,
-803597,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,
-803431,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,
-803432,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,
-803433,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,
-803434,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,
-6002450,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,
-6002451,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,
-6002452,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,
-6009835,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,
-6004400,Vehicle Weapons,The Flail,
-6004444,Vehicle Weapons,The Flail,
-6004445,Vehicle Weapons,The Flail,
-6006068,Vehicle Weapons,The Flail,
 728,Vehicle Weapons,UNKNOWN Vehicle Weapons #728,
 729,Vehicle Weapons,UNKNOWN Vehicle Weapons #729,
 731,Vehicle Weapons,UNKNOWN Vehicle Weapons #731,
 732,Vehicle Weapons,UNKNOWN Vehicle Weapons #732,
-803598,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,
-803599,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,
-803600,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,
-803601,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,
-725,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,
-726,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,
 700,Vehicle Weapons,Aspis Anti-Aircraft Phalanx Turret,none
 701,Vehicle Weapons,Aspis Anti-Aircraft Phalanx Turret,none
 702,Vehicle Weapons,Aspis Anti-Aircraft Phalanx Turret,none
 727,Vehicle Weapons,Aspis Anti-Aircraft Phalanx Turret,none
+6002396,Vehicle Weapons,Glaive IPC,none
+6002397,Vehicle Weapons,Glaive IPC,none
+6002398,Vehicle Weapons,Glaive IPC,none
+6006069,Vehicle Weapons,Glaive IPC,none
+803594,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,none
+803595,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,none
+803596,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,none
+803597,Vehicle Weapons,Hoplon Anti-Aircraft Phalanx Tower,none
+803431,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,none
+803432,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,none
+803433,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,none
+803434,Vehicle Weapons,Spear Anti-Vehicle Phalanx Tower,none
 703,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
 704,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
 705,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
 730,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
+6002450,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
+6002451,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
+6002452,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
+6009835,Vehicle Weapons,Spear Anti-Vehicle Phalanx Turret,none
+6004400,Vehicle Weapons,The Flail,none
+6004444,Vehicle Weapons,The Flail,none
+6004445,Vehicle Weapons,The Flail,none
+6006068,Vehicle Weapons,The Flail,none
+803598,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,none
+803599,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,none
+803600,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,none
+803601,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Tower,none
 551,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,none
 552,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,none
 553,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,none
 724,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,none
+725,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,none
+726,Vehicle Weapons,Xiphos Anti-Personnel Phalanx Turret,none
