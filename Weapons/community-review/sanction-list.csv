@@ -507,8 +507,6 @@
 803034,Infantry Abilities,AA SpitFire Turret,
 803035,Infantry Abilities,AA SpitFire Turret,
 803036,Infantry Abilities,AA SpitFire Turret,
-6002561,Infantry Abilities,ADMIN: Orbital Strike Gun,
-6009044,Infantry Abilities,Armory War Asset Orbital Strike,
 803025,Infantry Abilities,AV SpitFire Turret,
 803026,Infantry Abilities,AV SpitFire Turret,
 803027,Infantry Abilities,AV SpitFire Turret,
@@ -549,6 +547,7 @@
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 202,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 6005223,Infantry Abilities,Anti-Infantry MANA Turret,infantry
+6002561,Infantry Abilities,ADMIN: Orbital Strike Gun,none
 803785,Infantry Abilities,AE Medical Applicator 1,none
 803786,Infantry Abilities,AE Medical Applicator 1,none
 803787,Infantry Abilities,AE Medical Applicator 1,none
@@ -629,6 +628,7 @@
 71564,Infantry Abilities,Anti-Vehicle MANA Turret,none
 71565,Infantry Abilities,Anti-Vehicle MANA Turret,none
 6005424,Infantry Abilities,Anti-Vehicle MANA Turret,none
+6009044,Infantry Abilities,Armory War Asset Orbital Strike,none
 804980,Infantry Abilities,Blast Wall,none
 804981,Infantry Abilities,Blast Wall,none
 804982,Infantry Abilities,Blast Wall,none
