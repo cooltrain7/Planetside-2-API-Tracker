@@ -513,10 +513,7 @@
 803028,Infantry Abilities,AV SpitFire Turret,
 803029,Infantry Abilities,AV SpitFire Turret,
 803030,Infantry Abilities,AV SpitFire Turret,
-6004611,Infantry Abilities,Bending Beacon,
-6006353,Infantry Abilities,Bending Beacon,
 804846,Infantry Abilities,Cert Fountain,
-6009093,Infantry Abilities,Infradine,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
 6005102,Infantry Abilities,Pumpking Slayer,
@@ -607,6 +604,8 @@
 71565,Infantry Abilities,Anti-Vehicle MANA Turret,none
 6005424,Infantry Abilities,Anti-Vehicle MANA Turret,none
 6009044,Infantry Abilities,Armory War Asset Orbital Strike,none
+6004611,Infantry Abilities,Bending Beacon,none
+6006353,Infantry Abilities,Bending Beacon,none
 804980,Infantry Abilities,Blast Wall,none
 804981,Infantry Abilities,Blast Wall,none
 804982,Infantry Abilities,Blast Wall,none
@@ -654,6 +653,7 @@
 6002349,Infantry Abilities,Infantry Tower,none
 6002350,Infantry Abilities,Infantry Tower,none
 6005644,Infantry Abilities,Infantry Tower,none
+6009093,Infantry Abilities,Infradine,none
 6002553,Infantry Abilities,IPC Targeting Dart,none
 6009047,Infantry Abilities,Javelin XS-1,none
 6002496,Infantry Abilities,Light Air Terminal,none
