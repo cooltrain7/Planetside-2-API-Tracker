@@ -348,6 +348,7 @@
 429,Explosive,Claymore,none
 804701,Explosive,Command Uplink Device,none
 6005243,Explosive,F.U.S.E. (Anti-Infantry),none
+6010115,Explosive,Outdated Network Terminal,none
 1045,Explosive,Proximity Mine,none
 6005422,Explosive,Proximity Mine,none
 6005963,Explosive,Proximity Mine,none
@@ -620,6 +621,7 @@
 804703,Infantry Abilities,Cortium Silo,none
 804704,Infantry Abilities,Cortium Silo,none
 6005657,Infantry Abilities,Cortium Silo,none
+6003075,Infantry Abilities,Cortium Tap,none
 803469,Infantry Abilities,Deconstruction Tool,none
 6009753,Infantry Abilities,Elysium Refinery,none
 6002466,Infantry Abilities,Elysium Spawn Tube,none
@@ -1380,8 +1382,6 @@
 2836,Sunderer Rear Gunner,M60-G Bulldog,gunner
 2837,Sunderer Rear Gunner,M60-G Bulldog,gunner
 6005242,Sunderer Rear Gunner,M60-G Bulldog,gunner
-6003075,UNKNOWN #6003075,UNKNOWN #6003075,
-6010115,UNKNOWN #6010115,UNKNOWN #6010115,
 6002421,UNKNOWN Admin: Base Gun,Admin: Base Gun,
 6002429,UNKNOWN BaseSmash: Crystal Gun,BaseSmash: Crystal Gun,
 6009860,UNKNOWN Dervish Default Nose Cannon,Dervish Default Nose Cannon,
