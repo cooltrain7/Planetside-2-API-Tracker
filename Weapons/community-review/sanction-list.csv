@@ -1199,25 +1199,25 @@
 267,Rocket Launcher,Striker AE,none
 34002,Rocket Launcher,T2 Striker,none
 1964,Rocket Launcher,The Kraken,none
-6009973,Scout Rifle,"AF-18 ""Hazmat"" Stalker",
-6009972,Scout Rifle,"Artemis ""Hazmat"" VX26",
 6004198,Scout Rifle,Mystery Weapon,
-6009974,Scout Rifle,"NSX ""Hazmat"" Tomoe",
-6009971,Scout Rifle,"SOAS-20 ""Hazmat""",
+6009973,Scout Rifle,"AF-18 ""Hazmat"" Stalker",infantry
 7358,Scout Rifle,AF-18 Stalker,infantry
 6004008,Scout Rifle,AF-18 Stalker AE,infantry
 24007,Scout Rifle,AF-6 Shadow,infantry
+6009972,Scout Rifle,"Artemis ""Hazmat"" VX26",infantry
 7372,Scout Rifle,Artemis VX26,infantry
 6004010,Scout Rifle,Artemis VX26 AE,infantry
 25007,Scout Rifle,HSR-1,infantry
 2311,Scout Rifle,NS-30 Vandal,infantry
 2312,Scout Rifle,NS-30B Vandal,infantry
 2313,Scout Rifle,NS-30G Vandal,infantry
+6009974,Scout Rifle,"NSX ""Hazmat"" Tomoe",infantry
 6008654,Scout Rifle,"NSX ""Ivory"" Tomoe",infantry
 6008669,Scout Rifle,"NSX ""Networked"" Tomoe",infantry
 804252,Scout Rifle,NSX Tomoe,infantry
 26007,Scout Rifle,Nyx VX31,infantry
 7365,Scout Rifle,SOAS-20,infantry
+6009971,Scout Rifle,"SOAS-20 ""Hazmat""",infantry
 6004009,Scout Rifle,SOAS-20 AE,infantry
 6009030,Scythe Nose Cannon,Twin-Saron LC,
 4305,Scythe Nose Cannon,Light PPA,air
