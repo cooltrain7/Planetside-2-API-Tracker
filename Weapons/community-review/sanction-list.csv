@@ -220,13 +220,13 @@
 6009042,Bastion Weapon System,Bastion Battery,none
 6009043,Bastion Weapon System,Bastion Battery,none
 6009101,Battle Rifle,NS-30 Tranquility,
-6005970,Battle Rifle,NSX-A Sesshin,
 25008,Battle Rifle,AMR-66,infantry
 1989,Battle Rifle,DMR-99,infantry
 26008,Battle Rifle,Eidolon VE33,infantry
 1984,Battle Rifle,GD Guardian,infantry
 6004216,Battle Rifle,MG-HBR1 Dragoon,infantry
 6004209,Battle Rifle,MGR-M1 Bishop,infantry
+6005970,Battle Rifle,NSX-A Sesshin,infantry
 1994,Battle Rifle,Revenant,infantry
 6004214,Battle Rifle,VE-LR Obelisk,infantry
 24008,Battle Rifle,Warden,infantry
@@ -501,7 +501,7 @@
 7533,Heavy Weapon,T7 Mini-Chaingun,none
 803779,Heavy Weapon,T7 Mini-Chaingun AE,none
 6004168,Heavy Weapon,T7-P Mini-Chaingun,none
-6005967,Hybrid Rifle,NSX-A Kuwa,
+6005967,Hybrid Rifle,NSX-A Kuwa,infantry
 804846,Infantry Abilities,Cert Fountain,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
@@ -1075,7 +1075,6 @@
 5052,Mosquito Wing Mount,Coyote Missiles,none
 5051,Mosquito Wing Mount,Hornet Missiles,none
 6004995,Pistol,Ectoblaster,
-6005969,Pistol,NSX-A Yawara,
 6004714,Pistol,Soldier Soaker,
 6009902,Pistol,UNKNOWN Pistol #6009902,
 6009903,Pistol,UNKNOWN Pistol #6009903,
@@ -1121,6 +1120,7 @@
 804138,Pistol,NS-61 Emissary,infantry
 804405,Pistol,NS-61B Emissary,infantry
 804428,Pistol,NS-61G Emissary,infantry
+6005969,Pistol,NSX-A Yawara,infantry
 7414,Pistol,Spiker,infantry
 7402,Pistol,T4 AMP,infantry
 1889,Pistol,The Executive,infantry
@@ -1260,7 +1260,6 @@
 1884,Shotgun,The Brawler,shotgun
 39001,Shotgun,TRS-12 Uppercut,shotgun
 7432,Shotgun,TS4 Haymaker,shotgun
-6005968,SMG,NSX-A Kappa,
 27000,SMG,AF-4 Cyclone,infantry
 6002824,SMG,AF-4AE Cyclone,infantry
 27005,SMG,AF-4G Cyclone,infantry
@@ -1283,6 +1282,7 @@
 6008660,SMG,"NSX ""Ivory"" Tengu",infantry
 6008671,SMG,"NSX ""Networked"" Tengu",infantry
 804257,SMG,NSX Tengu,infantry
+6005968,SMG,NSX-A Kappa,infantry
 6006239,SMG,NSX-P Tengu,infantry
 28001,SMG,PDW-16 Hailstorm,infantry
 6004570,SMG,PS1-AV Suppressor,infantry
@@ -1295,7 +1295,6 @@
 1899,SMG,Tempest,infantry
 6003925,SMG,VE-S Canis,infantry
 6004992,Sniper Rifle,NS-AM8 Shortbow,
-6006850,Sniper Rifle,SR-200,
 6004294,Sniper Rifle,AM7-XOXO,infantry
 24002,Sniper Rifle,Impetus,infantry
 25002,Sniper Rifle,KSR-35,infantry
@@ -1327,6 +1326,7 @@
 25004,Sniper Rifle,RAMS .50M,sniper
 6002745,Sniper Rifle,RAMS-AE .50M,sniper
 24001,Sniper Rifle,SAS-R,sniper
+6006850,Sniper Rifle,SR-200,sniper
 25003,Sniper Rifle,SR-7,sniper
 1969,Sniper Rifle,The Moonshot,sniper
 7316,Sniper Rifle,TRAP-M1,sniper
