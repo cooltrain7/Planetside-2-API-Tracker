@@ -1063,10 +1063,10 @@
 3400,Magrider Primary Weapon,Supernova PC,armor
 3461,Magrider Primary Weapon,Supernova VPC,armor
 3427,Magrider Primary Weapon,Supernova-R PC,armor
-6009025,Mosquito Nose Cannon,M18-2 Pincer,
 4906,Mosquito Nose Cannon,M14 Banshee,air
 4900,Mosquito Nose Cannon,M18 Needler,air
 4911,Mosquito Nose Cannon,M18 Rotary,air
+6009025,Mosquito Nose Cannon,M18-2 Pincer,air
 5050,Mosquito Nose Cannon,M18 Locust,none
 6009464,Mosquito Wing Mount,Havoc Missiles,
 6006063,Mosquito Wing Mount,M202 Wyrm,
@@ -1151,8 +1151,8 @@
 4000,Prowler Primary Weapon,P2-120 HEAT,armor
 4009,Prowler Primary Weapon,P2-120 HESH,armor
 4016,Prowler Primary Weapon,P2-120-R HEAT,armor
-6009029,Reaver Nose Cannon,M20-W Appaloosa,
 4600,Reaver Nose Cannon,M20 Mustang,air
+6009029,Reaver Nose Cannon,M20-W Appaloosa,air
 4605,Reaver Nose Cannon,M30 Mustang AH,air
 4604,Reaver Nose Cannon,Vortek Rotary,air
 4745,Reaver Nose Cannon,M20 Kestrel,none
@@ -1222,9 +1222,9 @@
 7365,Scout Rifle,SOAS-20,infantry
 6009971,Scout Rifle,"SOAS-20 ""Hazmat""",infantry
 6004009,Scout Rifle,SOAS-20 AE,infantry
-6009030,Scythe Nose Cannon,Twin-Saron LC,
 4305,Scythe Nose Cannon,Light PPA,air
 4302,Scythe Nose Cannon,Saron Laser Cannon,air
+6009030,Scythe Nose Cannon,Twin-Saron LC,air
 4304,Scythe Nose Cannon,V26 Maelstrom Turbo Laser,air
 4445,Scythe Nose Cannon,Antares LC,none
 6009465,Scythe Wing Mount,Havoc Missiles,
