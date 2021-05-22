@@ -230,9 +230,6 @@
 1994,Battle Rifle,Revenant,infantry
 6004214,Battle Rifle,VE-LR Obelisk,infantry
 24008,Battle Rifle,Warden,infantry
-6005049,Carbine,MG-C1 Kindred,
-6005055,Carbine,MGR-C1 Charger,
-6005110,Carbine,VE-C Horizon,
 1869,Carbine,19A Fortuna,infantry
 7170,Carbine,AC-X11,infantry
 3,Carbine,AF-19 Mercenary,infantry
@@ -245,6 +242,8 @@
 19000,Carbine,LC2 Lynx,infantry
 6003968,Carbine,LC2 Lynx AE,infantry
 7193,Carbine,LC3 Jaguar,infantry
+6005049,Carbine,MG-C1 Kindred,infantry
+6005055,Carbine,MGR-C1 Charger,infantry
 6009656,Carbine,"NS-11 ""Endeavor"" Carbine",infantry
 75005,Carbine,NS-11C,infantry
 802100,Carbine,NS-11CB,infantry
@@ -261,6 +260,7 @@
 43,Carbine,TRAC-5,infantry
 7191,Carbine,TRAC-5 Burst,infantry
 1914,Carbine,TRAC-Shot,infantry
+6005110,Carbine,VE-C Horizon,infantry
 20000,Carbine,VX6-7,infantry
 7215,Carbine,Zenith VX-5,infantry
 6003967,Carbine,Zenith VX-5AE,infantry
