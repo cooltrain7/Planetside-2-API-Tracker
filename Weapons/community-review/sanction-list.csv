@@ -1260,8 +1260,6 @@
 1884,Shotgun,The Brawler,shotgun
 39001,Shotgun,TRS-12 Uppercut,shotgun
 7432,Shotgun,TS4 Haymaker,shotgun
-6009203,SMG,NS-66 Punisher,
-6010117,SMG,NS-66 Punisher SE,
 6005968,SMG,NSX-A Kappa,
 27000,SMG,AF-4 Cyclone,infantry
 6002824,SMG,AF-4AE Cyclone,infantry
@@ -1276,6 +1274,8 @@
 2315,SMG,MKV-B Suppressed,infantry
 2316,SMG,MKV-G Suppressed,infantry
 6003059,SMG,MKV-P Suppressed,infantry
+6009203,SMG,NS-66 Punisher,infantry
+6010117,SMG,NS-66 Punisher SE,infantry
 6009623,SMG,"NS-7 ""Endeavor"" PDW",infantry
 7494,SMG,NS-7 PDW,infantry
 7495,SMG,NS-7B PDW,infantry
