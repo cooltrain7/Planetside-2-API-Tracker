@@ -792,6 +792,7 @@
 804249,infantry
 804252,infantry
 804255,sniper
+804257,infantry
 804263,none
 804264,none
 804265,none
@@ -1200,6 +1201,7 @@
 6006186,infantry
 6006187,infantry
 6006188,infantry
+6006239,infantry
 6006283,none
 6006299,infantry
 6006332,none
@@ -1231,11 +1233,13 @@
 6008651,none
 6008652,sniper
 6008654,infantry
+6008660,infantry
 6008665,infantry
 6008666,infantry
 6008668,infantry
 6008669,infantry
 6008670,sniper
+6008671,infantry
 6008684,armor
 6008686,max
 6008687,none

@@ -1262,11 +1262,7 @@
 7432,Shotgun,TS4 Haymaker,shotgun
 6009203,SMG,NS-66 Punisher,
 6010117,SMG,NS-66 Punisher SE,
-6008660,SMG,"NSX ""Ivory"" Tengu",
-6008671,SMG,"NSX ""Networked"" Tengu",
-804257,SMG,NSX Tengu,
 6005968,SMG,NSX-A Kappa,
-6006239,SMG,NSX-P Tengu,
 27000,SMG,AF-4 Cyclone,infantry
 6002824,SMG,AF-4AE Cyclone,infantry
 27005,SMG,AF-4G Cyclone,infantry
@@ -1284,6 +1280,10 @@
 7494,SMG,NS-7 PDW,infantry
 7495,SMG,NS-7B PDW,infantry
 7496,SMG,NS-7G PDW,infantry
+6008660,SMG,"NSX ""Ivory"" Tengu",infantry
+6008671,SMG,"NSX ""Networked"" Tengu",infantry
+804257,SMG,NSX Tengu,infantry
+6006239,SMG,NSX-P Tengu,infantry
 28001,SMG,PDW-16 Hailstorm,infantry
 6004570,SMG,PS1-AV Suppressor,infantry
 1944,SMG,Shuriken,infantry
