@@ -421,6 +421,7 @@
 804249,infantry
 804252,infantry
 804255,sniper
+804257,infantry
 804405,infantry
 804428,infantry
 804652,max
@@ -554,6 +555,7 @@
 6006186,infantry
 6006187,infantry
 6006188,infantry
+6006239,infantry
 6006299,infantry
 6006397,gunner
 6006398,gunner
@@ -568,11 +570,13 @@
 6008645,infantry
 6008652,sniper
 6008654,infantry
+6008660,infantry
 6008665,infantry
 6008666,infantry
 6008668,infantry
 6008669,infantry
 6008670,sniper
+6008671,infantry
 6008684,armor
 6008686,max
 6009025,air
