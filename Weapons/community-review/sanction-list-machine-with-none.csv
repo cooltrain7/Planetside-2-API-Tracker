@@ -287,7 +287,7 @@
 4302,air
 4304,air
 4305,air
-4445,none
+4445,air
 4446,none
 4447,none
 4600,air
@@ -295,7 +295,7 @@
 4602,air
 4604,air
 4605,air
-4745,none
+4745,air
 4746,none
 4747,none
 4900,air
@@ -303,7 +303,7 @@
 4905,air
 4906,air
 4911,air
-5050,none
+5050,air
 5051,none
 5052,none
 5200,gunner
@@ -612,10 +612,10 @@
 75287,none
 75288,none
 75289,none
-75490,none
-75517,none
-75519,none
-75521,none
+75490,meme
+75517,meme
+75519,meme
+75521,meme
 76358,none
 77822,infantry
 800623,none
@@ -667,9 +667,9 @@
 802910,infantry
 802921,infantry
 802969,none
-803007,none
-803008,none
-803009,none
+803007,meme
+803008,meme
+803009,meme
 803025,none
 803026,none
 803027,none
@@ -1017,7 +1017,7 @@
 6004531,none
 6004570,infantry
 6004611,none
-6004714,none
+6004714,meme
 6004742,none
 6004743,none
 6004744,none
@@ -1031,7 +1031,7 @@
 6004871,none
 6004873,none
 6004992,infantry
-6004995,none
+6004995,meme
 6005049,infantry
 6005055,infantry
 6005068,armor
@@ -1198,9 +1198,9 @@
 6005968,infantry
 6005969,infantry
 6005970,infantry
-6006063,none
-6006064,none
-6006065,none
+6006063,air
+6006064,air
+6006065,air
 6006067,none
 6006068,none
 6006069,none

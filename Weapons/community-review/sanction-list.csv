@@ -1064,16 +1064,16 @@
 3461,Magrider Primary Weapon,Supernova VPC,armor
 3427,Magrider Primary Weapon,Supernova-R PC,armor
 4906,Mosquito Nose Cannon,M14 Banshee,air
+5050,Mosquito Nose Cannon,M18 Locust,air
 4900,Mosquito Nose Cannon,M18 Needler,air
 4911,Mosquito Nose Cannon,M18 Rotary,air
 6009025,Mosquito Nose Cannon,M18-2 Pincer,air
-5050,Mosquito Nose Cannon,M18 Locust,none
 6009464,Mosquito Wing Mount,Havoc Missiles,air
 4903,Mosquito Wing Mount,Hellfire Rocket Pods,air
+6006063,Mosquito Wing Mount,M202 Wyrm,air
 4905,Mosquito Wing Mount,Tomcat A2AM Pods,air
 5052,Mosquito Wing Mount,Coyote Missiles,none
 5051,Mosquito Wing Mount,Hornet Missiles,none
-6006063,Mosquito Wing Mount,M202 Wyrm,none
 6009902,Pistol,UNKNOWN Pistol #6009902,
 6009903,Pistol,UNKNOWN Pistol #6009903,
 6009904,Pistol,UNKNOWN Pistol #6009904,
@@ -1126,18 +1126,18 @@
 7391,Pistol,TX1-FB Repeater,infantry
 6006091,Pistol,"TX2 ""Jackpot"" Emperor",infantry
 7400,Pistol,TX2 Emperor,infantry
-6004995,Pistol,Ectoblaster,none
-75517,Pistol,NC Patriot Flare Gun,none
-803007,Pistol,NC Triumph Flare Gun,none
+6004995,Pistol,Ectoblaster,meme
+75517,Pistol,NC Patriot Flare Gun,meme
+803007,Pistol,NC Triumph Flare Gun,meme
+75490,Pistol,NS Patriot Flare Gun,meme
+6004714,Pistol,Soldier Soaker,meme
+75519,Pistol,TR Patriot Flare Gun,meme
+803008,Pistol,TR Triumph Flare Gun,meme
+75521,Pistol,VS Patriot Flare Gun,meme
+803009,Pistol,VS Triumph Flare Gun,meme
 7390,Pistol,NC08 Mag-Scatter,none
 801970,Pistol,NS CandyCannon 3000,none
 76358,Pistol,NS Deep Freeze,none
-75490,Pistol,NS Patriot Flare Gun,none
-6004714,Pistol,Soldier Soaker,none
-75519,Pistol,TR Patriot Flare Gun,none
-803008,Pistol,TR Triumph Flare Gun,none
-75521,Pistol,VS Patriot Flare Gun,none
-803009,Pistol,VS Triumph Flare Gun,none
 4015,Prowler Gunner Weapon,E540 Halberd,gunner
 4029,Prowler Gunner Weapon,G30 Vulcan,gunner
 4003,Prowler Gunner Weapon,G30 Walker,gunner
@@ -1151,17 +1151,17 @@
 4000,Prowler Primary Weapon,P2-120 HEAT,armor
 4009,Prowler Primary Weapon,P2-120 HESH,armor
 4016,Prowler Primary Weapon,P2-120-R HEAT,armor
+4745,Reaver Nose Cannon,M20 Kestrel,air
 4600,Reaver Nose Cannon,M20 Mustang,air
 6009029,Reaver Nose Cannon,M20-W Appaloosa,air
 4605,Reaver Nose Cannon,M30 Mustang AH,air
 4604,Reaver Nose Cannon,Vortek Rotary,air
-4745,Reaver Nose Cannon,M20 Kestrel,none
 4601,Reaver Wing Mount,Breaker Rocket Pods,air
 6009466,Reaver Wing Mount,Havoc Missiles,air
+6006065,Reaver Wing Mount,M202 Wyrm,air
 4602,Reaver Wing Mount,Tomcat A2AM Pods,air
 4747,Reaver Wing Mount,Coyote Missiles,none
 4746,Reaver Wing Mount,Hornet Missiles,none
-6006065,Reaver Wing Mount,M202 Wyrm,none
 6009905,Rocket Launcher,UNKNOWN Rocket Launcher #6009905,
 6009906,Rocket Launcher,UNKNOWN Rocket Launcher #6009906,
 6009907,Rocket Launcher,UNKNOWN Rocket Launcher #6009907,
@@ -1214,17 +1214,17 @@
 7365,Scout Rifle,SOAS-20,infantry
 6009971,Scout Rifle,"SOAS-20 ""Hazmat""",infantry
 6004009,Scout Rifle,SOAS-20 AE,infantry
+4445,Scythe Nose Cannon,Antares LC,air
 4305,Scythe Nose Cannon,Light PPA,air
 4302,Scythe Nose Cannon,Saron Laser Cannon,air
 6009030,Scythe Nose Cannon,Twin-Saron LC,air
 4304,Scythe Nose Cannon,V26 Maelstrom Turbo Laser,air
-4445,Scythe Nose Cannon,Antares LC,none
 4301,Scythe Wing Mount,Dual Photon Pods,air
 6009465,Scythe Wing Mount,Havoc Missiles,air
+6006064,Scythe Wing Mount,M202 Wyrm,air
 4300,Scythe Wing Mount,Photon A2A Missile Pods,air
 4447,Scythe Wing Mount,Coyote Missiles,none
 4446,Scythe Wing Mount,Hornet Missiles,none
-6006064,Scythe Wing Mount,M202 Wyrm,none
 6009908,Shotgun,UNKNOWN Shotgun #6009908,
 6009909,Shotgun,UNKNOWN Shotgun #6009909,
 6009910,Shotgun,UNKNOWN Shotgun #6009910,
