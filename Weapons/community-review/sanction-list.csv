@@ -1068,12 +1068,12 @@
 4900,Mosquito Nose Cannon,M18 Needler,air
 4911,Mosquito Nose Cannon,M18 Rotary,air
 6009025,Mosquito Nose Cannon,M18-2 Pincer,air
-6009464,Mosquito Wing Mount,Havoc Missiles,air
 4903,Mosquito Wing Mount,Hellfire Rocket Pods,air
 6006063,Mosquito Wing Mount,M202 Wyrm,air
-4905,Mosquito Wing Mount,Tomcat A2AM Pods,air
 5052,Mosquito Wing Mount,Coyote Missiles,none
+6009464,Mosquito Wing Mount,Havoc Missiles,none
 5051,Mosquito Wing Mount,Hornet Missiles,none
+4905,Mosquito Wing Mount,Tomcat A2AM Pods,none
 6009902,Pistol,UNKNOWN Pistol #6009902,
 6009903,Pistol,UNKNOWN Pistol #6009903,
 6009904,Pistol,UNKNOWN Pistol #6009904,
@@ -1157,11 +1157,11 @@
 4605,Reaver Nose Cannon,M30 Mustang AH,air
 4604,Reaver Nose Cannon,Vortek Rotary,air
 4601,Reaver Wing Mount,Breaker Rocket Pods,air
-6009466,Reaver Wing Mount,Havoc Missiles,air
 6006065,Reaver Wing Mount,M202 Wyrm,air
-4602,Reaver Wing Mount,Tomcat A2AM Pods,air
 4747,Reaver Wing Mount,Coyote Missiles,none
+6009466,Reaver Wing Mount,Havoc Missiles,none
 4746,Reaver Wing Mount,Hornet Missiles,none
+4602,Reaver Wing Mount,Tomcat A2AM Pods,none
 6009905,Rocket Launcher,UNKNOWN Rocket Launcher #6009905,
 6009906,Rocket Launcher,UNKNOWN Rocket Launcher #6009906,
 6009907,Rocket Launcher,UNKNOWN Rocket Launcher #6009907,
@@ -1220,11 +1220,11 @@
 6009030,Scythe Nose Cannon,Twin-Saron LC,air
 4304,Scythe Nose Cannon,V26 Maelstrom Turbo Laser,air
 4301,Scythe Wing Mount,Dual Photon Pods,air
-6009465,Scythe Wing Mount,Havoc Missiles,air
 6006064,Scythe Wing Mount,M202 Wyrm,air
-4300,Scythe Wing Mount,Photon A2A Missile Pods,air
 4447,Scythe Wing Mount,Coyote Missiles,none
+6009465,Scythe Wing Mount,Havoc Missiles,none
 4446,Scythe Wing Mount,Hornet Missiles,none
+4300,Scythe Wing Mount,Photon A2A Missile Pods,none
 6009908,Shotgun,UNKNOWN Shotgun #6009908,
 6009909,Shotgun,UNKNOWN Shotgun #6009909,
 6009910,Shotgun,UNKNOWN Shotgun #6009910,

@@ -282,7 +282,7 @@
 4015,gunner
 4016,armor
 4029,gunner
-4300,air
+4300,none
 4301,air
 4302,air
 4304,air
@@ -292,7 +292,7 @@
 4447,none
 4600,air
 4601,air
-4602,air
+4602,none
 4604,air
 4605,air
 4745,air
@@ -300,7 +300,7 @@
 4747,none
 4900,air
 4903,air
-4905,air
+4905,none
 4906,air
 4911,air
 5050,air
@@ -1382,9 +1382,9 @@
 6009426,none
 6009459,none
 6009463,none
-6009464,air
-6009465,air
-6009466,air
+6009464,none
+6009465,none
+6009466,none
 6009467,none
 6009487,none
 6009515,none
