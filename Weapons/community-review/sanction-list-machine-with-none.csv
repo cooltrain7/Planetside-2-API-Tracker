@@ -612,10 +612,10 @@
 75287,none
 75288,none
 75289,none
-75490,infantry
-75517,infantry
-75519,infantry
-75521,infantry
+75490,none
+75517,none
+75519,none
+75521,none
 76358,none
 77822,infantry
 800623,none
@@ -667,9 +667,9 @@
 802910,infantry
 802921,infantry
 802969,none
-803007,infantry
-803008,infantry
-803009,infantry
+803007,none
+803008,none
+803009,none
 803025,none
 803026,none
 803027,none
@@ -1017,6 +1017,7 @@
 6004531,none
 6004570,infantry
 6004611,none
+6004714,none
 6004742,none
 6004743,none
 6004744,none
@@ -1029,6 +1030,8 @@
 6004870,none
 6004871,none
 6004873,none
+6004992,infantry
+6004995,none
 6005049,infantry
 6005055,infantry
 6005068,armor
@@ -1195,6 +1198,9 @@
 6005968,infantry
 6005969,infantry
 6005970,infantry
+6006063,none
+6006064,none
+6006065,none
 6006067,none
 6006068,none
 6006069,none
@@ -1251,6 +1257,7 @@
 6008684,armor
 6008686,max
 6008687,none
+6008733,none
 6008734,none
 6008735,none
 6008736,none
@@ -1309,6 +1316,7 @@
 6009069,none
 6009090,none
 6009093,none
+6009101,infantry
 6009203,infantry
 6009226,none
 6009227,none
@@ -1374,6 +1382,9 @@
 6009426,none
 6009459,none
 6009463,none
+6009464,air
+6009465,air
+6009466,air
 6009467,none
 6009487,none
 6009515,none

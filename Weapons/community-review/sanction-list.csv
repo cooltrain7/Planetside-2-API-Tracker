@@ -219,13 +219,13 @@
 6009041,Bastion Weapon System,Bastion Battery,none
 6009042,Bastion Weapon System,Bastion Battery,none
 6009043,Bastion Weapon System,Bastion Battery,none
-6009101,Battle Rifle,NS-30 Tranquility,
 25008,Battle Rifle,AMR-66,infantry
 1989,Battle Rifle,DMR-99,infantry
 26008,Battle Rifle,Eidolon VE33,infantry
 1984,Battle Rifle,GD Guardian,infantry
 6004216,Battle Rifle,MG-HBR1 Dragoon,infantry
 6004209,Battle Rifle,MGR-M1 Bishop,infantry
+6009101,Battle Rifle,NS-30 Tranquility,infantry
 6005970,Battle Rifle,NSX-A Sesshin,infantry
 1994,Battle Rifle,Revenant,infantry
 6004214,Battle Rifle,VE-LR Obelisk,infantry
@@ -1068,14 +1068,12 @@
 4911,Mosquito Nose Cannon,M18 Rotary,air
 6009025,Mosquito Nose Cannon,M18-2 Pincer,air
 5050,Mosquito Nose Cannon,M18 Locust,none
-6009464,Mosquito Wing Mount,Havoc Missiles,
-6006063,Mosquito Wing Mount,M202 Wyrm,
+6009464,Mosquito Wing Mount,Havoc Missiles,air
 4903,Mosquito Wing Mount,Hellfire Rocket Pods,air
 4905,Mosquito Wing Mount,Tomcat A2AM Pods,air
 5052,Mosquito Wing Mount,Coyote Missiles,none
 5051,Mosquito Wing Mount,Hornet Missiles,none
-6004995,Pistol,Ectoblaster,
-6004714,Pistol,Soldier Soaker,
+6006063,Mosquito Wing Mount,M202 Wyrm,none
 6009902,Pistol,UNKNOWN Pistol #6009902,
 6009903,Pistol,UNKNOWN Pistol #6009903,
 6009904,Pistol,UNKNOWN Pistol #6009904,
@@ -1087,11 +1085,8 @@
 7389,Pistol,LA3 Desperado,infantry
 7388,Pistol,LA8 Rebel,infantry
 7412,Pistol,Manticore SX40,infantry
-75517,Pistol,NC Patriot Flare Gun,infantry
-803007,Pistol,NC Triumph Flare Gun,infantry
 2,Pistol,NC4 Mag-Shot,infantry
 7379,Pistol,NC4-FB Mag-Shot,infantry
-75490,Pistol,NS Patriot Flare Gun,infantry
 6009652,Pistol,"NS-357 ""Endeavor"" Underboss",infantry
 6003943,Pistol,NS-357 IA,infantry
 75071,Pistol,NS-357 Underboss,infantry
@@ -1126,18 +1121,23 @@
 1889,Pistol,The Executive,infantry
 1959,Pistol,The Immortal,infantry
 1954,Pistol,The President,infantry
-75519,Pistol,TR Patriot Flare Gun,infantry
-803008,Pistol,TR Triumph Flare Gun,infantry
 7401,Pistol,TS2 Inquisitor,infantry
 15,Pistol,TX1 Repeater,infantry
 7391,Pistol,TX1-FB Repeater,infantry
 6006091,Pistol,"TX2 ""Jackpot"" Emperor",infantry
 7400,Pistol,TX2 Emperor,infantry
-75521,Pistol,VS Patriot Flare Gun,infantry
-803009,Pistol,VS Triumph Flare Gun,infantry
+6004995,Pistol,Ectoblaster,none
+75517,Pistol,NC Patriot Flare Gun,none
+803007,Pistol,NC Triumph Flare Gun,none
 7390,Pistol,NC08 Mag-Scatter,none
 801970,Pistol,NS CandyCannon 3000,none
 76358,Pistol,NS Deep Freeze,none
+75490,Pistol,NS Patriot Flare Gun,none
+6004714,Pistol,Soldier Soaker,none
+75519,Pistol,TR Patriot Flare Gun,none
+803008,Pistol,TR Triumph Flare Gun,none
+75521,Pistol,VS Patriot Flare Gun,none
+803009,Pistol,VS Triumph Flare Gun,none
 4015,Prowler Gunner Weapon,E540 Halberd,gunner
 4029,Prowler Gunner Weapon,G30 Vulcan,gunner
 4003,Prowler Gunner Weapon,G30 Walker,gunner
@@ -1156,12 +1156,12 @@
 4605,Reaver Nose Cannon,M30 Mustang AH,air
 4604,Reaver Nose Cannon,Vortek Rotary,air
 4745,Reaver Nose Cannon,M20 Kestrel,none
-6009466,Reaver Wing Mount,Havoc Missiles,
-6006065,Reaver Wing Mount,M202 Wyrm,
 4601,Reaver Wing Mount,Breaker Rocket Pods,air
+6009466,Reaver Wing Mount,Havoc Missiles,air
 4602,Reaver Wing Mount,Tomcat A2AM Pods,air
 4747,Reaver Wing Mount,Coyote Missiles,none
 4746,Reaver Wing Mount,Hornet Missiles,none
+6006065,Reaver Wing Mount,M202 Wyrm,none
 6009905,Rocket Launcher,UNKNOWN Rocket Launcher #6009905,
 6009906,Rocket Launcher,UNKNOWN Rocket Launcher #6009906,
 6009907,Rocket Launcher,UNKNOWN Rocket Launcher #6009907,
@@ -1219,12 +1219,12 @@
 6009030,Scythe Nose Cannon,Twin-Saron LC,air
 4304,Scythe Nose Cannon,V26 Maelstrom Turbo Laser,air
 4445,Scythe Nose Cannon,Antares LC,none
-6009465,Scythe Wing Mount,Havoc Missiles,
-6006064,Scythe Wing Mount,M202 Wyrm,
 4301,Scythe Wing Mount,Dual Photon Pods,air
+6009465,Scythe Wing Mount,Havoc Missiles,air
 4300,Scythe Wing Mount,Photon A2A Missile Pods,air
 4447,Scythe Wing Mount,Coyote Missiles,none
 4446,Scythe Wing Mount,Hornet Missiles,none
+6006064,Scythe Wing Mount,M202 Wyrm,none
 6009908,Shotgun,UNKNOWN Shotgun #6009908,
 6009909,Shotgun,UNKNOWN Shotgun #6009909,
 6009910,Shotgun,UNKNOWN Shotgun #6009910,
@@ -1286,7 +1286,6 @@
 28005,SMG,SMG-46G Armistice,infantry
 1899,SMG,Tempest,infantry
 6003925,SMG,VE-S Canis,infantry
-6004992,Sniper Rifle,NS-AM8 Shortbow,
 6004294,Sniper Rifle,AM7-XOXO,infantry
 24002,Sniper Rifle,Impetus,infantry
 25002,Sniper Rifle,KSR-35,infantry
@@ -1296,6 +1295,7 @@
 6002918,Sniper Rifle,NS-AM7 VS/AE Archer,infantry
 802910,Sniper Rifle,NS-AM7B Archer,infantry
 802921,Sniper Rifle,NS-AM7G Archer,infantry
+6004992,Sniper Rifle,NS-AM8 Shortbow,infantry
 26002,Sniper Rifle,Phantom VA23,infantry
 6008496,Sniper Rifle,PSA-01 Hammerhead AMR,infantry
 88,Sniper Rifle,99SV,sniper
@@ -1412,7 +1412,7 @@
 3730,Vanguard Primary Weapon,Titan-150 AP,armor
 3700,Vanguard Primary Weapon,Titan-150 HEAT,armor
 3731,Vanguard Primary Weapon,Titan-150 HESH,armor
-6008733,Vehicle Abilities,NEST Launcher,
+6008733,Vehicle Abilities,NEST Launcher,none
 728,Vehicle Weapons,UNKNOWN Vehicle Weapons #728,
 729,Vehicle Weapons,UNKNOWN Vehicle Weapons #729,
 731,Vehicle Weapons,UNKNOWN Vehicle Weapons #731,

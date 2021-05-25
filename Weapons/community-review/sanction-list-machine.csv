@@ -364,10 +364,6 @@
 75173,infantry
 75234,infantry
 75268,infantry
-75490,infantry
-75517,infantry
-75519,infantry
-75521,infantry
 77822,infantry
 802099,infantry
 802100,infantry
@@ -390,9 +386,6 @@
 802900,gunner
 802910,infantry
 802921,infantry
-803007,infantry
-803008,infantry
-803009,infantry
 803482,gunner
 803483,gunner
 803484,gunner
@@ -501,6 +494,7 @@
 6004294,infantry
 6004413,infantry
 6004570,infantry
+6004992,infantry
 6005049,infantry
 6005055,infantry
 6005068,armor
@@ -590,7 +584,11 @@
 6009025,air
 6009029,air
 6009030,air
+6009101,infantry
 6009203,infantry
+6009464,air
+6009465,air
+6009466,air
 6009604,infantry
 6009623,infantry
 6009652,infantry
