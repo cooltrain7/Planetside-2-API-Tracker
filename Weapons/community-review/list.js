@@ -1,4 +1,5 @@
 import csv from 'fast-csv';
+import fs from 'fs';
 
 //load headers, rows
 const { headers, rows } = await new Promise( resolve =>
@@ -45,21 +46,35 @@ if( process.argv[2] === 'compile' || process.argv[2] === 'sort-compile' )
 {
 	//map rows into machine based rows
 	//(have to copy into new objects so race condition doesn't change regular rows before they are written)
-	const rows_machine = rows
+	const rows_machine_with_none = rows
 		.filter( r => r.Sanction !== '' )
 		.map( r => { return { ['Item ID']: r['Item ID'], Sanction: r.Sanction }; } )
 		.sort( ( a, b ) => parseInt( a['Item ID'] ) - parseInt( b['Item ID'] ) );
+	const rows_machine = rows_machine_with_none.filter( r => r.Sanction !== 'none' );
 
-	csv.writeToPath( 'sanction-list-machine.csv', rows_machine.filter( r => r.Sanction !== 'none' ),
+	//write machine file csv/json
+	csv.writeToPath( 'sanction-list-machine.csv', rows_machine,
 		{
 			encoding: 'utf8',
 			writeBOM: true,
 			writeHeaders: false
 		} );
-	csv.writeToPath( 'sanction-list-machine-with-none.csv', rows_machine,
+	fs.writeFileSync( 'sanction-list-machine.json', JSON.stringify( rows_machine.reduce( ( items, item ) =>
+		{
+			items[item['Item ID']] = item.Sanction;
+			return items;
+		}, {} ) ), { encoding: 'utf8' } );
+
+	//write machine file with none csv/json
+	csv.writeToPath( 'sanction-list-machine-with-none.csv', rows_machine_with_none,
 		{
 			encoding: 'utf8',
 			writeBOM: true,
 			writeHeaders: false
 		} );
+	fs.writeFileSync( 'sanction-list-machine-with-none.json', JSON.stringify( rows_machine_with_none.reduce( ( items, item ) =>
+		{
+			items[item['Item ID']] = item.Sanction;
+			return items;
+		}, {} ) ), { encoding: 'utf8' } );
 }
