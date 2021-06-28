@@ -26,9 +26,9 @@ if( process.argv[2] === 'sort' || process.argv[2] === 'sort-compile' )
 {
 	rows.sort( ( a, b ) =>
 		{
-			if( a['Construction Item'] !== b['Construction Item'] )
-				return a['Construction Item'].localeCompare( b['Construction Item'] );
-			return parseInt( a['Experience ID'] ) - parseInt( b['Experience ID'] );
+			if( a['item'] !== b['item'] )
+				return a['item'].localeCompare( b['item'] );
+			return parseInt( a['experience_id'] ) - parseInt( b['experience_id'] );
 		} );
 	csv.writeToPath( filename + '.csv', rows,
 		{
@@ -45,11 +45,17 @@ if( process.argv[2] === 'compile' || process.argv[2] === 'sort-compile' )
     //map rows into machine based rows
 	//(have to copy into new objects so race condition doesn't change regular rows before they are written)
 	const rows_machine = rows
-        .map( r => { return { ['Construction Item']: r['Construction Item'], ['Experience ID']: r['Experience ID'] }; } )
+        .map( r => {
+			const obj = {};
+			for (const h of headers) {
+				obj[h] = r[h];
+			}
+			return obj;
+		})
         .sort( ( a, b ) => {
-            if( a['Construction Item'] !== b['Construction Item'] )
-				return a['Construction Item'].localeCompare( b['Construction Item'] );
+            if( a['item'] !== b['item'] )
+				return a['item'].localeCompare( b['item'] );
         } );
 
-    fs.writeFileSync( filename + '-machine.json', JSON.stringify( rows_machine ), { encoding: 'utf8' } );
+    fs.writeFileSync( filename + '.json', JSON.stringify( rows_machine ), { encoding: 'utf8' } );
 }
