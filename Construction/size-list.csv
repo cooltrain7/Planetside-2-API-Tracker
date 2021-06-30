@@ -1,29 +1,29 @@
-﻿item,size,experience_id
-Alarm Module,small,616
-Blast Wall,large,628
-Bunker,large,628
-Elysium Spawn Tube,medium,604
-Flail,medium,604
-Glaive,medium,604
-Hoplon AA Phalanax,medium,604
-Infantry Tower,large,628
-Light Air Terminal,medium,604
-Light Vehicle Terminal,medium,604
-Orbital Strike Uplink,large,628
-Pain Spire,small,616
-Pillbox,medium,604
-Rampart Wall,large,628
-Reinforcements Module,small,616
-Repair Module Schematic,small,616
-Routing Spire,small,616
-Silo,large,628
-Skywall Shield Emitter,small,616
-Spear AV Tower,medium,604
-Spear AV Turret,medium,604
-Structure Shield Module,small,616
-Sunderer Garage,medium,604
-Turret AI Module,small,616
-Vehicle Ammo Dispenser,none,57
-Vehicle Gate,large,628
-Vehicle Ramp,medium,604
-Xiphos AI Tower,medium,604
+﻿item,size,experience_id,vs_item_id,nc_item_id,tr_item_id,ns_item_id
+Alarm Module,small,616,6002368,6002366,6002367,6005628
+Blast Wall,large,628,804982,804980,804981,6005634
+Bunker,large,628,803616,803614,803615,6005701
+Cortium Silo,large,628,804704,804702,804703,6005657
+Elysium Spawn Tube,medium,604,6002468,6002466,6002467,6005659
+Glaive IPC,medium,604,6002392,6002390,6002391,6005636
+Hoplon Anti-Aircraft Phalanx Tower,medium,604,803590,803588,803589,6005622
+Infantry Tower,large,628,6002350,6002348,6002349,6005644
+Light Air Terminal,medium,604,6002498,6002496,6002497,6005626
+Light Vehicle Terminal,medium,604,6002474,6002472,6002473,6005663
+Orbital Strike Uplink,large,628,6002526,6002524,6002525,6005648
+Pain Spire,small,616,6004284,6004421,6004423,6005706
+Pillbox,medium,604,6002480,6002478,6002479,6005652
+Rampart Wall,large,628,803607,803605,803606,6005698
+Reinforcements Module,small,616,804976,804974,804975,6005654
+Repair Module,small,616,804271,804269,804270,6005666
+Routing Spire,small,616,6004286,6004425,6004427,6005703
+Skywall Shield Emitter,small,616,804265,804263,804264,6005672
+Spear Anti-Vehicle Tower,medium,604,803429,803427,803428,6005638
+Spear Anti-Vehicle Turret,medium,604,6002399,6002405,6002419,6005650
+Structure Shield Module,small,616,804268,804266,804267,6005669
+Sunderer Garage,medium,604,803613,803611,803612,6005700
+The Flail,medium,604,6004288,6004448,6004446,6005632
+Turret AI Module,small,616,804274,804272,804273,6005668
+Vehicle Ammo Dispenser,none,57,6002486,6002484,6002485,6005630
+Vehicle Gate,large,628,6002492,6002490,6002491,6005642
+Vehicle Ramp,medium,604,6002356,6002354,6002355,6005661
+Xiphos Anti-Personnel Tower,medium,604,803593,803591,803592,6005624
