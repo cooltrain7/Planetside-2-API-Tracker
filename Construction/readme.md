@@ -10,7 +10,7 @@ Use the raw.githubusercontent.com/*FilePath* if you want to pull from the live f
 
 File formats:
 * `size-list.csv` (csv file used as source)
-* `size-list.csv` (generated json file)
+* `size-list.json` (generated json file)
 
 There's an NPM script to sort the human list and compile it into the machine list:
 * `npm run sort` (will sort the source list)
