@@ -92,18 +92,10 @@
 803498,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 803499,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
 6005434,ANT Top Turret,WLT-Yellowjacket Mining Laser,none
-6009864,Assault Rifle,UNKNOWN Assault Rifle #6009864,
-6009891,Assault Rifle,UNKNOWN Assault Rifle #6009891,
-6009892,Assault Rifle,UNKNOWN Assault Rifle #6009892,
-6009893,Assault Rifle,UNKNOWN Assault Rifle #6009893,
-6009894,Assault Rifle,UNKNOWN Assault Rifle #6009894,
-6009895,Assault Rifle,UNKNOWN Assault Rifle #6009895,
-6009896,Assault Rifle,UNKNOWN Assault Rifle #6009896,
-6009897,Assault Rifle,UNKNOWN Assault Rifle #6009897,
-6009898,Assault Rifle,UNKNOWN Assault Rifle #6009898,
-6009899,Assault Rifle,UNKNOWN Assault Rifle #6009899,
-6009900,Assault Rifle,UNKNOWN Assault Rifle #6009900,
-6009901,Assault Rifle,UNKNOWN Assault Rifle #6009901,
+6009864,Assault Rifle,AR-100,
+6009891,Assault Rifle,AR-101,
+6011252,Assault Rifle,AR-ARX Maxwell,
+6009892,Assault Rifle,AR-N203,
 7103,Assault Rifle,Carnage AR,infantry
 7149,Assault Rifle,CME,infantry
 7152,Assault Rifle,Corvus VA55,infantry
@@ -230,6 +222,10 @@
 1994,Battle Rifle,Revenant,infantry
 6004214,Battle Rifle,VE-LR Obelisk,infantry
 24008,Battle Rifle,Warden,infantry
+6009893,Carbine,CB-100,
+6009895,Carbine,CB-200,
+6011251,Carbine,CB-ARX Newton,
+6009894,Carbine,CB-X75,
 1869,Carbine,19A Fortuna,infantry
 7170,Carbine,AC-X11,infantry
 3,Carbine,AF-19 Mercenary,infantry
@@ -267,6 +263,12 @@
 7172,Carbine,Gauss Compact S,none
 7213,Carbine,Solstice SF,none
 7192,Carbine,TRAC-5 S,none
+6010679,Chimera Primary Weapons,CT-102 Satyr,
+6009957,Chimera Primary Weapons,CT-135,
+6010678,Chimera Primary Weapons,CT-150 Cyclops,
+6010715,Chimera Secondary Weapons,CT2-20 HCG,
+6010717,Chimera Secondary Weapons,CT2-8M Siren,
+6010716,Chimera Secondary Weapons,CT2-XP,
 6009235,Colossus Front Left Weapon,M12 Goblin SP,none
 6009239,Colossus Front Left Weapon,M12 Goblin SP,none
 6009243,Colossus Front Left Weapon,M12 Goblin SP,none
@@ -341,6 +343,7 @@
 2317,Crossbow,Hunter QCX-B,none
 2318,Crossbow,Hunter QCX-G,none
 50562,Crossbow,Hunter QCX-P,none
+6009995,Explosive,F.U.S.E. (Anti-Infantry),
 1044,Explosive,Bouncing Betty,none
 432,Explosive,C-4,none
 800623,Explosive,C-4 ARX,none
@@ -489,6 +492,8 @@
 6122,Harasser Top Gunner,P525 Marauder-H,gunner
 6125,Harasser Top Gunner,Proton II PPA-H,gunner
 6126,Harasser Top Gunner,Saron HRB-H,gunner
+6011140,Heavy Weapon,D11 Detonator,
+6011064,Heavy Weapon,D7 Hummingbird,
 6008686,Heavy Weapon,Grenade Printer,max
 7540,Heavy Weapon,Lasher X2,none
 803732,Heavy Weapon,Lasher X2 AE,none
@@ -501,12 +506,14 @@
 7533,Heavy Weapon,T7 Mini-Chaingun,none
 803779,Heavy Weapon,T7 Mini-Chaingun AE,none
 6004168,Heavy Weapon,T7-P Mini-Chaingun,none
+6011152,Hybrid Rifle,NSX Kuwa,
 6005967,Hybrid Rifle,NSX-A Kuwa,infantry
 804846,Infantry Abilities,Cert Fountain,
 6009460,Infantry Abilities,Metal Detector,
 6004560,Infantry Abilities,Meteorite,
 6005102,Infantry Abilities,Pumpking Slayer,
 310,Infantry Abilities,Stealth Test,
+6009595,Infantry Abilities,Trick or Treat!,
 200,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 201,Infantry Abilities,Anti-Infantry MANA Turret,infantry
 202,Infantry Abilities,Anti-Infantry MANA Turret,infantry
@@ -890,6 +897,10 @@
 557,Infantry Weapons,MANA Anti-Personnel Turret,none
 6005423,Infantry Weapons,MANA Anti-Personnel Turret,none
 503,Infantry Weapons,MANA Anti-Vehicle Turret,none
+6010044,Javelin Primary Weapon,JVN-30 Salamander,
+6010078,Javelin Primary Weapon,JVN-50 Celeste,
+6010076,Javelin Primary Weapon,JVN-X3 Hydra,
+6011053,Knife,Ancient Psykinetic Blade,
 6008651,Knife,Ancient Psykinetic Blade,none
 800625,Knife,Auraxium Chainblade,none
 800626,Knife,Auraxium Force-Blade,none
@@ -1009,6 +1020,10 @@
 3107,Lightning Primary Weapon,Skyguard,armor
 3108,Lightning Primary Weapon,Skyguard,armor
 6005303,Lightning Primary Weapon,Skyguard,armor
+6009899,LMG,XMG-100,
+6009900,LMG,XMG-155,
+6009901,LMG,XMG-200,
+6011254,LMG,XMG-ARX Galilei,
 1894,LMG,Betelgeuse 54-A,infantry
 7232,LMG,EM1,infantry
 7235,LMG,EM6,infantry
@@ -1074,9 +1089,11 @@
 6009464,Mosquito Wing Mount,Havoc Missiles,none
 5051,Mosquito Wing Mount,Hornet Missiles,none
 4905,Mosquito Wing Mount,Tomcat A2AM Pods,none
-6009902,Pistol,UNKNOWN Pistol #6009902,
-6009903,Pistol,UNKNOWN Pistol #6009903,
-6009904,Pistol,UNKNOWN Pistol #6009904,
+6011154,Pistol,NSX Yawara,
+6009902,Pistol,U-100 Lastly,
+6009903,Pistol,U-150 Recall,
+6009904,Pistol,U-200 Harbinger,
+6011258,Pistol,U-ARX Dirac,
 6006090,Pistol,"""Jackpot"" Cerberus",infantry
 21,Pistol,Beamer VS3,infantry
 7403,Pistol,Beamer VS3-FB,infantry
@@ -1162,9 +1179,10 @@
 6009466,Reaver Wing Mount,Havoc Missiles,none
 4746,Reaver Wing Mount,Hornet Missiles,none
 4602,Reaver Wing Mount,Tomcat A2AM Pods,none
-6009905,Rocket Launcher,UNKNOWN Rocket Launcher #6009905,
-6009906,Rocket Launcher,UNKNOWN Rocket Launcher #6009906,
-6009907,Rocket Launcher,UNKNOWN Rocket Launcher #6009907,
+6009905,Rocket Launcher,LAV-AG,
+6009907,Rocket Launcher,LAV-LA,
+6009906,Rocket Launcher,LAV-LG,
+6011151,Rocket Launcher,NSX Muramasa,
 33003,Rocket Launcher,AF-22 Crow,none
 34004,Rocket Launcher,ASP-30 Grounder,none
 35003,Rocket Launcher,Hades VSH4,none
@@ -1194,7 +1212,12 @@
 267,Rocket Launcher,Striker AE,none
 34002,Rocket Launcher,T2 Striker,none
 1964,Rocket Launcher,The Kraken,none
+6010045,Scout Rifle,BAR-100,
+6010047,Scout Rifle,BAR-200,
+6010046,Scout Rifle,BAR-A75,
+6011257,Scout Rifle,BAR-ARX Feynman,
 6004198,Scout Rifle,Mystery Weapon,
+6011155,Scout Rifle,NSX Sesshin,
 6009973,Scout Rifle,"AF-18 ""Hazmat"" Stalker",infantry
 7358,Scout Rifle,AF-18 Stalker,infantry
 6004008,Scout Rifle,AF-18 Stalker AE,infantry
@@ -1225,9 +1248,11 @@
 6009465,Scythe Wing Mount,Havoc Missiles,none
 4446,Scythe Wing Mount,Hornet Missiles,none
 4300,Scythe Wing Mount,Photon A2A Missile Pods,none
-6009908,Shotgun,UNKNOWN Shotgun #6009908,
-6009909,Shotgun,UNKNOWN Shotgun #6009909,
-6009910,Shotgun,UNKNOWN Shotgun #6009910,
+6009908,Shotgun,HSG-400,
+6011234,Shotgun,NS Viscount G6,
+6009910,Shotgun,SG-100,
+6009909,Shotgun,SG-A25,
+6011256,Shotgun,SG-ARX Rutherford,
 6009866,Shotgun,"NS ""Lucky"" Baron G5",none
 75083,Shotgun,NS Baron G5,none
 802322,Shotgun,NS Baron G5AE,none
@@ -1252,6 +1277,11 @@
 1884,Shotgun,The Brawler,shotgun
 39001,Shotgun,TRS-12 Uppercut,shotgun
 7432,Shotgun,TS4 Haymaker,shotgun
+6011153,SMG,NSX Kappa,
+6009896,SMG,PMG-100,
+6009897,SMG,PMG-200,
+6009898,SMG,PMG-3XB,
+6011253,SMG,PMG-ARX Schrodinger,
 27000,SMG,AF-4 Cyclone,infantry
 6002824,SMG,AF-4AE Cyclone,infantry
 27005,SMG,AF-4G Cyclone,infantry
@@ -1286,6 +1316,10 @@
 28005,SMG,SMG-46G Armistice,infantry
 1899,SMG,Tempest,infantry
 6003925,SMG,VE-S Canis,infantry
+6010510,Sniper Rifle,SR-100,
+6010512,Sniper Rifle,SR-150,
+6011255,Sniper Rifle,SR-ARX Einstein,
+6010511,Sniper Rifle,SR-L75,
 6004294,Sniper Rifle,AM7-XOXO,infantry
 24002,Sniper Rifle,Impetus,infantry
 25002,Sniper Rifle,KSR-35,infantry
@@ -1376,9 +1410,12 @@
 6005242,Sunderer Rear Gunner,M60-G Bulldog,gunner
 6002421,UNKNOWN Admin: Base Gun,Admin: Base Gun,none
 6002429,UNKNOWN BaseSmash: Crystal Gun,BaseSmash: Crystal Gun,none
-6009860,UNKNOWN Dervish Default Nose Cannon,Dervish Default Nose Cannon,
-6009927,UNKNOWN Dervish Heavy Nose Weapon,Dervish Heavy Nose Weapon,
-6009928,UNKNOWN Dervish Micro-Rockets,Dervish Micro-Rockets,
+6009928,UNKNOWN DV-21 Lotus,DV-21 Lotus,
+6009860,UNKNOWN DV-22 Raycaster,DV-22 Raycaster,
+6009861,UNKNOWN DV-22T Lightweaver,DV-22T Lightweaver,
+6009991,UNKNOWN DV-LAT Pixie,DV-LAT Pixie,
+6009992,UNKNOWN DV-XAT,DV-XAT,
+6009927,UNKNOWN DV-XE,DV-XE,
 6553,Valkyrie Nose Gunner,CAS 14-E,none
 6554,Valkyrie Nose Gunner,CAS 14-E,none
 6555,Valkyrie Nose Gunner,CAS 14-E,none
