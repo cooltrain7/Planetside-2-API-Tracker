@@ -26,9 +26,9 @@ if( process.argv[2] === 'sort' || process.argv[2] === 'sort-compile' )
 {
 	rows.sort( ( a, b ) =>
 		{
-			if( a['item'] !== b['item'] )
-				return a['item'].localeCompare( b['item'] );
-			return parseInt( a['experience_id'] ) - parseInt( b['experience_id'] );
+			if( a['item_name'] !== b['item_name'] )
+				return a['item_name'].localeCompare( b['item_name'] );
+			return parseInt( a['faction_id'] ) - parseInt( b['faction_id'] );
 		} );
 	csv.writeToPath( filename + '.csv', rows,
 		{
@@ -53,8 +53,9 @@ if( process.argv[2] === 'compile' || process.argv[2] === 'sort-compile' )
 			return obj;
 		})
         .sort( ( a, b ) => {
-            if( a['item'] !== b['item'] )
-				return a['item'].localeCompare( b['item'] );
+            if( a['item_name'] !== b['item_name'] )
+				return a['item_name'].localeCompare( b['item_name'] );
+			return parseInt( a['faction_id'] ) - parseInt( b['faction_id'] );
         } );
 
     fs.writeFileSync( filename + '.json', JSON.stringify( rows_machine ), { encoding: 'utf8' } );
