@@ -1,0 +1,113 @@
+﻿item_id,item_name,size,faction_id,experience_id
+6002368,Alarm Module,small,1,616
+6002366,Alarm Module,small,2,616
+6002367,Alarm Module,small,3,616
+6005628,Alarm Module,small,4,616
+804982,Blast Wall,large,1,628
+804980,Blast Wall,large,2,628
+804981,Blast Wall,large,3,628
+6005634,Blast Wall,large,4,628
+803616,Bunker,large,1,628
+803614,Bunker,large,2,628
+803615,Bunker,large,3,628
+6005701,Bunker,large,4,628
+804704,Cortium Silo,large,1,628
+804702,Cortium Silo,large,2,628
+804703,Cortium Silo,large,3,628
+6005657,Cortium Silo,large,4,628
+6002468,Elysium Spawn Tube,medium,1,604
+6002466,Elysium Spawn Tube,medium,2,604
+6002467,Elysium Spawn Tube,medium,3,604
+6005659,Elysium Spawn Tube,medium,4,604
+6002392,Glaive IPC,medium,1,604
+6002390,Glaive IPC,medium,2,604
+6002391,Glaive IPC,medium,3,604
+6005636,Glaive IPC,medium,4,604
+803590,Hoplon Anti-Aircraft Phalanx Tower,medium,1,604
+803588,Hoplon Anti-Aircraft Phalanx Tower,medium,2,604
+803589,Hoplon Anti-Aircraft Phalanx Tower,medium,3,604
+6005622,Hoplon Anti-Aircraft Phalanx Tower,medium,4,604
+6002350,Infantry Tower,large,1,628
+6002348,Infantry Tower,large,2,628
+6002349,Infantry Tower,large,3,628
+6005644,Infantry Tower,large,4,628
+6002498,Light Air Terminal,medium,1,604
+6002496,Light Air Terminal,medium,2,604
+6002497,Light Air Terminal,medium,3,604
+6005626,Light Air Terminal,medium,4,604
+6002474,Light Vehicle Terminal,medium,1,604
+6002472,Light Vehicle Terminal,medium,2,604
+6002473,Light Vehicle Terminal,medium,3,604
+6005663,Light Vehicle Terminal,medium,4,604
+6002526,Orbital Strike Uplink,large,1,628
+6002524,Orbital Strike Uplink,large,2,628
+6002525,Orbital Strike Uplink,large,3,628
+6005648,Orbital Strike Uplink,large,4,628
+6004284,Pain Spire,small,1,616
+6004421,Pain Spire,small,2,616
+6004423,Pain Spire,small,3,616
+6005706,Pain Spire,small,4,616
+6002480,Pillbox,medium,1,604
+6002478,Pillbox,medium,2,604
+6002479,Pillbox,medium,3,604
+6005652,Pillbox,medium,4,604
+803607,Rampart Wall,large,1,628
+803605,Rampart Wall,large,2,628
+803606,Rampart Wall,large,3,628
+6005698,Rampart Wall,large,4,628
+804976,Reinforcements Module,small,1,616
+804974,Reinforcements Module,small,2,616
+804975,Reinforcements Module,small,3,616
+6005654,Reinforcements Module,small,4,616
+804271,Repair Module,small,1,616
+804269,Repair Module,small,2,616
+804270,Repair Module,small,3,616
+6005666,Repair Module,small,4,616
+6004286,Routing Spire,small,1,616
+6004425,Routing Spire,small,2,616
+6004427,Routing Spire,small,3,616
+6005703,Routing Spire,small,4,616
+804265,Skywall Shield Emitter,small,1,616
+804263,Skywall Shield Emitter,small,2,616
+804264,Skywall Shield Emitter,small,3,616
+6005672,Skywall Shield Emitter,small,4,616
+803429,Spear Anti-Vehicle Tower,medium,1,604
+803427,Spear Anti-Vehicle Tower,medium,2,604
+803428,Spear Anti-Vehicle Tower,medium,3,604
+6005638,Spear Anti-Vehicle Tower,medium,4,604
+6002399,Spear Anti-Vehicle Turret,medium,1,604
+6002405,Spear Anti-Vehicle Turret,medium,2,604
+6002419,Spear Anti-Vehicle Turret,medium,3,604
+6005650,Spear Anti-Vehicle Turret,medium,4,604
+804268,Structure Shield Module,small,1,616
+804266,Structure Shield Module,small,2,616
+804267,Structure Shield Module,small,3,616
+6005669,Structure Shield Module,small,4,616
+803613,Sunderer Garage,medium,1,604
+803611,Sunderer Garage,medium,2,604
+803612,Sunderer Garage,medium,3,604
+6005700,Sunderer Garage,medium,4,604
+6004288,The Flail,medium,1,604
+6004448,The Flail,medium,2,604
+6004446,The Flail,medium,3,604
+6005632,The Flail,medium,4,604
+804274,Turret AI Module,small,1,616
+804272,Turret AI Module,small,2,616
+804273,Turret AI Module,small,3,616
+6005668,Turret AI Module,small,4,616
+6002486,Vehicle Ammo Dispenser,none,1,57
+6002484,Vehicle Ammo Dispenser,none,2,57
+6002485,Vehicle Ammo Dispenser,none,3,57
+6005630,Vehicle Ammo Dispenser,none,4,57
+6002492,Vehicle Gate,large,1,628
+6002490,Vehicle Gate,large,2,628
+6002491,Vehicle Gate,large,3,628
+6005642,Vehicle Gate,large,4,628
+6002356,Vehicle Ramp,medium,1,604
+6002354,Vehicle Ramp,medium,2,604
+6002355,Vehicle Ramp,medium,3,604
+6005661,Vehicle Ramp,medium,4,604
+803593,Xiphos Anti-Personnel Tower,medium,1,604
+803591,Xiphos Anti-Personnel Tower,medium,2,604
+803592,Xiphos Anti-Personnel Tower,medium,3,604
+6005624,Xiphos Anti-Personnel Tower,medium,4,604
