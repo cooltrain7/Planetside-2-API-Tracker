@@ -26,15 +26,15 @@ if( process.argv[2] === 'sort' || process.argv[2] === 'sort-compile' )
 {
 	rows.sort( ( a, b ) =>
 		{
-			if( a['item_name'] !== b['item_name'] )
-				return a['item_name'].localeCompare( b['item_name'] );
-			return parseInt( a['faction_id'] ) - parseInt( b['faction_id'] );
+			if( a.item_name !== b.item_name )
+				return a.item_name.localeCompare( b.item_name );
+			return parseInt( a.faction_id ) - parseInt( b.faction_id );
 		} );
 	csv.writeToPath( filename + '.csv', rows,
 		{
-			alwaysWriteHeaders: true,
+			WriteHeaders: true,
 			encoding: 'utf8',
-			headers,
+			headers: ['item_id', 'item_name', 'size', 'faction_id', 'experience_id'],
 			writeBOM: true
 		} );
 }
@@ -53,10 +53,15 @@ if( process.argv[2] === 'compile' || process.argv[2] === 'sort-compile' )
 			return obj;
 		})
         .sort( ( a, b ) => {
-            if( a['item_name'] !== b['item_name'] )
-				return a['item_name'].localeCompare( b['item_name'] );
-			return parseInt( a['faction_id'] ) - parseInt( b['faction_id'] );
-        } );
+            if( a.item_name !== b.item_name )
+				return a.item_name.localeCompare( b.item_name );
+			return parseInt( a.faction_id ) - parseInt( b.faction_id );
+        });
 
-    fs.writeFileSync( filename + '.json', JSON.stringify( rows_machine ), { encoding: 'utf8' } );
+    fs.writeFileSync( filename + '.json', JSON.stringify( rows_machine.reduce((items, item, index) => {
+		const item_id = item.item_id
+		delete item.item_id;
+		items[item_id] = item;
+		return items;
+	}, {}) ), { encoding: 'utf8' } );
 }
