@@ -3,26 +3,11 @@
 An unofficial collection of Planetside 2 resources, and API issues compiled by the community.
 
 ## Census
-Full census collections for storing of past versions, current updated collections as follows
+Full census collections for storing of past versions/backup. Updated whenever census changes.
 
+[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Census)
 
-||Collections||
-|--|--|--|
-| ability | fire_mode | reward |
-| ability_type | fire_mode_2 | reward_type| 
-| achievement | item | skill |
-| currency | item_type | skill_category |
-| directive | loadout | skill_line |
-| directive_tier | map_hex | skill_set |
-| directive_tree | map_region | title| 
-| directive_tree_category | metagame_event | vehicle |
-| experience | metagame_event_state | weapon |
-| experience_rank | profile | world |
-| facility_link | profile_2 | zone |
-| facility_type | region |
-| faction | resource_type |
- 
- ## Maps
+## Maps
 A collection of map lods from 0-3 quality.
 
 [Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Maps)
