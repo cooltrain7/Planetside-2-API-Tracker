@@ -1,35 +1,29 @@
 
 # Planetside 2 API Tracker
-An unofficial collection of Planetside 2 Census API Examples, and issues compiled by the community.
+An unofficial collection of Planetside 2 resources, and API issues compiled by the community.
 
-## The Repo
-The repo stores examples from the census collections, for use as information or backup. Current collections as follows
+## Census
+Full census collections for storing of past versions/backup. Updated whenever census changes.
 
- - Currency
- - Experience_rank
- - Item
- - Map_Region
- - Metagame_event
- - Title
- - Zone
- 
- ## Maps
-A collection of Official Planetside Map Lods (26/10/2020)
+[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Census)
 
- - Indar
- - Esamir
- - Amerish
- - Hossin
- - Koltyr
- - OutfitWars
- - VR
- - Tutorial
- - Nexus
- 
-With special thanks to Rhett for extraction 
+## Maps
+A collection of map lods from 0-3 quality.
+
+[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Maps)
+
+## Titles
+Full tracking of all current tiles, how and when they are awarded and if they're still achievable.
+
+[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Titles)
+
+## Weapons
+Community Created Sanctions list for all weapons, intended for use in unifying community sites/bots to use a single list for stat calculation.
+
+[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Weapons)
 
 ##  The Issues
-Have any issue with the census collection or stream API? Want a feature added? Add it here for community tracking.
+Have any issue with the census collection or stream API? Want to see known community issues? Add it here for community tracking.
 Labels are split for Rest API,Streaming API, and Features. These can then have a High, Medium, Or Low priority.
 
 ## Planetside API Services
