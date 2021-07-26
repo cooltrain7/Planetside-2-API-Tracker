@@ -1,0 +1,51 @@
+name: Build Construction
+on:
+  push:
+    # Only on the following branches and file changes
+    branches:
+    - master
+    - gh-actions # Test branch for actions
+    paths:
+    # Rebuild on build script and data source change
+    - Construction/list.js
+    - Construction/size-list.csv
+    # Rebuild if this workflow changes
+    - .github/workflows/BuildConstruction.yaml
+  # Allow manual runs
+  workflow_dispatch:
+
+jobs:
+  build-lists:
+    runs-on: ubuntu-latest
+    strategy:
+      # Allow 1 folder at a time
+      max-parallel: 1
+      matrix:
+        build-folders: [./Construction/]
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 10 # otherwise, you will fail to push refs to dest repo
+    # Install Node JS in VM
+    - name: Use Node.js 14.x
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14.x
+    # Install node dependencies from package[-lock].json in the working directory specified in matrix
+    - run: npm ci && npm run sort-compile
+      working-directory: ${{ matrix.build-folders }}
+    # Commit files with the following details
+    - name: Commit files
+      shell: bash --noprofile --norc {0}
+      run: |
+        git pull
+        git config --local user.email "api-tracker[bot]@example.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Rebuild Construction" -a
+        exit 0
+    # Push to the branch the push event originated from
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

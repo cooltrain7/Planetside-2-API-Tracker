@@ -1,4 +1,4 @@
-name: Building of files
+name: Build Sanctions
 on:
   push:
     # Only on the following branches and file changes
@@ -7,12 +7,10 @@ on:
     - gh-actions # Test branch for actions
     paths:
     # Rebuild on build script and data source change
-    - Construction/list.js
-    - Construction/size-list.csv
     - Weapons/list.js
     - Weapons/sanction-list.csv
     # Rebuild if this workflow changes
-    - .github/workflows/build.yaml
+    - .github/workflows/BuildSanctions.yaml
   # Allow manual runs
   workflow_dispatch:
 
@@ -23,7 +21,7 @@ jobs:
       # Allow 1 folder at a time
       max-parallel: 1
       matrix:
-        build-folders: [./Construction/, ./Weapons/]
+        build-folders: [./Weapons/]
     steps:
     - uses: actions/checkout@v2
       with:
@@ -43,7 +41,7 @@ jobs:
         git pull
         git config --local user.email "api-tracker[bot]@example.com"
         git config --local user.name "github-actions[bot]"
-        git commit -m "Build list files" -a
+        git commit -m "Rebuild Sanctions" -a
         exit 0
     # Push to the branch the push event originated from
     - name: Push changes
