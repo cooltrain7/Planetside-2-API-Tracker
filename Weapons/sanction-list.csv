@@ -1316,10 +1316,6 @@
 28005,SMG,SMG-46G Armistice,infantry
 1899,SMG,Tempest,infantry
 6003925,SMG,VE-S Canis,infantry
-6010510,Sniper Rifle,SR-100,
-6010512,Sniper Rifle,SR-150,
-6011255,Sniper Rifle,SR-ARX Einstein,
-6010511,Sniper Rifle,SR-L75,
 6004294,Sniper Rifle,AM7-XOXO,infantry
 24002,Sniper Rifle,Impetus,infantry
 25002,Sniper Rifle,KSR-35,infantry
@@ -1352,8 +1348,12 @@
 25004,Sniper Rifle,RAMS .50M,sniper
 6002745,Sniper Rifle,RAMS-AE .50M,sniper
 24001,Sniper Rifle,SAS-R,sniper
+6010510,Sniper Rifle,SR-100,sniper
+6010512,Sniper Rifle,SR-150,sniper
 6006850,Sniper Rifle,SR-200,sniper
 25003,Sniper Rifle,SR-7,sniper
+6011255,Sniper Rifle,SR-ARX Einstein,sniper
+6010511,Sniper Rifle,SR-L75,sniper
 1969,Sniper Rifle,The Moonshot,sniper
 7316,Sniper Rifle,TRAP-M1,sniper
 25001,Sniper Rifle,TSAR-42,sniper
