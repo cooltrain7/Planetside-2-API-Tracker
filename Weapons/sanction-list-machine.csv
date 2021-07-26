@@ -606,6 +606,8 @@
 6009656,infantry
 6009672,infantry
 6009722,infantry
+6009860,air
+6009861,gunner
 6009864,infantry
 6009891,infantry
 6009892,infantry
@@ -624,10 +626,15 @@
 6009908,shotgun
 6009909,shotgun
 6009910,shotgun
+6009927,air
+6009928,air
+6009957,armor
 6009971,infantry
 6009972,infantry
 6009973,infantry
 6009974,infantry
+6009991,gunner
+6009992,gunner
 6010045,infantry
 6010046,infantry
 6010047,infantry
@@ -635,6 +642,11 @@
 6010510,sniper
 6010511,sniper
 6010512,sniper
+6010678,armor
+6010679,armor
+6010715,gunner
+6010716,gunner
+6010717,gunner
 6011064,max
 6011140,max
 6011152,infantry

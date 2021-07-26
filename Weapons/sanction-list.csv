@@ -263,12 +263,12 @@
 7172,Carbine,Gauss Compact S,none
 7213,Carbine,Solstice SF,none
 7192,Carbine,TRAC-5 S,none
-6010679,Chimera Primary Weapons,CT-102 Satyr,
-6009957,Chimera Primary Weapons,CT-135,
-6010678,Chimera Primary Weapons,CT-150 Cyclops,
-6010715,Chimera Secondary Weapons,CT2-20 HCG,
-6010717,Chimera Secondary Weapons,CT2-8M Siren,
-6010716,Chimera Secondary Weapons,CT2-XP,
+6010679,Chimera Primary Weapons,CT-102 Satyr,armor
+6009957,Chimera Primary Weapons,CT-135,armor
+6010678,Chimera Primary Weapons,CT-150 Cyclops,armor
+6010715,Chimera Secondary Weapons,CT2-20 HCG,gunner
+6010717,Chimera Secondary Weapons,CT2-8M Siren,gunner
+6010716,Chimera Secondary Weapons,CT2-XP,gunner
 6009235,Colossus Front Left Weapon,M12 Goblin SP,none
 6009239,Colossus Front Left Weapon,M12 Goblin SP,none
 6009243,Colossus Front Left Weapon,M12 Goblin SP,none
@@ -1410,12 +1410,12 @@
 6005242,Sunderer Rear Gunner,M60-G Bulldog,gunner
 6002421,UNKNOWN Admin: Base Gun,Admin: Base Gun,none
 6002429,UNKNOWN BaseSmash: Crystal Gun,BaseSmash: Crystal Gun,none
-6009928,UNKNOWN DV-21 Lotus,DV-21 Lotus,
-6009860,UNKNOWN DV-22 Raycaster,DV-22 Raycaster,
-6009861,UNKNOWN DV-22T Lightweaver,DV-22T Lightweaver,
-6009991,UNKNOWN DV-LAT Pixie,DV-LAT Pixie,
-6009992,UNKNOWN DV-XAT,DV-XAT,
-6009927,UNKNOWN DV-XE,DV-XE,
+6009928,UNKNOWN DV-21 Lotus,DV-21 Lotus,air
+6009860,UNKNOWN DV-22 Raycaster,DV-22 Raycaster,air
+6009861,UNKNOWN DV-22T Lightweaver,DV-22T Lightweaver,gunner
+6009991,UNKNOWN DV-LAT Pixie,DV-LAT Pixie,gunner
+6009992,UNKNOWN DV-XAT,DV-XAT,gunner
+6009927,UNKNOWN DV-XE,DV-XE,air
 6553,Valkyrie Nose Gunner,CAS 14-E,none
 6554,Valkyrie Nose Gunner,CAS 14-E,none
 6555,Valkyrie Nose Gunner,CAS 14-E,none
