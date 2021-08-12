@@ -37,6 +37,7 @@ A collection of sites, and applications that use the planetside 2 API.
  - [PS2 Population Tracker](https://ps2.nice.kiwi/)
  - [PS2Alerts](https://ps2alerts.com/)
  - [PS2-Alerts.io](https://ps2-alerts.github.io)
+ - [PS2Alert.me](https://ps2alert.me)
 
  Planetside 2 Repositories
 
@@ -44,6 +45,7 @@ A collection of sites, and applications that use the planetside 2 API.
 - [Tide OP Tracker](https://github.com/Varunda/topt)
 - [PS2Alerts](https://github.com/ps2alerts)
 - [PS2-Alerts.io](https://github.com/ps2-alerts/ps2-alerts.github.io)
+- [PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
 - [PS2Maps](https://github.com/ps2maps/ps2maps.com)
 - [Auraxis-Bot](https://github.com/ultimastormGH/auraxis-bot)
 
