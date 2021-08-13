@@ -26,7 +26,9 @@ If there are items or weapons missing, or you would like to add an amendment, su
 
 ## Sites / Bots Using This List
 
-* VBot (The Vindicators Outfit Discord Bot)
+* [Mutterblack (A discord bot primarily repsonsible for providing PlanetSide 2 stats)](https://github.com/Lampjaw/Mutterblack)
+* [Voidwell (A PlanetSide 2 stats website)](https://voidwell.com/)
+* VBot (The Vindicators PlanetSide 2 outfit Discord bot)
 
 _(We're hoping to expand adpotion of this list across the majority of stat sites so we have parity between our calculations, if you'd like to be listed here to promote this adoption please let use know or submit a PR)_
 
