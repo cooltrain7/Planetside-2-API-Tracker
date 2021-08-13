@@ -26,6 +26,12 @@ If there are items or weapons missing, or you would like to add an amendment, su
 
 If you're submitting your own pull request, please run the `npm run sort-compile` command before submitting.
 
+## Sites / Bots Using This List
+
+* VBot (The Vindicators Outfit Discord Bot)
+
+_(We're hoping to expand adpotion of this list across the majority of stat sites so we have parity between our calculations, if you'd like to be listed here to promote this adoption please let use know or submit a PR)_
+
 ## Points of Discussion / Known Issues / TODO
 
 * DA excluded generation 1 assault rifles/carbines with UBGL, but sanctioned Yumi.  And there's a few more UBGL weapons out there too.  A decision needs to be made to either ban all, unban all, or leave as is. ([Issue #70](https://github.com/cooltrain7/Planetside-2-API-Tracker/issues/70))
