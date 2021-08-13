@@ -24,8 +24,6 @@ There's an NPM script to sort the human list and compile it into the machine lis
 
 If there are items or weapons missing, or you would like to add an amendment, submit a pull request or open an issue with the proposed changes.
 
-If you're submitting your own pull request, please run the `npm run sort-compile` command before submitting.
-
 ## Sites / Bots Using This List
 
 * VBot (The Vindicators Outfit Discord Bot)
@@ -36,4 +34,3 @@ _(We're hoping to expand adpotion of this list across the majority of stat sites
 
 * DA excluded generation 1 assault rifles/carbines with UBGL, but sanctioned Yumi.  And there's a few more UBGL weapons out there too.  A decision needs to be made to either ban all, unban all, or leave as is. ([Issue #70](https://github.com/cooltrain7/Planetside-2-API-Tracker/issues/70))
 * Are people happy with the naming conventions of these files and formats therein? ([Issue #42](https://github.com/cooltrain7/Planetside-2-API-Tracker/issues/42), [Issue #78](https://github.com/cooltrain7/Planetside-2-API-Tracker/issues/78))
-* Need someone to build a Github action to automatically sort/compile on update of the main list
