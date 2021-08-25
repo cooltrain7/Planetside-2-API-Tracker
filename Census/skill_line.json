@@ -15045,7 +15045,7 @@
         "en": "Dogfighting Airframe"
       },
       "description": {
-        "en": "Streamlines the Sctyhe's performance in favor of dogfighting manuevers.  It Improves the turn power, roll power and overall agility of the Scythe."
+        "en": "Streamlines the vehicle's performance in favor of dogfighting manuevers.  It Improves the turn power, roll power and overall agility of the vehicle."
       },
       "image_set_id": "2039",
       "image_id": "3734",
@@ -15060,7 +15060,7 @@
         "en": "Hover Stability Airframe"
       },
       "description": {
-        "en": "Improves the Scythe's ability to engage ground targets by increasing its hover strength and power of vertical thrusters."
+        "en": "Improves the vehicle's ability to engage ground targets by increasing its hover strength and power of vertical thrusters."
       },
       "image_set_id": "2037",
       "image_id": "3732",
@@ -15075,7 +15075,7 @@
         "en": "Racer High Speed Airframe"
       },
       "description": {
-        "en": "Improves the top speed of the Scythe in both cruising and afterburner modes."
+        "en": "Improves the top speed of the vehicle in both cruising and afterburner modes."
       },
       "image_set_id": "2723",
       "image_id": "5775",
@@ -20360,7 +20360,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -38488,7 +38488,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -38767,7 +38767,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -39047,7 +39047,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -39324,7 +39324,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -39603,7 +39603,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -39882,7 +39882,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -40158,7 +40158,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -40439,7 +40439,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -40718,7 +40718,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -54192,7 +54192,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -54206,7 +54206,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -54220,7 +54220,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -54235,7 +54235,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -54250,7 +54250,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -54265,7 +54265,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -54471,7 +54471,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -54739,7 +54739,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -55005,7 +55005,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -55271,7 +55271,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -55549,7 +55549,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -55818,7 +55818,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -56084,7 +56084,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -56350,7 +56350,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "803",
       "image_id": "1879",
@@ -56630,7 +56630,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -56898,7 +56898,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -57164,7 +57164,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -57430,7 +57430,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -77384,7 +77384,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "844",
       "image_id": "1920",
@@ -85248,7 +85248,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -85263,7 +85263,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -85278,7 +85278,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -85293,7 +85293,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -85308,7 +85308,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -85323,7 +85323,7 @@
         "en": "Extended Magazine"
       },
       "description": {
-        "en": "Doubles the amount of ammunition in each magazine."
+        "en": "Doubles the amount of ammunition in each magazine, and the weapon takes 20% longer to equip and unequip."
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -95211,7 +95211,7 @@
         "en": "Light Ground Discount"
       },
       "description": {
-        "en": "Reduces the nanite cost of Flash by 50% and Harasser by 20%."
+        "en": "Reduces the nanite cost of Flash and Javelin by 50% and Harasser by 20%."
       },
       "image_set_id": "1437",
       "image_id": "2711",
@@ -95490,10 +95490,10 @@
       "skill_category_id": "16479",
       "skill_category_index": "41",
       "name": {
-        "en": "Battle Rifle Secondary"
+        "en": "Scout Rifle Secondary"
       },
       "description": {
-        "en": "Allows use of Battle Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only."
+        "en": "Allows use of Scout Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -101732,7 +101732,7 @@
       "skill_category_id": "16712",
       "skill_category_index": "3",
       "name": {
-        "en": "NEST Launcher"
+        "en": "JVN-MM N.E.S.T."
       },
       "description": {
         "en": "Equips a micro-missile launcher with seeking capabilities."
@@ -101750,7 +101750,7 @@
         "en": "Agility Chassis"
       },
       "description": {
-        "en": "Increases the Javelin's drift and slide capabilities, and activating afterburners from the ground now provides lift."
+        "en": "Increases the Javelin's drift and slide capabilities."
       },
       "image_set_id": "2071",
       "image_id": "3766",
