@@ -6,6 +6,9 @@
 **Census-API-Primer** : *Rewritten and updated documention on the census API by Leonhard*
 <https://github.com/leonhard-s/auraxium/wiki/Census-API-Primer>
 
+**Census API Reference** : *Another census collections documentation source by Leonhard*
+<https://ps2-api-docs.readthedocs.io/en/latest/openapi.html>
+
 **Census Query GUI** : *A graphical wrapper for querying the census by Chirtle*
 <https://eating-coleslaw.github.io/ps2-visual-query/>
 
