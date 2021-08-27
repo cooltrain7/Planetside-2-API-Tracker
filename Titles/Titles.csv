@@ -203,16 +203,16 @@
 204,Imperator,Awarded from a Planetside 2 welcome pack,NS,N,Purchase/Bundle
 205,Detection Master,Awarded to ReconDarts for reaching BR 120 using only recon darts,NS,N,Special Character
 206,World Champion,Awarded to PS2CommClash 2014 Winners,NS,N,Specific Event
-207,LaneSmash Champion,Awarded to CSG and VoGu players for their 2016 LaneSmash tournament victory,NS,N,Specific Event
+207,LaneSmash Champion,Awarded to PSB LaneSmash bracket finalists,NS,N,Specific Event
 208,The Heroic,"Unknown, currently held by no characters",NS,N/A,Unknown
 209,Madman,Awarded to Maldrasou for completion of all directives on all factions,NS,N,Special Character
 210,Horseman,Awarded for completing the 2017 Halloween event,NS,N,Seasonal Event
 211,Warbringer,From the Commander’s Five-Year Anniversary Bundle (2020),NS,N,Purchase/Bundle
 212,Jolly,Awarded for completing the 2017 Christmas event,NS,N,Seasonal Event
 213,A.S.P. Operative,Awarded to those who use the ASP prestige system,NS,Y,Battlerank
-214,Advisory,NC Battlerank 100 ASP,,Y,Battlerank
+214,Advisory,NC Battlerank 100 ASP,NC,Y,Battlerank
 215,Myriad,TR Battlerank 100 ASP,TR,Y,Battlerank
-216,Chosen,VS Battlerank 100 ASP,,Y,Battlerank
+216,Chosen,VS Battlerank 100 ASP,VS,Y,Battlerank
 217,Builder,Awarded for completion of the Construction Directive,NS,Y,Kills/Directive
 218,Scrim Master,Awarded for completing Scrim Masters 2017 tournament? (12v12 on jaeger),NS,N,Specific Event
 219,Grouchy,Awarded for completing the 2018 Christmas event,NS,N,Seasonal Event
@@ -357,5 +357,5 @@
 408,Cheerful,Awarded for completion of all the 2020 Christmas event,NS,N,Seasonal Event
 409,Matchmaker,Awarded for completing the 2021 Valentines/Lunda New year event,NS,N,Seasonal Event
 410,Researcher,From the Hazmat Bundle (2021),NS,Y,Purchase/Bundle
-411,Bushwhacker,"Unknown, currently held by no characters",NS,N/A,Unknown
+411,Bushwhacker,Awarded for destroying 100 carrots in an Esamir containment facility and then interacting with the 'Giga Carrot',NS,Y,Specific Event
 412,Scavenger,From the Post-Collapse Bundle (2021),NS,Y,Purchase/Bundle
