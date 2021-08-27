@@ -1,0 +1,1613 @@
+{
+  "armor_info_list": [
+    {
+      "armor_info_id": "20",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Sunderer - Front"
+    },
+    {
+      "armor_info_id": "21",
+      "armor_facing_id": "1",
+      "armor_percent": "0",
+      "description": "Sunderer - Right"
+    },
+    {
+      "armor_info_id": "22",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Sunderer - Top"
+    },
+    {
+      "armor_info_id": "23",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Sunderer - Rear"
+    },
+    {
+      "armor_info_id": "24",
+      "armor_facing_id": "4",
+      "armor_percent": "0",
+      "description": "Sunderer - Left"
+    },
+    {
+      "armor_info_id": "25",
+      "armor_facing_id": "5",
+      "armor_percent": "0",
+      "description": "Sunderer - Bottom"
+    },
+    {
+      "armor_info_id": "30",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Lightning - Front"
+    },
+    {
+      "armor_info_id": "31",
+      "armor_facing_id": "1",
+      "armor_percent": "-15",
+      "description": "Lightning - Right"
+    },
+    {
+      "armor_info_id": "32",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Lightning - Top"
+    },
+    {
+      "armor_info_id": "33",
+      "armor_facing_id": "3",
+      "armor_percent": "-50",
+      "description": "Lightning - Rear"
+    },
+    {
+      "armor_info_id": "34",
+      "armor_facing_id": "4",
+      "armor_percent": "-15",
+      "description": "Lightning - Left"
+    },
+    {
+      "armor_info_id": "35",
+      "armor_facing_id": "5",
+      "armor_percent": "-100",
+      "description": "Lightning - Bottom"
+    },
+    {
+      "armor_info_id": "40",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Magrider - Front"
+    },
+    {
+      "armor_info_id": "41",
+      "armor_facing_id": "1",
+      "armor_percent": "-15",
+      "description": "Magrider - Right"
+    },
+    {
+      "armor_info_id": "42",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Magrider - Top"
+    },
+    {
+      "armor_info_id": "43",
+      "armor_facing_id": "3",
+      "armor_percent": "-50",
+      "description": "Magrider - Rear"
+    },
+    {
+      "armor_info_id": "44",
+      "armor_facing_id": "4",
+      "armor_percent": "-15",
+      "description": "Magrider - Left"
+    },
+    {
+      "armor_info_id": "45",
+      "armor_facing_id": "5",
+      "armor_percent": "-100",
+      "description": "Magrider - Bottom"
+    },
+    {
+      "armor_info_id": "50",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Vanguard - Front"
+    },
+    {
+      "armor_info_id": "51",
+      "armor_facing_id": "1",
+      "armor_percent": "-15",
+      "description": "Vanguard - Right"
+    },
+    {
+      "armor_info_id": "52",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Vanguard - Top"
+    },
+    {
+      "armor_info_id": "53",
+      "armor_facing_id": "3",
+      "armor_percent": "-50",
+      "description": "Vanguard - Rear"
+    },
+    {
+      "armor_info_id": "54",
+      "armor_facing_id": "4",
+      "armor_percent": "-15",
+      "description": "Vanguard - Left"
+    },
+    {
+      "armor_info_id": "55",
+      "armor_facing_id": "5",
+      "armor_percent": "-100",
+      "description": "Vanguard - Bottom"
+    },
+    {
+      "armor_info_id": "60",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Prowler - Front"
+    },
+    {
+      "armor_info_id": "61",
+      "armor_facing_id": "1",
+      "armor_percent": "-15",
+      "description": "Prowler - Right"
+    },
+    {
+      "armor_info_id": "62",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Prowler - Top"
+    },
+    {
+      "armor_info_id": "63",
+      "armor_facing_id": "3",
+      "armor_percent": "-50",
+      "description": "Prowler - Rear"
+    },
+    {
+      "armor_info_id": "64",
+      "armor_facing_id": "4",
+      "armor_percent": "-15",
+      "description": "Prowler - Left"
+    },
+    {
+      "armor_info_id": "65",
+      "armor_facing_id": "5",
+      "armor_percent": "-100",
+      "description": "Prowler - Bottom"
+    },
+    {
+      "armor_info_id": "110",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Galaxy - Front"
+    },
+    {
+      "armor_info_id": "111",
+      "armor_facing_id": "1",
+      "armor_percent": "0",
+      "description": "Galaxy - Right"
+    },
+    {
+      "armor_info_id": "112",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Galaxy - Top"
+    },
+    {
+      "armor_info_id": "113",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Galaxy - Rear"
+    },
+    {
+      "armor_info_id": "114",
+      "armor_facing_id": "4",
+      "armor_percent": "0",
+      "description": "Galaxy - Left"
+    },
+    {
+      "armor_info_id": "115",
+      "armor_facing_id": "5",
+      "armor_percent": "0",
+      "description": "Galaxy - Bottom"
+    },
+    {
+      "armor_info_id": "120",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Harasser - Front"
+    },
+    {
+      "armor_info_id": "121",
+      "armor_facing_id": "1",
+      "armor_percent": "0",
+      "description": "Harasser - Right"
+    },
+    {
+      "armor_info_id": "122",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Harasser - Top"
+    },
+    {
+      "armor_info_id": "123",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Harasser - Rear"
+    },
+    {
+      "armor_info_id": "124",
+      "armor_facing_id": "4",
+      "armor_percent": "0",
+      "description": "Harasser - Left"
+    },
+    {
+      "armor_info_id": "125",
+      "armor_facing_id": "5",
+      "armor_percent": "0",
+      "description": "Harasser - Bottom"
+    },
+    {
+      "armor_info_id": "150",
+      "armor_facing_id": "0",
+      "armor_percent": "50",
+      "description": "Phalanx - Front"
+    },
+    {
+      "armor_info_id": "151",
+      "armor_facing_id": "1",
+      "armor_percent": "50",
+      "description": "Phalanx - Right"
+    },
+    {
+      "armor_info_id": "152",
+      "armor_facing_id": "2",
+      "armor_percent": "50",
+      "description": "Phalanx - Top"
+    },
+    {
+      "armor_info_id": "153",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Phalanx - Rear"
+    },
+    {
+      "armor_info_id": "154",
+      "armor_facing_id": "4",
+      "armor_percent": "50",
+      "description": "Phalanx - Left"
+    },
+    {
+      "armor_info_id": "155",
+      "armor_facing_id": "5",
+      "armor_percent": "50",
+      "description": "Phalanx - Bottom"
+    },
+    {
+      "armor_info_id": "160",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Valkyrie - Front"
+    },
+    {
+      "armor_info_id": "161",
+      "armor_facing_id": "1",
+      "armor_percent": "0",
+      "description": "Valkyrie - Right"
+    },
+    {
+      "armor_info_id": "162",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Valkyrie - Top"
+    },
+    {
+      "armor_info_id": "163",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Valkyrie - Rear"
+    },
+    {
+      "armor_info_id": "164",
+      "armor_facing_id": "4",
+      "armor_percent": "0",
+      "description": "Valkyrie - Left"
+    },
+    {
+      "armor_info_id": "165",
+      "armor_facing_id": "5",
+      "armor_percent": "50",
+      "description": "Valkyrie - Bottom"
+    },
+    {
+      "armor_info_id": "200",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Vehicle - Lightning - Mineguard 1"
+    },
+    {
+      "armor_info_id": "201",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - Lightning - Mineguard 2"
+    },
+    {
+      "armor_info_id": "202",
+      "armor_facing_id": "5",
+      "armor_percent": "30",
+      "description": "Vehicle - Lightning - Mineguard 3"
+    },
+    {
+      "armor_info_id": "203",
+      "armor_facing_id": "5",
+      "armor_percent": "40",
+      "description": "Vehicle - Lightning - Mineguard 4"
+    },
+    {
+      "armor_info_id": "204",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Vehicle - Magrider - Mineguard 1"
+    },
+    {
+      "armor_info_id": "205",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - Magrider - Mineguard 2"
+    },
+    {
+      "armor_info_id": "206",
+      "armor_facing_id": "5",
+      "armor_percent": "30",
+      "description": "Vehicle - Magrider - Mineguard 3"
+    },
+    {
+      "armor_info_id": "207",
+      "armor_facing_id": "5",
+      "armor_percent": "40",
+      "description": "Vehicle - Magrider - Mineguard 4"
+    },
+    {
+      "armor_info_id": "208",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Vehicle - Vanguard - Mineguard 1"
+    },
+    {
+      "armor_info_id": "209",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - Vanguard - Mineguard 2"
+    },
+    {
+      "armor_info_id": "210",
+      "armor_facing_id": "5",
+      "armor_percent": "30",
+      "description": "Vehicle - Vanguard - Mineguard 3"
+    },
+    {
+      "armor_info_id": "211",
+      "armor_facing_id": "5",
+      "armor_percent": "40",
+      "description": "Vehicle - Vanguard - Mineguard 4"
+    },
+    {
+      "armor_info_id": "212",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Vehicle - Prowler - Mineguard 1"
+    },
+    {
+      "armor_info_id": "213",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - Prowler - Mineguard 2"
+    },
+    {
+      "armor_info_id": "214",
+      "armor_facing_id": "5",
+      "armor_percent": "30",
+      "description": "Vehicle - Prowler - Mineguard 3"
+    },
+    {
+      "armor_info_id": "215",
+      "armor_facing_id": "5",
+      "armor_percent": "40",
+      "description": "Vehicle - Prowler - Mineguard 4"
+    },
+    {
+      "armor_info_id": "216",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Vehicle - Sunderer - Mineguard 1"
+    },
+    {
+      "armor_info_id": "217",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - Sunderer - Mineguard 2"
+    },
+    {
+      "armor_info_id": "218",
+      "armor_facing_id": "5",
+      "armor_percent": "30",
+      "description": "Vehicle - Sunderer - Mineguard 3"
+    },
+    {
+      "armor_info_id": "219",
+      "armor_facing_id": "5",
+      "armor_percent": "40",
+      "description": "Vehicle - Sunderer - Mineguard 4"
+    },
+    {
+      "armor_info_id": "363",
+      "armor_facing_id": "5",
+      "armor_percent": "5",
+      "description": "Harasser - Mine Guard - Bottom Buff 1"
+    },
+    {
+      "armor_info_id": "364",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Harasser - Mine Guard - Bottom Buff 2"
+    },
+    {
+      "armor_info_id": "370",
+      "armor_facing_id": "5",
+      "armor_percent": "15",
+      "description": "Harasser - Mine Guard - Bottom Buff 3"
+    },
+    {
+      "armor_info_id": "371",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Harasser - Mine Guard - Bottom Buff 4"
+    },
+    {
+      "armor_info_id": "372",
+      "armor_facing_id": "0",
+      "armor_percent": "2",
+      "description": "Harasser - Composite Armor Buff - Front 1"
+    },
+    {
+      "armor_info_id": "373",
+      "armor_facing_id": "0",
+      "armor_percent": "4",
+      "description": "Harasser - Composite Armor Buff - Front 2"
+    },
+    {
+      "armor_info_id": "374",
+      "armor_facing_id": "0",
+      "armor_percent": "6",
+      "description": "Harasser - Composite Armor Buff - Front 3"
+    },
+    {
+      "armor_info_id": "375",
+      "armor_facing_id": "0",
+      "armor_percent": "8",
+      "description": "Harasser - Composite Armor Buff - Front 4"
+    },
+    {
+      "armor_info_id": "376",
+      "armor_facing_id": "2",
+      "armor_percent": "2",
+      "description": "Harasser - Composite Armor Buff - Top 1"
+    },
+    {
+      "armor_info_id": "377",
+      "armor_facing_id": "2",
+      "armor_percent": "4",
+      "description": "Harasser - Composite Armor Buff - Top 2"
+    },
+    {
+      "armor_info_id": "378",
+      "armor_facing_id": "2",
+      "armor_percent": "6",
+      "description": "Harasser - Composite Armor Buff - Top 3"
+    },
+    {
+      "armor_info_id": "379",
+      "armor_facing_id": "2",
+      "armor_percent": "8",
+      "description": "Harasser - Composite Armor Buff - Top 4"
+    },
+    {
+      "armor_info_id": "380",
+      "armor_facing_id": "1",
+      "armor_percent": "2",
+      "description": "Harasser - Composite Armor Buff - Right 1"
+    },
+    {
+      "armor_info_id": "381",
+      "armor_facing_id": "1",
+      "armor_percent": "4",
+      "description": "Harasser - Composite Armor Buff - Right 2"
+    },
+    {
+      "armor_info_id": "382",
+      "armor_facing_id": "1",
+      "armor_percent": "6",
+      "description": "Harasser - Composite Armor Buff - Right 3"
+    },
+    {
+      "armor_info_id": "383",
+      "armor_facing_id": "1",
+      "armor_percent": "8",
+      "description": "Harasser - Composite Armor Buff - Right 4"
+    },
+    {
+      "armor_info_id": "384",
+      "armor_facing_id": "4",
+      "armor_percent": "2",
+      "description": "Harasser - Composite Armor Buff - Left 1"
+    },
+    {
+      "armor_info_id": "385",
+      "armor_facing_id": "4",
+      "armor_percent": "4",
+      "description": "Harasser - Composite Armor Buff - Left 2"
+    },
+    {
+      "armor_info_id": "386",
+      "armor_facing_id": "4",
+      "armor_percent": "6",
+      "description": "Harasser - Composite Armor Buff - Left 3"
+    },
+    {
+      "armor_info_id": "387",
+      "armor_facing_id": "4",
+      "armor_percent": "8",
+      "description": "Harasser - Composite Armor Buff - Left 4"
+    },
+    {
+      "armor_info_id": "388",
+      "armor_facing_id": "3",
+      "armor_percent": "2",
+      "description": "Harasser - Composite Armor Buff - Rear 1"
+    },
+    {
+      "armor_info_id": "389",
+      "armor_facing_id": "3",
+      "armor_percent": "4",
+      "description": "Harasser - Composite Armor Buff - Rear 2"
+    },
+    {
+      "armor_info_id": "390",
+      "armor_facing_id": "3",
+      "armor_percent": "6",
+      "description": "Harasser - Composite Armor Buff - Rear 3"
+    },
+    {
+      "armor_info_id": "391",
+      "armor_facing_id": "3",
+      "armor_percent": "8",
+      "description": "Harasser - Composite Armor Buff - Rear 4"
+    },
+    {
+      "armor_info_id": "400",
+      "armor_facing_id": "0",
+      "armor_percent": "20",
+      "description": "Item - MBT Front Armor"
+    },
+    {
+      "armor_info_id": "401",
+      "armor_facing_id": "2",
+      "armor_percent": "25",
+      "description": "Item - MBT Top Armor"
+    },
+    {
+      "armor_info_id": "402",
+      "armor_facing_id": "1",
+      "armor_percent": "20",
+      "description": "Item - MBT Right Armor"
+    },
+    {
+      "armor_info_id": "403",
+      "armor_facing_id": "4",
+      "armor_percent": "20",
+      "description": "Item - MBT Left Armor"
+    },
+    {
+      "armor_info_id": "1000",
+      "armor_facing_id": "5",
+      "armor_percent": "5",
+      "description": "Flash - Mine Guard - Bottom Buff 1"
+    },
+    {
+      "armor_info_id": "1001",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Flash - Mine Guard - Bottom Buff 2"
+    },
+    {
+      "armor_info_id": "1002",
+      "armor_facing_id": "5",
+      "armor_percent": "15",
+      "description": "Flash - Mine Guard - Bottom Buff 3"
+    },
+    {
+      "armor_info_id": "1003",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Flash - Mine Guard - Bottom Buff 4"
+    },
+    {
+      "armor_info_id": "1004",
+      "armor_facing_id": "4",
+      "armor_percent": "10",
+      "description": "Flash - Buff - Left"
+    },
+    {
+      "armor_info_id": "1005",
+      "armor_facing_id": "5",
+      "armor_percent": "50",
+      "description": "Flash - Buff - Bottom "
+    },
+    {
+      "armor_info_id": "1007",
+      "armor_facing_id": "0",
+      "armor_percent": "50",
+      "description": "Test Dummy Armor"
+    },
+    {
+      "armor_info_id": "1008",
+      "armor_facing_id": "1",
+      "armor_percent": "0",
+      "description": "Test Dummy Armor"
+    },
+    {
+      "armor_info_id": "1009",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Test Dummy Armor"
+    },
+    {
+      "armor_info_id": "1010",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Test Dummy Armor"
+    },
+    {
+      "armor_info_id": "1011",
+      "armor_facing_id": "4",
+      "armor_percent": "0",
+      "description": "Test Dummy Armor"
+    },
+    {
+      "armor_info_id": "1012",
+      "armor_facing_id": "5",
+      "armor_percent": "0",
+      "description": "Test Dummy Armor"
+    },
+    {
+      "armor_info_id": "1014",
+      "armor_facing_id": "0",
+      "armor_percent": "4",
+      "description": "Vanguard - Buff - Front "
+    },
+    {
+      "armor_info_id": "1015",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Vanguard - Buff - Rear "
+    },
+    {
+      "armor_info_id": "1016",
+      "armor_facing_id": "1",
+      "armor_percent": "5",
+      "description": "Vanguard - Buff - Right"
+    },
+    {
+      "armor_info_id": "1017",
+      "armor_facing_id": "4",
+      "armor_percent": "5",
+      "description": "Vanguard - Buff - Left"
+    },
+    {
+      "armor_info_id": "1018",
+      "armor_facing_id": "2",
+      "armor_percent": "5",
+      "description": "Vanguard - Buff - Top "
+    },
+    {
+      "armor_info_id": "1019",
+      "armor_facing_id": "0",
+      "armor_percent": "7",
+      "description": "Lightning - Buff - Front "
+    },
+    {
+      "armor_info_id": "1020",
+      "armor_facing_id": "1",
+      "armor_percent": "8",
+      "description": "Lightning - Buff - Right"
+    },
+    {
+      "armor_info_id": "1021",
+      "armor_facing_id": "4",
+      "armor_percent": "8",
+      "description": "Lightning - Buff - Left"
+    },
+    {
+      "armor_info_id": "1022",
+      "armor_facing_id": "2",
+      "armor_percent": "8",
+      "description": "Lightning - Buff - Top "
+    },
+    {
+      "armor_info_id": "1023",
+      "armor_facing_id": "5",
+      "armor_percent": "50",
+      "description": "Lightning - Buff - Bottom "
+    },
+    {
+      "armor_info_id": "1024",
+      "armor_facing_id": "5",
+      "armor_percent": "50",
+      "description": "Vanguard - Buff - Bottom "
+    },
+    {
+      "armor_info_id": "1025",
+      "armor_facing_id": "0",
+      "armor_percent": "5",
+      "description": "Magrider - Buff - Front "
+    },
+    {
+      "armor_info_id": "1026",
+      "armor_facing_id": "1",
+      "armor_percent": "8",
+      "description": "Magrider - Buff - Right"
+    },
+    {
+      "armor_info_id": "1027",
+      "armor_facing_id": "4",
+      "armor_percent": "8",
+      "description": "Magrider - Buff - Left"
+    },
+    {
+      "armor_info_id": "1028",
+      "armor_facing_id": "2",
+      "armor_percent": "8",
+      "description": "Magrider - Buff - Top "
+    },
+    {
+      "armor_info_id": "1029",
+      "armor_facing_id": "5",
+      "armor_percent": "50",
+      "description": "Magrider - Buff - Bottom "
+    },
+    {
+      "armor_info_id": "1030",
+      "armor_facing_id": "0",
+      "armor_percent": "5",
+      "description": "Prowler - Buff - Front "
+    },
+    {
+      "armor_info_id": "1031",
+      "armor_facing_id": "1",
+      "armor_percent": "8",
+      "description": "Prowler - Buff - Right"
+    },
+    {
+      "armor_info_id": "1032",
+      "armor_facing_id": "4",
+      "armor_percent": "8",
+      "description": "Prowler - Buff - Left"
+    },
+    {
+      "armor_info_id": "1033",
+      "armor_facing_id": "2",
+      "armor_percent": "8",
+      "description": "Prowler - Buff - Top "
+    },
+    {
+      "armor_info_id": "1034",
+      "armor_facing_id": "5",
+      "armor_percent": "50",
+      "description": "Prowler - Buff - Bottom"
+    },
+    {
+      "armor_info_id": "1035",
+      "armor_facing_id": "0",
+      "armor_percent": "3",
+      "description": "Sunderer - Blockade Armor Buff - Front 1"
+    },
+    {
+      "armor_info_id": "1036",
+      "armor_facing_id": "2",
+      "armor_percent": "3",
+      "description": "Sunderer - Blockade Armor Buff - Top 1"
+    },
+    {
+      "armor_info_id": "1037",
+      "armor_facing_id": "1",
+      "armor_percent": "3",
+      "description": "Sunderer - Blockade Armor Buff - Right 1"
+    },
+    {
+      "armor_info_id": "1038",
+      "armor_facing_id": "4",
+      "armor_percent": "3",
+      "description": "Sunderer - Blockade Armor Buff - Left 1"
+    },
+    {
+      "armor_info_id": "1039",
+      "armor_facing_id": "3",
+      "armor_percent": "3",
+      "description": "Sunderer - Blockade Armor Buff - Rear 1"
+    },
+    {
+      "armor_info_id": "1040",
+      "armor_facing_id": "0",
+      "armor_percent": "6",
+      "description": "Sunderer - Blockade Armor Buff - Front 2"
+    },
+    {
+      "armor_info_id": "1041",
+      "armor_facing_id": "2",
+      "armor_percent": "6",
+      "description": "Sunderer - Blockade Armor Buff - Top 2"
+    },
+    {
+      "armor_info_id": "1042",
+      "armor_facing_id": "1",
+      "armor_percent": "6",
+      "description": "Sunderer - Blockade Armor Buff - Right 2"
+    },
+    {
+      "armor_info_id": "1043",
+      "armor_facing_id": "4",
+      "armor_percent": "6",
+      "description": "Sunderer - Blockade Armor Buff - Left 2"
+    },
+    {
+      "armor_info_id": "1044",
+      "armor_facing_id": "3",
+      "armor_percent": "6",
+      "description": "Sunderer - Blockade Armor Buff - Rear 2"
+    },
+    {
+      "armor_info_id": "1045",
+      "armor_facing_id": "0",
+      "armor_percent": "9",
+      "description": "Sunderer - Blockade Armor Buff - Front 3"
+    },
+    {
+      "armor_info_id": "1046",
+      "armor_facing_id": "2",
+      "armor_percent": "9",
+      "description": "Sunderer - Blockade Armor Buff - Top 3"
+    },
+    {
+      "armor_info_id": "1047",
+      "armor_facing_id": "1",
+      "armor_percent": "9",
+      "description": "Sunderer - Blockade Armor Buff - Right 3"
+    },
+    {
+      "armor_info_id": "1048",
+      "armor_facing_id": "4",
+      "armor_percent": "9",
+      "description": "Sunderer - Blockade Armor Buff - Left 3"
+    },
+    {
+      "armor_info_id": "1049",
+      "armor_facing_id": "3",
+      "armor_percent": "9",
+      "description": "Sunderer - Blockade Armor Buff - Rear 3"
+    },
+    {
+      "armor_info_id": "1050",
+      "armor_facing_id": "0",
+      "armor_percent": "12",
+      "description": "Sunderer - Blockade Armor Buff - Front 4"
+    },
+    {
+      "armor_info_id": "1051",
+      "armor_facing_id": "2",
+      "armor_percent": "12",
+      "description": "Sunderer - Blockade Armor Buff - Top 4"
+    },
+    {
+      "armor_info_id": "1052",
+      "armor_facing_id": "1",
+      "armor_percent": "12",
+      "description": "Sunderer - Blockade Armor Buff - Right 4"
+    },
+    {
+      "armor_info_id": "1053",
+      "armor_facing_id": "4",
+      "armor_percent": "12",
+      "description": "Sunderer - Blockade Armor Buff - Left 4"
+    },
+    {
+      "armor_info_id": "1054",
+      "armor_facing_id": "3",
+      "armor_percent": "12",
+      "description": "Sunderer - Blockade Armor Buff - Rear 4"
+    },
+    {
+      "armor_info_id": "1055",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Vehicle - ANT - Mineguard 1"
+    },
+    {
+      "armor_info_id": "1056",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - ANT - Mineguard 2"
+    },
+    {
+      "armor_info_id": "1057",
+      "armor_facing_id": "5",
+      "armor_percent": "30",
+      "description": "Vehicle - ANT - Mineguard 3"
+    },
+    {
+      "armor_info_id": "1058",
+      "armor_facing_id": "5",
+      "armor_percent": "40",
+      "description": "Vehicle - ANT - Mineguard 4"
+    },
+    {
+      "armor_info_id": "1059",
+      "armor_facing_id": "0",
+      "armor_percent": "10",
+      "description": "Vehicle - ANT - Reinforced Armor (Front)"
+    },
+    {
+      "armor_info_id": "1060",
+      "armor_facing_id": "3",
+      "armor_percent": "10",
+      "description": "Vehicle - ANT - Reinforced Armor (Rear)"
+    },
+    {
+      "armor_info_id": "1061",
+      "armor_facing_id": "4",
+      "armor_percent": "10",
+      "description": "Vehicle - ANT - Reinforced Armor (Left)"
+    },
+    {
+      "armor_info_id": "1062",
+      "armor_facing_id": "1",
+      "armor_percent": "10",
+      "description": "Vehicle - ANT - Reinforced Armor (Right)"
+    },
+    {
+      "armor_info_id": "1063",
+      "armor_facing_id": "2",
+      "armor_percent": "10",
+      "description": "Vehicle - ANT - Reinforced Armor (Top)"
+    },
+    {
+      "armor_info_id": "1069",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Vehicle - ANT - Front"
+    },
+    {
+      "armor_info_id": "1070",
+      "armor_facing_id": "3",
+      "armor_percent": "0",
+      "description": "Vehicle - ANT - Rear"
+    },
+    {
+      "armor_info_id": "1071",
+      "armor_facing_id": "4",
+      "armor_percent": "0",
+      "description": "Vehicle - ANT - Left"
+    },
+    {
+      "armor_info_id": "1072",
+      "armor_facing_id": "1",
+      "armor_percent": "0",
+      "description": "Vehicle - ANT - Right"
+    },
+    {
+      "armor_info_id": "1073",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Vehicle - ANT - Top"
+    },
+    {
+      "armor_info_id": "1074",
+      "armor_facing_id": "5",
+      "armor_percent": "0",
+      "description": "Vehicle - ANT - Bottom"
+    },
+    {
+      "armor_info_id": "1075",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - ANT - Bottom (Shield Armor Reduction)"
+    },
+    {
+      "armor_info_id": "1076",
+      "armor_facing_id": "6",
+      "armor_percent": "20",
+      "description": "Vehicle - ANT - All (Shield Armor Reduction)"
+    },
+    {
+      "armor_info_id": "1077",
+      "armor_facing_id": "4",
+      "armor_percent": "20",
+      "description": "Vehicle - ANT - Left (Shield Armor Reduction)"
+    },
+    {
+      "armor_info_id": "1078",
+      "armor_facing_id": "1",
+      "armor_percent": "20",
+      "description": "Vehicle - ANT - Right (Shield Armor Reduction)"
+    },
+    {
+      "armor_info_id": "1079",
+      "armor_facing_id": "2",
+      "armor_percent": "20",
+      "description": "Vehicle - ANT - Top (Shield Armor Reduction)"
+    },
+    {
+      "armor_info_id": "1080",
+      "armor_facing_id": "0",
+      "armor_percent": "-20",
+      "description": "Zealot Overdrive - Debuff - Front (Old)"
+    },
+    {
+      "armor_info_id": "1081",
+      "armor_facing_id": "3",
+      "armor_percent": "-20",
+      "description": "Zealot Overdrive - Debuff - Rear (Old)"
+    },
+    {
+      "armor_info_id": "1082",
+      "armor_facing_id": "4",
+      "armor_percent": "-20",
+      "description": "Zealot Overdrive - Debuff - Left (Old)"
+    },
+    {
+      "armor_info_id": "1083",
+      "armor_facing_id": "1",
+      "armor_percent": "-20",
+      "description": "Zealot Overdrive - Debuff - Right (Old)"
+    },
+    {
+      "armor_info_id": "1084",
+      "armor_facing_id": "2",
+      "armor_percent": "-20",
+      "description": "Zealot Overdrive - Debuff - Top (Old)"
+    },
+    {
+      "armor_info_id": "1085",
+      "armor_facing_id": "5",
+      "armor_percent": "-20",
+      "description": "Zealot Overdrive - Debuff - Bottom (Old)"
+    },
+    {
+      "armor_info_id": "1086",
+      "armor_facing_id": "0",
+      "armor_percent": "10",
+      "description": "Robotics Technician 1 - Front"
+    },
+    {
+      "armor_info_id": "1087",
+      "armor_facing_id": "1",
+      "armor_percent": "10",
+      "description": "Robotics Technician 1 - Right"
+    },
+    {
+      "armor_info_id": "1088",
+      "armor_facing_id": "2",
+      "armor_percent": "10",
+      "description": "Robotics Technician 1 - Top"
+    },
+    {
+      "armor_info_id": "1089",
+      "armor_facing_id": "3",
+      "armor_percent": "10",
+      "description": "Robotics Technician 1 - Rear"
+    },
+    {
+      "armor_info_id": "1090",
+      "armor_facing_id": "4",
+      "armor_percent": "10",
+      "description": "Robotics Technician 1 - Left"
+    },
+    {
+      "armor_info_id": "1091",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Robotics Technician 1 - Bottom"
+    },
+    {
+      "armor_info_id": "1092",
+      "armor_facing_id": "0",
+      "armor_percent": "13",
+      "description": "Robotics Technician 2 - Front"
+    },
+    {
+      "armor_info_id": "1093",
+      "armor_facing_id": "1",
+      "armor_percent": "13",
+      "description": "Robotics Technician 2 - Right"
+    },
+    {
+      "armor_info_id": "1094",
+      "armor_facing_id": "2",
+      "armor_percent": "13",
+      "description": "Robotics Technician 2 - Top"
+    },
+    {
+      "armor_info_id": "1095",
+      "armor_facing_id": "3",
+      "armor_percent": "13",
+      "description": "Robotics Technician 2 - Rear"
+    },
+    {
+      "armor_info_id": "1096",
+      "armor_facing_id": "4",
+      "armor_percent": "13",
+      "description": "Robotics Technician 2 - Left"
+    },
+    {
+      "armor_info_id": "1097",
+      "armor_facing_id": "5",
+      "armor_percent": "13",
+      "description": "Robotics Technician 2 - Bottom"
+    },
+    {
+      "armor_info_id": "1098",
+      "armor_facing_id": "0",
+      "armor_percent": "18",
+      "description": "Robotics Technician 3 - Front"
+    },
+    {
+      "armor_info_id": "1099",
+      "armor_facing_id": "1",
+      "armor_percent": "18",
+      "description": "Robotics Technician 3 - Right"
+    },
+    {
+      "armor_info_id": "1100",
+      "armor_facing_id": "2",
+      "armor_percent": "18",
+      "description": "Robotics Technician 3 - Top"
+    },
+    {
+      "armor_info_id": "1101",
+      "armor_facing_id": "3",
+      "armor_percent": "18",
+      "description": "Robotics Technician 3 - Rear"
+    },
+    {
+      "armor_info_id": "1102",
+      "armor_facing_id": "4",
+      "armor_percent": "18",
+      "description": "Robotics Technician 3 - Left"
+    },
+    {
+      "armor_info_id": "1103",
+      "armor_facing_id": "5",
+      "armor_percent": "18",
+      "description": "Robotics Technician 3 - Bottom"
+    },
+    {
+      "armor_info_id": "1104",
+      "armor_facing_id": "0",
+      "armor_percent": "20",
+      "description": "Headstrong - Front"
+    },
+    {
+      "armor_info_id": "1105",
+      "armor_facing_id": "3",
+      "armor_percent": "20",
+      "description": "Headstrong - Rear"
+    },
+    {
+      "armor_info_id": "1106",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Headstrong - Bottom"
+    },
+    {
+      "armor_info_id": "1107",
+      "armor_facing_id": "2",
+      "armor_percent": "20",
+      "description": "Headstrong - Top"
+    },
+    {
+      "armor_info_id": "1108",
+      "armor_facing_id": "4",
+      "armor_percent": "20",
+      "description": "Headstrong - Left"
+    },
+    {
+      "armor_info_id": "1109",
+      "armor_facing_id": "1",
+      "armor_percent": "20",
+      "description": "Headstrong - Right"
+    },
+    {
+      "armor_info_id": "1114",
+      "armor_facing_id": "0",
+      "armor_percent": "50",
+      "description": "Vehicle - Vanguard - Forward Shield (Prototype)"
+    },
+    {
+      "armor_info_id": "1115",
+      "armor_facing_id": "0",
+      "armor_percent": "67",
+      "description": "Vanguard - Forward Shield - Front Bonus"
+    },
+    {
+      "armor_info_id": "1116",
+      "armor_facing_id": "2",
+      "armor_percent": "67",
+      "description": "Vanguard - Forward Shield - Top Bonus"
+    },
+    {
+      "armor_info_id": "1117",
+      "armor_facing_id": "1",
+      "armor_percent": "34",
+      "description": "Vanguard - Forward Shield - Right Bonus"
+    },
+    {
+      "armor_info_id": "1118",
+      "armor_facing_id": "4",
+      "armor_percent": "34",
+      "description": "Vanguard - Forward Shield - Left Bonus"
+    },
+    {
+      "armor_info_id": "1125",
+      "armor_facing_id": "5",
+      "armor_percent": "25",
+      "description": "Robotics Technician 4 - Bottom"
+    },
+    {
+      "armor_info_id": "1126",
+      "armor_facing_id": "0",
+      "armor_percent": "25",
+      "description": "Robotics Technician 4 - Front"
+    },
+    {
+      "armor_info_id": "1127",
+      "armor_facing_id": "4",
+      "armor_percent": "25",
+      "description": "Robotics Technician 4 - Left"
+    },
+    {
+      "armor_info_id": "1128",
+      "armor_facing_id": "3",
+      "armor_percent": "25",
+      "description": "Robotics Technician 4 - Rear"
+    },
+    {
+      "armor_info_id": "1129",
+      "armor_facing_id": "1",
+      "armor_percent": "25",
+      "description": "Robotics Technician 4 - Right"
+    },
+    {
+      "armor_info_id": "1130",
+      "armor_facing_id": "2",
+      "armor_percent": "25",
+      "description": "Robotics Technician 4 - Top"
+    },
+    {
+      "armor_info_id": "1131",
+      "armor_facing_id": "0",
+      "armor_percent": "95",
+      "description": "Bastion Fleet Carrier - Front"
+    },
+    {
+      "armor_info_id": "1132",
+      "armor_facing_id": "2",
+      "armor_percent": "95",
+      "description": "Bastion Fleet Carrier - Top"
+    },
+    {
+      "armor_info_id": "1133",
+      "armor_facing_id": "3",
+      "armor_percent": "95",
+      "description": "Bastion Fleet Carrier - Rear"
+    },
+    {
+      "armor_info_id": "1134",
+      "armor_facing_id": "4",
+      "armor_percent": "95",
+      "description": "Bastion Fleet Carrier - Left"
+    },
+    {
+      "armor_info_id": "1135",
+      "armor_facing_id": "1",
+      "armor_percent": "95",
+      "description": "Bastion Fleet Carrier - Right"
+    },
+    {
+      "armor_info_id": "1136",
+      "armor_facing_id": "5",
+      "armor_percent": "95",
+      "description": "Bastion Fleet Carrier - Bottom"
+    },
+    {
+      "armor_info_id": "1137",
+      "armor_facing_id": "3",
+      "armor_percent": "20",
+      "description": "Vehicle - ANT - Rear (Shield Armor Reduction)"
+    },
+    {
+      "armor_info_id": "1139",
+      "armor_facing_id": "3",
+      "armor_percent": "-10",
+      "description": "Cutpurse - Rank 1"
+    },
+    {
+      "armor_info_id": "1140",
+      "armor_facing_id": "3",
+      "armor_percent": "-15",
+      "description": "Cutpurse - Rank 2"
+    },
+    {
+      "armor_info_id": "1141",
+      "armor_facing_id": "3",
+      "armor_percent": "-18",
+      "description": "Cutpurse - Rank 3"
+    },
+    {
+      "armor_info_id": "1142",
+      "armor_facing_id": "3",
+      "armor_percent": "-20",
+      "description": "Cutpurse - Rank 4"
+    },
+    {
+      "armor_info_id": "1148",
+      "armor_facing_id": "0",
+      "armor_percent": "100",
+      "description": "Rampart Wall - Buff - Front"
+    },
+    {
+      "armor_info_id": "1149",
+      "armor_facing_id": "1",
+      "armor_percent": "100",
+      "description": "Rampart Wall - Buff - Right"
+    },
+    {
+      "armor_info_id": "1150",
+      "armor_facing_id": "4",
+      "armor_percent": "100",
+      "description": "Rampart Wall - Buff - Left"
+    },
+    {
+      "armor_info_id": "1151",
+      "armor_facing_id": "2",
+      "armor_percent": "100",
+      "description": "Rampart Wall - Buff - Top"
+    },
+    {
+      "armor_info_id": "1152",
+      "armor_facing_id": "3",
+      "armor_percent": "100",
+      "description": "Rampart Wall - Buff - Rear"
+    },
+    {
+      "armor_info_id": "1153",
+      "armor_facing_id": "5",
+      "armor_percent": "100",
+      "description": "Rampart Wall - Buff - Bottom"
+    },
+    {
+      "armor_info_id": "1171",
+      "armor_facing_id": "0",
+      "armor_percent": "10",
+      "description": "Prowler - Front (Defense Grid 1)"
+    },
+    {
+      "armor_info_id": "1172",
+      "armor_facing_id": "0",
+      "armor_percent": "15",
+      "description": "Prowler - Front (Defense Grid 2)"
+    },
+    {
+      "armor_info_id": "1173",
+      "armor_facing_id": "0",
+      "armor_percent": "17.5",
+      "description": "Prowler - Front (Defense Grid 3)"
+    },
+    {
+      "armor_info_id": "1174",
+      "armor_facing_id": "0",
+      "armor_percent": "20",
+      "description": "Prowler - Front (Defense Grid 4)"
+    },
+    {
+      "armor_info_id": "1176",
+      "armor_facing_id": "6",
+      "armor_percent": "20",
+      "description": "Safeguard - 20pct - All Directions"
+    },
+    {
+      "armor_info_id": "1177",
+      "armor_facing_id": "6",
+      "armor_percent": "25",
+      "description": "NSO: MAX: Time Bomb 1 (25% armor)"
+    },
+    {
+      "armor_info_id": "1178",
+      "armor_facing_id": "6",
+      "armor_percent": "32.5",
+      "description": "NSO: MAX: Time Bomb 2 (32.5% armor)"
+    },
+    {
+      "armor_info_id": "1179",
+      "armor_facing_id": "6",
+      "armor_percent": "37.5",
+      "description": "NSO: MAX: Time Bomb 3 (37.5% armor)"
+    },
+    {
+      "armor_info_id": "1180",
+      "armor_facing_id": "6",
+      "armor_percent": "40",
+      "description": "NSO: MAX: Time Bomb 4 (40% armor)"
+    },
+    {
+      "armor_info_id": "1181",
+      "armor_facing_id": "6",
+      "armor_percent": "60",
+      "description": "NSO: MAX: Seraph Shield (60% armor)"
+    },
+    {
+      "armor_info_id": "1182",
+      "armor_facing_id": "6",
+      "armor_percent": "100",
+      "description": "Bastion.All"
+    },
+    {
+      "armor_info_id": "1183",
+      "armor_facing_id": "1",
+      "armor_percent": "100",
+      "description": "Bastion.Right"
+    },
+    {
+      "armor_info_id": "1184",
+      "armor_facing_id": "2",
+      "armor_percent": "100",
+      "description": "Bastion.Top"
+    },
+    {
+      "armor_info_id": "1185",
+      "armor_facing_id": "3",
+      "armor_percent": "100",
+      "description": "Bastion.Rear"
+    },
+    {
+      "armor_info_id": "1186",
+      "armor_facing_id": "4",
+      "armor_percent": "100",
+      "description": "Bastion.Rear"
+    },
+    {
+      "armor_info_id": "1187",
+      "armor_facing_id": "5",
+      "armor_percent": "100",
+      "description": "Bastion.Rear"
+    },
+    {
+      "armor_info_id": "1188",
+      "armor_facing_id": "6",
+      "armor_percent": "37.5",
+      "description": "NSO: MAX: Time Bomb 1 (37.5% ABLATION MESH armor)"
+    },
+    {
+      "armor_info_id": "1189",
+      "armor_facing_id": "6",
+      "armor_percent": "48.75",
+      "description": "NSO: MAX: Time Bomb 2 (48.75% ABLATION MESH armor)"
+    },
+    {
+      "armor_info_id": "1190",
+      "armor_facing_id": "6",
+      "armor_percent": "56.25",
+      "description": "NSO: MAX: Time Bomb 3 (56.25% ABLATION MESH armor)"
+    },
+    {
+      "armor_info_id": "1191",
+      "armor_facing_id": "6",
+      "armor_percent": "60",
+      "description": "NSO: MAX: Time Bomb 4 (60% ABLATION MESH armor)"
+    },
+    {
+      "armor_info_id": "1192",
+      "armor_facing_id": "6",
+      "armor_percent": "90",
+      "description": "NSO: MAX: Seraph Shield (90% ABLATION MESH armor)"
+    },
+    {
+      "armor_info_id": "1193",
+      "armor_facing_id": "5",
+      "armor_percent": "-15",
+      "description": "Colossus - Bottom"
+    },
+    {
+      "armor_info_id": "1194",
+      "armor_facing_id": "0",
+      "armor_percent": "25",
+      "description": "Colossus - Front"
+    },
+    {
+      "armor_info_id": "1195",
+      "armor_facing_id": "1",
+      "armor_percent": "0",
+      "description": "Colossus - Right"
+    },
+    {
+      "armor_info_id": "1196",
+      "armor_facing_id": "2",
+      "armor_percent": "25",
+      "description": "Colossus - Top"
+    },
+    {
+      "armor_info_id": "1197",
+      "armor_facing_id": "3",
+      "armor_percent": "-15",
+      "description": "Colossus - Rear"
+    },
+    {
+      "armor_info_id": "1198",
+      "armor_facing_id": "4",
+      "armor_percent": "0",
+      "description": "Colossus - Left"
+    },
+    {
+      "armor_info_id": "1200",
+      "armor_facing_id": "6",
+      "armor_percent": "10",
+      "description": "Colossus Bombardmant Shield Buff 5"
+    },
+    {
+      "armor_info_id": "1201",
+      "armor_facing_id": "6",
+      "armor_percent": "5",
+      "description": "Colossus Bombardmant Shield Buff 1"
+    },
+    {
+      "armor_info_id": "1202",
+      "armor_facing_id": "6",
+      "armor_percent": "6",
+      "description": "Colossus Bombardmant Shield Buff 2"
+    },
+    {
+      "armor_info_id": "1203",
+      "armor_facing_id": "6",
+      "armor_percent": "7",
+      "description": "Colossus Bombardmant Shield Buff 3"
+    },
+    {
+      "armor_info_id": "1204",
+      "armor_facing_id": "6",
+      "armor_percent": "9",
+      "description": "Colossus Bombardmant Shield Buff 4"
+    },
+    {
+      "armor_info_id": "1205",
+      "armor_facing_id": "6",
+      "armor_percent": "-20",
+      "description": "Zealot Overdrive - Debuff - ALL"
+    },
+    {
+      "armor_info_id": "1206",
+      "armor_facing_id": "6",
+      "armor_percent": "50",
+      "description": "Colossus Deployment Shield"
+    },
+    {
+      "armor_info_id": "1207",
+      "armor_facing_id": "6",
+      "armor_amount": "99999",
+      "description": "tutorial2 - super armor"
+    }
+  ],
+  "returned": 268
+}

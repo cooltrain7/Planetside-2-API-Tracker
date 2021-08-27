@@ -1,0 +1,493 @@
+{
+  "reward_set_to_reward_group_list": [
+    {
+      "reward_set_id": "843",
+      "reward_group_id": "843"
+    },
+    {
+      "reward_set_id": "844",
+      "reward_group_id": "844"
+    },
+    {
+      "reward_set_id": "845",
+      "reward_group_id": "845"
+    },
+    {
+      "reward_set_id": "846",
+      "reward_group_id": "846"
+    },
+    {
+      "reward_set_id": "847",
+      "reward_group_id": "847"
+    },
+    {
+      "reward_set_id": "848",
+      "reward_group_id": "848"
+    },
+    {
+      "reward_set_id": "849",
+      "reward_group_id": "849"
+    },
+    {
+      "reward_set_id": "850",
+      "reward_group_id": "850"
+    },
+    {
+      "reward_set_id": "4447",
+      "reward_group_id": "10055"
+    },
+    {
+      "reward_set_id": "4448",
+      "reward_group_id": "10056"
+    },
+    {
+      "reward_set_id": "4449",
+      "reward_group_id": "10057"
+    },
+    {
+      "reward_set_id": "4450",
+      "reward_group_id": "10058"
+    },
+    {
+      "reward_set_id": "4451",
+      "reward_group_id": "10059"
+    },
+    {
+      "reward_set_id": "4452",
+      "reward_group_id": "10060"
+    },
+    {
+      "reward_set_id": "4453",
+      "reward_group_id": "10061"
+    },
+    {
+      "reward_set_id": "4454",
+      "reward_group_id": "10062"
+    },
+    {
+      "reward_set_id": "4455",
+      "reward_group_id": "10063"
+    },
+    {
+      "reward_set_id": "4461",
+      "reward_group_id": "10069"
+    },
+    {
+      "reward_set_id": "4462",
+      "reward_group_id": "10070"
+    },
+    {
+      "reward_set_id": "4463",
+      "reward_group_id": "10071"
+    },
+    {
+      "reward_set_id": "4464",
+      "reward_group_id": "10072"
+    },
+    {
+      "reward_set_id": "4465",
+      "reward_group_id": "10073"
+    },
+    {
+      "reward_set_id": "4466",
+      "reward_group_id": "10074"
+    },
+    {
+      "reward_set_id": "4467",
+      "reward_group_id": "10075"
+    },
+    {
+      "reward_set_id": "4468",
+      "reward_group_id": "10076"
+    },
+    {
+      "reward_set_id": "4469",
+      "reward_group_id": "10077"
+    },
+    {
+      "reward_set_id": "4470",
+      "reward_group_id": "10078"
+    },
+    {
+      "reward_set_id": "4471",
+      "reward_group_id": "10079"
+    },
+    {
+      "reward_set_id": "4472",
+      "reward_group_id": "10080"
+    },
+    {
+      "reward_set_id": "4473",
+      "reward_group_id": "10081"
+    },
+    {
+      "reward_set_id": "4474",
+      "reward_group_id": "10082"
+    },
+    {
+      "reward_set_id": "4475",
+      "reward_group_id": "10083"
+    },
+    {
+      "reward_set_id": "4476",
+      "reward_group_id": "10084"
+    },
+    {
+      "reward_set_id": "4477",
+      "reward_group_id": "10085"
+    },
+    {
+      "reward_set_id": "4478",
+      "reward_group_id": "10086"
+    },
+    {
+      "reward_set_id": "4479",
+      "reward_group_id": "10087"
+    },
+    {
+      "reward_set_id": "4490",
+      "reward_group_id": "100093"
+    },
+    {
+      "reward_set_id": "4497",
+      "reward_group_id": "100100"
+    },
+    {
+      "reward_set_id": "4498",
+      "reward_group_id": "100101"
+    },
+    {
+      "reward_set_id": "4499",
+      "reward_group_id": "100102"
+    },
+    {
+      "reward_set_id": "4504",
+      "reward_group_id": "100107"
+    },
+    {
+      "reward_set_id": "4531",
+      "reward_group_id": "4531"
+    },
+    {
+      "reward_set_id": "4534",
+      "reward_group_id": "100137"
+    },
+    {
+      "reward_set_id": "4535",
+      "reward_group_id": "100138"
+    },
+    {
+      "reward_set_id": "4539",
+      "reward_group_id": "100143"
+    },
+    {
+      "reward_set_id": "4542",
+      "reward_group_id": "100146"
+    },
+    {
+      "reward_set_id": "4580",
+      "reward_group_id": "100210"
+    },
+    {
+      "reward_set_id": "4581",
+      "reward_group_id": "100211"
+    },
+    {
+      "reward_set_id": "4582",
+      "reward_group_id": "100212"
+    },
+    {
+      "reward_set_id": "4583",
+      "reward_group_id": "100213"
+    },
+    {
+      "reward_set_id": "4586",
+      "reward_group_id": "100219"
+    },
+    {
+      "reward_set_id": "4593",
+      "reward_group_id": "100231"
+    },
+    {
+      "reward_set_id": "4620",
+      "reward_group_id": "100269"
+    },
+    {
+      "reward_set_id": "4621",
+      "reward_group_id": "100270"
+    },
+    {
+      "reward_set_id": "4622",
+      "reward_group_id": "100271"
+    },
+    {
+      "reward_set_id": "4641",
+      "reward_group_id": "100295"
+    },
+    {
+      "reward_set_id": "4642",
+      "reward_group_id": "100296"
+    },
+    {
+      "reward_set_id": "4646",
+      "reward_group_id": "100302"
+    },
+    {
+      "reward_set_id": "4652",
+      "reward_group_id": "100314"
+    },
+    {
+      "reward_set_id": "4653",
+      "reward_group_id": "100315"
+    },
+    {
+      "reward_set_id": "4655",
+      "reward_group_id": "100322"
+    },
+    {
+      "reward_set_id": "4656",
+      "reward_group_id": "100323"
+    },
+    {
+      "reward_set_id": "4657",
+      "reward_group_id": "100324"
+    },
+    {
+      "reward_set_id": "4658",
+      "reward_group_id": "100325"
+    },
+    {
+      "reward_set_id": "4659",
+      "reward_group_id": "100326"
+    },
+    {
+      "reward_set_id": "4660",
+      "reward_group_id": "100327"
+    },
+    {
+      "reward_set_id": "4825",
+      "reward_group_id": "100507"
+    },
+    {
+      "reward_set_id": "4830",
+      "reward_group_id": "100512"
+    },
+    {
+      "reward_set_id": "4831",
+      "reward_group_id": "100513"
+    },
+    {
+      "reward_set_id": "4833",
+      "reward_group_id": "100515"
+    },
+    {
+      "reward_set_id": "4834",
+      "reward_group_id": "100516"
+    },
+    {
+      "reward_set_id": "4835",
+      "reward_group_id": "100517"
+    },
+    {
+      "reward_set_id": "4837",
+      "reward_group_id": "100519"
+    },
+    {
+      "reward_set_id": "4838",
+      "reward_group_id": "100520"
+    },
+    {
+      "reward_set_id": "4839",
+      "reward_group_id": "100521"
+    },
+    {
+      "reward_set_id": "4840",
+      "reward_group_id": "100522"
+    },
+    {
+      "reward_set_id": "4852",
+      "reward_group_id": "100534"
+    },
+    {
+      "reward_set_id": "4853",
+      "reward_group_id": "100535"
+    },
+    {
+      "reward_set_id": "4975",
+      "reward_group_id": "100672"
+    },
+    {
+      "reward_set_id": "4980",
+      "reward_group_id": "100677"
+    },
+    {
+      "reward_set_id": "4981",
+      "reward_group_id": "100678"
+    },
+    {
+      "reward_set_id": "4982",
+      "reward_group_id": "100679"
+    },
+    {
+      "reward_set_id": "4983",
+      "reward_group_id": "100680"
+    },
+    {
+      "reward_set_id": "4984",
+      "reward_group_id": "100681"
+    },
+    {
+      "reward_set_id": "4995",
+      "reward_group_id": "100692"
+    },
+    {
+      "reward_set_id": "4996",
+      "reward_group_id": "100693"
+    },
+    {
+      "reward_set_id": "4997",
+      "reward_group_id": "100694"
+    },
+    {
+      "reward_set_id": "4998",
+      "reward_group_id": "100695"
+    },
+    {
+      "reward_set_id": "5052",
+      "reward_group_id": "100795"
+    },
+    {
+      "reward_set_id": "5053",
+      "reward_group_id": "100796"
+    },
+    {
+      "reward_set_id": "5054",
+      "reward_group_id": "100797"
+    },
+    {
+      "reward_set_id": "5055",
+      "reward_group_id": "100799"
+    },
+    {
+      "reward_set_id": "5317",
+      "reward_group_id": "101191"
+    },
+    {
+      "reward_set_id": "5321",
+      "reward_group_id": "101201"
+    },
+    {
+      "reward_set_id": "5322",
+      "reward_group_id": "101202"
+    },
+    {
+      "reward_set_id": "5323",
+      "reward_group_id": "101203"
+    },
+    {
+      "reward_set_id": "5329",
+      "reward_group_id": "101210"
+    },
+    {
+      "reward_set_id": "5331",
+      "reward_group_id": "101212"
+    },
+    {
+      "reward_set_id": "5331",
+      "reward_group_id": "101213"
+    },
+    {
+      "reward_set_id": "5332",
+      "reward_group_id": "101214"
+    },
+    {
+      "reward_set_id": "5333",
+      "reward_group_id": "101215"
+    },
+    {
+      "reward_set_id": "5334",
+      "reward_group_id": "101216"
+    },
+    {
+      "reward_set_id": "5465",
+      "reward_group_id": "101347"
+    },
+    {
+      "reward_set_id": "5588",
+      "reward_group_id": "101474"
+    },
+    {
+      "reward_set_id": "5589",
+      "reward_group_id": "101475"
+    },
+    {
+      "reward_set_id": "5590",
+      "reward_group_id": "101476"
+    },
+    {
+      "reward_set_id": "5591",
+      "reward_group_id": "101477"
+    },
+    {
+      "reward_set_id": "5875",
+      "reward_group_id": "101608"
+    },
+    {
+      "reward_set_id": "5901",
+      "reward_group_id": "101636"
+    },
+    {
+      "reward_set_id": "5902",
+      "reward_group_id": "101637"
+    },
+    {
+      "reward_set_id": "5903",
+      "reward_group_id": "101638"
+    },
+    {
+      "reward_set_id": "5904",
+      "reward_group_id": "101639"
+    },
+    {
+      "reward_set_id": "5925",
+      "reward_group_id": "101671"
+    },
+    {
+      "reward_set_id": "5953",
+      "reward_group_id": "101700"
+    },
+    {
+      "reward_set_id": "5953",
+      "reward_group_id": "101701"
+    },
+    {
+      "reward_set_id": "5954",
+      "reward_group_id": "101702"
+    },
+    {
+      "reward_set_id": "5955",
+      "reward_group_id": "101703"
+    },
+    {
+      "reward_set_id": "5956",
+      "reward_group_id": "101704"
+    },
+    {
+      "reward_set_id": "5973",
+      "reward_group_id": "101725"
+    },
+    {
+      "reward_set_id": "5974",
+      "reward_group_id": "101726"
+    },
+    {
+      "reward_set_id": "5975",
+      "reward_group_id": "101727"
+    },
+    {
+      "reward_set_id": "5976",
+      "reward_group_id": "101728"
+    }
+  ],
+  "returned": 122
+}

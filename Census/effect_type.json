@@ -1,0 +1,189 @@
+{
+  "effect_type_list": [
+    {
+      "effect_type_id": "8",
+      "description": "Modify Character Status",
+      "param1": "State ID",
+      "param3": "Animation ID for Knock Back or Pull"
+    },
+    {
+      "effect_type_id": "9",
+      "description": "Spawn NPC",
+      "param1": "NPC",
+      "param2": "Heading",
+      "param3": "0 at source, 1 at target, 2 near source, 3 drop",
+      "param4": "PcDisposition",
+      "param5": "Max Count"
+    },
+    {
+      "effect_type_id": "11",
+      "description": "Heal",
+      "param1": "HP per sec",
+      "param2": "Distance Max",
+      "param3": "0 Heal, 1 Repair"
+    },
+    {
+      "effect_type_id": "12",
+      "description": "Revive",
+      "param1": "Health Percent",
+      "param2": "Distance Max",
+      "param3": "Sec to revive"
+    },
+    {
+      "effect_type_id": "35",
+      "description": "Modify Character Stat",
+      "param1": "Stat ID",
+      "param2": "Addend",
+      "param3": "Percent Addend",
+      "param4": "Variable ID String"
+    },
+    {
+      "effect_type_id": "36",
+      "description": "Damage",
+      "param1": "Damage Amount"
+    },
+    {
+      "effect_type_id": "38",
+      "description": "Jet",
+      "param1": "Resource Type (not id)",
+      "param2": "Initial Cost",
+      "param3": "Cost Per Sec",
+      "param5": "Resource Value Min",
+      "param6": "Disable Resource Regen"
+    },
+    {
+      "effect_type_id": "39",
+      "description": "Afterburner / Turbo",
+      "param1": "Resource TYPE ID",
+      "param2": "Resource Spent per second"
+    },
+    {
+      "effect_type_id": "40",
+      "description": "Indirect Damage",
+      "param1": "Damage within inside radius",
+      "param2": "Inside Radius (min)",
+      "param3": "Minimum Damage (Damage at max radius)",
+      "param4": "There is no Param4",
+      "param5": "Outside Radius (max)",
+      "param6": "Direct Impact Damage",
+      "param7": "Fire off Ability ID",
+      "param8": "Arming Distance",
+      "param9": "Arming Scaling Distance",
+      "param10": "Ignore Impacted Object (1 = true)",
+      "param11": "Screen Effect ID",
+      "param12": "Armor Penetration",
+      "param13": "Same faction resist percentage"
+    },
+    {
+      "effect_type_id": "41",
+      "description": "Modify Weapon Stat",
+      "param1": "Key1 (fire group index or ammo slot) -1=All",
+      "param2": "Addend",
+      "param3": "Percent Addend",
+      "param4": "Stat ID String",
+      "param5": "Set Directly",
+      "param6": "Key2 (fire mode index) -1=All",
+      "param7": "Vehicle Weapon Mount ID"
+    },
+    {
+      "effect_type_id": "42",
+      "description": "Give Resource",
+      "param1": "Resource ID",
+      "param2": "Is One Way Effect"
+    },
+    {
+      "effect_type_id": "43",
+      "description": "Resist",
+      "param1": "Resist Info ID"
+    },
+    {
+      "effect_type_id": "44",
+      "description": "Armor",
+      "param1": "Armor Info ID"
+    },
+    {
+      "effect_type_id": "45",
+      "description": "Damage Falloff",
+      "param1": "Max Damage",
+      "param2": "Max Damage Range",
+      "param3": "Minimum Damage",
+      "param5": "Min Damage Range",
+      "param6": "ShieldBypassPcnt"
+    },
+    {
+      "effect_type_id": "47",
+      "description": "Modify Resource Variable",
+      "param1": "Resource Type",
+      "param2": "Addend",
+      "param3": "Percent Addend",
+      "param4": "Variable ID String",
+      "param5": "Is One Way Effect"
+    },
+    {
+      "effect_type_id": "50",
+      "description": "Add Definition Int",
+      "param1": "Definition ID (Loadout ID)",
+      "param2": "Value (Item_Class_ID)",
+      "param3": "Is One Way Effect",
+      "param4": "Variable ID String (Definition_Variable",
+      "param5": "Definition ID2 (Slot ID)"
+    },
+    {
+      "effect_type_id": "52",
+      "description": "Modify Vehicle Stat",
+      "param1": "Move Info ID to modify",
+      "param2": "Addend",
+      "param3": "Percent Addend",
+      "param4": "Stat ID String",
+      "param5": "Set Directly"
+    },
+    {
+      "effect_type_id": "53",
+      "description": "Zero Resource",
+      "param1": "Resource Type",
+      "param2": "Disable Resource Regen",
+      "param3": "Is One Way Effect"
+    },
+    {
+      "effect_type_id": "55",
+      "description": "Weapon Add Fire Group",
+      "param1": "Weapon Item ID (optional)",
+      "param2": "Fire Group ID"
+    },
+    {
+      "effect_type_id": "56",
+      "description": "Modify Movement Speed",
+      "param1": "Movement Modifier"
+    },
+    {
+      "effect_type_id": "58",
+      "description": "Modify Strafe Speed",
+      "param1": "Strafe Modifier"
+    },
+    {
+      "effect_type_id": "59",
+      "description": "Cancel on Weapon Fire"
+    },
+    {
+      "effect_type_id": "60",
+      "description": "Enable Resource Regen",
+      "param1": "Resource Type",
+      "param2": "Enable Resource Regen",
+      "param3": "Is One Way Effect"
+    },
+    {
+      "effect_type_id": "61",
+      "description": "GM Invincibility"
+    },
+    {
+      "effect_type_id": "62",
+      "description": "CounterMeasures"
+    },
+    {
+      "effect_type_id": "66",
+      "description": "Heavy Shield",
+      "param1": "Resource Type"
+    }
+  ],
+  "returned": 26
+}

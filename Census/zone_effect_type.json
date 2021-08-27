@@ -1,0 +1,409 @@
+{
+  "zone_effect_type_list": [
+    {
+      "zone_effect_type_id": "2",
+      "description": "Jet Effect",
+      "param1": "ResourceType",
+      "param2": "InitialCost",
+      "param3": "CostPerSec",
+      "param4": "ResourceValueMin",
+      "param5": "DisableResourceRegen",
+      "param6": "MsecPerTick"
+    },
+    {
+      "zone_effect_type_id": "3",
+      "description": "Heal Tool Effect",
+      "param1": "HealPerSec",
+      "param2": "DistanceMax",
+      "param3": "IsRepair",
+      "param4": "DoNotAwardXp"
+    },
+    {
+      "zone_effect_type_id": "4",
+      "description": "Heal Over Time Effect",
+      "param1": "HealPerSec",
+      "param2": "DistanceMax",
+      "param3": "IsRepair",
+      "param4": "IsHealValuePcntOfMax",
+      "param5": "HpThresholdToGetXp"
+    },
+    {
+      "zone_effect_type_id": "7",
+      "description": "Enable or Disable Resource Regen",
+      "param1": "ResourceType",
+      "param2": "EnableResourceRegen",
+      "param3": "IsOneWayEffect"
+    },
+    {
+      "zone_effect_type_id": "8",
+      "description": "Modify Weapon Stat",
+      "param1": "Key1 (fire group index or ammo slot) -1=All",
+      "param2": "Key2 (fire mode index) -1=All",
+      "param3": "Addend",
+      "param4": "PcntAddend",
+      "param5": "SetDirectly",
+      "param6": "WeaponMountId",
+      "param7": "EquipSlot",
+      "param8": "Loadout Slot Id",
+      "param9": "Force Skip Effect Target",
+      "string1": "StatId"
+    },
+    {
+      "zone_effect_type_id": "9",
+      "description": "Give Resource",
+      "param1": "Resource",
+      "param2": "IsOneWayEffect"
+    },
+    {
+      "zone_effect_type_id": "10",
+      "description": "ModifyResource Value",
+      "param1": "ResourceType",
+      "param2": "IsOneWayEffect",
+      "param3": "Addend",
+      "param4": "PcntAddend",
+      "param5": "IsWarpgateDistanceScaled",
+      "param6": "IsValueMax"
+    },
+    {
+      "zone_effect_type_id": "11",
+      "description": "Modify Resource Variable",
+      "param1": "ResourceType",
+      "param2": "IsOneWayEffect",
+      "param3": "Addend",
+      "param4": "PcntAddend",
+      "string1": "ResourceVariableId"
+    },
+    {
+      "zone_effect_type_id": "12",
+      "description": "Modify Definition Variable",
+      "param1": "DefinitionId",
+      "param2": "IsOneWayEffect",
+      "param3": "Addend",
+      "param4": "PcntAddend",
+      "string1": "DefinitionVariableId",
+      "string2": "StringHashToValueKey"
+    },
+    {
+      "zone_effect_type_id": "13",
+      "description": "Set Definition Variable",
+      "param1": "DefinitionId",
+      "param2": "IsOneWayEffect",
+      "param3": "Value",
+      "string1": "DefinitionVariableId",
+      "string2": "StringHashToValueKey"
+    },
+    {
+      "zone_effect_type_id": "15",
+      "description": "Heavy Shield",
+      "param1": "ResourceType"
+    },
+    {
+      "zone_effect_type_id": "17",
+      "description": "Destroy Npcs by Definition Id",
+      "param1": "NpcDefinitionId",
+      "param2": "Despawn"
+    },
+    {
+      "zone_effect_type_id": "18",
+      "description": "Modify Character Stat",
+      "param1": "Addend",
+      "param2": "PcntAddend",
+      "string1": "StatId"
+    },
+    {
+      "zone_effect_type_id": "19",
+      "description": "Modify Resource Regen",
+      "param1": "ResourceType",
+      "param2": "RegenPerSec",
+      "param3": "IsRegenValuePcntOfMax",
+      "param4": "IsWarpgateDistanceScaled"
+    },
+    {
+      "zone_effect_type_id": "20",
+      "description": "Vehicle Turbo Effect",
+      "param1": "ResourceType",
+      "param2": "InitialCost",
+      "param3": "CostPerSec",
+      "param4": "ResourceValueMin",
+      "param5": "DisableResourceRegen",
+      "param6": "MsecPerTick"
+    },
+    {
+      "zone_effect_type_id": "22",
+      "description": "Set Character Status",
+      "param1": "CharacterStatus"
+    },
+    {
+      "zone_effect_type_id": "23",
+      "description": "Override Material Type",
+      "param1": "MaterialType"
+    },
+    {
+      "zone_effect_type_id": "24",
+      "description": "Weapon Add Fire Group",
+      "param1": "FireGroupId"
+    },
+    {
+      "zone_effect_type_id": "25",
+      "description": "Spawn Npc",
+      "param1": "NpcDefinitionId",
+      "param2": "NpcHeading",
+      "param3": "0 at source, 1 at target, 2 near source, 3 drop",
+      "param4": "NpcDisposition",
+      "param5": "MaxCount"
+    },
+    {
+      "zone_effect_type_id": "26",
+      "description": "Modify Vehicle Stat",
+      "param1": "Type Definition ID",
+      "param3": "Addend",
+      "param4": "PcntAddend",
+      "param5": "SetDirectly",
+      "string1": "StatId"
+    },
+    {
+      "zone_effect_type_id": "29",
+      "description": "Modify Strafe Speed",
+      "param1": "StrafeModifier"
+    },
+    {
+      "zone_effect_type_id": "30",
+      "description": "Cancel On Weapon Fire"
+    },
+    {
+      "zone_effect_type_id": "33",
+      "description": "Resist",
+      "param1": "ResistInfoId"
+    },
+    {
+      "zone_effect_type_id": "34",
+      "description": "Counter Measures"
+    },
+    {
+      "zone_effect_type_id": "35",
+      "description": "Indirect Damage",
+      "param1": "MinIntensity",
+      "param2": "MaxIntensity",
+      "param3": "InsideRadius",
+      "param4": "OutsideRadius",
+      "param5": "ArmingDistance",
+      "param6": "ScaledRange",
+      "param7": "MinScaledPercent",
+      "param8": "IgnoreImpactedObject",
+      "param9": "Non-lethal",
+      "param10": "ScreenEffectId",
+      "param11": "ArmorBypassPcnt",
+      "param12": "ResistType",
+      "param13": "Angle",
+      "param14": "IgnoreHeight"
+    },
+    {
+      "zone_effect_type_id": "36",
+      "description": "Allows characters and/or vehicles to penetrate enemy shields",
+      "param1": "RequireVehicle"
+    },
+    {
+      "zone_effect_type_id": "37",
+      "description": "Play Composite Effect"
+    },
+    {
+      "zone_effect_type_id": "39",
+      "description": "Set Resource Burn",
+      "param1": "ResourceType",
+      "param2": "BurnPerSec",
+      "param3": "IsOneWayEffect"
+    },
+    {
+      "zone_effect_type_id": "40",
+      "description": "Remove Effects",
+      "param1": "EffectId",
+      "param2": "AbilityId",
+      "string1": "EffectTypeName"
+    },
+    {
+      "zone_effect_type_id": "41",
+      "description": "Armor",
+      "param1": "ArmorInfoId"
+    },
+    {
+      "zone_effect_type_id": "42",
+      "description": "Damage Over Time",
+      "param1": "DamagePerTick",
+      "param2": "DistanceMax",
+      "param3": "IgnoreThatAttackerIsSelf",
+      "param4": "IgnoreGrief",
+      "param5": "IgnoreFriendlyDamageScalar",
+      "param6": "MsecPerTick",
+      "param12": "ResistType"
+    },
+    {
+      "zone_effect_type_id": "47",
+      "description": "Adds ammo equal to a multiple of clips to weapons of an item class",
+      "param1": "Item Class",
+      "param2": "Ammo Slot",
+      "param3": "Clip Count"
+    },
+    {
+      "zone_effect_type_id": "50",
+      "description": "Riot shield",
+      "param1": "ResourceType",
+      "param2": "EquipSlotId"
+    },
+    {
+      "zone_effect_type_id": "52",
+      "description": "Replace one of a weapon's fire groups with a different one",
+      "param1": "FireGroupIndex",
+      "param2": "FireGroupId",
+      "param3": "ItemDefinitionId",
+      "param4": "IgnoreEquipRestriction"
+    },
+    {
+      "zone_effect_type_id": "54",
+      "description": "Set Resource Value",
+      "param1": "ResourceType",
+      "param2": "Value"
+    },
+    {
+      "zone_effect_type_id": "55",
+      "description": "Add Ammo Over Time",
+      "param1": "MsecPerTick",
+      "param2": "CompositeEffectId",
+      "param3": "CompositeEffectDuration"
+    },
+    {
+      "zone_effect_type_id": "58",
+      "description": "Modify the given character flag",
+      "param1": "Operation (see tooltip)",
+      "param2": "ModifyValue",
+      "param3": "Persist",
+      "param4": "OneShot",
+      "param5": "Always Create ",
+      "string1": "CharacterFlagKey"
+    },
+    {
+      "zone_effect_type_id": "60",
+      "description": "Gives or removes the ability for a vehicle to be squad spawned at.",
+      "param1": "Squad Spawn 1=enable, 0=disable"
+    },
+    {
+      "zone_effect_type_id": "61",
+      "description": "AirToAirRadar",
+      "param1": "AirToAirRadarRange"
+    },
+    {
+      "zone_effect_type_id": "62",
+      "description": "Override Ability resource burn rates with these values (Negative values regen instead of burn)",
+      "param1": "ResourceType",
+      "param2": "BurnWhileMoving",
+      "param3": "BurnWhileStationary",
+      "param4": "RegenTickMsc"
+    },
+    {
+      "zone_effect_type_id": "63",
+      "description": "Disable Loadout Slot",
+      "param1": "Slot Id"
+    },
+    {
+      "zone_effect_type_id": "67",
+      "description": "Changes resource value whenever your character fires his weapon.",
+      "param1": "ResourceType",
+      "param2": "Addend (will damage resource regen)",
+      "param3": "PcntAddend (will not damage resource regen)",
+      "param4": "TargetMount"
+    },
+    {
+      "zone_effect_type_id": "415",
+      "description": "Transfer resources of a given type from one character to another",
+      "param1": "Resource Type",
+      "param2": "Transfer to Target",
+      "param3": "Transfer Rate Per Second"
+    },
+    {
+      "zone_effect_type_id": "421",
+      "description": "OnDesignEvent DoAbility",
+      "param1": "PercentChance",
+      "param2": "AbilityToTrigger",
+      "string1": "Design Event"
+    },
+    {
+      "zone_effect_type_id": "423",
+      "description": "Modify Jump Height",
+      "param1": "Jump Height Addend"
+    },
+    {
+      "zone_effect_type_id": "424",
+      "description": "Modify Cloak Parameters",
+      "param1": "VisibilityMultiplier",
+      "param2": "DecloakWeaponLockTime"
+    },
+    {
+      "zone_effect_type_id": "425",
+      "description": "Remove Resource",
+      "param1": "Resource Id",
+      "param2": "Resource Type",
+      "param3": "IsOneWayEffect"
+    },
+    {
+      "zone_effect_type_id": "426",
+      "description": "Replace Resource",
+      "param1": "Remove Resource Id",
+      "param2": "Remove Resource Type",
+      "param3": "Give Resource Id",
+      "param4": "IsOneWayEffect"
+    },
+    {
+      "zone_effect_type_id": "427",
+      "description": "Add Screen Effect"
+    },
+    {
+      "zone_effect_type_id": "429",
+      "description": "OnShotCount DoAbility",
+      "param1": "Percent Chance",
+      "param2": "AbilityToTrigger",
+      "param3": "ShotCount",
+      "param4": "ResetOnReload",
+      "param5": "ResetOnChangeWeapon",
+      "param6": "ResetOnApply",
+      "param7": "TriggerWhenConditionMet"
+    },
+    {
+      "zone_effect_type_id": "430",
+      "description": "OnResourceModify DoAbility",
+      "param1": "Percent Chance",
+      "param2": "AbilityToTrigger",
+      "param3": "Resource Type",
+      "param4": "Resource Id",
+      "param5": "Resource Modify Type",
+      "param6": "ResetOnApply"
+    },
+    {
+      "zone_effect_type_id": "431",
+      "description": "OnDamageReceivedWithResistType DoAbility",
+      "param1": "Percent Chance",
+      "param2": "AbilityToTrigger",
+      "param3": "ResistType"
+    },
+    {
+      "zone_effect_type_id": "432",
+      "description": "ZoneEffect DoAbility",
+      "param1": "Percent Chance",
+      "param2": "AbilityToTrigger"
+    },
+    {
+      "zone_effect_type_id": "437",
+      "description": "Run lua script method on npc/pc. Can also pass in parameters into function using comma delimiter.",
+      "param1": "ApplyToTarget",
+      "string1": "ScriptFileName.Function"
+    },
+    {
+      "zone_effect_type_id": "452",
+      "description": "Show a data-driven notification on the HUD",
+      "param1": "Type",
+      "param2": "Image Set",
+      "param3": "String1",
+      "param4": "String2",
+      "param5": "Show Until Hidden"
+    }
+  ],
+  "returned": 55
+}

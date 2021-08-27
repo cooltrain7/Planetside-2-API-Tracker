@@ -1,0 +1,33 @@
+{
+  "armor_facing_list": [
+    {
+      "armor_facing_id": "0",
+      "description": "Front"
+    },
+    {
+      "armor_facing_id": "1",
+      "description": "Right"
+    },
+    {
+      "armor_facing_id": "2",
+      "description": "Top"
+    },
+    {
+      "armor_facing_id": "3",
+      "description": "Rear"
+    },
+    {
+      "armor_facing_id": "4",
+      "description": "Left"
+    },
+    {
+      "armor_facing_id": "5",
+      "description": "Bottom"
+    },
+    {
+      "armor_facing_id": "6",
+      "description": "All"
+    }
+  ],
+  "returned": 7
+}

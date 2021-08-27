@@ -1,0 +1,21 @@
+{
+  "projectile_flight_type_list": [
+    {
+      "projectile_flight_type_id": "1",
+      "description": "Ballistic"
+    },
+    {
+      "projectile_flight_type_id": "3",
+      "description": "True Ballstic - Uses Real Gravity"
+    },
+    {
+      "projectile_flight_type_id": "9",
+      "description": "Dynamic"
+    },
+    {
+      "projectile_flight_type_id": "10",
+      "description": "Proximity Detonate"
+    }
+  ],
+  "returned": 4
+}

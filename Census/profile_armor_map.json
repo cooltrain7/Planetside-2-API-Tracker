@@ -1,0 +1,460 @@
+{
+  "profile_armor_map_list": [
+    {
+      "profile_id": "1",
+      "armor_info_id": "1131",
+      "rank": "1"
+    },
+    {
+      "profile_id": "1",
+      "armor_info_id": "1132",
+      "rank": "1"
+    },
+    {
+      "profile_id": "1",
+      "armor_info_id": "1133",
+      "rank": "1"
+    },
+    {
+      "profile_id": "1",
+      "armor_info_id": "1134",
+      "rank": "1"
+    },
+    {
+      "profile_id": "1",
+      "armor_info_id": "1135",
+      "rank": "1"
+    },
+    {
+      "profile_id": "1",
+      "armor_info_id": "1136",
+      "rank": "1"
+    },
+    {
+      "profile_id": "26",
+      "armor_info_id": "30",
+      "rank": "1"
+    },
+    {
+      "profile_id": "26",
+      "armor_info_id": "31",
+      "rank": "1"
+    },
+    {
+      "profile_id": "26",
+      "armor_info_id": "32",
+      "rank": "1"
+    },
+    {
+      "profile_id": "26",
+      "armor_info_id": "33",
+      "rank": "1"
+    },
+    {
+      "profile_id": "26",
+      "armor_info_id": "34",
+      "rank": "1"
+    },
+    {
+      "profile_id": "26",
+      "armor_info_id": "35",
+      "rank": "1"
+    },
+    {
+      "profile_id": "27",
+      "armor_info_id": "120",
+      "rank": "1"
+    },
+    {
+      "profile_id": "27",
+      "armor_info_id": "121",
+      "rank": "1"
+    },
+    {
+      "profile_id": "27",
+      "armor_info_id": "122",
+      "rank": "1"
+    },
+    {
+      "profile_id": "27",
+      "armor_info_id": "123",
+      "rank": "1"
+    },
+    {
+      "profile_id": "27",
+      "armor_info_id": "124",
+      "rank": "1"
+    },
+    {
+      "profile_id": "27",
+      "armor_info_id": "125",
+      "rank": "1"
+    },
+    {
+      "profile_id": "28",
+      "armor_info_id": "160",
+      "rank": "1"
+    },
+    {
+      "profile_id": "28",
+      "armor_info_id": "161",
+      "rank": "1"
+    },
+    {
+      "profile_id": "28",
+      "armor_info_id": "162",
+      "rank": "1"
+    },
+    {
+      "profile_id": "28",
+      "armor_info_id": "163",
+      "rank": "1"
+    },
+    {
+      "profile_id": "28",
+      "armor_info_id": "164",
+      "rank": "1"
+    },
+    {
+      "profile_id": "28",
+      "armor_info_id": "165",
+      "rank": "1"
+    },
+    {
+      "profile_id": "29",
+      "armor_info_id": "40",
+      "rank": "1"
+    },
+    {
+      "profile_id": "29",
+      "armor_info_id": "41",
+      "rank": "1"
+    },
+    {
+      "profile_id": "29",
+      "armor_info_id": "42",
+      "rank": "1"
+    },
+    {
+      "profile_id": "29",
+      "armor_info_id": "43",
+      "rank": "1"
+    },
+    {
+      "profile_id": "29",
+      "armor_info_id": "44",
+      "rank": "1"
+    },
+    {
+      "profile_id": "29",
+      "armor_info_id": "45",
+      "rank": "1"
+    },
+    {
+      "profile_id": "30",
+      "armor_info_id": "60",
+      "rank": "1"
+    },
+    {
+      "profile_id": "30",
+      "armor_info_id": "61",
+      "rank": "1"
+    },
+    {
+      "profile_id": "30",
+      "armor_info_id": "62",
+      "rank": "1"
+    },
+    {
+      "profile_id": "30",
+      "armor_info_id": "63",
+      "rank": "1"
+    },
+    {
+      "profile_id": "30",
+      "armor_info_id": "64",
+      "rank": "1"
+    },
+    {
+      "profile_id": "30",
+      "armor_info_id": "65",
+      "rank": "1"
+    },
+    {
+      "profile_id": "31",
+      "armor_info_id": "50",
+      "rank": "1"
+    },
+    {
+      "profile_id": "31",
+      "armor_info_id": "51",
+      "rank": "1"
+    },
+    {
+      "profile_id": "31",
+      "armor_info_id": "52",
+      "rank": "1"
+    },
+    {
+      "profile_id": "31",
+      "armor_info_id": "53",
+      "rank": "1"
+    },
+    {
+      "profile_id": "31",
+      "armor_info_id": "54",
+      "rank": "1"
+    },
+    {
+      "profile_id": "31",
+      "armor_info_id": "55",
+      "rank": "1"
+    },
+    {
+      "profile_id": "33",
+      "armor_info_id": "20",
+      "rank": "1"
+    },
+    {
+      "profile_id": "33",
+      "armor_info_id": "21",
+      "rank": "1"
+    },
+    {
+      "profile_id": "33",
+      "armor_info_id": "22",
+      "rank": "1"
+    },
+    {
+      "profile_id": "33",
+      "armor_info_id": "23",
+      "rank": "1"
+    },
+    {
+      "profile_id": "33",
+      "armor_info_id": "24",
+      "rank": "1"
+    },
+    {
+      "profile_id": "33",
+      "armor_info_id": "25",
+      "rank": "1"
+    },
+    {
+      "profile_id": "38",
+      "armor_info_id": "110",
+      "rank": "1"
+    },
+    {
+      "profile_id": "38",
+      "armor_info_id": "111",
+      "rank": "1"
+    },
+    {
+      "profile_id": "38",
+      "armor_info_id": "112",
+      "rank": "1"
+    },
+    {
+      "profile_id": "38",
+      "armor_info_id": "113",
+      "rank": "1"
+    },
+    {
+      "profile_id": "38",
+      "armor_info_id": "114",
+      "rank": "1"
+    },
+    {
+      "profile_id": "38",
+      "armor_info_id": "115",
+      "rank": "1"
+    },
+    {
+      "profile_id": "41",
+      "armor_info_id": "150",
+      "rank": "1"
+    },
+    {
+      "profile_id": "41",
+      "armor_info_id": "151",
+      "rank": "1"
+    },
+    {
+      "profile_id": "41",
+      "armor_info_id": "152",
+      "rank": "1"
+    },
+    {
+      "profile_id": "41",
+      "armor_info_id": "153",
+      "rank": "1"
+    },
+    {
+      "profile_id": "41",
+      "armor_info_id": "154",
+      "rank": "1"
+    },
+    {
+      "profile_id": "41",
+      "armor_info_id": "155",
+      "rank": "1"
+    },
+    {
+      "profile_id": "57",
+      "armor_info_id": "1007",
+      "rank": "1"
+    },
+    {
+      "profile_id": "57",
+      "armor_info_id": "1008",
+      "rank": "1"
+    },
+    {
+      "profile_id": "57",
+      "armor_info_id": "1009",
+      "rank": "1"
+    },
+    {
+      "profile_id": "57",
+      "armor_info_id": "1010",
+      "rank": "1"
+    },
+    {
+      "profile_id": "57",
+      "armor_info_id": "1011",
+      "rank": "1"
+    },
+    {
+      "profile_id": "57",
+      "armor_info_id": "1012",
+      "rank": "1"
+    },
+    {
+      "profile_id": "95",
+      "armor_info_id": "1069",
+      "rank": "1"
+    },
+    {
+      "profile_id": "95",
+      "armor_info_id": "1070",
+      "rank": "1"
+    },
+    {
+      "profile_id": "95",
+      "armor_info_id": "1071",
+      "rank": "1"
+    },
+    {
+      "profile_id": "95",
+      "armor_info_id": "1072",
+      "rank": "1"
+    },
+    {
+      "profile_id": "95",
+      "armor_info_id": "1073",
+      "rank": "1"
+    },
+    {
+      "profile_id": "95",
+      "armor_info_id": "1074",
+      "rank": "1"
+    },
+    {
+      "profile_id": "156",
+      "armor_info_id": "1193",
+      "rank": "1"
+    },
+    {
+      "profile_id": "156",
+      "armor_info_id": "1194",
+      "rank": "1"
+    },
+    {
+      "profile_id": "156",
+      "armor_info_id": "1195",
+      "rank": "1"
+    },
+    {
+      "profile_id": "156",
+      "armor_info_id": "1196",
+      "rank": "1"
+    },
+    {
+      "profile_id": "156",
+      "armor_info_id": "1197",
+      "rank": "1"
+    },
+    {
+      "profile_id": "156",
+      "armor_info_id": "1198",
+      "rank": "1"
+    },
+    {
+      "profile_id": "210",
+      "armor_info_id": "1069",
+      "rank": "1"
+    },
+    {
+      "profile_id": "210",
+      "armor_info_id": "1070",
+      "rank": "1"
+    },
+    {
+      "profile_id": "210",
+      "armor_info_id": "1071",
+      "rank": "1"
+    },
+    {
+      "profile_id": "210",
+      "armor_info_id": "1072",
+      "rank": "1"
+    },
+    {
+      "profile_id": "210",
+      "armor_info_id": "1073",
+      "rank": "1"
+    },
+    {
+      "profile_id": "210",
+      "armor_info_id": "1074",
+      "rank": "1"
+    },
+    {
+      "profile_id": "211",
+      "armor_info_id": "160",
+      "rank": "1"
+    },
+    {
+      "profile_id": "211",
+      "armor_info_id": "161",
+      "rank": "1"
+    },
+    {
+      "profile_id": "211",
+      "armor_info_id": "162",
+      "rank": "1"
+    },
+    {
+      "profile_id": "211",
+      "armor_info_id": "163",
+      "rank": "1"
+    },
+    {
+      "profile_id": "211",
+      "armor_info_id": "164",
+      "rank": "1"
+    },
+    {
+      "profile_id": "211",
+      "armor_info_id": "165",
+      "rank": "1"
+    },
+    {
+      "profile_id": "272",
+      "armor_info_id": "1206",
+      "rank": "1"
+    }
+  ],
+  "returned": 91
+}

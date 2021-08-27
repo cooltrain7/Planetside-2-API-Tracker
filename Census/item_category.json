@@ -1,0 +1,497 @@
+{
+  "item_category_list": [
+    {
+      "item_category_id": "2",
+      "name": {
+        "en": "Knife"
+      }
+    },
+    {
+      "item_category_id": "3",
+      "name": {
+        "en": "Pistol"
+      }
+    },
+    {
+      "item_category_id": "4",
+      "name": {
+        "en": "Shotgun"
+      }
+    },
+    {
+      "item_category_id": "5",
+      "name": {
+        "en": "SMG"
+      }
+    },
+    {
+      "item_category_id": "6",
+      "name": {
+        "en": "LMG"
+      }
+    },
+    {
+      "item_category_id": "7",
+      "name": {
+        "en": "Assault Rifle"
+      }
+    },
+    {
+      "item_category_id": "8",
+      "name": {
+        "en": "Carbine"
+      }
+    },
+    {
+      "item_category_id": "9",
+      "name": {
+        "en": "AV MAX (Left)"
+      }
+    },
+    {
+      "item_category_id": "10",
+      "name": {
+        "en": "AI MAX (Left)"
+      }
+    },
+    {
+      "item_category_id": "11",
+      "name": {
+        "en": "Sniper Rifle"
+      }
+    },
+    {
+      "item_category_id": "12",
+      "name": {
+        "en": "Scout Rifle"
+      }
+    },
+    {
+      "item_category_id": "13",
+      "name": {
+        "en": "Rocket Launcher"
+      }
+    },
+    {
+      "item_category_id": "14",
+      "name": {
+        "en": "Heavy Weapon"
+      }
+    },
+    {
+      "item_category_id": "15",
+      "name": {
+        "en": "Flamethrower MAX"
+      }
+    },
+    {
+      "item_category_id": "16",
+      "name": {
+        "en": "Flak MAX"
+      }
+    },
+    {
+      "item_category_id": "17",
+      "name": {
+        "en": "Grenade"
+      }
+    },
+    {
+      "item_category_id": "18",
+      "name": {
+        "en": "Explosive"
+      }
+    },
+    {
+      "item_category_id": "19",
+      "name": {
+        "en": "Battle Rifle"
+      }
+    },
+    {
+      "item_category_id": "20",
+      "name": {
+        "en": "AA MAX (Right)"
+      }
+    },
+    {
+      "item_category_id": "21",
+      "name": {
+        "en": "AV MAX (Right)"
+      }
+    },
+    {
+      "item_category_id": "22",
+      "name": {
+        "en": "AI MAX (Right)"
+      }
+    },
+    {
+      "item_category_id": "23",
+      "name": {
+        "en": "AA MAX (Left)"
+      }
+    },
+    {
+      "item_category_id": "24",
+      "name": {
+        "en": "Crossbow"
+      }
+    },
+    {
+      "item_category_id": "99",
+      "name": {
+        "en": "Camo"
+      }
+    },
+    {
+      "item_category_id": "100",
+      "name": {
+        "en": "Infantry"
+      }
+    },
+    {
+      "item_category_id": "101",
+      "name": {
+        "en": "Vehicles"
+      }
+    },
+    {
+      "item_category_id": "102",
+      "name": {
+        "en": "Infantry Weapons"
+      }
+    },
+    {
+      "item_category_id": "103",
+      "name": {
+        "en": "Infantry Gear"
+      }
+    },
+    {
+      "item_category_id": "104",
+      "name": {
+        "en": "Vehicle Weapons"
+      }
+    },
+    {
+      "item_category_id": "105",
+      "name": {
+        "en": "Vehicle Gear"
+      }
+    },
+    {
+      "item_category_id": "106",
+      "name": {
+        "en": "Armor Camo"
+      }
+    },
+    {
+      "item_category_id": "107",
+      "name": {
+        "en": "Weapon Camo"
+      }
+    },
+    {
+      "item_category_id": "108",
+      "name": {
+        "en": "Vehicle Camo"
+      }
+    },
+    {
+      "item_category_id": "109",
+      "name": {
+        "en": "Flash Primary Weapon"
+      }
+    },
+    {
+      "item_category_id": "110",
+      "name": {
+        "en": "Galaxy Left Weapon"
+      }
+    },
+    {
+      "item_category_id": "111",
+      "name": {
+        "en": "Galaxy Tail Weapon"
+      }
+    },
+    {
+      "item_category_id": "112",
+      "name": {
+        "en": "Galaxy Right Weapon"
+      }
+    },
+    {
+      "item_category_id": "113",
+      "name": {
+        "en": "Galaxy Top Weapon"
+      }
+    },
+    {
+      "item_category_id": "114",
+      "name": {
+        "en": "Harasser Top Gunner"
+      }
+    },
+    {
+      "item_category_id": "115",
+      "name": {
+        "en": "Liberator Belly Weapon"
+      }
+    },
+    {
+      "item_category_id": "116",
+      "name": {
+        "en": "Liberator Nose Cannon"
+      }
+    },
+    {
+      "item_category_id": "117",
+      "name": {
+        "en": "Liberator Tail Weapon"
+      }
+    },
+    {
+      "item_category_id": "118",
+      "name": {
+        "en": "Lightning Primary Weapon "
+      }
+    },
+    {
+      "item_category_id": "119",
+      "name": {
+        "en": "Magrider Gunner Weapon"
+      }
+    },
+    {
+      "item_category_id": "120",
+      "name": {
+        "en": "Magrider Primary Weapon"
+      }
+    },
+    {
+      "item_category_id": "121",
+      "name": {
+        "en": "Mosquito Nose Cannon"
+      }
+    },
+    {
+      "item_category_id": "122",
+      "name": {
+        "en": "Mosquito Wing Mount"
+      }
+    },
+    {
+      "item_category_id": "123",
+      "name": {
+        "en": "Prowler Gunner Weapon"
+      }
+    },
+    {
+      "item_category_id": "124",
+      "name": {
+        "en": "Prowler Primary Weapon"
+      }
+    },
+    {
+      "item_category_id": "125",
+      "name": {
+        "en": "Reaver Nose Cannon"
+      }
+    },
+    {
+      "item_category_id": "126",
+      "name": {
+        "en": "Reaver Wing Mount"
+      }
+    },
+    {
+      "item_category_id": "127",
+      "name": {
+        "en": "Scythe Nose Cannon"
+      }
+    },
+    {
+      "item_category_id": "128",
+      "name": {
+        "en": "Scythe Wing Mount"
+      }
+    },
+    {
+      "item_category_id": "129",
+      "name": {
+        "en": "Sunderer Front Gunner"
+      }
+    },
+    {
+      "item_category_id": "130",
+      "name": {
+        "en": "Sunderer Rear Gunner"
+      }
+    },
+    {
+      "item_category_id": "131",
+      "name": {
+        "en": "Vanguard Gunner Weapon"
+      }
+    },
+    {
+      "item_category_id": "132",
+      "name": {
+        "en": "Vanguard Primary Weapon"
+      }
+    },
+    {
+      "item_category_id": "133",
+      "name": {
+        "en": "Implants"
+      }
+    },
+    {
+      "item_category_id": "134",
+      "name": {
+        "en": "Consolidated Camo"
+      }
+    },
+    {
+      "item_category_id": "135",
+      "name": {
+        "en": "VO Packs"
+      }
+    },
+    {
+      "item_category_id": "136",
+      "name": {
+        "en": "Male VO Pack"
+      }
+    },
+    {
+      "item_category_id": "137",
+      "name": {
+        "en": "Female VO Pack"
+      }
+    },
+    {
+      "item_category_id": "138",
+      "name": {
+        "en": "Valkyrie Nose Gunner"
+      }
+    },
+    {
+      "item_category_id": "139",
+      "name": {
+        "en": "Infantry Abilities"
+      }
+    },
+    {
+      "item_category_id": "140",
+      "name": {
+        "en": "Vehicle Abilities"
+      }
+    },
+    {
+      "item_category_id": "141",
+      "name": {
+        "en": "Boosts & Utilities"
+      }
+    },
+    {
+      "item_category_id": "142",
+      "name": {
+        "en": "Consolidated Decal"
+      }
+    },
+    {
+      "item_category_id": "143",
+      "name": {
+        "en": "Attachments"
+      }
+    },
+    {
+      "item_category_id": "144",
+      "name": {
+        "en": "ANT Top Turret"
+      }
+    },
+    {
+      "item_category_id": "145",
+      "name": {
+        "en": "ANT Utility"
+      }
+    },
+    {
+      "item_category_id": "147",
+      "name": {
+        "en": "Aerial Combat Weapon"
+      }
+    },
+    {
+      "item_category_id": "148",
+      "name": {
+        "en": "ANT Harvesting Tool"
+      }
+    },
+    {
+      "item_category_id": "157",
+      "name": {
+        "en": "Hybrid Rifle"
+      }
+    },
+    {
+      "item_category_id": "207",
+      "name": {
+        "en": "Weapon"
+      }
+    },
+    {
+      "item_category_id": "208",
+      "name": {
+        "en": "Bastion Point Defense"
+      }
+    },
+    {
+      "item_category_id": "209",
+      "name": {
+        "en": "Bastion Bombard"
+      }
+    },
+    {
+      "item_category_id": "210",
+      "name": {
+        "en": "Bastion Weapon System"
+      }
+    },
+    {
+      "item_category_id": "211",
+      "name": {
+        "en": "Colossus Primary Weapon"
+      }
+    },
+    {
+      "item_category_id": "212",
+      "name": {
+        "en": "Colossus Front Right Weapon"
+      }
+    },
+    {
+      "item_category_id": "213",
+      "name": {
+        "en": "Colossus Front Left Weapon"
+      }
+    },
+    {
+      "item_category_id": "214",
+      "name": {
+        "en": "Colossus Rear Right Weapon"
+      }
+    },
+    {
+      "item_category_id": "215",
+      "name": {
+        "en": "Colossus Rear Left Weapon"
+      }
+    }
+  ],
+  "returned": 82
+}
