@@ -15,5 +15,8 @@
 **DBG API Email** : *Found an issue with the streaming or census api? Contact DBG via the following email (For use in moderation, don't bitch and whine into it)*
 `data-feedback@daybreakgames.com`
 
+**Zone ID Guide** : *An excellent guide into Zone IDS inside the census by Pocok*
+<https://github.com/cooltrain7/Planetside-2-API-Tracker/wiki/Zone-ID-Tutorial>
+
 **Your Link Here** : *Created a resource or tool that others might find useful? Want your link included here? Create an issue (with the Discord Pin Update label attached) or open a pull request with the changes.*
 <https://github.com/cooltrain7/Planetside-2-API-Tracker/issues/new>
