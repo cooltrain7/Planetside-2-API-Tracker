@@ -1334,6 +1334,7 @@
 26002,Sniper Rifle,Phantom VA23,infantry
 6008496,Sniper Rifle,PSA-01 Hammerhead AMR,infantry
 88,Sniper Rifle,99SV,sniper
+6006850,Sniper Rifle,ADVX // Mako,sniper
 7301,Sniper Rifle,AF-8 RailJack,sniper
 1974,Sniper Rifle,Bighorn .50M,sniper
 24004,Sniper Rifle,EM4 Longshot,sniper
@@ -1355,7 +1356,6 @@
 24001,Sniper Rifle,SAS-R,sniper
 6010510,Sniper Rifle,SR-100,sniper
 6010512,Sniper Rifle,SR-150,sniper
-6006850,Sniper Rifle,SR-200,sniper
 25003,Sniper Rifle,SR-7,sniper
 6011255,Sniper Rifle,SR-ARX Einstein,sniper
 6010511,Sniper Rifle,SR-L75,sniper
@@ -1454,7 +1454,7 @@
 3730,Vanguard Primary Weapon,Titan-150 AP,armor
 3700,Vanguard Primary Weapon,Titan-150 HEAT,armor
 3731,Vanguard Primary Weapon,Titan-150 HESH,armor
-6008733,Vehicle Abilities,NEST Launcher,none
+6008733,Vehicle Abilities,JVN-MM N.E.S.T.,none
 728,Vehicle Weapons,UNKNOWN Vehicle Weapons #728,
 729,Vehicle Weapons,UNKNOWN Vehicle Weapons #729,
 731,Vehicle Weapons,UNKNOWN Vehicle Weapons #731,
