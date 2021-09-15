@@ -18973,7 +18973,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "When equipped, grants access to a munitions pouch that is used to carry additional rockets."
+        "en": "Allows the Heavy Assault to carry additional rocket launcher magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -18988,7 +18988,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "When equipped, grants access to a munitions pouch that is used to carry additional rockets."
+        "en": "Allows the Heavy Assault to carry additional rocket launcher magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -19003,7 +19003,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "When equipped, grants access to a munitions pouch that is used to carry additional rockets."
+        "en": "Allows the Heavy Assault to carry additional rocket launcher magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -44461,7 +44461,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "When equipped, grants access to a munitions pouch that is used to carry additional rockets."
+        "en": "Allows the Heavy Assault to carry additional rocket launcher magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -44476,7 +44476,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "When equipped, grants access to a munitions pouch that is used to carry additional rockets."
+        "en": "Allows the Heavy Assault to carry additional rocket launcher magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -44491,7 +44491,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "When equipped, grants access to a munitions pouch that is used to carry additional rockets."
+        "en": "Allows the Heavy Assault to carry additional rocket launcher magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -92843,7 +92843,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines."
+        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -92858,7 +92858,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines."
+        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -92873,7 +92873,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines."
+        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -94448,7 +94448,7 @@
         "en": "Ocular Shield"
       },
       "description": {
-        "en": "Reduces the duration and effectiveness of Flash, Concussion, and EMP grenades used against you."
+        "en": "Reduces the duration of Flash, Concussion, and EMP grenades used against you."
       },
       "image_set_id": "13310",
       "image_id": "14302",
@@ -95008,7 +95008,7 @@
         "en": "Assassin"
       },
       "description": {
-        "en": "Killing enemies clears spot attempts against you."
+        "en": "Marks enemies you damage, and killing enemies clears spot attempts against you."
       },
       "image_set_id": "13325",
       "image_id": "14347",
@@ -96720,7 +96720,7 @@
         "en": "Cold Heart"
       },
       "description": {
-        "en": "Your heat weapons cool off faster after a headshot kill."
+        "en": "Activate coolant systems that reduce incoming burning damage and prevent you from being detected by radar."
       },
       "image_set_id": "803877",
       "image_id": "87720",
@@ -96790,7 +96790,7 @@
         "en": "Avoidance"
       },
       "description": {
-        "en": "Your movements no longer trigger Claymores, Proximity Mines, or Bouncing Betty, and the range at which Spitfire Turrets can acquire you is reduced by 50%."
+        "en": "Your movements no longer trigger anti-infantry mines, and you are no longer targeted by Spitfire turrets."
       },
       "image_set_id": "804528",
       "image_id": "89583",
@@ -96818,7 +96818,7 @@
         "en": "Experimental Stims"
       },
       "description": {
-        "en": "When using a Medical Kit or Restoration Kit, you receive a random increase to sprint speed, reload speed, or small arms resistance for a short time."
+        "en": "Using a Stim will also provide 12 seconds of benefit from another rank 5 implant. The implant chosen is random from this list: Safe Fall, Vampire, Battle Hardened, Heavyweight, Response Jacket. Experimental Stims only triggers when there is no active benefit."
       },
       "image_set_id": "803876",
       "image_id": "87717",
@@ -97073,7 +97073,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "When equipped, grants access to a munitions pouch that is used to carry additional rockets."
+        "en": "Allows the Heavy Assault to carry additional rocket launcher magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",
@@ -98138,7 +98138,7 @@
         "en": "Munitions Pouch"
       },
       "description": {
-        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines."
+        "en": "Allows the Light Assault to carry additional Rocklet Rifle magazines, and auto-reloads holstered Tools."
       },
       "image_set_id": "2013",
       "image_id": "3672",

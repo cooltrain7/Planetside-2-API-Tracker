@@ -852,7 +852,7 @@
         "en": "Primary: Sniper Rifle: VA39 Spectre"
       },
       "description": {
-        "en": "The VA39 Spectre semi-automatic sniper rifle is the standard squad support weapon of Vanu Sovereignty Infiltrators. VS use only."
+        "en": "The semi-automatic VA39 Spectre sniper rifle is popular among Vanu Sovereignty infiltrators for supporting their squads from a safe distance. VS use only."
       },
       "image_set_id": "913",
       "image_id": "2368",
@@ -866,7 +866,7 @@
         "en": "Primary: Sniper Rifle: XM98"
       },
       "description": {
-        "en": "The bolt-action XM98's dialed-in power core interface draws allows for a remarkably versatile plasma sniper rifle. VS use only."
+        "en": "The bolt-action XM98's dialed-in power core interface allows for a remarkably versatile plasma sniper rifle. VS use only."
       },
       "image_set_id": "913",
       "image_id": "2368",
@@ -1144,7 +1144,7 @@
         "en": "Primary: Sniper Rifle: 99SV"
       },
       "description": {
-        "en": "The 99SV is the standard issue semi-automatic sniper rifle of TR Infiltrators. An accurized variant of the DMR-99, the 99SV allows the shooter to hit multiple follow-up shots at long range. TR use only."
+        "en": "The 99SV is a reliable semi-automatic sniper rifle, sometimes favored by new infiltrator recruits. The 99SV allows the shooter to hit multiple follow-up shots at long range. TR use only."
       },
       "image_set_id": "901",
       "image_id": "2356",
