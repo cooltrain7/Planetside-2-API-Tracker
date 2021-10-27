@@ -1,0 +1,25 @@
+{
+  "fire_mode_type_list": [
+    {
+      "fire_mode_type_id": "0",
+      "description": "Projectile"
+    },
+    {
+      "fire_mode_type_id": "1",
+      "description": "IronSight"
+    },
+    {
+      "fire_mode_type_id": "3",
+      "description": "Melee"
+    },
+    {
+      "fire_mode_type_id": "8",
+      "description": "Trigger Item Ability"
+    },
+    {
+      "fire_mode_type_id": "12",
+      "description": "Thrown"
+    }
+  ],
+  "returned": 5
+}

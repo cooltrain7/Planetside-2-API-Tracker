@@ -1,0 +1,5973 @@
+{
+  "fire_mode_to_projectile_list": [
+    {
+      "fire_mode_id": "2",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "3",
+      "projectile_id": "18000"
+    },
+    {
+      "fire_mode_id": "4",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "6",
+      "projectile_id": "186"
+    },
+    {
+      "fire_mode_id": "8",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "9",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "10",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "11",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "13",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "14",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "15",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "18",
+      "projectile_id": "80150"
+    },
+    {
+      "fire_mode_id": "19",
+      "projectile_id": "10011"
+    },
+    {
+      "fire_mode_id": "20",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "21",
+      "projectile_id": "10010"
+    },
+    {
+      "fire_mode_id": "25",
+      "projectile_id": "112"
+    },
+    {
+      "fire_mode_id": "26",
+      "projectile_id": "113"
+    },
+    {
+      "fire_mode_id": "27",
+      "projectile_id": "35000"
+    },
+    {
+      "fire_mode_id": "28",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "29",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "30",
+      "projectile_id": "117"
+    },
+    {
+      "fire_mode_id": "31",
+      "projectile_id": "66"
+    },
+    {
+      "fire_mode_id": "32",
+      "projectile_id": "67"
+    },
+    {
+      "fire_mode_id": "33",
+      "projectile_id": "68"
+    },
+    {
+      "fire_mode_id": "37",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "38",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "39",
+      "projectile_id": "80041"
+    },
+    {
+      "fire_mode_id": "48",
+      "projectile_id": "69"
+    },
+    {
+      "fire_mode_id": "49",
+      "projectile_id": "49"
+    },
+    {
+      "fire_mode_id": "51",
+      "projectile_id": "251"
+    },
+    {
+      "fire_mode_id": "52",
+      "projectile_id": "252"
+    },
+    {
+      "fire_mode_id": "53",
+      "projectile_id": "253"
+    },
+    {
+      "fire_mode_id": "54",
+      "projectile_id": "254"
+    },
+    {
+      "fire_mode_id": "55",
+      "projectile_id": "255"
+    },
+    {
+      "fire_mode_id": "74",
+      "projectile_id": "74"
+    },
+    {
+      "fire_mode_id": "75",
+      "projectile_id": "75"
+    },
+    {
+      "fire_mode_id": "80",
+      "projectile_id": "91"
+    },
+    {
+      "fire_mode_id": "81",
+      "projectile_id": "92"
+    },
+    {
+      "fire_mode_id": "82",
+      "projectile_id": "118"
+    },
+    {
+      "fire_mode_id": "83",
+      "projectile_id": "119"
+    },
+    {
+      "fire_mode_id": "84",
+      "projectile_id": "120"
+    },
+    {
+      "fire_mode_id": "85",
+      "projectile_id": "121"
+    },
+    {
+      "fire_mode_id": "86",
+      "projectile_id": "122"
+    },
+    {
+      "fire_mode_id": "87",
+      "projectile_id": "91"
+    },
+    {
+      "fire_mode_id": "88",
+      "projectile_id": "118"
+    },
+    {
+      "fire_mode_id": "89",
+      "projectile_id": "119"
+    },
+    {
+      "fire_mode_id": "90",
+      "projectile_id": "120"
+    },
+    {
+      "fire_mode_id": "91",
+      "projectile_id": "121"
+    },
+    {
+      "fire_mode_id": "92",
+      "projectile_id": "122"
+    },
+    {
+      "fire_mode_id": "95",
+      "projectile_id": "10110"
+    },
+    {
+      "fire_mode_id": "96",
+      "projectile_id": "10110"
+    },
+    {
+      "fire_mode_id": "97",
+      "projectile_id": "42000"
+    },
+    {
+      "fire_mode_id": "98",
+      "projectile_id": "42000"
+    },
+    {
+      "fire_mode_id": "102",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "103",
+      "projectile_id": "18000"
+    },
+    {
+      "fire_mode_id": "104",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "108",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "109",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "110",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "111",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "113",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "114",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "115",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "119",
+      "projectile_id": "10011"
+    },
+    {
+      "fire_mode_id": "120",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "121",
+      "projectile_id": "10010"
+    },
+    {
+      "fire_mode_id": "125",
+      "projectile_id": "112"
+    },
+    {
+      "fire_mode_id": "126",
+      "projectile_id": "113"
+    },
+    {
+      "fire_mode_id": "127",
+      "projectile_id": "35000"
+    },
+    {
+      "fire_mode_id": "128",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "129",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "130",
+      "projectile_id": "117"
+    },
+    {
+      "fire_mode_id": "137",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "138",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "300",
+      "projectile_id": "5"
+    },
+    {
+      "fire_mode_id": "301",
+      "projectile_id": "10"
+    },
+    {
+      "fire_mode_id": "302",
+      "projectile_id": "13"
+    },
+    {
+      "fire_mode_id": "303",
+      "projectile_id": "62"
+    },
+    {
+      "fire_mode_id": "304",
+      "projectile_id": "70023"
+    },
+    {
+      "fire_mode_id": "305",
+      "projectile_id": "60"
+    },
+    {
+      "fire_mode_id": "306",
+      "projectile_id": "4"
+    },
+    {
+      "fire_mode_id": "307",
+      "projectile_id": "5"
+    },
+    {
+      "fire_mode_id": "308",
+      "projectile_id": "10"
+    },
+    {
+      "fire_mode_id": "309",
+      "projectile_id": "13"
+    },
+    {
+      "fire_mode_id": "310",
+      "projectile_id": "15"
+    },
+    {
+      "fire_mode_id": "311",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "312",
+      "projectile_id": "17"
+    },
+    {
+      "fire_mode_id": "313",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "314",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "315",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "316",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "317",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "318",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "320",
+      "projectile_id": "15"
+    },
+    {
+      "fire_mode_id": "321",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "322",
+      "projectile_id": "17"
+    },
+    {
+      "fire_mode_id": "323",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "324",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "325",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "326",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "327",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "328",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "329",
+      "projectile_id": "62"
+    },
+    {
+      "fire_mode_id": "330",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "331",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "340",
+      "projectile_id": "19"
+    },
+    {
+      "fire_mode_id": "341",
+      "projectile_id": "20"
+    },
+    {
+      "fire_mode_id": "342",
+      "projectile_id": "21"
+    },
+    {
+      "fire_mode_id": "348",
+      "projectile_id": "56"
+    },
+    {
+      "fire_mode_id": "349",
+      "projectile_id": "9"
+    },
+    {
+      "fire_mode_id": "350",
+      "projectile_id": "6"
+    },
+    {
+      "fire_mode_id": "351",
+      "projectile_id": "25"
+    },
+    {
+      "fire_mode_id": "352",
+      "projectile_id": "33"
+    },
+    {
+      "fire_mode_id": "353",
+      "projectile_id": "29"
+    },
+    {
+      "fire_mode_id": "354",
+      "projectile_id": "30"
+    },
+    {
+      "fire_mode_id": "355",
+      "projectile_id": "31"
+    },
+    {
+      "fire_mode_id": "356",
+      "projectile_id": "26"
+    },
+    {
+      "fire_mode_id": "359",
+      "projectile_id": "18"
+    },
+    {
+      "fire_mode_id": "360",
+      "projectile_id": "43"
+    },
+    {
+      "fire_mode_id": "361",
+      "projectile_id": "44"
+    },
+    {
+      "fire_mode_id": "364",
+      "projectile_id": "11"
+    },
+    {
+      "fire_mode_id": "365",
+      "projectile_id": "32"
+    },
+    {
+      "fire_mode_id": "369",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "370",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "371",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "372",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "373",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "374",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "375",
+      "projectile_id": "4"
+    },
+    {
+      "fire_mode_id": "376",
+      "projectile_id": "28"
+    },
+    {
+      "fire_mode_id": "377",
+      "projectile_id": "57"
+    },
+    {
+      "fire_mode_id": "378",
+      "projectile_id": "70023"
+    },
+    {
+      "fire_mode_id": "379",
+      "projectile_id": "60"
+    },
+    {
+      "fire_mode_id": "380",
+      "projectile_id": "9"
+    },
+    {
+      "fire_mode_id": "381",
+      "projectile_id": "12"
+    },
+    {
+      "fire_mode_id": "382",
+      "projectile_id": "58"
+    },
+    {
+      "fire_mode_id": "383",
+      "projectile_id": "80184"
+    },
+    {
+      "fire_mode_id": "384",
+      "projectile_id": "80183"
+    },
+    {
+      "fire_mode_id": "385",
+      "projectile_id": "38"
+    },
+    {
+      "fire_mode_id": "386",
+      "projectile_id": "8"
+    },
+    {
+      "fire_mode_id": "387",
+      "projectile_id": "3"
+    },
+    {
+      "fire_mode_id": "388",
+      "projectile_id": "59"
+    },
+    {
+      "fire_mode_id": "389",
+      "projectile_id": "61"
+    },
+    {
+      "fire_mode_id": "390",
+      "projectile_id": "14"
+    },
+    {
+      "fire_mode_id": "391",
+      "projectile_id": "7"
+    },
+    {
+      "fire_mode_id": "392",
+      "projectile_id": "33"
+    },
+    {
+      "fire_mode_id": "393",
+      "projectile_id": "29"
+    },
+    {
+      "fire_mode_id": "394",
+      "projectile_id": "18"
+    },
+    {
+      "fire_mode_id": "395",
+      "projectile_id": "11"
+    },
+    {
+      "fire_mode_id": "396",
+      "projectile_id": "32"
+    },
+    {
+      "fire_mode_id": "397",
+      "projectile_id": "25"
+    },
+    {
+      "fire_mode_id": "398",
+      "projectile_id": "30"
+    },
+    {
+      "fire_mode_id": "399",
+      "projectile_id": "26"
+    },
+    {
+      "fire_mode_id": "401",
+      "projectile_id": "43"
+    },
+    {
+      "fire_mode_id": "402",
+      "projectile_id": "80190"
+    },
+    {
+      "fire_mode_id": "403",
+      "projectile_id": "80189"
+    },
+    {
+      "fire_mode_id": "404",
+      "projectile_id": "36"
+    },
+    {
+      "fire_mode_id": "405",
+      "projectile_id": "80190"
+    },
+    {
+      "fire_mode_id": "406",
+      "projectile_id": "80189"
+    },
+    {
+      "fire_mode_id": "407",
+      "projectile_id": "36"
+    },
+    {
+      "fire_mode_id": "409",
+      "projectile_id": "80184"
+    },
+    {
+      "fire_mode_id": "410",
+      "projectile_id": "80183"
+    },
+    {
+      "fire_mode_id": "411",
+      "projectile_id": "38"
+    },
+    {
+      "fire_mode_id": "412",
+      "projectile_id": "40"
+    },
+    {
+      "fire_mode_id": "413",
+      "projectile_id": "41"
+    },
+    {
+      "fire_mode_id": "414",
+      "projectile_id": "42"
+    },
+    {
+      "fire_mode_id": "415",
+      "projectile_id": "8"
+    },
+    {
+      "fire_mode_id": "416",
+      "projectile_id": "61"
+    },
+    {
+      "fire_mode_id": "417",
+      "projectile_id": "14"
+    },
+    {
+      "fire_mode_id": "418",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "419",
+      "projectile_id": "28"
+    },
+    {
+      "fire_mode_id": "420",
+      "projectile_id": "7"
+    },
+    {
+      "fire_mode_id": "423",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "424",
+      "projectile_id": "12"
+    },
+    {
+      "fire_mode_id": "426",
+      "projectile_id": "70025"
+    },
+    {
+      "fire_mode_id": "427",
+      "projectile_id": "70026"
+    },
+    {
+      "fire_mode_id": "428",
+      "projectile_id": "70027"
+    },
+    {
+      "fire_mode_id": "429",
+      "projectile_id": "45"
+    },
+    {
+      "fire_mode_id": "430",
+      "projectile_id": "46"
+    },
+    {
+      "fire_mode_id": "431",
+      "projectile_id": "47"
+    },
+    {
+      "fire_mode_id": "432",
+      "projectile_id": "79"
+    },
+    {
+      "fire_mode_id": "433",
+      "projectile_id": "80"
+    },
+    {
+      "fire_mode_id": "434",
+      "projectile_id": "81"
+    },
+    {
+      "fire_mode_id": "435",
+      "projectile_id": "80194"
+    },
+    {
+      "fire_mode_id": "436",
+      "projectile_id": "89"
+    },
+    {
+      "fire_mode_id": "437",
+      "projectile_id": "80082"
+    },
+    {
+      "fire_mode_id": "438",
+      "projectile_id": "70025"
+    },
+    {
+      "fire_mode_id": "439",
+      "projectile_id": "70026"
+    },
+    {
+      "fire_mode_id": "440",
+      "projectile_id": "70027"
+    },
+    {
+      "fire_mode_id": "441",
+      "projectile_id": "79"
+    },
+    {
+      "fire_mode_id": "442",
+      "projectile_id": "80"
+    },
+    {
+      "fire_mode_id": "443",
+      "projectile_id": "81"
+    },
+    {
+      "fire_mode_id": "444",
+      "projectile_id": "80194"
+    },
+    {
+      "fire_mode_id": "445",
+      "projectile_id": "89"
+    },
+    {
+      "fire_mode_id": "446",
+      "projectile_id": "80082"
+    },
+    {
+      "fire_mode_id": "447",
+      "projectile_id": "89"
+    },
+    {
+      "fire_mode_id": "448",
+      "projectile_id": "89"
+    },
+    {
+      "fire_mode_id": "450",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "451",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "452",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "453",
+      "projectile_id": "57"
+    },
+    {
+      "fire_mode_id": "454",
+      "projectile_id": "58"
+    },
+    {
+      "fire_mode_id": "455",
+      "projectile_id": "3"
+    },
+    {
+      "fire_mode_id": "456",
+      "projectile_id": "130"
+    },
+    {
+      "fire_mode_id": "457",
+      "projectile_id": "131"
+    },
+    {
+      "fire_mode_id": "458",
+      "projectile_id": "132"
+    },
+    {
+      "fire_mode_id": "459",
+      "projectile_id": "135"
+    },
+    {
+      "fire_mode_id": "460",
+      "projectile_id": "136"
+    },
+    {
+      "fire_mode_id": "461",
+      "projectile_id": "137"
+    },
+    {
+      "fire_mode_id": "462",
+      "projectile_id": "45"
+    },
+    {
+      "fire_mode_id": "463",
+      "projectile_id": "46"
+    },
+    {
+      "fire_mode_id": "464",
+      "projectile_id": "47"
+    },
+    {
+      "fire_mode_id": "465",
+      "projectile_id": "48"
+    },
+    {
+      "fire_mode_id": "466",
+      "projectile_id": "48"
+    },
+    {
+      "fire_mode_id": "476",
+      "projectile_id": "59"
+    },
+    {
+      "fire_mode_id": "480",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "481",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "482",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "483",
+      "projectile_id": "139"
+    },
+    {
+      "fire_mode_id": "484",
+      "projectile_id": "140"
+    },
+    {
+      "fire_mode_id": "485",
+      "projectile_id": "141"
+    },
+    {
+      "fire_mode_id": "486",
+      "projectile_id": "56"
+    },
+    {
+      "fire_mode_id": "487",
+      "projectile_id": "6"
+    },
+    {
+      "fire_mode_id": "488",
+      "projectile_id": "31"
+    },
+    {
+      "fire_mode_id": "489",
+      "projectile_id": "44"
+    },
+    {
+      "fire_mode_id": "490",
+      "projectile_id": "40"
+    },
+    {
+      "fire_mode_id": "491",
+      "projectile_id": "41"
+    },
+    {
+      "fire_mode_id": "492",
+      "projectile_id": "42"
+    },
+    {
+      "fire_mode_id": "493",
+      "projectile_id": "80188"
+    },
+    {
+      "fire_mode_id": "494",
+      "projectile_id": "80187"
+    },
+    {
+      "fire_mode_id": "495",
+      "projectile_id": "37"
+    },
+    {
+      "fire_mode_id": "496",
+      "projectile_id": "80188"
+    },
+    {
+      "fire_mode_id": "497",
+      "projectile_id": "80187"
+    },
+    {
+      "fire_mode_id": "498",
+      "projectile_id": "37"
+    },
+    {
+      "fire_mode_id": "499",
+      "projectile_id": "80186"
+    },
+    {
+      "fire_mode_id": "500",
+      "projectile_id": "80185"
+    },
+    {
+      "fire_mode_id": "501",
+      "projectile_id": "39"
+    },
+    {
+      "fire_mode_id": "502",
+      "projectile_id": "80186"
+    },
+    {
+      "fire_mode_id": "503",
+      "projectile_id": "80185"
+    },
+    {
+      "fire_mode_id": "504",
+      "projectile_id": "39"
+    },
+    {
+      "fire_mode_id": "505",
+      "projectile_id": "19"
+    },
+    {
+      "fire_mode_id": "506",
+      "projectile_id": "20"
+    },
+    {
+      "fire_mode_id": "507",
+      "projectile_id": "21"
+    },
+    {
+      "fire_mode_id": "508",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "509",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "510",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "511",
+      "projectile_id": "130"
+    },
+    {
+      "fire_mode_id": "512",
+      "projectile_id": "131"
+    },
+    {
+      "fire_mode_id": "513",
+      "projectile_id": "132"
+    },
+    {
+      "fire_mode_id": "514",
+      "projectile_id": "135"
+    },
+    {
+      "fire_mode_id": "515",
+      "projectile_id": "136"
+    },
+    {
+      "fire_mode_id": "516",
+      "projectile_id": "137"
+    },
+    {
+      "fire_mode_id": "517",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "518",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "519",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "520",
+      "projectile_id": "139"
+    },
+    {
+      "fire_mode_id": "521",
+      "projectile_id": "140"
+    },
+    {
+      "fire_mode_id": "522",
+      "projectile_id": "141"
+    },
+    {
+      "fire_mode_id": "523",
+      "projectile_id": "90"
+    },
+    {
+      "fire_mode_id": "524",
+      "projectile_id": "90"
+    },
+    {
+      "fire_mode_id": "525",
+      "projectile_id": "93"
+    },
+    {
+      "fire_mode_id": "526",
+      "projectile_id": "93"
+    },
+    {
+      "fire_mode_id": "527",
+      "projectile_id": "142"
+    },
+    {
+      "fire_mode_id": "535",
+      "projectile_id": "146"
+    },
+    {
+      "fire_mode_id": "536",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "537",
+      "projectile_id": "148"
+    },
+    {
+      "fire_mode_id": "538",
+      "projectile_id": "146"
+    },
+    {
+      "fire_mode_id": "539",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "540",
+      "projectile_id": "148"
+    },
+    {
+      "fire_mode_id": "541",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "542",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "543",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "544",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "545",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "546",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "547",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "548",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "549",
+      "projectile_id": "80123"
+    },
+    {
+      "fire_mode_id": "550",
+      "projectile_id": "80123"
+    },
+    {
+      "fire_mode_id": "551",
+      "projectile_id": "80124"
+    },
+    {
+      "fire_mode_id": "552",
+      "projectile_id": "80124"
+    },
+    {
+      "fire_mode_id": "577",
+      "projectile_id": "190"
+    },
+    {
+      "fire_mode_id": "578",
+      "projectile_id": "191"
+    },
+    {
+      "fire_mode_id": "579",
+      "projectile_id": "192"
+    },
+    {
+      "fire_mode_id": "580",
+      "projectile_id": "190"
+    },
+    {
+      "fire_mode_id": "581",
+      "projectile_id": "191"
+    },
+    {
+      "fire_mode_id": "582",
+      "projectile_id": "192"
+    },
+    {
+      "fire_mode_id": "603",
+      "projectile_id": "12"
+    },
+    {
+      "fire_mode_id": "604",
+      "projectile_id": "12"
+    },
+    {
+      "fire_mode_id": "605",
+      "projectile_id": "70034"
+    },
+    {
+      "fire_mode_id": "606",
+      "projectile_id": "70034"
+    },
+    {
+      "fire_mode_id": "607",
+      "projectile_id": "80236"
+    },
+    {
+      "fire_mode_id": "608",
+      "projectile_id": "80236"
+    },
+    {
+      "fire_mode_id": "609",
+      "projectile_id": "57"
+    },
+    {
+      "fire_mode_id": "610",
+      "projectile_id": "57"
+    },
+    {
+      "fire_mode_id": "611",
+      "projectile_id": "70023"
+    },
+    {
+      "fire_mode_id": "612",
+      "projectile_id": "70023"
+    },
+    {
+      "fire_mode_id": "613",
+      "projectile_id": "60"
+    },
+    {
+      "fire_mode_id": "614",
+      "projectile_id": "60"
+    },
+    {
+      "fire_mode_id": "619",
+      "projectile_id": "166"
+    },
+    {
+      "fire_mode_id": "620",
+      "projectile_id": "166"
+    },
+    {
+      "fire_mode_id": "621",
+      "projectile_id": "167"
+    },
+    {
+      "fire_mode_id": "622",
+      "projectile_id": "167"
+    },
+    {
+      "fire_mode_id": "623",
+      "projectile_id": "168"
+    },
+    {
+      "fire_mode_id": "624",
+      "projectile_id": "168"
+    },
+    {
+      "fire_mode_id": "629",
+      "projectile_id": "171"
+    },
+    {
+      "fire_mode_id": "630",
+      "projectile_id": "171"
+    },
+    {
+      "fire_mode_id": "631",
+      "projectile_id": "172"
+    },
+    {
+      "fire_mode_id": "632",
+      "projectile_id": "172"
+    },
+    {
+      "fire_mode_id": "633",
+      "projectile_id": "173"
+    },
+    {
+      "fire_mode_id": "634",
+      "projectile_id": "173"
+    },
+    {
+      "fire_mode_id": "639",
+      "projectile_id": "176"
+    },
+    {
+      "fire_mode_id": "640",
+      "projectile_id": "176"
+    },
+    {
+      "fire_mode_id": "641",
+      "projectile_id": "177"
+    },
+    {
+      "fire_mode_id": "642",
+      "projectile_id": "177"
+    },
+    {
+      "fire_mode_id": "643",
+      "projectile_id": "178"
+    },
+    {
+      "fire_mode_id": "644",
+      "projectile_id": "178"
+    },
+    {
+      "fire_mode_id": "650",
+      "projectile_id": "650"
+    },
+    {
+      "fire_mode_id": "654",
+      "projectile_id": "70"
+    },
+    {
+      "fire_mode_id": "655",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "656",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "657",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "660",
+      "projectile_id": "658"
+    },
+    {
+      "fire_mode_id": "661",
+      "projectile_id": "659"
+    },
+    {
+      "fire_mode_id": "662",
+      "projectile_id": "660"
+    },
+    {
+      "fire_mode_id": "664",
+      "projectile_id": "663"
+    },
+    {
+      "fire_mode_id": "668",
+      "projectile_id": "82"
+    },
+    {
+      "fire_mode_id": "670",
+      "projectile_id": "83"
+    },
+    {
+      "fire_mode_id": "672",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "673",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "674",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "678",
+      "projectile_id": "85"
+    },
+    {
+      "fire_mode_id": "679",
+      "projectile_id": "86"
+    },
+    {
+      "fire_mode_id": "680",
+      "projectile_id": "84"
+    },
+    {
+      "fire_mode_id": "681",
+      "projectile_id": "87"
+    },
+    {
+      "fire_mode_id": "682",
+      "projectile_id": "88"
+    },
+    {
+      "fire_mode_id": "683",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "684",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "685",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "686",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "687",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "688",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "689",
+      "projectile_id": "15"
+    },
+    {
+      "fire_mode_id": "690",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "691",
+      "projectile_id": "17"
+    },
+    {
+      "fire_mode_id": "692",
+      "projectile_id": "15"
+    },
+    {
+      "fire_mode_id": "693",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "694",
+      "projectile_id": "17"
+    },
+    {
+      "fire_mode_id": "695",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "696",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "697",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "698",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "699",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "700",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "701",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "702",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "703",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "704",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "705",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "706",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "707",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "709",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "710",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "712",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "713",
+      "projectile_id": "667"
+    },
+    {
+      "fire_mode_id": "714",
+      "projectile_id": "667"
+    },
+    {
+      "fire_mode_id": "715",
+      "projectile_id": "668"
+    },
+    {
+      "fire_mode_id": "716",
+      "projectile_id": "668"
+    },
+    {
+      "fire_mode_id": "717",
+      "projectile_id": "669"
+    },
+    {
+      "fire_mode_id": "718",
+      "projectile_id": "669"
+    },
+    {
+      "fire_mode_id": "719",
+      "projectile_id": "670"
+    },
+    {
+      "fire_mode_id": "720",
+      "projectile_id": "670"
+    },
+    {
+      "fire_mode_id": "721",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "722",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "723",
+      "projectile_id": "672"
+    },
+    {
+      "fire_mode_id": "724",
+      "projectile_id": "672"
+    },
+    {
+      "fire_mode_id": "725",
+      "projectile_id": "70044"
+    },
+    {
+      "fire_mode_id": "726",
+      "projectile_id": "70044"
+    },
+    {
+      "fire_mode_id": "727",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "728",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "729",
+      "projectile_id": "70046"
+    },
+    {
+      "fire_mode_id": "730",
+      "projectile_id": "70046"
+    },
+    {
+      "fire_mode_id": "731",
+      "projectile_id": "70047"
+    },
+    {
+      "fire_mode_id": "732",
+      "projectile_id": "70047"
+    },
+    {
+      "fire_mode_id": "733",
+      "projectile_id": "70048"
+    },
+    {
+      "fire_mode_id": "734",
+      "projectile_id": "70048"
+    },
+    {
+      "fire_mode_id": "735",
+      "projectile_id": "70049"
+    },
+    {
+      "fire_mode_id": "736",
+      "projectile_id": "70049"
+    },
+    {
+      "fire_mode_id": "737",
+      "projectile_id": "70050"
+    },
+    {
+      "fire_mode_id": "738",
+      "projectile_id": "70050"
+    },
+    {
+      "fire_mode_id": "739",
+      "projectile_id": "70051"
+    },
+    {
+      "fire_mode_id": "740",
+      "projectile_id": "70051"
+    },
+    {
+      "fire_mode_id": "741",
+      "projectile_id": "70052"
+    },
+    {
+      "fire_mode_id": "742",
+      "projectile_id": "70052"
+    },
+    {
+      "fire_mode_id": "743",
+      "projectile_id": "70053"
+    },
+    {
+      "fire_mode_id": "744",
+      "projectile_id": "70053"
+    },
+    {
+      "fire_mode_id": "745",
+      "projectile_id": "70054"
+    },
+    {
+      "fire_mode_id": "746",
+      "projectile_id": "70054"
+    },
+    {
+      "fire_mode_id": "747",
+      "projectile_id": "70055"
+    },
+    {
+      "fire_mode_id": "748",
+      "projectile_id": "70055"
+    },
+    {
+      "fire_mode_id": "749",
+      "projectile_id": "70056"
+    },
+    {
+      "fire_mode_id": "750",
+      "projectile_id": "70056"
+    },
+    {
+      "fire_mode_id": "751",
+      "projectile_id": "70057"
+    },
+    {
+      "fire_mode_id": "752",
+      "projectile_id": "70057"
+    },
+    {
+      "fire_mode_id": "753",
+      "projectile_id": "70058"
+    },
+    {
+      "fire_mode_id": "754",
+      "projectile_id": "70058"
+    },
+    {
+      "fire_mode_id": "761",
+      "projectile_id": "70066"
+    },
+    {
+      "fire_mode_id": "762",
+      "projectile_id": "70066"
+    },
+    {
+      "fire_mode_id": "763",
+      "projectile_id": "70066"
+    },
+    {
+      "fire_mode_id": "764",
+      "projectile_id": "70066"
+    },
+    {
+      "fire_mode_id": "769",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "770",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "773",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "774",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "777",
+      "projectile_id": "70079"
+    },
+    {
+      "fire_mode_id": "778",
+      "projectile_id": "70079"
+    },
+    {
+      "fire_mode_id": "781",
+      "projectile_id": "10011"
+    },
+    {
+      "fire_mode_id": "782",
+      "projectile_id": "10011"
+    },
+    {
+      "fire_mode_id": "785",
+      "projectile_id": "70069"
+    },
+    {
+      "fire_mode_id": "786",
+      "projectile_id": "70069"
+    },
+    {
+      "fire_mode_id": "789",
+      "projectile_id": "70064"
+    },
+    {
+      "fire_mode_id": "790",
+      "projectile_id": "70064"
+    },
+    {
+      "fire_mode_id": "791",
+      "projectile_id": "70064"
+    },
+    {
+      "fire_mode_id": "792",
+      "projectile_id": "70064"
+    },
+    {
+      "fire_mode_id": "793",
+      "projectile_id": "70065"
+    },
+    {
+      "fire_mode_id": "794",
+      "projectile_id": "70065"
+    },
+    {
+      "fire_mode_id": "795",
+      "projectile_id": "70065"
+    },
+    {
+      "fire_mode_id": "796",
+      "projectile_id": "70065"
+    },
+    {
+      "fire_mode_id": "797",
+      "projectile_id": "70067"
+    },
+    {
+      "fire_mode_id": "798",
+      "projectile_id": "70067"
+    },
+    {
+      "fire_mode_id": "799",
+      "projectile_id": "70067"
+    },
+    {
+      "fire_mode_id": "800",
+      "projectile_id": "70067"
+    },
+    {
+      "fire_mode_id": "801",
+      "projectile_id": "70068"
+    },
+    {
+      "fire_mode_id": "802",
+      "projectile_id": "70068"
+    },
+    {
+      "fire_mode_id": "803",
+      "projectile_id": "70068"
+    },
+    {
+      "fire_mode_id": "804",
+      "projectile_id": "70068"
+    },
+    {
+      "fire_mode_id": "805",
+      "projectile_id": "10010"
+    },
+    {
+      "fire_mode_id": "806",
+      "projectile_id": "10010"
+    },
+    {
+      "fire_mode_id": "813",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "814",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "817",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "818",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "821",
+      "projectile_id": "70070"
+    },
+    {
+      "fire_mode_id": "822",
+      "projectile_id": "70070"
+    },
+    {
+      "fire_mode_id": "825",
+      "projectile_id": "70071"
+    },
+    {
+      "fire_mode_id": "826",
+      "projectile_id": "70071"
+    },
+    {
+      "fire_mode_id": "829",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "830",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "833",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "834",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "837",
+      "projectile_id": "70072"
+    },
+    {
+      "fire_mode_id": "838",
+      "projectile_id": "70072"
+    },
+    {
+      "fire_mode_id": "841",
+      "projectile_id": "70073"
+    },
+    {
+      "fire_mode_id": "842",
+      "projectile_id": "70073"
+    },
+    {
+      "fire_mode_id": "845",
+      "projectile_id": "70074"
+    },
+    {
+      "fire_mode_id": "846",
+      "projectile_id": "70074"
+    },
+    {
+      "fire_mode_id": "849",
+      "projectile_id": "70075"
+    },
+    {
+      "fire_mode_id": "850",
+      "projectile_id": "70075"
+    },
+    {
+      "fire_mode_id": "853",
+      "projectile_id": "70076"
+    },
+    {
+      "fire_mode_id": "854",
+      "projectile_id": "70076"
+    },
+    {
+      "fire_mode_id": "857",
+      "projectile_id": "70077"
+    },
+    {
+      "fire_mode_id": "858",
+      "projectile_id": "70077"
+    },
+    {
+      "fire_mode_id": "861",
+      "projectile_id": "70078"
+    },
+    {
+      "fire_mode_id": "862",
+      "projectile_id": "70078"
+    },
+    {
+      "fire_mode_id": "1002",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "1003",
+      "projectile_id": "18000"
+    },
+    {
+      "fire_mode_id": "1004",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "1008",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "1009",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "1014",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "1015",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "1102",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "1103",
+      "projectile_id": "18000"
+    },
+    {
+      "fire_mode_id": "1104",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "1108",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "1109",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "1114",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "1115",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "2000",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "2001",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "2010",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "2011",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "6050",
+      "projectile_id": "6050"
+    },
+    {
+      "fire_mode_id": "7200",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7201",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7202",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7203",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7204",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7208",
+      "projectile_id": "106"
+    },
+    {
+      "fire_mode_id": "7224",
+      "projectile_id": "107"
+    },
+    {
+      "fire_mode_id": "7225",
+      "projectile_id": "31001"
+    },
+    {
+      "fire_mode_id": "7226",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7227",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7228",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7229",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7248",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "7249",
+      "projectile_id": "32001"
+    },
+    {
+      "fire_mode_id": "7250",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "7251",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "7252",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "7253",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "7272",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7273",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7274",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7275",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7276",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7280",
+      "projectile_id": "106"
+    },
+    {
+      "fire_mode_id": "7296",
+      "projectile_id": "107"
+    },
+    {
+      "fire_mode_id": "7297",
+      "projectile_id": "31001"
+    },
+    {
+      "fire_mode_id": "7298",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7299",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7300",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7301",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "7320",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "7321",
+      "projectile_id": "32001"
+    },
+    {
+      "fire_mode_id": "7322",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "7323",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "7324",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "7325",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "7341",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7342",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7343",
+      "projectile_id": "18001"
+    },
+    {
+      "fire_mode_id": "7344",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7345",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7346",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7350",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7362",
+      "projectile_id": "19001"
+    },
+    {
+      "fire_mode_id": "7363",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7364",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7365",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7366",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "7383",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "7384",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7385",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7386",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7387",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "7391",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7392",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7404",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7405",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7406",
+      "projectile_id": "18001"
+    },
+    {
+      "fire_mode_id": "7407",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7408",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7409",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "7413",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "7425",
+      "projectile_id": "19001"
+    },
+    {
+      "fire_mode_id": "7426",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7427",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7428",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7429",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "7431",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7432",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "7446",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "7447",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7448",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7449",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7450",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "7454",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7455",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "7467",
+      "projectile_id": "10009"
+    },
+    {
+      "fire_mode_id": "7468",
+      "projectile_id": "10019"
+    },
+    {
+      "fire_mode_id": "7469",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "7470",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "7471",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "7488",
+      "projectile_id": "10110"
+    },
+    {
+      "fire_mode_id": "7489",
+      "projectile_id": "10010"
+    },
+    {
+      "fire_mode_id": "7490",
+      "projectile_id": "110"
+    },
+    {
+      "fire_mode_id": "7491",
+      "projectile_id": "110"
+    },
+    {
+      "fire_mode_id": "7492",
+      "projectile_id": "110"
+    },
+    {
+      "fire_mode_id": "7509",
+      "projectile_id": "10111"
+    },
+    {
+      "fire_mode_id": "7510",
+      "projectile_id": "10011"
+    },
+    {
+      "fire_mode_id": "7511",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "7512",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "7513",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "7517",
+      "projectile_id": "10019"
+    },
+    {
+      "fire_mode_id": "7518",
+      "projectile_id": "10019"
+    },
+    {
+      "fire_mode_id": "7530",
+      "projectile_id": "10009"
+    },
+    {
+      "fire_mode_id": "7531",
+      "projectile_id": "10019"
+    },
+    {
+      "fire_mode_id": "7532",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "7533",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "7534",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "7551",
+      "projectile_id": "10110"
+    },
+    {
+      "fire_mode_id": "7552",
+      "projectile_id": "10010"
+    },
+    {
+      "fire_mode_id": "7553",
+      "projectile_id": "110"
+    },
+    {
+      "fire_mode_id": "7554",
+      "projectile_id": "110"
+    },
+    {
+      "fire_mode_id": "7555",
+      "projectile_id": "110"
+    },
+    {
+      "fire_mode_id": "7572",
+      "projectile_id": "10111"
+    },
+    {
+      "fire_mode_id": "7573",
+      "projectile_id": "10011"
+    },
+    {
+      "fire_mode_id": "7574",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "7575",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "7576",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "7599",
+      "projectile_id": "24000"
+    },
+    {
+      "fire_mode_id": "7614",
+      "projectile_id": "25000"
+    },
+    {
+      "fire_mode_id": "7615",
+      "projectile_id": "25000"
+    },
+    {
+      "fire_mode_id": "7616",
+      "projectile_id": "25000"
+    },
+    {
+      "fire_mode_id": "7635",
+      "projectile_id": "80159"
+    },
+    {
+      "fire_mode_id": "7636",
+      "projectile_id": "80160"
+    },
+    {
+      "fire_mode_id": "7637",
+      "projectile_id": "80160"
+    },
+    {
+      "fire_mode_id": "7662",
+      "projectile_id": "24000"
+    },
+    {
+      "fire_mode_id": "7677",
+      "projectile_id": "25000"
+    },
+    {
+      "fire_mode_id": "7698",
+      "projectile_id": "80159"
+    },
+    {
+      "fire_mode_id": "7719",
+      "projectile_id": "18000"
+    },
+    {
+      "fire_mode_id": "7726",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "7733",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "7740",
+      "projectile_id": "18000"
+    },
+    {
+      "fire_mode_id": "7747",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "7754",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "7770",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "7771",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "7772",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "7775",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "7783",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "7784",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "7794",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "7795",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "7796",
+      "projectile_id": "70016"
+    },
+    {
+      "fire_mode_id": "7806",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "7807",
+      "projectile_id": "100"
+    },
+    {
+      "fire_mode_id": "7808",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "7811",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "7819",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "7820",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "7830",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "7831",
+      "projectile_id": "102"
+    },
+    {
+      "fire_mode_id": "7832",
+      "projectile_id": "70016"
+    },
+    {
+      "fire_mode_id": "7841",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "7850",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "7859",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "7868",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "7877",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "7886",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "7972",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "7973",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "7974",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "7975",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "7976",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "7994",
+      "projectile_id": "70016"
+    },
+    {
+      "fire_mode_id": "7995",
+      "projectile_id": "70016"
+    },
+    {
+      "fire_mode_id": "8002",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "8003",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "8004",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "8013",
+      "projectile_id": "16000"
+    },
+    {
+      "fire_mode_id": "8014",
+      "projectile_id": "16000"
+    },
+    {
+      "fire_mode_id": "8015",
+      "projectile_id": "16000"
+    },
+    {
+      "fire_mode_id": "8020",
+      "projectile_id": "15000"
+    },
+    {
+      "fire_mode_id": "8021",
+      "projectile_id": "15000"
+    },
+    {
+      "fire_mode_id": "8026",
+      "projectile_id": "15000"
+    },
+    {
+      "fire_mode_id": "8027",
+      "projectile_id": "17000"
+    },
+    {
+      "fire_mode_id": "8028",
+      "projectile_id": "80290"
+    },
+    {
+      "fire_mode_id": "8033",
+      "projectile_id": "17000"
+    },
+    {
+      "fire_mode_id": "8036",
+      "projectile_id": "42000"
+    },
+    {
+      "fire_mode_id": "8041",
+      "projectile_id": "43000"
+    },
+    {
+      "fire_mode_id": "8048",
+      "projectile_id": "44000"
+    },
+    {
+      "fire_mode_id": "8057",
+      "projectile_id": "42000"
+    },
+    {
+      "fire_mode_id": "8062",
+      "projectile_id": "43000"
+    },
+    {
+      "fire_mode_id": "8069",
+      "projectile_id": "44000"
+    },
+    {
+      "fire_mode_id": "8075",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8076",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8077",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8078",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8079",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8080",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8081",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "8082",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "8083",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "8084",
+      "projectile_id": "31000"
+    },
+    {
+      "fire_mode_id": "8095",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8096",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8097",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8098",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8099",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8100",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8101",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8102",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8103",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8104",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8113",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8114",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8115",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8116",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8117",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8118",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8131",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "8132",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "8133",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "8134",
+      "projectile_id": "19000"
+    },
+    {
+      "fire_mode_id": "8143",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8144",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8153",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "8154",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "8163",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8164",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8165",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8166",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8171",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8172",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8173",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8174",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8179",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "8180",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "8181",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "8182",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "8187",
+      "projectile_id": "1057"
+    },
+    {
+      "fire_mode_id": "8204",
+      "projectile_id": "18001"
+    },
+    {
+      "fire_mode_id": "8205",
+      "projectile_id": "18001"
+    },
+    {
+      "fire_mode_id": "8206",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "8207",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "8208",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "8209",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "8210",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "8211",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "8212",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "8213",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "8214",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8215",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8216",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8217",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8218",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "8219",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "8220",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "8221",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "8222",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8223",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "8224",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "8225",
+      "projectile_id": "109"
+    },
+    {
+      "fire_mode_id": "8226",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "8227",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "8228",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "8229",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "8230",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8231",
+      "projectile_id": "32000"
+    },
+    {
+      "fire_mode_id": "8232",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "8233",
+      "projectile_id": "111"
+    },
+    {
+      "fire_mode_id": "8234",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "8235",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "15000",
+      "projectile_id": "15000"
+    },
+    {
+      "fire_mode_id": "15001",
+      "projectile_id": "15001"
+    },
+    {
+      "fire_mode_id": "15004",
+      "projectile_id": "15004"
+    },
+    {
+      "fire_mode_id": "16000",
+      "projectile_id": "16000"
+    },
+    {
+      "fire_mode_id": "16001",
+      "projectile_id": "16001"
+    },
+    {
+      "fire_mode_id": "16004",
+      "projectile_id": "16004"
+    },
+    {
+      "fire_mode_id": "16028",
+      "projectile_id": "16028"
+    },
+    {
+      "fire_mode_id": "16029",
+      "projectile_id": "16029"
+    },
+    {
+      "fire_mode_id": "16030",
+      "projectile_id": "16030"
+    },
+    {
+      "fire_mode_id": "17000",
+      "projectile_id": "17000"
+    },
+    {
+      "fire_mode_id": "17001",
+      "projectile_id": "17001"
+    },
+    {
+      "fire_mode_id": "17004",
+      "projectile_id": "17004"
+    },
+    {
+      "fire_mode_id": "17200",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "17208",
+      "projectile_id": "106"
+    },
+    {
+      "fire_mode_id": "17224",
+      "projectile_id": "107"
+    },
+    {
+      "fire_mode_id": "17225",
+      "projectile_id": "31001"
+    },
+    {
+      "fire_mode_id": "17248",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "17249",
+      "projectile_id": "32001"
+    },
+    {
+      "fire_mode_id": "17272",
+      "projectile_id": "30000"
+    },
+    {
+      "fire_mode_id": "17280",
+      "projectile_id": "106"
+    },
+    {
+      "fire_mode_id": "17296",
+      "projectile_id": "107"
+    },
+    {
+      "fire_mode_id": "17297",
+      "projectile_id": "31001"
+    },
+    {
+      "fire_mode_id": "17320",
+      "projectile_id": "108"
+    },
+    {
+      "fire_mode_id": "17321",
+      "projectile_id": "32001"
+    },
+    {
+      "fire_mode_id": "17341",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "17342",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "17362",
+      "projectile_id": "19001"
+    },
+    {
+      "fire_mode_id": "17383",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "17404",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "17405",
+      "projectile_id": "103"
+    },
+    {
+      "fire_mode_id": "17425",
+      "projectile_id": "19001"
+    },
+    {
+      "fire_mode_id": "17446",
+      "projectile_id": "20000"
+    },
+    {
+      "fire_mode_id": "19000",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "19100",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "19200",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "19300",
+      "projectile_id": "104"
+    },
+    {
+      "fire_mode_id": "20000",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "20100",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "21000",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "21100",
+      "projectile_id": "105"
+    },
+    {
+      "fire_mode_id": "24000",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24001",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24002",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24003",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24004",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24007",
+      "projectile_id": "24005"
+    },
+    {
+      "fire_mode_id": "24008",
+      "projectile_id": "24005"
+    },
+    {
+      "fire_mode_id": "24100",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24101",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24102",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24103",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24104",
+      "projectile_id": "115"
+    },
+    {
+      "fire_mode_id": "24107",
+      "projectile_id": "24005"
+    },
+    {
+      "fire_mode_id": "24108",
+      "projectile_id": "24005"
+    },
+    {
+      "fire_mode_id": "25000",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25001",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25002",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25003",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25004",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25007",
+      "projectile_id": "25005"
+    },
+    {
+      "fire_mode_id": "25008",
+      "projectile_id": "25005"
+    },
+    {
+      "fire_mode_id": "25100",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25101",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25102",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25103",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25104",
+      "projectile_id": "116"
+    },
+    {
+      "fire_mode_id": "25107",
+      "projectile_id": "25005"
+    },
+    {
+      "fire_mode_id": "25108",
+      "projectile_id": "25005"
+    },
+    {
+      "fire_mode_id": "26000",
+      "projectile_id": "26001"
+    },
+    {
+      "fire_mode_id": "26001",
+      "projectile_id": "26000"
+    },
+    {
+      "fire_mode_id": "26002",
+      "projectile_id": "117"
+    },
+    {
+      "fire_mode_id": "26003",
+      "projectile_id": "26002"
+    },
+    {
+      "fire_mode_id": "26004",
+      "projectile_id": "26000"
+    },
+    {
+      "fire_mode_id": "26007",
+      "projectile_id": "26005"
+    },
+    {
+      "fire_mode_id": "26008",
+      "projectile_id": "26005"
+    },
+    {
+      "fire_mode_id": "26100",
+      "projectile_id": "26001"
+    },
+    {
+      "fire_mode_id": "26101",
+      "projectile_id": "26000"
+    },
+    {
+      "fire_mode_id": "26102",
+      "projectile_id": "117"
+    },
+    {
+      "fire_mode_id": "26103",
+      "projectile_id": "26002"
+    },
+    {
+      "fire_mode_id": "26104",
+      "projectile_id": "26000"
+    },
+    {
+      "fire_mode_id": "26107",
+      "projectile_id": "26005"
+    },
+    {
+      "fire_mode_id": "26108",
+      "projectile_id": "26005"
+    },
+    {
+      "fire_mode_id": "27000",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "27001",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "27100",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "27101",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "28000",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "28001",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "28100",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "28101",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "29000",
+      "projectile_id": "29000"
+    },
+    {
+      "fire_mode_id": "29001",
+      "projectile_id": "29000"
+    },
+    {
+      "fire_mode_id": "29100",
+      "projectile_id": "29000"
+    },
+    {
+      "fire_mode_id": "29101",
+      "projectile_id": "29000"
+    },
+    {
+      "fire_mode_id": "33002",
+      "projectile_id": "33002"
+    },
+    {
+      "fire_mode_id": "33003",
+      "projectile_id": "33003"
+    },
+    {
+      "fire_mode_id": "33004",
+      "projectile_id": "33004"
+    },
+    {
+      "fire_mode_id": "33102",
+      "projectile_id": "33002"
+    },
+    {
+      "fire_mode_id": "33103",
+      "projectile_id": "33003"
+    },
+    {
+      "fire_mode_id": "33104",
+      "projectile_id": "33004"
+    },
+    {
+      "fire_mode_id": "34002",
+      "projectile_id": "34002"
+    },
+    {
+      "fire_mode_id": "34003",
+      "projectile_id": "34003"
+    },
+    {
+      "fire_mode_id": "34004",
+      "projectile_id": "34004"
+    },
+    {
+      "fire_mode_id": "34102",
+      "projectile_id": "34002"
+    },
+    {
+      "fire_mode_id": "34103",
+      "projectile_id": "34003"
+    },
+    {
+      "fire_mode_id": "34104",
+      "projectile_id": "34004"
+    },
+    {
+      "fire_mode_id": "35002",
+      "projectile_id": "35002"
+    },
+    {
+      "fire_mode_id": "35003",
+      "projectile_id": "35003"
+    },
+    {
+      "fire_mode_id": "35004",
+      "projectile_id": "35004"
+    },
+    {
+      "fire_mode_id": "35102",
+      "projectile_id": "35002"
+    },
+    {
+      "fire_mode_id": "35103",
+      "projectile_id": "35003"
+    },
+    {
+      "fire_mode_id": "35104",
+      "projectile_id": "35004"
+    },
+    {
+      "fire_mode_id": "39000",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "39001",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "39002",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "39100",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "39101",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "39102",
+      "projectile_id": "72"
+    },
+    {
+      "fire_mode_id": "40000",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "40001",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "40002",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "40100",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "40101",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "40102",
+      "projectile_id": "71"
+    },
+    {
+      "fire_mode_id": "41000",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "41001",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "41002",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "41100",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "41101",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "41102",
+      "projectile_id": "73"
+    },
+    {
+      "fire_mode_id": "42002",
+      "projectile_id": "1063"
+    },
+    {
+      "fire_mode_id": "42003",
+      "projectile_id": "1064"
+    },
+    {
+      "fire_mode_id": "42102",
+      "projectile_id": "1063"
+    },
+    {
+      "fire_mode_id": "42103",
+      "projectile_id": "1064"
+    },
+    {
+      "fire_mode_id": "50051",
+      "projectile_id": "50051"
+    },
+    {
+      "fire_mode_id": "70006",
+      "projectile_id": "4"
+    },
+    {
+      "fire_mode_id": "70007",
+      "projectile_id": "4"
+    },
+    {
+      "fire_mode_id": "70008",
+      "projectile_id": "4"
+    },
+    {
+      "fire_mode_id": "70009",
+      "projectile_id": "4"
+    },
+    {
+      "fire_mode_id": "70016",
+      "projectile_id": "70006"
+    },
+    {
+      "fire_mode_id": "70017",
+      "projectile_id": "70010"
+    },
+    {
+      "fire_mode_id": "70018",
+      "projectile_id": "70007"
+    },
+    {
+      "fire_mode_id": "70019",
+      "projectile_id": "70007"
+    },
+    {
+      "fire_mode_id": "70020",
+      "projectile_id": "70008"
+    },
+    {
+      "fire_mode_id": "70021",
+      "projectile_id": "70008"
+    },
+    {
+      "fire_mode_id": "70022",
+      "projectile_id": "70009"
+    },
+    {
+      "fire_mode_id": "70023",
+      "projectile_id": "70009"
+    },
+    {
+      "fire_mode_id": "70024",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "70025",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "70026",
+      "projectile_id": "70013"
+    },
+    {
+      "fire_mode_id": "70027",
+      "projectile_id": "70013"
+    },
+    {
+      "fire_mode_id": "70028",
+      "projectile_id": "70036"
+    },
+    {
+      "fire_mode_id": "70029",
+      "projectile_id": "70036"
+    },
+    {
+      "fire_mode_id": "70030",
+      "projectile_id": "70037"
+    },
+    {
+      "fire_mode_id": "70031",
+      "projectile_id": "70037"
+    },
+    {
+      "fire_mode_id": "70050",
+      "projectile_id": "99"
+    },
+    {
+      "fire_mode_id": "70051",
+      "projectile_id": "99"
+    },
+    {
+      "fire_mode_id": "70056",
+      "projectile_id": "70010"
+    },
+    {
+      "fire_mode_id": "70057",
+      "projectile_id": "70010"
+    },
+    {
+      "fire_mode_id": "70059",
+      "projectile_id": "70024"
+    },
+    {
+      "fire_mode_id": "70061",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "70062",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "70063",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "70064",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "70065",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "70066",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "70067",
+      "projectile_id": "70062"
+    },
+    {
+      "fire_mode_id": "70068",
+      "projectile_id": "70063"
+    },
+    {
+      "fire_mode_id": "70069",
+      "projectile_id": "70063"
+    },
+    {
+      "fire_mode_id": "70070",
+      "projectile_id": "70063"
+    },
+    {
+      "fire_mode_id": "70071",
+      "projectile_id": "70063"
+    },
+    {
+      "fire_mode_id": "75490",
+      "projectile_id": "70028"
+    },
+    {
+      "fire_mode_id": "75491",
+      "projectile_id": "70029"
+    },
+    {
+      "fire_mode_id": "75492",
+      "projectile_id": "70030"
+    },
+    {
+      "fire_mode_id": "75493",
+      "projectile_id": "70031"
+    },
+    {
+      "fire_mode_id": "75494",
+      "projectile_id": "70028"
+    },
+    {
+      "fire_mode_id": "75495",
+      "projectile_id": "70029"
+    },
+    {
+      "fire_mode_id": "75496",
+      "projectile_id": "70030"
+    },
+    {
+      "fire_mode_id": "75497",
+      "projectile_id": "70031"
+    },
+    {
+      "fire_mode_id": "80017",
+      "projectile_id": "70033"
+    },
+    {
+      "fire_mode_id": "80018",
+      "projectile_id": "70033"
+    },
+    {
+      "fire_mode_id": "80020",
+      "projectile_id": "70080"
+    },
+    {
+      "fire_mode_id": "80024",
+      "projectile_id": "80027"
+    },
+    {
+      "fire_mode_id": "80025",
+      "projectile_id": "80027"
+    },
+    {
+      "fire_mode_id": "80027",
+      "projectile_id": "80032"
+    },
+    {
+      "fire_mode_id": "80033",
+      "projectile_id": "80033"
+    },
+    {
+      "fire_mode_id": "80034",
+      "projectile_id": "80034"
+    },
+    {
+      "fire_mode_id": "80037",
+      "projectile_id": "80035"
+    },
+    {
+      "fire_mode_id": "80038",
+      "projectile_id": "80036"
+    },
+    {
+      "fire_mode_id": "80039",
+      "projectile_id": "80037"
+    },
+    {
+      "fire_mode_id": "80041",
+      "projectile_id": "80040"
+    },
+    {
+      "fire_mode_id": "80042",
+      "projectile_id": "80042"
+    },
+    {
+      "fire_mode_id": "80043",
+      "projectile_id": "80042"
+    },
+    {
+      "fire_mode_id": "80045",
+      "projectile_id": "80043"
+    },
+    {
+      "fire_mode_id": "80057",
+      "projectile_id": "80046"
+    },
+    {
+      "fire_mode_id": "80058",
+      "projectile_id": "80046"
+    },
+    {
+      "fire_mode_id": "80059",
+      "projectile_id": "80047"
+    },
+    {
+      "fire_mode_id": "80060",
+      "projectile_id": "80047"
+    },
+    {
+      "fire_mode_id": "80061",
+      "projectile_id": "80097"
+    },
+    {
+      "fire_mode_id": "80062",
+      "projectile_id": "80097"
+    },
+    {
+      "fire_mode_id": "80063",
+      "projectile_id": "80048"
+    },
+    {
+      "fire_mode_id": "80064",
+      "projectile_id": "80048"
+    },
+    {
+      "fire_mode_id": "80065",
+      "projectile_id": "80048"
+    },
+    {
+      "fire_mode_id": "80066",
+      "projectile_id": "80048"
+    },
+    {
+      "fire_mode_id": "80067",
+      "projectile_id": "80049"
+    },
+    {
+      "fire_mode_id": "80068",
+      "projectile_id": "80049"
+    },
+    {
+      "fire_mode_id": "80069",
+      "projectile_id": "80049"
+    },
+    {
+      "fire_mode_id": "80070",
+      "projectile_id": "80049"
+    },
+    {
+      "fire_mode_id": "80071",
+      "projectile_id": "80078"
+    },
+    {
+      "fire_mode_id": "80072",
+      "projectile_id": "80078"
+    },
+    {
+      "fire_mode_id": "80074",
+      "projectile_id": "80051"
+    },
+    {
+      "fire_mode_id": "80075",
+      "projectile_id": "80052"
+    },
+    {
+      "fire_mode_id": "80076",
+      "projectile_id": "80053"
+    },
+    {
+      "fire_mode_id": "80078",
+      "projectile_id": "80055"
+    },
+    {
+      "fire_mode_id": "80079",
+      "projectile_id": "80056"
+    },
+    {
+      "fire_mode_id": "80080",
+      "projectile_id": "80054"
+    },
+    {
+      "fire_mode_id": "80084",
+      "projectile_id": "80079"
+    },
+    {
+      "fire_mode_id": "80085",
+      "projectile_id": "80079"
+    },
+    {
+      "fire_mode_id": "80096",
+      "projectile_id": "89"
+    },
+    {
+      "fire_mode_id": "80097",
+      "projectile_id": "89"
+    },
+    {
+      "fire_mode_id": "80098",
+      "projectile_id": "80082"
+    },
+    {
+      "fire_mode_id": "80099",
+      "projectile_id": "80082"
+    },
+    {
+      "fire_mode_id": "80100",
+      "projectile_id": "80082"
+    },
+    {
+      "fire_mode_id": "80101",
+      "projectile_id": "80082"
+    },
+    {
+      "fire_mode_id": "80102",
+      "projectile_id": "80194"
+    },
+    {
+      "fire_mode_id": "80103",
+      "projectile_id": "80194"
+    },
+    {
+      "fire_mode_id": "80111",
+      "projectile_id": "80085"
+    },
+    {
+      "fire_mode_id": "80112",
+      "projectile_id": "80083"
+    },
+    {
+      "fire_mode_id": "80113",
+      "projectile_id": "80084"
+    },
+    {
+      "fire_mode_id": "80114",
+      "projectile_id": "80085"
+    },
+    {
+      "fire_mode_id": "80115",
+      "projectile_id": "80083"
+    },
+    {
+      "fire_mode_id": "80116",
+      "projectile_id": "80084"
+    },
+    {
+      "fire_mode_id": "80117",
+      "projectile_id": "80083"
+    },
+    {
+      "fire_mode_id": "80118",
+      "projectile_id": "80083"
+    },
+    {
+      "fire_mode_id": "80119",
+      "projectile_id": "70025"
+    },
+    {
+      "fire_mode_id": "80120",
+      "projectile_id": "70026"
+    },
+    {
+      "fire_mode_id": "80121",
+      "projectile_id": "70027"
+    },
+    {
+      "fire_mode_id": "80122",
+      "projectile_id": "70025"
+    },
+    {
+      "fire_mode_id": "80123",
+      "projectile_id": "70026"
+    },
+    {
+      "fire_mode_id": "80124",
+      "projectile_id": "70027"
+    },
+    {
+      "fire_mode_id": "80125",
+      "projectile_id": "90"
+    },
+    {
+      "fire_mode_id": "80126",
+      "projectile_id": "90"
+    },
+    {
+      "fire_mode_id": "80138",
+      "projectile_id": "80090"
+    },
+    {
+      "fire_mode_id": "80139",
+      "projectile_id": "80091"
+    },
+    {
+      "fire_mode_id": "80140",
+      "projectile_id": "80092"
+    },
+    {
+      "fire_mode_id": "80141",
+      "projectile_id": "80090"
+    },
+    {
+      "fire_mode_id": "80142",
+      "projectile_id": "80091"
+    },
+    {
+      "fire_mode_id": "80143",
+      "projectile_id": "80092"
+    },
+    {
+      "fire_mode_id": "80144",
+      "projectile_id": "80093"
+    },
+    {
+      "fire_mode_id": "80145",
+      "projectile_id": "80094"
+    },
+    {
+      "fire_mode_id": "80146",
+      "projectile_id": "80095"
+    },
+    {
+      "fire_mode_id": "80147",
+      "projectile_id": "80096"
+    },
+    {
+      "fire_mode_id": "80148",
+      "projectile_id": "80093"
+    },
+    {
+      "fire_mode_id": "80149",
+      "projectile_id": "80093"
+    },
+    {
+      "fire_mode_id": "80150",
+      "projectile_id": "80094"
+    },
+    {
+      "fire_mode_id": "80151",
+      "projectile_id": "80095"
+    },
+    {
+      "fire_mode_id": "80152",
+      "projectile_id": "80096"
+    },
+    {
+      "fire_mode_id": "80153",
+      "projectile_id": "80093"
+    },
+    {
+      "fire_mode_id": "80158",
+      "projectile_id": "80100"
+    },
+    {
+      "fire_mode_id": "80159",
+      "projectile_id": "80100"
+    },
+    {
+      "fire_mode_id": "80160",
+      "projectile_id": "80101"
+    },
+    {
+      "fire_mode_id": "80161",
+      "projectile_id": "80430"
+    },
+    {
+      "fire_mode_id": "80163",
+      "projectile_id": "80102"
+    },
+    {
+      "fire_mode_id": "80164",
+      "projectile_id": "80102"
+    },
+    {
+      "fire_mode_id": "80165",
+      "projectile_id": "80103"
+    },
+    {
+      "fire_mode_id": "80166",
+      "projectile_id": "80103"
+    },
+    {
+      "fire_mode_id": "80167",
+      "projectile_id": "80104"
+    },
+    {
+      "fire_mode_id": "80168",
+      "projectile_id": "80104"
+    },
+    {
+      "fire_mode_id": "80169",
+      "projectile_id": "80105"
+    },
+    {
+      "fire_mode_id": "80170",
+      "projectile_id": "80105"
+    },
+    {
+      "fire_mode_id": "80171",
+      "projectile_id": "80106"
+    },
+    {
+      "fire_mode_id": "80172",
+      "projectile_id": "80106"
+    },
+    {
+      "fire_mode_id": "80174",
+      "projectile_id": "80107"
+    },
+    {
+      "fire_mode_id": "80175",
+      "projectile_id": "80107"
+    },
+    {
+      "fire_mode_id": "80187",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "80188",
+      "projectile_id": "101"
+    },
+    {
+      "fire_mode_id": "80200",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80201",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80202",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80203",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80204",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "80205",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "80206",
+      "projectile_id": "80116"
+    },
+    {
+      "fire_mode_id": "80207",
+      "projectile_id": "80117"
+    },
+    {
+      "fire_mode_id": "80208",
+      "projectile_id": "80118"
+    },
+    {
+      "fire_mode_id": "80209",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "80210",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "80211",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80212",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80213",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80214",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80221",
+      "projectile_id": "80077"
+    },
+    {
+      "fire_mode_id": "80231",
+      "projectile_id": "1"
+    },
+    {
+      "fire_mode_id": "80233",
+      "projectile_id": "27"
+    },
+    {
+      "fire_mode_id": "80234",
+      "projectile_id": "27"
+    },
+    {
+      "fire_mode_id": "80243",
+      "projectile_id": "80129"
+    },
+    {
+      "fire_mode_id": "80244",
+      "projectile_id": "80130"
+    },
+    {
+      "fire_mode_id": "80245",
+      "projectile_id": "80131"
+    },
+    {
+      "fire_mode_id": "80246",
+      "projectile_id": "80129"
+    },
+    {
+      "fire_mode_id": "80247",
+      "projectile_id": "80130"
+    },
+    {
+      "fire_mode_id": "80248",
+      "projectile_id": "80131"
+    },
+    {
+      "fire_mode_id": "80249",
+      "projectile_id": "80132"
+    },
+    {
+      "fire_mode_id": "80250",
+      "projectile_id": "80132"
+    },
+    {
+      "fire_mode_id": "80253",
+      "projectile_id": "80133"
+    },
+    {
+      "fire_mode_id": "80254",
+      "projectile_id": "80133"
+    },
+    {
+      "fire_mode_id": "80255",
+      "projectile_id": "80134"
+    },
+    {
+      "fire_mode_id": "80256",
+      "projectile_id": "80134"
+    },
+    {
+      "fire_mode_id": "80257",
+      "projectile_id": "80146"
+    },
+    {
+      "fire_mode_id": "80258",
+      "projectile_id": "80136"
+    },
+    {
+      "fire_mode_id": "80259",
+      "projectile_id": "80137"
+    },
+    {
+      "fire_mode_id": "80260",
+      "projectile_id": "80138"
+    },
+    {
+      "fire_mode_id": "80261",
+      "projectile_id": "80139"
+    },
+    {
+      "fire_mode_id": "80262",
+      "projectile_id": "80140"
+    },
+    {
+      "fire_mode_id": "80264",
+      "projectile_id": "80141"
+    },
+    {
+      "fire_mode_id": "80269",
+      "projectile_id": "80135"
+    },
+    {
+      "fire_mode_id": "80270",
+      "projectile_id": "80147"
+    },
+    {
+      "fire_mode_id": "80271",
+      "projectile_id": "80147"
+    },
+    {
+      "fire_mode_id": "80272",
+      "projectile_id": "80148"
+    },
+    {
+      "fire_mode_id": "80286",
+      "projectile_id": "80151"
+    },
+    {
+      "fire_mode_id": "80287",
+      "projectile_id": "80152"
+    },
+    {
+      "fire_mode_id": "80288",
+      "projectile_id": "80152"
+    },
+    {
+      "fire_mode_id": "80296",
+      "projectile_id": "80155"
+    },
+    {
+      "fire_mode_id": "80297",
+      "projectile_id": "80155"
+    },
+    {
+      "fire_mode_id": "80301",
+      "projectile_id": "80043"
+    },
+    {
+      "fire_mode_id": "80312",
+      "projectile_id": "80158"
+    },
+    {
+      "fire_mode_id": "80323",
+      "projectile_id": "80166"
+    },
+    {
+      "fire_mode_id": "80324",
+      "projectile_id": "80166"
+    },
+    {
+      "fire_mode_id": "80339",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "80340",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "80341",
+      "projectile_id": "672"
+    },
+    {
+      "fire_mode_id": "80342",
+      "projectile_id": "672"
+    },
+    {
+      "fire_mode_id": "80343",
+      "projectile_id": "670"
+    },
+    {
+      "fire_mode_id": "80344",
+      "projectile_id": "670"
+    },
+    {
+      "fire_mode_id": "80351",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80352",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80353",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80354",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80355",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80356",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80361",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80362",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80363",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80364",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80365",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80366",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80367",
+      "projectile_id": "80180"
+    },
+    {
+      "fire_mode_id": "80369",
+      "projectile_id": "80182"
+    },
+    {
+      "fire_mode_id": "80370",
+      "projectile_id": "80182"
+    },
+    {
+      "fire_mode_id": "80378",
+      "projectile_id": "70062"
+    },
+    {
+      "fire_mode_id": "80381",
+      "projectile_id": "70"
+    },
+    {
+      "fire_mode_id": "80382",
+      "projectile_id": "69"
+    },
+    {
+      "fire_mode_id": "80387",
+      "projectile_id": "80198"
+    },
+    {
+      "fire_mode_id": "80388",
+      "projectile_id": "80198"
+    },
+    {
+      "fire_mode_id": "80390",
+      "projectile_id": "80202"
+    },
+    {
+      "fire_mode_id": "80393",
+      "projectile_id": "80204"
+    },
+    {
+      "fire_mode_id": "80394",
+      "projectile_id": "80204"
+    },
+    {
+      "fire_mode_id": "80395",
+      "projectile_id": "145"
+    },
+    {
+      "fire_mode_id": "80396",
+      "projectile_id": "145"
+    },
+    {
+      "fire_mode_id": "80397",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80398",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80399",
+      "projectile_id": "143"
+    },
+    {
+      "fire_mode_id": "80400",
+      "projectile_id": "143"
+    },
+    {
+      "fire_mode_id": "80401",
+      "projectile_id": "143"
+    },
+    {
+      "fire_mode_id": "80402",
+      "projectile_id": "143"
+    },
+    {
+      "fire_mode_id": "80403",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80404",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80405",
+      "projectile_id": "145"
+    },
+    {
+      "fire_mode_id": "80406",
+      "projectile_id": "145"
+    },
+    {
+      "fire_mode_id": "80407",
+      "projectile_id": "80205"
+    },
+    {
+      "fire_mode_id": "80410",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "80411",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "80412",
+      "projectile_id": "62"
+    },
+    {
+      "fire_mode_id": "80413",
+      "projectile_id": "62"
+    },
+    {
+      "fire_mode_id": "80414",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "80415",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "80416",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80417",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80421",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "80431",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "80432",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "80435",
+      "projectile_id": "80216"
+    },
+    {
+      "fire_mode_id": "80436",
+      "projectile_id": "80216"
+    },
+    {
+      "fire_mode_id": "80437",
+      "projectile_id": "80212"
+    },
+    {
+      "fire_mode_id": "80438",
+      "projectile_id": "80212"
+    },
+    {
+      "fire_mode_id": "80441",
+      "projectile_id": "80218"
+    },
+    {
+      "fire_mode_id": "80442",
+      "projectile_id": "80218"
+    },
+    {
+      "fire_mode_id": "80443",
+      "projectile_id": "80227"
+    },
+    {
+      "fire_mode_id": "80444",
+      "projectile_id": "80227"
+    },
+    {
+      "fire_mode_id": "80446",
+      "projectile_id": "80230"
+    },
+    {
+      "fire_mode_id": "80447",
+      "projectile_id": "80230"
+    },
+    {
+      "fire_mode_id": "80448",
+      "projectile_id": "80228"
+    },
+    {
+      "fire_mode_id": "80449",
+      "projectile_id": "80228"
+    },
+    {
+      "fire_mode_id": "80450",
+      "projectile_id": "80220"
+    },
+    {
+      "fire_mode_id": "80451",
+      "projectile_id": "80220"
+    },
+    {
+      "fire_mode_id": "80452",
+      "projectile_id": "80223"
+    },
+    {
+      "fire_mode_id": "80453",
+      "projectile_id": "80223"
+    },
+    {
+      "fire_mode_id": "80468",
+      "projectile_id": "80226"
+    },
+    {
+      "fire_mode_id": "80469",
+      "projectile_id": "80226"
+    },
+    {
+      "fire_mode_id": "80472",
+      "projectile_id": "80231"
+    },
+    {
+      "fire_mode_id": "80478",
+      "projectile_id": "80232"
+    },
+    {
+      "fire_mode_id": "80479",
+      "projectile_id": "80234"
+    },
+    {
+      "fire_mode_id": "80480",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "80481",
+      "projectile_id": "98"
+    },
+    {
+      "fire_mode_id": "80483",
+      "projectile_id": "80238"
+    },
+    {
+      "fire_mode_id": "80484",
+      "projectile_id": "80238"
+    },
+    {
+      "fire_mode_id": "80485",
+      "projectile_id": "80239"
+    },
+    {
+      "fire_mode_id": "80486",
+      "projectile_id": "80240"
+    },
+    {
+      "fire_mode_id": "80487",
+      "projectile_id": "80241"
+    },
+    {
+      "fire_mode_id": "80489",
+      "projectile_id": "80243"
+    },
+    {
+      "fire_mode_id": "80490",
+      "projectile_id": "80244"
+    },
+    {
+      "fire_mode_id": "80491",
+      "projectile_id": "80244"
+    },
+    {
+      "fire_mode_id": "80492",
+      "projectile_id": "80245"
+    },
+    {
+      "fire_mode_id": "80493",
+      "projectile_id": "80245"
+    },
+    {
+      "fire_mode_id": "80494",
+      "projectile_id": "80246"
+    },
+    {
+      "fire_mode_id": "80495",
+      "projectile_id": "80246"
+    },
+    {
+      "fire_mode_id": "80547",
+      "projectile_id": "80264"
+    },
+    {
+      "fire_mode_id": "80548",
+      "projectile_id": "80264"
+    },
+    {
+      "fire_mode_id": "80549",
+      "projectile_id": "80265"
+    },
+    {
+      "fire_mode_id": "80568",
+      "projectile_id": "80270"
+    },
+    {
+      "fire_mode_id": "80569",
+      "projectile_id": "80270"
+    },
+    {
+      "fire_mode_id": "80572",
+      "projectile_id": "80273"
+    },
+    {
+      "fire_mode_id": "80573",
+      "projectile_id": "80273"
+    },
+    {
+      "fire_mode_id": "80578",
+      "projectile_id": "80183"
+    },
+    {
+      "fire_mode_id": "80579",
+      "projectile_id": "80183"
+    },
+    {
+      "fire_mode_id": "80580",
+      "projectile_id": "80184"
+    },
+    {
+      "fire_mode_id": "80581",
+      "projectile_id": "80184"
+    },
+    {
+      "fire_mode_id": "80582",
+      "projectile_id": "38"
+    },
+    {
+      "fire_mode_id": "80583",
+      "projectile_id": "38"
+    },
+    {
+      "fire_mode_id": "80589",
+      "projectile_id": "80280"
+    },
+    {
+      "fire_mode_id": "80590",
+      "projectile_id": "80280"
+    },
+    {
+      "fire_mode_id": "80591",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80592",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80593",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80594",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80595",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "80596",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "80597",
+      "projectile_id": "80282"
+    },
+    {
+      "fire_mode_id": "80598",
+      "projectile_id": "191"
+    },
+    {
+      "fire_mode_id": "80599",
+      "projectile_id": "191"
+    },
+    {
+      "fire_mode_id": "80602",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80603",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80604",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80605",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80608",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "80609",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "80610",
+      "projectile_id": "17"
+    },
+    {
+      "fire_mode_id": "80611",
+      "projectile_id": "17"
+    },
+    {
+      "fire_mode_id": "80612",
+      "projectile_id": "80284"
+    },
+    {
+      "fire_mode_id": "80615",
+      "projectile_id": "80183"
+    },
+    {
+      "fire_mode_id": "80616",
+      "projectile_id": "80183"
+    },
+    {
+      "fire_mode_id": "80617",
+      "projectile_id": "80187"
+    },
+    {
+      "fire_mode_id": "80618",
+      "projectile_id": "80187"
+    },
+    {
+      "fire_mode_id": "80619",
+      "projectile_id": "80185"
+    },
+    {
+      "fire_mode_id": "80620",
+      "projectile_id": "80185"
+    },
+    {
+      "fire_mode_id": "80621",
+      "projectile_id": "80189"
+    },
+    {
+      "fire_mode_id": "80622",
+      "projectile_id": "80189"
+    },
+    {
+      "fire_mode_id": "80623",
+      "projectile_id": "41"
+    },
+    {
+      "fire_mode_id": "80624",
+      "projectile_id": "41"
+    },
+    {
+      "fire_mode_id": "80625",
+      "projectile_id": "65"
+    },
+    {
+      "fire_mode_id": "80626",
+      "projectile_id": "80289"
+    },
+    {
+      "fire_mode_id": "80628",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80629",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80630",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "80631",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "80632",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80633",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80634",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80635",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80636",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "80637",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "80638",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "80639",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "80640",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "80641",
+      "projectile_id": "80196"
+    },
+    {
+      "fire_mode_id": "80643",
+      "projectile_id": "80285"
+    },
+    {
+      "fire_mode_id": "80644",
+      "projectile_id": "80285"
+    },
+    {
+      "fire_mode_id": "80646",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80647",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80648",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80649",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80651",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "80652",
+      "projectile_id": "55"
+    },
+    {
+      "fire_mode_id": "80653",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "80654",
+      "projectile_id": "16"
+    },
+    {
+      "fire_mode_id": "80655",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80656",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80657",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80658",
+      "projectile_id": "144"
+    },
+    {
+      "fire_mode_id": "80659",
+      "projectile_id": "1"
+    },
+    {
+      "fire_mode_id": "80661",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "80662",
+      "projectile_id": "22"
+    },
+    {
+      "fire_mode_id": "80663",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "80664",
+      "projectile_id": "138"
+    },
+    {
+      "fire_mode_id": "80665",
+      "projectile_id": "140"
+    },
+    {
+      "fire_mode_id": "80666",
+      "projectile_id": "140"
+    },
+    {
+      "fire_mode_id": "80667",
+      "projectile_id": "667"
+    },
+    {
+      "fire_mode_id": "80668",
+      "projectile_id": "667"
+    },
+    {
+      "fire_mode_id": "80669",
+      "projectile_id": "131"
+    },
+    {
+      "fire_mode_id": "80670",
+      "projectile_id": "131"
+    },
+    {
+      "fire_mode_id": "80671",
+      "projectile_id": "20"
+    },
+    {
+      "fire_mode_id": "80672",
+      "projectile_id": "136"
+    },
+    {
+      "fire_mode_id": "80673",
+      "projectile_id": "20"
+    },
+    {
+      "fire_mode_id": "80674",
+      "projectile_id": "136"
+    },
+    {
+      "fire_mode_id": "80675",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "80676",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "80677",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "80678",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "80679",
+      "projectile_id": "80122"
+    },
+    {
+      "fire_mode_id": "80680",
+      "projectile_id": "80122"
+    },
+    {
+      "fire_mode_id": "80683",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80684",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80685",
+      "projectile_id": "80286"
+    },
+    {
+      "fire_mode_id": "80686",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "80687",
+      "projectile_id": "147"
+    },
+    {
+      "fire_mode_id": "80688",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "80689",
+      "projectile_id": "63"
+    },
+    {
+      "fire_mode_id": "80692",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80693",
+      "projectile_id": "97"
+    },
+    {
+      "fire_mode_id": "80694",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80695",
+      "projectile_id": "80176"
+    },
+    {
+      "fire_mode_id": "80696",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "80697",
+      "projectile_id": "671"
+    },
+    {
+      "fire_mode_id": "80698",
+      "projectile_id": "70045"
+    },
+    {
+      "fire_mode_id": "80699",
+      "projectile_id": "70045"
+    },
+    {
+      "fire_mode_id": "80700",
+      "projectile_id": "70048"
+    },
+    {
+      "fire_mode_id": "80701",
+      "projectile_id": "70048"
+    },
+    {
+      "fire_mode_id": "80702",
+      "projectile_id": "70051"
+    },
+    {
+      "fire_mode_id": "80703",
+      "projectile_id": "70051"
+    },
+    {
+      "fire_mode_id": "80704",
+      "projectile_id": "70054"
+    },
+    {
+      "fire_mode_id": "80705",
+      "projectile_id": "70054"
+    },
+    {
+      "fire_mode_id": "80706",
+      "projectile_id": "70057"
+    },
+    {
+      "fire_mode_id": "80707",
+      "projectile_id": "70057"
+    },
+    {
+      "fire_mode_id": "80712",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80713",
+      "projectile_id": "96"
+    },
+    {
+      "fire_mode_id": "80714",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80715",
+      "projectile_id": "95"
+    },
+    {
+      "fire_mode_id": "80716",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "80717",
+      "projectile_id": "94"
+    },
+    {
+      "fire_mode_id": "80721",
+      "projectile_id": "70053"
+    },
+    {
+      "fire_mode_id": "80722",
+      "projectile_id": "70053"
+    },
+    {
+      "fire_mode_id": "80723",
+      "projectile_id": "70054"
+    },
+    {
+      "fire_mode_id": "80724",
+      "projectile_id": "70054"
+    },
+    {
+      "fire_mode_id": "80725",
+      "projectile_id": "70055"
+    },
+    {
+      "fire_mode_id": "80726",
+      "projectile_id": "70055"
+    },
+    {
+      "fire_mode_id": "80727",
+      "projectile_id": "99"
+    },
+    {
+      "fire_mode_id": "80728",
+      "projectile_id": "99"
+    },
+    {
+      "fire_mode_id": "80733",
+      "projectile_id": "80284"
+    },
+    {
+      "fire_mode_id": "80734",
+      "projectile_id": "650"
+    },
+    {
+      "fire_mode_id": "80735",
+      "projectile_id": "650"
+    },
+    {
+      "fire_mode_id": "80736",
+      "projectile_id": "80284"
+    },
+    {
+      "fire_mode_id": "80737",
+      "projectile_id": "80291"
+    },
+    {
+      "fire_mode_id": "80738",
+      "projectile_id": "80291"
+    },
+    {
+      "fire_mode_id": "80739",
+      "projectile_id": "80292"
+    },
+    {
+      "fire_mode_id": "80740",
+      "projectile_id": "80292"
+    },
+    {
+      "fire_mode_id": "80741",
+      "projectile_id": "80293"
+    },
+    {
+      "fire_mode_id": "80742",
+      "projectile_id": "80293"
+    },
+    {
+      "fire_mode_id": "80743",
+      "projectile_id": "80294"
+    },
+    {
+      "fire_mode_id": "80744",
+      "projectile_id": "80294"
+    },
+    {
+      "fire_mode_id": "80747",
+      "projectile_id": "80296"
+    },
+    {
+      "fire_mode_id": "80748",
+      "projectile_id": "80296"
+    },
+    {
+      "fire_mode_id": "80753",
+      "projectile_id": "80297"
+    },
+    {
+      "fire_mode_id": "80754",
+      "projectile_id": "80297"
+    },
+    {
+      "fire_mode_id": "80755",
+      "projectile_id": "80298"
+    },
+    {
+      "fire_mode_id": "80756",
+      "projectile_id": "80298"
+    },
+    {
+      "fire_mode_id": "80757",
+      "projectile_id": "80299"
+    },
+    {
+      "fire_mode_id": "80758",
+      "projectile_id": "80299"
+    },
+    {
+      "fire_mode_id": "80762",
+      "projectile_id": "80302"
+    },
+    {
+      "fire_mode_id": "80763",
+      "projectile_id": "80304"
+    },
+    {
+      "fire_mode_id": "80764",
+      "projectile_id": "80305"
+    },
+    {
+      "fire_mode_id": "80765",
+      "projectile_id": "80306"
+    },
+    {
+      "fire_mode_id": "80767",
+      "projectile_id": "80308"
+    },
+    {
+      "fire_mode_id": "80768",
+      "projectile_id": "80308"
+    },
+    {
+      "fire_mode_id": "80769",
+      "projectile_id": "80309"
+    },
+    {
+      "fire_mode_id": "80770",
+      "projectile_id": "80309"
+    },
+    {
+      "fire_mode_id": "80771",
+      "projectile_id": "80310"
+    },
+    {
+      "fire_mode_id": "80772",
+      "projectile_id": "80310"
+    },
+    {
+      "fire_mode_id": "80777",
+      "projectile_id": "80313"
+    },
+    {
+      "fire_mode_id": "80778",
+      "projectile_id": "80313"
+    },
+    {
+      "fire_mode_id": "80784",
+      "projectile_id": "80325"
+    },
+    {
+      "fire_mode_id": "80785",
+      "projectile_id": "80325"
+    },
+    {
+      "fire_mode_id": "80787",
+      "projectile_id": "80328"
+    },
+    {
+      "fire_mode_id": "80792",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80793",
+      "projectile_id": "52"
+    },
+    {
+      "fire_mode_id": "80797",
+      "projectile_id": "80344"
+    },
+    {
+      "fire_mode_id": "80798",
+      "projectile_id": "80046"
+    },
+    {
+      "fire_mode_id": "80799",
+      "projectile_id": "80046"
+    },
+    {
+      "fire_mode_id": "80800",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "80801",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "80802",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "80803",
+      "projectile_id": "8000"
+    },
+    {
+      "fire_mode_id": "80809",
+      "projectile_id": "80100"
+    },
+    {
+      "fire_mode_id": "80810",
+      "projectile_id": "80100"
+    },
+    {
+      "fire_mode_id": "80812",
+      "projectile_id": "80351"
+    },
+    {
+      "fire_mode_id": "80813",
+      "projectile_id": "80352"
+    },
+    {
+      "fire_mode_id": "80814",
+      "projectile_id": "80353"
+    },
+    {
+      "fire_mode_id": "80816",
+      "projectile_id": "80041"
+    },
+    {
+      "fire_mode_id": "80817",
+      "projectile_id": "80354"
+    },
+    {
+      "fire_mode_id": "80818",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80819",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80820",
+      "projectile_id": "80355"
+    },
+    {
+      "fire_mode_id": "80821",
+      "projectile_id": "80357"
+    },
+    {
+      "fire_mode_id": "80822",
+      "projectile_id": "80357"
+    },
+    {
+      "fire_mode_id": "80823",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80824",
+      "projectile_id": "64"
+    },
+    {
+      "fire_mode_id": "80825",
+      "projectile_id": "80358"
+    },
+    {
+      "fire_mode_id": "80826",
+      "projectile_id": "80359"
+    },
+    {
+      "fire_mode_id": "80827",
+      "projectile_id": "80360"
+    },
+    {
+      "fire_mode_id": "80829",
+      "projectile_id": "80362"
+    },
+    {
+      "fire_mode_id": "80830",
+      "projectile_id": "80362"
+    },
+    {
+      "fire_mode_id": "80831",
+      "projectile_id": "80363"
+    },
+    {
+      "fire_mode_id": "80832",
+      "projectile_id": "80363"
+    },
+    {
+      "fire_mode_id": "80833",
+      "projectile_id": "80362"
+    },
+    {
+      "fire_mode_id": "80834",
+      "projectile_id": "80362"
+    },
+    {
+      "fire_mode_id": "80835",
+      "projectile_id": "80363"
+    },
+    {
+      "fire_mode_id": "80836",
+      "projectile_id": "80363"
+    },
+    {
+      "fire_mode_id": "80837",
+      "projectile_id": "80364"
+    },
+    {
+      "fire_mode_id": "80838",
+      "projectile_id": "80364"
+    },
+    {
+      "fire_mode_id": "80839",
+      "projectile_id": "80365"
+    },
+    {
+      "fire_mode_id": "80840",
+      "projectile_id": "80365"
+    },
+    {
+      "fire_mode_id": "80841",
+      "projectile_id": "80366"
+    },
+    {
+      "fire_mode_id": "80842",
+      "projectile_id": "80366"
+    },
+    {
+      "fire_mode_id": "80843",
+      "projectile_id": "80357"
+    },
+    {
+      "fire_mode_id": "80844",
+      "projectile_id": "80357"
+    },
+    {
+      "fire_mode_id": "80845",
+      "projectile_id": "80357"
+    },
+    {
+      "fire_mode_id": "80846",
+      "projectile_id": "80357"
+    },
+    {
+      "fire_mode_id": "80849",
+      "projectile_id": "80354"
+    },
+    {
+      "fire_mode_id": "80850",
+      "projectile_id": "80383"
+    },
+    {
+      "fire_mode_id": "80851",
+      "projectile_id": "80383"
+    },
+    {
+      "fire_mode_id": "80865",
+      "projectile_id": "80369"
+    },
+    {
+      "fire_mode_id": "80866",
+      "projectile_id": "80369"
+    },
+    {
+      "fire_mode_id": "80867",
+      "projectile_id": "80370"
+    },
+    {
+      "fire_mode_id": "80868",
+      "projectile_id": "80370"
+    },
+    {
+      "fire_mode_id": "80869",
+      "projectile_id": "80371"
+    },
+    {
+      "fire_mode_id": "80870",
+      "projectile_id": "80372"
+    },
+    {
+      "fire_mode_id": "80871",
+      "projectile_id": "80378"
+    },
+    {
+      "fire_mode_id": "80872",
+      "projectile_id": "80377"
+    },
+    {
+      "fire_mode_id": "80873",
+      "projectile_id": "80380"
+    },
+    {
+      "fire_mode_id": "80877",
+      "projectile_id": "80384"
+    },
+    {
+      "fire_mode_id": "80878",
+      "projectile_id": "80384"
+    },
+    {
+      "fire_mode_id": "80879",
+      "projectile_id": "80385"
+    },
+    {
+      "fire_mode_id": "80880",
+      "projectile_id": "80385"
+    },
+    {
+      "fire_mode_id": "80883",
+      "projectile_id": "80386"
+    },
+    {
+      "fire_mode_id": "80884",
+      "projectile_id": "80386"
+    },
+    {
+      "fire_mode_id": "80886",
+      "projectile_id": "80387"
+    },
+    {
+      "fire_mode_id": "80887",
+      "projectile_id": "80387"
+    },
+    {
+      "fire_mode_id": "80888",
+      "projectile_id": "80388"
+    },
+    {
+      "fire_mode_id": "80889",
+      "projectile_id": "80388"
+    },
+    {
+      "fire_mode_id": "80890",
+      "projectile_id": "80389"
+    },
+    {
+      "fire_mode_id": "80891",
+      "projectile_id": "80389"
+    },
+    {
+      "fire_mode_id": "80892",
+      "projectile_id": "80389"
+    },
+    {
+      "fire_mode_id": "80893",
+      "projectile_id": "80389"
+    },
+    {
+      "fire_mode_id": "80896",
+      "projectile_id": "80390"
+    },
+    {
+      "fire_mode_id": "80897",
+      "projectile_id": "80390"
+    },
+    {
+      "fire_mode_id": "80898",
+      "projectile_id": "80391"
+    },
+    {
+      "fire_mode_id": "80899",
+      "projectile_id": "80391"
+    },
+    {
+      "fire_mode_id": "80901",
+      "projectile_id": "80392"
+    },
+    {
+      "fire_mode_id": "80902",
+      "projectile_id": "80392"
+    },
+    {
+      "fire_mode_id": "80903",
+      "projectile_id": "80391"
+    },
+    {
+      "fire_mode_id": "80904",
+      "projectile_id": "80391"
+    },
+    {
+      "fire_mode_id": "80905",
+      "projectile_id": "80393"
+    },
+    {
+      "fire_mode_id": "80906",
+      "projectile_id": "80393"
+    },
+    {
+      "fire_mode_id": "80907",
+      "projectile_id": "80391"
+    },
+    {
+      "fire_mode_id": "80908",
+      "projectile_id": "80391"
+    },
+    {
+      "fire_mode_id": "80909",
+      "projectile_id": "80394"
+    },
+    {
+      "fire_mode_id": "80910",
+      "projectile_id": "80394"
+    },
+    {
+      "fire_mode_id": "80911",
+      "projectile_id": "80395"
+    },
+    {
+      "fire_mode_id": "80912",
+      "projectile_id": "80395"
+    },
+    {
+      "fire_mode_id": "80913",
+      "projectile_id": "80354"
+    },
+    {
+      "fire_mode_id": "80914",
+      "projectile_id": "80354"
+    },
+    {
+      "fire_mode_id": "80920",
+      "projectile_id": "80405"
+    },
+    {
+      "fire_mode_id": "80921",
+      "projectile_id": "80313"
+    },
+    {
+      "fire_mode_id": "80922",
+      "projectile_id": "80313"
+    },
+    {
+      "fire_mode_id": "80923",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "80924",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "80925",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "80926",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "80927",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "80928",
+      "projectile_id": "70012"
+    },
+    {
+      "fire_mode_id": "80929",
+      "projectile_id": "80407"
+    },
+    {
+      "fire_mode_id": "80931",
+      "projectile_id": "80408"
+    },
+    {
+      "fire_mode_id": "80932",
+      "projectile_id": "80409"
+    },
+    {
+      "fire_mode_id": "80946",
+      "projectile_id": "80414"
+    },
+    {
+      "fire_mode_id": "80948",
+      "projectile_id": "80415"
+    },
+    {
+      "fire_mode_id": "80950",
+      "projectile_id": "80416"
+    },
+    {
+      "fire_mode_id": "80951",
+      "projectile_id": "80416"
+    },
+    {
+      "fire_mode_id": "80952",
+      "projectile_id": "80417"
+    },
+    {
+      "fire_mode_id": "80953",
+      "projectile_id": "80417"
+    },
+    {
+      "fire_mode_id": "80954",
+      "projectile_id": "80418"
+    },
+    {
+      "fire_mode_id": "80955",
+      "projectile_id": "80418"
+    },
+    {
+      "fire_mode_id": "80957",
+      "projectile_id": "80419"
+    },
+    {
+      "fire_mode_id": "80961",
+      "projectile_id": "80150"
+    },
+    {
+      "fire_mode_id": "80962",
+      "projectile_id": "80421"
+    },
+    {
+      "fire_mode_id": "80963",
+      "projectile_id": "80422"
+    },
+    {
+      "fire_mode_id": "80964",
+      "projectile_id": "80422"
+    },
+    {
+      "fire_mode_id": "80965",
+      "projectile_id": "80423"
+    },
+    {
+      "fire_mode_id": "80966",
+      "projectile_id": "80423"
+    },
+    {
+      "fire_mode_id": "80970",
+      "projectile_id": "80425"
+    },
+    {
+      "fire_mode_id": "80971",
+      "projectile_id": "80425"
+    },
+    {
+      "fire_mode_id": "80972",
+      "projectile_id": "80426"
+    },
+    {
+      "fire_mode_id": "80973",
+      "projectile_id": "80426"
+    },
+    {
+      "fire_mode_id": "80974",
+      "projectile_id": "80426"
+    },
+    {
+      "fire_mode_id": "80975",
+      "projectile_id": "80426"
+    },
+    {
+      "fire_mode_id": "80976",
+      "projectile_id": "80427"
+    },
+    {
+      "fire_mode_id": "80977",
+      "projectile_id": "80427"
+    },
+    {
+      "fire_mode_id": "80978",
+      "projectile_id": "80428"
+    },
+    {
+      "fire_mode_id": "80979",
+      "projectile_id": "80429"
+    },
+    {
+      "fire_mode_id": "80983",
+      "projectile_id": "80431"
+    },
+    {
+      "fire_mode_id": "80984",
+      "projectile_id": "80432"
+    },
+    {
+      "fire_mode_id": "80987",
+      "projectile_id": "80433"
+    },
+    {
+      "fire_mode_id": "80988",
+      "projectile_id": "80434"
+    },
+    {
+      "fire_mode_id": "80989",
+      "projectile_id": "80434"
+    },
+    {
+      "fire_mode_id": "80992",
+      "projectile_id": "80436"
+    },
+    {
+      "fire_mode_id": "80993",
+      "projectile_id": "80436"
+    },
+    {
+      "fire_mode_id": "80994",
+      "projectile_id": "99"
+    },
+    {
+      "fire_mode_id": "80995",
+      "projectile_id": "99"
+    },
+    {
+      "fire_mode_id": "80996",
+      "projectile_id": "80437"
+    },
+    {
+      "fire_mode_id": "80997",
+      "projectile_id": "80437"
+    },
+    {
+      "fire_mode_id": "80998",
+      "projectile_id": "80438"
+    },
+    {
+      "fire_mode_id": "80999",
+      "projectile_id": "80438"
+    },
+    {
+      "fire_mode_id": "81000",
+      "projectile_id": "80439"
+    },
+    {
+      "fire_mode_id": "81001",
+      "projectile_id": "80439"
+    },
+    {
+      "fire_mode_id": "81002",
+      "projectile_id": "80440"
+    },
+    {
+      "fire_mode_id": "81003",
+      "projectile_id": "80440"
+    },
+    {
+      "fire_mode_id": "81004",
+      "projectile_id": "80441"
+    },
+    {
+      "fire_mode_id": "81005",
+      "projectile_id": "80441"
+    },
+    {
+      "fire_mode_id": "81006",
+      "projectile_id": "80442"
+    },
+    {
+      "fire_mode_id": "81007",
+      "projectile_id": "80442"
+    },
+    {
+      "fire_mode_id": "81008",
+      "projectile_id": "80443"
+    },
+    {
+      "fire_mode_id": "81009",
+      "projectile_id": "80443"
+    },
+    {
+      "fire_mode_id": "81010",
+      "projectile_id": "80444"
+    },
+    {
+      "fire_mode_id": "81011",
+      "projectile_id": "80444"
+    },
+    {
+      "fire_mode_id": "81012",
+      "projectile_id": "80445"
+    },
+    {
+      "fire_mode_id": "81013",
+      "projectile_id": "80445"
+    },
+    {
+      "fire_mode_id": "81014",
+      "projectile_id": "80446"
+    },
+    {
+      "fire_mode_id": "81015",
+      "projectile_id": "80446"
+    },
+    {
+      "fire_mode_id": "81016",
+      "projectile_id": "80447"
+    },
+    {
+      "fire_mode_id": "81017",
+      "projectile_id": "80447"
+    },
+    {
+      "fire_mode_id": "81018",
+      "projectile_id": "80448"
+    },
+    {
+      "fire_mode_id": "81019",
+      "projectile_id": "80448"
+    },
+    {
+      "fire_mode_id": "81020",
+      "projectile_id": "80449"
+    },
+    {
+      "fire_mode_id": "81021",
+      "projectile_id": "80449"
+    },
+    {
+      "fire_mode_id": "81024",
+      "projectile_id": "80451"
+    },
+    {
+      "fire_mode_id": "81025",
+      "projectile_id": "80451"
+    },
+    {
+      "fire_mode_id": "81026",
+      "projectile_id": "80452"
+    },
+    {
+      "fire_mode_id": "81027",
+      "projectile_id": "80452"
+    },
+    {
+      "fire_mode_id": "81028",
+      "projectile_id": "80453"
+    },
+    {
+      "fire_mode_id": "81029",
+      "projectile_id": "80453"
+    },
+    {
+      "fire_mode_id": "81030",
+      "projectile_id": "80454"
+    },
+    {
+      "fire_mode_id": "81031",
+      "projectile_id": "80454"
+    },
+    {
+      "fire_mode_id": "81032",
+      "projectile_id": "80455"
+    },
+    {
+      "fire_mode_id": "81033",
+      "projectile_id": "80455"
+    },
+    {
+      "fire_mode_id": "81034",
+      "projectile_id": "80456"
+    },
+    {
+      "fire_mode_id": "81035",
+      "projectile_id": "80456"
+    },
+    {
+      "fire_mode_id": "81036",
+      "projectile_id": "80457"
+    },
+    {
+      "fire_mode_id": "81037",
+      "projectile_id": "80457"
+    },
+    {
+      "fire_mode_id": "81038",
+      "projectile_id": "80458"
+    },
+    {
+      "fire_mode_id": "81039",
+      "projectile_id": "80458"
+    }
+  ],
+  "returned": 1492
+}

@@ -4,104 +4,59 @@
       "world_id": "1",
       "state": "online",
       "name": {
-        "en": "Connery",
-        "de": "Connery",
-        "es": "Connery",
-        "fr": "Connery",
-        "it": "Connery",
-        "tr": "Connery"
+        "en": "Connery"
       }
     },
     {
       "world_id": "10",
       "state": "online",
       "name": {
-        "en": "Miller",
-        "de": "Miller",
-        "es": "Miller",
-        "fr": "Miller",
-        "it": "Miller",
-        "tr": "Miller"
+        "en": "Miller"
       }
     },
     {
       "world_id": "13",
       "state": "online",
       "name": {
-        "en": "Cobalt",
-        "de": "Cobalt",
-        "es": "Cobalt",
-        "fr": "Cobalt",
-        "it": "Cobalt",
-        "tr": "Cobalt"
+        "en": "Cobalt"
       }
     },
     {
       "world_id": "17",
       "state": "online",
       "name": {
-        "en": "Emerald",
-        "de": "Smaragd",
-        "es": "Esmeralda",
-        "fr": "Emerald",
-        "it": "Smeraldo",
-        "tr": "Emerald"
+        "en": "Emerald"
       }
     },
     {
       "world_id": "19",
       "state": "online",
       "name": {
-        "en": "Jaeger",
-        "de": "Jaeger",
-        "es": "Jaeger",
-        "fr": "Jaeger",
-        "it": "Jaeger",
-        "tr": "Jaeger"
+        "en": "Jaeger"
       }
     },
     {
       "world_id": "24",
       "state": "locked",
       "name": {
-        "en": "Apex",
-        "de": "Apex",
-        "es": "Apex",
-        "fr": "Apex",
-        "it": "Apex",
-        "tr": "Apex"
+        "en": "Apex"
       }
     },
     {
       "world_id": "25",
       "state": "locked",
       "name": {
-        "en": "Briggs",
-        "de": "Briggs",
-        "es": "Briggs",
-        "fr": "Briggs",
-        "it": "Briggs",
-        "tr": "Briggs"
+        "en": "Briggs"
       },
       "description": {
-        "en": "AUS",
-        "de": "AUS",
-        "es": "AUS",
-        "fr": "AUS",
-        "it": "AUS",
-        "tr": "AUS"
+        "en": "AUS"
       }
     },
     {
       "world_id": "40",
       "state": "online",
       "name": {
-        "en": "SolTech",
-        "de": "SolTech",
-        "es": "SolTech",
-        "fr": "SolTech",
-        "it": "SolTech",
-        "tr": "SolTech"
+        "en": "SolTech"
       }
     }
   ],

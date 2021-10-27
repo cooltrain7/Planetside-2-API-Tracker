@@ -1,0 +1,3029 @@
+{
+  "vehicle_skill_set_list": [
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "37",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "38",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "43",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "261",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "261",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "261",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "261",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "262",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "262",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "262",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "262",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "263",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "263",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "263",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "263",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "264",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "264",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "264",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "264",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "402",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "403",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "424",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "425",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "435",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "436",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "531",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "532",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "533",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "1717",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "1718",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "1719",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "1735",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "1736",
+      "faction_id": "4",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "1737",
+      "faction_id": "4",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "1",
+      "skill_set_id": "1738",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "11",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "11",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "11",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "11",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "12",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "12",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "12",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "12",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "41",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "268",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "268",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "268",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "268",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "269",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "269",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "269",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "269",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "404",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "405",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "406",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "407",
+      "faction_id": "1",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "408",
+      "faction_id": "2",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "409",
+      "faction_id": "3",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "410",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "411",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "412",
+      "faction_id": "1",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "413",
+      "faction_id": "2",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "414",
+      "faction_id": "3",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "426",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "427",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "428",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "429",
+      "faction_id": "1",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "430",
+      "faction_id": "2",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "431",
+      "faction_id": "3",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "437",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "438",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "439",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "440",
+      "faction_id": "1",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "441",
+      "faction_id": "2",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "442",
+      "faction_id": "3",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "486",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "487",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "488",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "489",
+      "faction_id": "1",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "490",
+      "faction_id": "2",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "491",
+      "faction_id": "3",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "492",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "493",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "494",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "495",
+      "faction_id": "1",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "496",
+      "faction_id": "2",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "497",
+      "faction_id": "3",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1756",
+      "faction_id": "4",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1757",
+      "faction_id": "4",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1758",
+      "faction_id": "4",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1759",
+      "faction_id": "4",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1760",
+      "faction_id": "4",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1761",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1762",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1763",
+      "faction_id": "4",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1764",
+      "faction_id": "4",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1765",
+      "faction_id": "4",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1766",
+      "faction_id": "4",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "2",
+      "skill_set_id": "1767",
+      "faction_id": "4",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "13",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "13",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "13",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "13",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "93",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "94",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "95",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "202",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "203",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "291",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "291",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "291",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "291",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "292",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "292",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "292",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "292",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "293",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "293",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "293",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "293",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "461",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "462",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "463",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "464",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "465",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "466",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "467",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "468",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "469",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "470",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1725",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1726",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1727",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1774",
+      "faction_id": "4",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1775",
+      "faction_id": "4",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1776",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1777",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1778",
+      "faction_id": "4",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "3",
+      "skill_set_id": "1861",
+      "faction_id": "4",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "10",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "35",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "42",
+      "faction_id": "1",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "46",
+      "faction_id": "1",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "47",
+      "faction_id": "1",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "62",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "63",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "201",
+      "faction_id": "1",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "273",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "274",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "275",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "432",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "443",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "483",
+      "faction_id": "1",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "4",
+      "skill_set_id": "1596",
+      "faction_id": "1",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "44",
+      "faction_id": "2",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "45",
+      "faction_id": "2",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "53",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "66",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "67",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "68",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "276",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "277",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "278",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "389",
+      "faction_id": "2",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "391",
+      "faction_id": "2",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "433",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "444",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "484",
+      "faction_id": "2",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "5",
+      "skill_set_id": "1592",
+      "faction_id": "2",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "40",
+      "faction_id": "3",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "48",
+      "faction_id": "3",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "54",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "72",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "73",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "74",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "279",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "280",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "281",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "390",
+      "faction_id": "3",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "392",
+      "faction_id": "3",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "434",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "445",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "485",
+      "faction_id": "3",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "6",
+      "skill_set_id": "1594",
+      "faction_id": "3",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "55",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "81",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "82",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "83",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "84",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "193",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "282",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "283",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "284",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "577",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "578",
+      "faction_id": "1",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "579",
+      "faction_id": "1",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "590",
+      "faction_id": "1",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "1843",
+      "faction_id": "1",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "7",
+      "skill_set_id": "1855",
+      "faction_id": "1",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "56",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "85",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "86",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "87",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "88",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "194",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "285",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "286",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "287",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "582",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "583",
+      "faction_id": "2",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "584",
+      "faction_id": "2",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "591",
+      "faction_id": "2",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "1842",
+      "faction_id": "2",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "8",
+      "skill_set_id": "1855",
+      "faction_id": "2",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "57",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "89",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "90",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "91",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "92",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "195",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "288",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "289",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "290",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "587",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "588",
+      "faction_id": "3",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "589",
+      "faction_id": "3",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "592",
+      "faction_id": "3",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "1841",
+      "faction_id": "3",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "9",
+      "skill_set_id": "1855",
+      "faction_id": "3",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "39",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "58",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "58",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "58",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "58",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "196",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "197",
+      "faction_id": "1",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "198",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "199",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "200",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "265",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "265",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "265",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "265",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "266",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "266",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "266",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "266",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "267",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "267",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "267",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "267",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "393",
+      "faction_id": "1",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "394",
+      "faction_id": "2",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "395",
+      "faction_id": "3",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "415",
+      "faction_id": "1",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "416",
+      "faction_id": "2",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "417",
+      "faction_id": "3",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "446",
+      "faction_id": "1",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "447",
+      "faction_id": "2",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "448",
+      "faction_id": "3",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "471",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "472",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "473",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "474",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "475",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "476",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "477",
+      "faction_id": "2",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "478",
+      "faction_id": "3",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "479",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "480",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "481",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "482",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "498",
+      "faction_id": "1",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "499",
+      "faction_id": "2",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "500",
+      "faction_id": "3",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "597",
+      "faction_id": "2",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "598",
+      "faction_id": "1",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "599",
+      "faction_id": "3",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "600",
+      "faction_id": "1",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "601",
+      "faction_id": "2",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "602",
+      "faction_id": "3",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1792",
+      "faction_id": "4",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1793",
+      "faction_id": "4",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1794",
+      "faction_id": "4",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1795",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1796",
+      "faction_id": "4",
+      "display_index": "15"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1797",
+      "faction_id": "4",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1798",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1799",
+      "faction_id": "4",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1800",
+      "faction_id": "4",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1801",
+      "faction_id": "4",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "10",
+      "skill_set_id": "1802",
+      "faction_id": "4",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "59",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "59",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "59",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "59",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "270",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "270",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "270",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "270",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "271",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "271",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "271",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "271",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "272",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "272",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "272",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "272",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "396",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "397",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "398",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "399",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "400",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "401",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "418",
+      "faction_id": "1",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "419",
+      "faction_id": "2",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "420",
+      "faction_id": "3",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "421",
+      "faction_id": "1",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "422",
+      "faction_id": "2",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "423",
+      "faction_id": "3",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "449",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "450",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "451",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "452",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "453",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "454",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "455",
+      "faction_id": "1",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "456",
+      "faction_id": "2",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "457",
+      "faction_id": "3",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "458",
+      "faction_id": "1",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "459",
+      "faction_id": "2",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "460",
+      "faction_id": "3",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1687",
+      "faction_id": "1",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1688",
+      "faction_id": "2",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1689",
+      "faction_id": "3",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1693",
+      "faction_id": "1",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1694",
+      "faction_id": "3",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1695",
+      "faction_id": "2",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1699",
+      "faction_id": "2",
+      "display_index": "20"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1700",
+      "faction_id": "3",
+      "display_index": "20"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1701",
+      "faction_id": "1",
+      "display_index": "20"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1804",
+      "faction_id": "4",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1805",
+      "faction_id": "4",
+      "display_index": "14"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1806",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1807",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1810",
+      "faction_id": "4",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1811",
+      "faction_id": "4",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1816",
+      "faction_id": "4",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1817",
+      "faction_id": "4",
+      "display_index": "17"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1818",
+      "faction_id": "4",
+      "display_index": "20"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1819",
+      "faction_id": "4",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "11",
+      "skill_set_id": "1821",
+      "faction_id": "4",
+      "display_index": "19"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "544",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "545",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "546",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "547",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "548",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "549",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "550",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "551",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "552",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "553",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "554",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "555",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "556",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "557",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "558",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "559",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "560",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "561",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "562",
+      "faction_id": "1",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "563",
+      "faction_id": "2",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "564",
+      "faction_id": "3",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "565",
+      "faction_id": "3",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "566",
+      "faction_id": "3",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "567",
+      "faction_id": "2",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "568",
+      "faction_id": "2",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "569",
+      "faction_id": "1",
+      "display_index": "11"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "570",
+      "faction_id": "1",
+      "display_index": "12"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "571",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "571",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "571",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "571",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "572",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "572",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "572",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "572",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "573",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "573",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "573",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "573",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "574",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "574",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "574",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "574",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1593",
+      "faction_id": "2",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1595",
+      "faction_id": "3",
+      "display_index": "13"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1597",
+      "faction_id": "1",
+      "display_index": "16"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1779",
+      "faction_id": "4",
+      "display_index": "10"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1780",
+      "faction_id": "4",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1781",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1782",
+      "faction_id": "4",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1783",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1784",
+      "faction_id": "4",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "12",
+      "skill_set_id": "1785",
+      "faction_id": "4",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "603",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "603",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "603",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "603",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "604",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "604",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "604",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "604",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "605",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "605",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "605",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "605",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "606",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "606",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "606",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "606",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1572",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1573",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1574",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1575",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1576",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1577",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1578",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1579",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1580",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1581",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1582",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1583",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1584",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1585",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1586",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1587",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1588",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1589",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1822",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1823",
+      "faction_id": "4",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1824",
+      "faction_id": "4",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1825",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "14",
+      "skill_set_id": "1826",
+      "faction_id": "4",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1598",
+      "faction_id": "2",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1599",
+      "faction_id": "1",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1600",
+      "faction_id": "3",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1601",
+      "faction_id": "3",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1602",
+      "faction_id": "1",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1603",
+      "faction_id": "2",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1604",
+      "faction_id": "3",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1605",
+      "faction_id": "2",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1606",
+      "faction_id": "1",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1607",
+      "faction_id": "2",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1608",
+      "faction_id": "1",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1609",
+      "faction_id": "3",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1610",
+      "faction_id": "2",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1611",
+      "faction_id": "3",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1612",
+      "faction_id": "1",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1613",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1613",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1613",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1613",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1614",
+      "faction_id": "1",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1615",
+      "faction_id": "2",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1616",
+      "faction_id": "3",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1617",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1617",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1617",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1617",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1618",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1618",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1618",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1618",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1619",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1619",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1619",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1619",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1786",
+      "faction_id": "4",
+      "display_index": "5"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1787",
+      "faction_id": "4",
+      "display_index": "7"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1788",
+      "faction_id": "4",
+      "display_index": "6"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1789",
+      "faction_id": "4",
+      "display_index": "4"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1790",
+      "faction_id": "4",
+      "display_index": "9"
+    },
+    {
+      "vehicle_id": "15",
+      "skill_set_id": "1791",
+      "faction_id": "4",
+      "display_index": "8"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1851",
+      "faction_id": "1",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1851",
+      "faction_id": "2",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1851",
+      "faction_id": "3",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1851",
+      "faction_id": "4",
+      "display_index": "1"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1852",
+      "faction_id": "1",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1852",
+      "faction_id": "2",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1852",
+      "faction_id": "3",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1852",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1853",
+      "faction_id": "1",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1853",
+      "faction_id": "2",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1853",
+      "faction_id": "3",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1853",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1854",
+      "faction_id": "1",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1854",
+      "faction_id": "2",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1854",
+      "faction_id": "3",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2007",
+      "skill_set_id": "1854",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2033",
+      "skill_set_id": "1846",
+      "faction_id": "4",
+      "display_index": "2"
+    },
+    {
+      "vehicle_id": "2033",
+      "skill_set_id": "1847",
+      "faction_id": "4",
+      "display_index": "0"
+    },
+    {
+      "vehicle_id": "2033",
+      "skill_set_id": "1848",
+      "faction_id": "4",
+      "display_index": "3"
+    },
+    {
+      "vehicle_id": "2033",
+      "skill_set_id": "1849",
+      "faction_id": "4",
+      "display_index": "1"
+    }
+  ],
+  "returned": 504
+}

@@ -1,0 +1,5951 @@
+{
+  "weapon_to_fire_group_list": [
+    {
+      "weapon_id": "1",
+      "fire_group_id": "1",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "1",
+      "fire_group_id": "7",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "2",
+      "fire_group_id": "2",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "3",
+      "fire_group_id": "3",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "3",
+      "fire_group_id": "1003",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "4",
+      "fire_group_id": "4",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "4",
+      "fire_group_id": "1004",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "6",
+      "fire_group_id": "6",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "9",
+      "fire_group_id": "1",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "9",
+      "fire_group_id": "7",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "10",
+      "fire_group_id": "8",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "10",
+      "fire_group_id": "1008",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "11",
+      "fire_group_id": "9",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "11",
+      "fire_group_id": "1009",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "12",
+      "fire_group_id": "10",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "13",
+      "fire_group_id": "11",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "15",
+      "fire_group_id": "13",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16",
+      "fire_group_id": "14",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16",
+      "fire_group_id": "1014",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "17",
+      "fire_group_id": "15",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "17",
+      "fire_group_id": "1015",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "19",
+      "fire_group_id": "17",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "19",
+      "fire_group_id": "18",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "19",
+      "fire_group_id": "80023",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "20",
+      "fire_group_id": "1",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "20",
+      "fire_group_id": "7",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "21",
+      "fire_group_id": "7100",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "21",
+      "fire_group_id": "17100",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "22",
+      "fire_group_id": "19",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "23",
+      "fire_group_id": "20",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "24",
+      "fire_group_id": "21",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "28",
+      "fire_group_id": "25",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29",
+      "fire_group_id": "26",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "30",
+      "fire_group_id": "27",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "31",
+      "fire_group_id": "28",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "32",
+      "fire_group_id": "29",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "33",
+      "fire_group_id": "30",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "34",
+      "fire_group_id": "31",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "35",
+      "fire_group_id": "32",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "36",
+      "fire_group_id": "33",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "37",
+      "fire_group_id": "34",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "38",
+      "fire_group_id": "35",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "39",
+      "fire_group_id": "36",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "42",
+      "fire_group_id": "136",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "43",
+      "fire_group_id": "37",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "44",
+      "fire_group_id": "38",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "48",
+      "fire_group_id": "49",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "51",
+      "fire_group_id": "251",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "52",
+      "fire_group_id": "83",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "53",
+      "fire_group_id": "17",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "53",
+      "fire_group_id": "18",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "53",
+      "fire_group_id": "80024",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "54",
+      "fire_group_id": "17",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "54",
+      "fire_group_id": "18",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "54",
+      "fire_group_id": "80020",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "74",
+      "fire_group_id": "74",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "75",
+      "fire_group_id": "75",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "79",
+      "fire_group_id": "80",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "80",
+      "fire_group_id": "81",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "81",
+      "fire_group_id": "84",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "82",
+      "fire_group_id": "85",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "83",
+      "fire_group_id": "86",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "84",
+      "fire_group_id": "87",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "85",
+      "fire_group_id": "88",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "86",
+      "fire_group_id": "89",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "87",
+      "fire_group_id": "90",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "88",
+      "fire_group_id": "91",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "92",
+      "fire_group_id": "70008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "93",
+      "fire_group_id": "70061",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "94",
+      "fire_group_id": "70062",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "95",
+      "fire_group_id": "70063",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "96",
+      "fire_group_id": "70064",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "97",
+      "fire_group_id": "70065",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "98",
+      "fire_group_id": "70012",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "99",
+      "fire_group_id": "70012",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "100",
+      "fire_group_id": "100",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "101",
+      "fire_group_id": "101",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "102",
+      "fire_group_id": "102",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "103",
+      "fire_group_id": "730",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "103",
+      "fire_group_id": "731",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "105",
+      "fire_group_id": "734",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "105",
+      "fire_group_id": "80235",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "106",
+      "fire_group_id": "736",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "107",
+      "fire_group_id": "738",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "108",
+      "fire_group_id": "740",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "109",
+      "fire_group_id": "742",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "110",
+      "fire_group_id": "744",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "110",
+      "fire_group_id": "745",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "111",
+      "fire_group_id": "746",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "111",
+      "fire_group_id": "747",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "112",
+      "fire_group_id": "748",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "112",
+      "fire_group_id": "749",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "113",
+      "fire_group_id": "750",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "113",
+      "fire_group_id": "751",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "114",
+      "fire_group_id": "752",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "116",
+      "fire_group_id": "756",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "117",
+      "fire_group_id": "758",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "118",
+      "fire_group_id": "760",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "119",
+      "fire_group_id": "762",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "120",
+      "fire_group_id": "764",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "121",
+      "fire_group_id": "766",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "122",
+      "fire_group_id": "768",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "123",
+      "fire_group_id": "770",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "124",
+      "fire_group_id": "772",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "125",
+      "fire_group_id": "774",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "126",
+      "fire_group_id": "776",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "127",
+      "fire_group_id": "778",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "128",
+      "fire_group_id": "780",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "201",
+      "fire_group_id": "201",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "202",
+      "fire_group_id": "202",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "206",
+      "fire_group_id": "438",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "207",
+      "fire_group_id": "439",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "300",
+      "fire_group_id": "300",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "301",
+      "fire_group_id": "301",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "302",
+      "fire_group_id": "302",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "303",
+      "fire_group_id": "303",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "304",
+      "fire_group_id": "304",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "305",
+      "fire_group_id": "305",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "306",
+      "fire_group_id": "306",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "310",
+      "fire_group_id": "310",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "311",
+      "fire_group_id": "311",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "312",
+      "fire_group_id": "312",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "313",
+      "fire_group_id": "313",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "314",
+      "fire_group_id": "314",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "315",
+      "fire_group_id": "315",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "316",
+      "fire_group_id": "695",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "317",
+      "fire_group_id": "696",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "318",
+      "fire_group_id": "697",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "319",
+      "fire_group_id": "319",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "320",
+      "fire_group_id": "320",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "321",
+      "fire_group_id": "321",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "322",
+      "fire_group_id": "322",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "325",
+      "fire_group_id": "537",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "326",
+      "fire_group_id": "536",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "327",
+      "fire_group_id": "535",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "340",
+      "fire_group_id": "340",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "341",
+      "fire_group_id": "341",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "342",
+      "fire_group_id": "342",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "348",
+      "fire_group_id": "348",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "349",
+      "fire_group_id": "349",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "350",
+      "fire_group_id": "350",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "351",
+      "fire_group_id": "351",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "352",
+      "fire_group_id": "352",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "353",
+      "fire_group_id": "353",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "354",
+      "fire_group_id": "354",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "355",
+      "fire_group_id": "355",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "356",
+      "fire_group_id": "689",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "357",
+      "fire_group_id": "690",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "358",
+      "fire_group_id": "691",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "359",
+      "fire_group_id": "359",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "360",
+      "fire_group_id": "360",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "361",
+      "fire_group_id": "361",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "364",
+      "fire_group_id": "364",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "365",
+      "fire_group_id": "365",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "366",
+      "fire_group_id": "549",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "367",
+      "fire_group_id": "547",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "368",
+      "fire_group_id": "548",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "369",
+      "fire_group_id": "549",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "370",
+      "fire_group_id": "547",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "371",
+      "fire_group_id": "548",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "376",
+      "fire_group_id": "704",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "377",
+      "fire_group_id": "705",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "378",
+      "fire_group_id": "706",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "380",
+      "fire_group_id": "53",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "381",
+      "fire_group_id": "51",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "382",
+      "fire_group_id": "52",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "386",
+      "fire_group_id": "316",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "387",
+      "fire_group_id": "317",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "388",
+      "fire_group_id": "318",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "399",
+      "fire_group_id": "440",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "400",
+      "fire_group_id": "441",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "401",
+      "fire_group_id": "442",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "402",
+      "fire_group_id": "443",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "403",
+      "fire_group_id": "444",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "404",
+      "fire_group_id": "445",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "405",
+      "fire_group_id": "405",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "406",
+      "fire_group_id": "406",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "407",
+      "fire_group_id": "407",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "409",
+      "fire_group_id": "409",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "410",
+      "fire_group_id": "410",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "411",
+      "fire_group_id": "411",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "412",
+      "fire_group_id": "412",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "413",
+      "fire_group_id": "413",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "414",
+      "fire_group_id": "414",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "415",
+      "fire_group_id": "415",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "416",
+      "fire_group_id": "416",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "417",
+      "fire_group_id": "417",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "418",
+      "fire_group_id": "418",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "419",
+      "fire_group_id": "419",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "420",
+      "fire_group_id": "420",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "423",
+      "fire_group_id": "423",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "424",
+      "fire_group_id": "424",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "426",
+      "fire_group_id": "426",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "427",
+      "fire_group_id": "427",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "428",
+      "fire_group_id": "428",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "429",
+      "fire_group_id": "429",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "430",
+      "fire_group_id": "430",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "431",
+      "fire_group_id": "431",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "432",
+      "fire_group_id": "432",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "433",
+      "fire_group_id": "433",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "434",
+      "fire_group_id": "434",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "435",
+      "fire_group_id": "435",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "436",
+      "fire_group_id": "436",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "437",
+      "fire_group_id": "437",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "438",
+      "fire_group_id": "486",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "439",
+      "fire_group_id": "487",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "440",
+      "fire_group_id": "488",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "441",
+      "fire_group_id": "462",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "442",
+      "fire_group_id": "541",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "443",
+      "fire_group_id": "542",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "444",
+      "fire_group_id": "543",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "445",
+      "fire_group_id": "541",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "446",
+      "fire_group_id": "542",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "447",
+      "fire_group_id": "543",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "450",
+      "fire_group_id": "450",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "451",
+      "fire_group_id": "451",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "452",
+      "fire_group_id": "452",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "453",
+      "fire_group_id": "453",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "454",
+      "fire_group_id": "454",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "455",
+      "fire_group_id": "455",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "456",
+      "fire_group_id": "456",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "457",
+      "fire_group_id": "457",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "458",
+      "fire_group_id": "458",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "459",
+      "fire_group_id": "459",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "460",
+      "fire_group_id": "460",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "461",
+      "fire_group_id": "461",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "462",
+      "fire_group_id": "535",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "463",
+      "fire_group_id": "535",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "464",
+      "fire_group_id": "535",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "465",
+      "fire_group_id": "535",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "466",
+      "fire_group_id": "536",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "467",
+      "fire_group_id": "536",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "468",
+      "fire_group_id": "536",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "469",
+      "fire_group_id": "536",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "470",
+      "fire_group_id": "537",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "471",
+      "fire_group_id": "537",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "472",
+      "fire_group_id": "537",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "473",
+      "fire_group_id": "537",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "475",
+      "fire_group_id": "475",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "476",
+      "fire_group_id": "476",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "480",
+      "fire_group_id": "480",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "481",
+      "fire_group_id": "481",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "482",
+      "fire_group_id": "482",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "483",
+      "fire_group_id": "483",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "484",
+      "fire_group_id": "484",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "485",
+      "fire_group_id": "485",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "486",
+      "fire_group_id": "549",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "487",
+      "fire_group_id": "547",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "488",
+      "fire_group_id": "548",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "489",
+      "fire_group_id": "80267",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "490",
+      "fire_group_id": "80265",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "491",
+      "fire_group_id": "80266",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "492",
+      "fire_group_id": "316",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "493",
+      "fire_group_id": "317",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "494",
+      "fire_group_id": "318",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "495",
+      "fire_group_id": "319",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "496",
+      "fire_group_id": "320",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "497",
+      "fire_group_id": "321",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "498",
+      "fire_group_id": "310",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "499",
+      "fire_group_id": "311",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "500",
+      "fire_group_id": "312",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "501",
+      "fire_group_id": "310",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "502",
+      "fire_group_id": "311",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "503",
+      "fire_group_id": "312",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "504",
+      "fire_group_id": "80145",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "505",
+      "fire_group_id": "80141",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "506",
+      "fire_group_id": "80144",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "507",
+      "fire_group_id": "80146",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "508",
+      "fire_group_id": "80142",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "509",
+      "fire_group_id": "80143",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "510",
+      "fire_group_id": "510",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "511",
+      "fire_group_id": "511",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "512",
+      "fire_group_id": "512",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "513",
+      "fire_group_id": "80303",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "514",
+      "fire_group_id": "80305",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "515",
+      "fire_group_id": "80307",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "516",
+      "fire_group_id": "80304",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "517",
+      "fire_group_id": "80306",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "518",
+      "fire_group_id": "80308",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "519",
+      "fire_group_id": "80298",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "520",
+      "fire_group_id": "80294",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "521",
+      "fire_group_id": "80296",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "522",
+      "fire_group_id": "80299",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "523",
+      "fire_group_id": "80295",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "524",
+      "fire_group_id": "80297",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "525",
+      "fire_group_id": "450",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "526",
+      "fire_group_id": "451",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "527",
+      "fire_group_id": "452",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "558",
+      "fire_group_id": "562",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "559",
+      "fire_group_id": "563",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "560",
+      "fire_group_id": "564",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "571",
+      "fire_group_id": "689",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "572",
+      "fire_group_id": "690",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "573",
+      "fire_group_id": "691",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "574",
+      "fire_group_id": "683",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "575",
+      "fire_group_id": "684",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "576",
+      "fire_group_id": "685",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "577",
+      "fire_group_id": "303",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "578",
+      "fire_group_id": "418",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "579",
+      "fire_group_id": "423",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "580",
+      "fire_group_id": "510",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "581",
+      "fire_group_id": "511",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "582",
+      "fire_group_id": "512",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "583",
+      "fire_group_id": "701",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "584",
+      "fire_group_id": "702",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "585",
+      "fire_group_id": "703",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "586",
+      "fire_group_id": "695",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "587",
+      "fire_group_id": "696",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "588",
+      "fire_group_id": "697",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "589",
+      "fire_group_id": "678",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "590",
+      "fire_group_id": "679",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "591",
+      "fire_group_id": "680",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "592",
+      "fire_group_id": "593",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "593",
+      "fire_group_id": "594",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "594",
+      "fire_group_id": "595",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "595",
+      "fire_group_id": "596",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "596",
+      "fire_group_id": "597",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "597",
+      "fire_group_id": "598",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "600",
+      "fire_group_id": "368",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "601",
+      "fire_group_id": "369",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "602",
+      "fire_group_id": "370",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "605",
+      "fire_group_id": "373",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "606",
+      "fire_group_id": "374",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "607",
+      "fire_group_id": "375",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "610",
+      "fire_group_id": "378",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "611",
+      "fire_group_id": "379",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "612",
+      "fire_group_id": "380",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "650",
+      "fire_group_id": "650",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "658",
+      "fire_group_id": "660",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "659",
+      "fire_group_id": "661",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "660",
+      "fire_group_id": "662",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "661",
+      "fire_group_id": "663",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "663",
+      "fire_group_id": "665",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "664",
+      "fire_group_id": "666",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "665",
+      "fire_group_id": "667",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "666",
+      "fire_group_id": "675",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "667",
+      "fire_group_id": "676",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "668",
+      "fire_group_id": "677",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "669",
+      "fire_group_id": "669",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "670",
+      "fire_group_id": "707",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "671",
+      "fire_group_id": "708",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "672",
+      "fire_group_id": "709",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "673",
+      "fire_group_id": "710",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "674",
+      "fire_group_id": "711",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "675",
+      "fire_group_id": "712",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "676",
+      "fire_group_id": "713",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "677",
+      "fire_group_id": "714",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "678",
+      "fire_group_id": "715",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "679",
+      "fire_group_id": "716",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "680",
+      "fire_group_id": "717",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "681",
+      "fire_group_id": "718",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "682",
+      "fire_group_id": "719",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "683",
+      "fire_group_id": "720",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "684",
+      "fire_group_id": "721",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "685",
+      "fire_group_id": "722",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "686",
+      "fire_group_id": "723",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "687",
+      "fire_group_id": "724",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "688",
+      "fire_group_id": "725",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "689",
+      "fire_group_id": "726",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "6050",
+      "fire_group_id": "6050",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7101",
+      "fire_group_id": "7101",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7101",
+      "fire_group_id": "18095",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7102",
+      "fire_group_id": "7102",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7102",
+      "fire_group_id": "7627",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7102",
+      "fire_group_id": "18097",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7103",
+      "fire_group_id": "7103",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7103",
+      "fire_group_id": "18099",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7104",
+      "fire_group_id": "7104",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7104",
+      "fire_group_id": "18101",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7104",
+      "fire_group_id": "18103",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7108",
+      "fire_group_id": "7108",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7108",
+      "fire_group_id": "17108",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7124",
+      "fire_group_id": "7124",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7124",
+      "fire_group_id": "17124",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7125",
+      "fire_group_id": "7125",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7125",
+      "fire_group_id": "17125",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7126",
+      "fire_group_id": "7126",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7126",
+      "fire_group_id": "18076",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7127",
+      "fire_group_id": "7127",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7127",
+      "fire_group_id": "7623",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7127",
+      "fire_group_id": "18077",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7128",
+      "fire_group_id": "7128",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7128",
+      "fire_group_id": "18079",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7129",
+      "fire_group_id": "7129",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7129",
+      "fire_group_id": "18083",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7129",
+      "fire_group_id": "18081",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7148",
+      "fire_group_id": "7148",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7148",
+      "fire_group_id": "17148",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7149",
+      "fire_group_id": "7149",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7149",
+      "fire_group_id": "17149",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7150",
+      "fire_group_id": "7150",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7150",
+      "fire_group_id": "7620",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7151",
+      "fire_group_id": "7151",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7151",
+      "fire_group_id": "7631",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7151",
+      "fire_group_id": "18113",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7152",
+      "fire_group_id": "7152",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7152",
+      "fire_group_id": "18115",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7153",
+      "fire_group_id": "7153",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7153",
+      "fire_group_id": "18117",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7169",
+      "fire_group_id": "7169",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7169",
+      "fire_group_id": "17169",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7170",
+      "fire_group_id": "7170",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7170",
+      "fire_group_id": "17170",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7171",
+      "fire_group_id": "7171",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7171",
+      "fire_group_id": "7618",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7172",
+      "fire_group_id": "7172",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7172",
+      "fire_group_id": "7625",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7172",
+      "fire_group_id": "7626",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7173",
+      "fire_group_id": "7173",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7173",
+      "fire_group_id": "7178",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7174",
+      "fire_group_id": "7174",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7174",
+      "fire_group_id": "18143",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7190",
+      "fire_group_id": "7190",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7190",
+      "fire_group_id": "17190",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7191",
+      "fire_group_id": "7191",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7191",
+      "fire_group_id": "7619",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7192",
+      "fire_group_id": "7192",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7192",
+      "fire_group_id": "7621",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7192",
+      "fire_group_id": "7622",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7193",
+      "fire_group_id": "7193",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7193",
+      "fire_group_id": "1023",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7194",
+      "fire_group_id": "7194",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7194",
+      "fire_group_id": "18131",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7194",
+      "fire_group_id": "18133",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7211",
+      "fire_group_id": "7211",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7211",
+      "fire_group_id": "17211",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7212",
+      "fire_group_id": "7212",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7212",
+      "fire_group_id": "7600",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7213",
+      "fire_group_id": "7213",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7213",
+      "fire_group_id": "7629",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7213",
+      "fire_group_id": "7630",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7214",
+      "fire_group_id": "7214",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7214",
+      "fire_group_id": "1022",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7215",
+      "fire_group_id": "18153",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7215",
+      "fire_group_id": "18154",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7215",
+      "fire_group_id": "7215",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7232",
+      "fire_group_id": "7232",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7233",
+      "fire_group_id": "7233",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7233",
+      "fire_group_id": "7282",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7234",
+      "fire_group_id": "7234",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7234",
+      "fire_group_id": "18171",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7235",
+      "fire_group_id": "7235",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7235",
+      "fire_group_id": "7628",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7235",
+      "fire_group_id": "18173",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7236",
+      "fire_group_id": "7236",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7253",
+      "fire_group_id": "7253",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7253",
+      "fire_group_id": "93",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7254",
+      "fire_group_id": "7254",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7255",
+      "fire_group_id": "7255",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7255",
+      "fire_group_id": "18163",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7256",
+      "fire_group_id": "7256",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7256",
+      "fire_group_id": "7624",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7256",
+      "fire_group_id": "18165",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7257",
+      "fire_group_id": "7257",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7274",
+      "fire_group_id": "7274",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7275",
+      "fire_group_id": "7275",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7276",
+      "fire_group_id": "7276",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7276",
+      "fire_group_id": "18179",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7277",
+      "fire_group_id": "7277",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7277",
+      "fire_group_id": "7632",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7277",
+      "fire_group_id": "18181",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "7278",
+      "fire_group_id": "7278",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7301",
+      "fire_group_id": "7301",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7316",
+      "fire_group_id": "7318",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7316",
+      "fire_group_id": "7317",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7337",
+      "fire_group_id": "7337",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7337",
+      "fire_group_id": "80217",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7358",
+      "fire_group_id": "7358",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7365",
+      "fire_group_id": "7365",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7372",
+      "fire_group_id": "7372",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7379",
+      "fire_group_id": "7379",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7388",
+      "fire_group_id": "7388",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7389",
+      "fire_group_id": "7389",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7389",
+      "fire_group_id": "7393",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7390",
+      "fire_group_id": "7390",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7391",
+      "fire_group_id": "7391",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7400",
+      "fire_group_id": "7400",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7401",
+      "fire_group_id": "80125",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7401",
+      "fire_group_id": "7401",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7402",
+      "fire_group_id": "7402",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7403",
+      "fire_group_id": "7403",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7412",
+      "fire_group_id": "7412",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7413",
+      "fire_group_id": "7413",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7414",
+      "fire_group_id": "7414",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7414",
+      "fire_group_id": "80021",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7423",
+      "fire_group_id": "7423",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7432",
+      "fire_group_id": "7432",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7441",
+      "fire_group_id": "7441",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7494",
+      "fire_group_id": "7494",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7495",
+      "fire_group_id": "7495",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7496",
+      "fire_group_id": "7496",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7505",
+      "fire_group_id": "7505",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7506",
+      "fire_group_id": "7506",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7507",
+      "fire_group_id": "7507",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7512",
+      "fire_group_id": "7512",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7513",
+      "fire_group_id": "7513",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7518",
+      "fire_group_id": "7518",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7519",
+      "fire_group_id": "7519",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7520",
+      "fire_group_id": "7520",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7525",
+      "fire_group_id": "7525",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7528",
+      "fire_group_id": "7528",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7528",
+      "fire_group_id": "94",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "7533",
+      "fire_group_id": "7533",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7540",
+      "fire_group_id": "7540",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7546",
+      "fire_group_id": "7546",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7547",
+      "fire_group_id": "7547",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7548",
+      "fire_group_id": "7548",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7549",
+      "fire_group_id": "7601",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7553",
+      "fire_group_id": "7605",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7556",
+      "fire_group_id": "7608",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7559",
+      "fire_group_id": "7611",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7562",
+      "fire_group_id": "7614",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7565",
+      "fire_group_id": "7617",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "7570",
+      "fire_group_id": "80014",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "15000",
+      "fire_group_id": "15000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "15001",
+      "fire_group_id": "15001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "15004",
+      "fire_group_id": "15004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16000",
+      "fire_group_id": "16000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16001",
+      "fire_group_id": "16001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16004",
+      "fire_group_id": "16004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16028",
+      "fire_group_id": "16028",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16029",
+      "fire_group_id": "16029",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "16030",
+      "fire_group_id": "16030",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "17000",
+      "fire_group_id": "17000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "17001",
+      "fire_group_id": "17001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "17004",
+      "fire_group_id": "17004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "19000",
+      "fire_group_id": "19000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "19000",
+      "fire_group_id": "19200",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "20000",
+      "fire_group_id": "20000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "20000",
+      "fire_group_id": "21000",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "24000",
+      "fire_group_id": "24000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "24001",
+      "fire_group_id": "24001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "24002",
+      "fire_group_id": "24002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "24003",
+      "fire_group_id": "24003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "24004",
+      "fire_group_id": "24004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "24007",
+      "fire_group_id": "24007",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "24008",
+      "fire_group_id": "24008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "25000",
+      "fire_group_id": "25000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "25001",
+      "fire_group_id": "25001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "25002",
+      "fire_group_id": "25002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "25003",
+      "fire_group_id": "25003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "25004",
+      "fire_group_id": "25004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "25007",
+      "fire_group_id": "25007",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "25008",
+      "fire_group_id": "25008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "26000",
+      "fire_group_id": "26000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "26001",
+      "fire_group_id": "26001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "26002",
+      "fire_group_id": "26002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "26003",
+      "fire_group_id": "26003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "26004",
+      "fire_group_id": "26004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "26007",
+      "fire_group_id": "26007",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "26008",
+      "fire_group_id": "26008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "27000",
+      "fire_group_id": "27000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "27001",
+      "fire_group_id": "27001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "27005",
+      "fire_group_id": "27005",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "28000",
+      "fire_group_id": "28000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "28001",
+      "fire_group_id": "28001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "28005",
+      "fire_group_id": "28005",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29000",
+      "fire_group_id": "29000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29001",
+      "fire_group_id": "29001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29005",
+      "fire_group_id": "29005",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29006",
+      "fire_group_id": "7505",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29007",
+      "fire_group_id": "7506",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29008",
+      "fire_group_id": "7507",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29010",
+      "fire_group_id": "7512",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29011",
+      "fire_group_id": "7513",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29013",
+      "fire_group_id": "7518",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29014",
+      "fire_group_id": "7519",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29015",
+      "fire_group_id": "7520",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29017",
+      "fire_group_id": "7525",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29018",
+      "fire_group_id": "15000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29019",
+      "fire_group_id": "15001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29020",
+      "fire_group_id": "15004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29024",
+      "fire_group_id": "16000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29025",
+      "fire_group_id": "16001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29026",
+      "fire_group_id": "16004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29029",
+      "fire_group_id": "17000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29030",
+      "fire_group_id": "17001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "29031",
+      "fire_group_id": "17004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "33002",
+      "fire_group_id": "33002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "33003",
+      "fire_group_id": "33003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "33004",
+      "fire_group_id": "33004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "34002",
+      "fire_group_id": "34002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "34003",
+      "fire_group_id": "34003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "34004",
+      "fire_group_id": "34004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "35002",
+      "fire_group_id": "35002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "35003",
+      "fire_group_id": "35003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "35004",
+      "fire_group_id": "35004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "39000",
+      "fire_group_id": "39000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "39001",
+      "fire_group_id": "39001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "39002",
+      "fire_group_id": "39002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "40000",
+      "fire_group_id": "40000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "40001",
+      "fire_group_id": "40001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "40002",
+      "fire_group_id": "40002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "41000",
+      "fire_group_id": "41000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "41001",
+      "fire_group_id": "41001",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "41002",
+      "fire_group_id": "41002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "42000",
+      "fire_group_id": "21500",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "42000",
+      "fire_group_id": "21501",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "42001",
+      "fire_group_id": "21500",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "42001",
+      "fire_group_id": "21501",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "42002",
+      "fire_group_id": "42002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "42003",
+      "fire_group_id": "42003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "50051",
+      "fire_group_id": "50051",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "50561",
+      "fire_group_id": "80672",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70002",
+      "fire_group_id": "489",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70003",
+      "fire_group_id": "490",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70007",
+      "fire_group_id": "70004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70008",
+      "fire_group_id": "70005",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70009",
+      "fire_group_id": "70006",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70010",
+      "fire_group_id": "70007",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70010",
+      "fire_group_id": "70015",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "70011",
+      "fire_group_id": "70008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70012",
+      "fire_group_id": "70009",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70013",
+      "fire_group_id": "70010",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70014",
+      "fire_group_id": "70009",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70015",
+      "fire_group_id": "70022",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70016",
+      "fire_group_id": "70025",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70017",
+      "fire_group_id": "70026",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70019",
+      "fire_group_id": "70012",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70025",
+      "fire_group_id": "70009",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70026",
+      "fire_group_id": "70010",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70027",
+      "fire_group_id": "70009",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70028",
+      "fire_group_id": "70010",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70030",
+      "fire_group_id": "70007",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70030",
+      "fire_group_id": "70015",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "70031",
+      "fire_group_id": "70010",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70032",
+      "fire_group_id": "70017",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70033",
+      "fire_group_id": "70018",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70034",
+      "fire_group_id": "70019",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70035",
+      "fire_group_id": "70020",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70036",
+      "fire_group_id": "70021",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70037",
+      "fire_group_id": "70023",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70038",
+      "fire_group_id": "70023",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70039",
+      "fire_group_id": "70023",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70040",
+      "fire_group_id": "70024",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70041",
+      "fire_group_id": "80670",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70042",
+      "fire_group_id": "80671",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70043",
+      "fire_group_id": "70024",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "70044",
+      "fire_group_id": "70024",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "75490",
+      "fire_group_id": "75490",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "75491",
+      "fire_group_id": "75491",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "75492",
+      "fire_group_id": "75492",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "75493",
+      "fire_group_id": "75493",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77821",
+      "fire_group_id": "70066",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77821",
+      "fire_group_id": "70067",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77822",
+      "fire_group_id": "80015",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77824",
+      "fire_group_id": "80018",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77826",
+      "fire_group_id": "1",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77826",
+      "fire_group_id": "7",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77827",
+      "fire_group_id": "21500",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77827",
+      "fire_group_id": "21501",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77828",
+      "fire_group_id": "70007",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77828",
+      "fire_group_id": "70015",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77829",
+      "fire_group_id": "21500",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77829",
+      "fire_group_id": "21501",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77830",
+      "fire_group_id": "70007",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77830",
+      "fire_group_id": "70015",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77831",
+      "fire_group_id": "70008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77832",
+      "fire_group_id": "70008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77833",
+      "fire_group_id": "70008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77834",
+      "fire_group_id": "42002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77835",
+      "fire_group_id": "42002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77836",
+      "fire_group_id": "42003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77837",
+      "fire_group_id": "42003",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77838",
+      "fire_group_id": "70008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77839",
+      "fire_group_id": "70012",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77842",
+      "fire_group_id": "80026"
+    },
+    {
+      "weapon_id": "77843",
+      "fire_group_id": "80026"
+    },
+    {
+      "weapon_id": "77844",
+      "fire_group_id": "80026"
+    },
+    {
+      "weapon_id": "77845",
+      "fire_group_id": "80027"
+    },
+    {
+      "weapon_id": "77846",
+      "fire_group_id": "80029"
+    },
+    {
+      "weapon_id": "77847",
+      "fire_group_id": "80028"
+    },
+    {
+      "weapon_id": "77848",
+      "fire_group_id": "80030",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77848",
+      "fire_group_id": "80031",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77849",
+      "fire_group_id": "80032",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77850",
+      "fire_group_id": "7276",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77850",
+      "fire_group_id": "18179",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77851",
+      "fire_group_id": "80034",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77852",
+      "fire_group_id": "80040",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77853",
+      "fire_group_id": "80032",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77854",
+      "fire_group_id": "80032"
+    },
+    {
+      "weapon_id": "77855",
+      "fire_group_id": "80041",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77856",
+      "fire_group_id": "80042",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77857",
+      "fire_group_id": "80043",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77858",
+      "fire_group_id": "80044",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77859",
+      "fire_group_id": "80045",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77860",
+      "fire_group_id": "80046",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77861",
+      "fire_group_id": "80040"
+    },
+    {
+      "weapon_id": "77862",
+      "fire_group_id": "80040"
+    },
+    {
+      "weapon_id": "77864",
+      "fire_group_id": "80047",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77864",
+      "fire_group_id": "80058",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77865",
+      "fire_group_id": "80095"
+    },
+    {
+      "weapon_id": "77866",
+      "fire_group_id": "80096"
+    },
+    {
+      "weapon_id": "77867",
+      "fire_group_id": "80097"
+    },
+    {
+      "weapon_id": "77868",
+      "fire_group_id": "80048"
+    },
+    {
+      "weapon_id": "77869",
+      "fire_group_id": "80049"
+    },
+    {
+      "weapon_id": "77870",
+      "fire_group_id": "80048"
+    },
+    {
+      "weapon_id": "77871",
+      "fire_group_id": "80050"
+    },
+    {
+      "weapon_id": "77872",
+      "fire_group_id": "80048"
+    },
+    {
+      "weapon_id": "77873",
+      "fire_group_id": "80051"
+    },
+    {
+      "weapon_id": "77874",
+      "fire_group_id": "80052"
+    },
+    {
+      "weapon_id": "77875",
+      "fire_group_id": "80053"
+    },
+    {
+      "weapon_id": "77876",
+      "fire_group_id": "80052"
+    },
+    {
+      "weapon_id": "77877",
+      "fire_group_id": "80054"
+    },
+    {
+      "weapon_id": "77878",
+      "fire_group_id": "80052"
+    },
+    {
+      "weapon_id": "77879",
+      "fire_group_id": "80055"
+    },
+    {
+      "weapon_id": "77884",
+      "fire_group_id": "80061",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77885",
+      "fire_group_id": "80062",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77886",
+      "fire_group_id": "80063",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77887",
+      "fire_group_id": "80064",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77892",
+      "fire_group_id": "80066",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77893",
+      "fire_group_id": "80067",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77894",
+      "fire_group_id": "80068",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77895",
+      "fire_group_id": "80069",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77898",
+      "fire_group_id": "80072",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77900",
+      "fire_group_id": "310",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77901",
+      "fire_group_id": "311"
+    },
+    {
+      "weapon_id": "77902",
+      "fire_group_id": "312"
+    },
+    {
+      "weapon_id": "77903",
+      "fire_group_id": "303"
+    },
+    {
+      "weapon_id": "77904",
+      "fire_group_id": "418"
+    },
+    {
+      "weapon_id": "77905",
+      "fire_group_id": "423"
+    },
+    {
+      "weapon_id": "77906",
+      "fire_group_id": "510"
+    },
+    {
+      "weapon_id": "77907",
+      "fire_group_id": "511"
+    },
+    {
+      "weapon_id": "77908",
+      "fire_group_id": "512"
+    },
+    {
+      "weapon_id": "77909",
+      "fire_group_id": "316"
+    },
+    {
+      "weapon_id": "77910",
+      "fire_group_id": "317"
+    },
+    {
+      "weapon_id": "77911",
+      "fire_group_id": "318"
+    },
+    {
+      "weapon_id": "77912",
+      "fire_group_id": "319"
+    },
+    {
+      "weapon_id": "77913",
+      "fire_group_id": "320"
+    },
+    {
+      "weapon_id": "77914",
+      "fire_group_id": "321"
+    },
+    {
+      "weapon_id": "77915",
+      "fire_group_id": "80065"
+    },
+    {
+      "weapon_id": "77916",
+      "fire_group_id": "80131"
+    },
+    {
+      "weapon_id": "77917",
+      "fire_group_id": "80094"
+    },
+    {
+      "weapon_id": "77918",
+      "fire_group_id": "80137"
+    },
+    {
+      "weapon_id": "77920",
+      "fire_group_id": "80136"
+    },
+    {
+      "weapon_id": "77921",
+      "fire_group_id": "80135"
+    },
+    {
+      "weapon_id": "77922",
+      "fire_group_id": "80183",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77923",
+      "fire_group_id": "80075",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77924",
+      "fire_group_id": "80076",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77925",
+      "fire_group_id": "80077",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77926",
+      "fire_group_id": "80078",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77927",
+      "fire_group_id": "80079",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77928",
+      "fire_group_id": "80080",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77929",
+      "fire_group_id": "80081",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77930",
+      "fire_group_id": "80082",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77931",
+      "fire_group_id": "80083",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77933",
+      "fire_group_id": "80085",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77935",
+      "fire_group_id": "80087",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77936",
+      "fire_group_id": "80088",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77937",
+      "fire_group_id": "80089",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77939",
+      "fire_group_id": "70008",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77940",
+      "fire_group_id": "80101"
+    },
+    {
+      "weapon_id": "77941",
+      "fire_group_id": "80099",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77941",
+      "fire_group_id": "80103",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77942",
+      "fire_group_id": "80100"
+    },
+    {
+      "weapon_id": "77943",
+      "fire_group_id": "80102"
+    },
+    {
+      "weapon_id": "77944",
+      "fire_group_id": "80102"
+    },
+    {
+      "weapon_id": "77947",
+      "fire_group_id": "80102"
+    },
+    {
+      "weapon_id": "77954",
+      "fire_group_id": "1",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77954",
+      "fire_group_id": "7",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "77955",
+      "fire_group_id": "80108"
+    },
+    {
+      "weapon_id": "77956",
+      "fire_group_id": "80109",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77958",
+      "fire_group_id": "80111",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77959",
+      "fire_group_id": "80112",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77960",
+      "fire_group_id": "80113",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77961",
+      "fire_group_id": "80114",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77962",
+      "fire_group_id": "80115",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77965",
+      "fire_group_id": "80116",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77966",
+      "fire_group_id": "80117",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77967",
+      "fire_group_id": "80118",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77968",
+      "fire_group_id": "80119",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77969",
+      "fire_group_id": "80120",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77974",
+      "fire_group_id": "80108"
+    },
+    {
+      "weapon_id": "77975",
+      "fire_group_id": "80108"
+    },
+    {
+      "weapon_id": "77987",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77988",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77989",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77990",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77991",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77992",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77993",
+      "fire_group_id": "80147",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77995",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77996",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77997",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77998",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "77999",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78000",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78001",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78002",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78003",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78004",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78005",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78006",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78007",
+      "fire_group_id": "15004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78008",
+      "fire_group_id": "15004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78009",
+      "fire_group_id": "16004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78010",
+      "fire_group_id": "16004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78011",
+      "fire_group_id": "17004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78012",
+      "fire_group_id": "17004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78013",
+      "fire_group_id": "15004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78014",
+      "fire_group_id": "15004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78015",
+      "fire_group_id": "16004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78016",
+      "fire_group_id": "16004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78017",
+      "fire_group_id": "17004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78018",
+      "fire_group_id": "17004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78019",
+      "fire_group_id": "80150",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78019",
+      "fire_group_id": "80199",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78020",
+      "fire_group_id": "18118"
+    },
+    {
+      "weapon_id": "78022",
+      "fire_group_id": "80156",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78023",
+      "fire_group_id": "80157",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78024",
+      "fire_group_id": "80158",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78025",
+      "fire_group_id": "80032"
+    },
+    {
+      "weapon_id": "78026",
+      "fire_group_id": "80161",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78027",
+      "fire_group_id": "80162",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78028",
+      "fire_group_id": "80163",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78029",
+      "fire_group_id": "80164",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78030",
+      "fire_group_id": "80165",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78031",
+      "fire_group_id": "80166",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78032",
+      "fire_group_id": "80034",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78033",
+      "fire_group_id": "80034",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78034",
+      "fire_group_id": "80167",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78035",
+      "fire_group_id": "80168",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78036",
+      "fire_group_id": "80169",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78037",
+      "fire_group_id": "80170",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78041",
+      "fire_group_id": "80174",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78042",
+      "fire_group_id": "80175",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78043",
+      "fire_group_id": "80176",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78044",
+      "fire_group_id": "80177",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78045",
+      "fire_group_id": "80074",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78046",
+      "fire_group_id": "80182",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78046",
+      "fire_group_id": "80181",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78046",
+      "fire_group_id": "80197",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "78046",
+      "fire_group_id": "80196",
+      "fire_group_index": "3"
+    },
+    {
+      "weapon_id": "78046",
+      "fire_group_id": "80210",
+      "fire_group_index": "4"
+    },
+    {
+      "weapon_id": "78047",
+      "fire_group_id": "80184",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78047",
+      "fire_group_id": "80185",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78047",
+      "fire_group_id": "80186",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "78047",
+      "fire_group_id": "80187",
+      "fire_group_index": "3"
+    },
+    {
+      "weapon_id": "78047",
+      "fire_group_id": "80188",
+      "fire_group_index": "4"
+    },
+    {
+      "weapon_id": "78047",
+      "fire_group_id": "80189",
+      "fire_group_index": "5"
+    },
+    {
+      "weapon_id": "78049",
+      "fire_group_id": "80191",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78054",
+      "fire_group_id": "80198",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78055",
+      "fire_group_id": "80200",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78056",
+      "fire_group_id": "80201",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78057",
+      "fire_group_id": "80202",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78058",
+      "fire_group_id": "80203",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78059",
+      "fire_group_id": "80204",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78061",
+      "fire_group_id": "80206",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78062",
+      "fire_group_id": "80178",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78063",
+      "fire_group_id": "80211",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78068",
+      "fire_group_id": "80216"
+    },
+    {
+      "weapon_id": "78069",
+      "fire_group_id": "80047",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78069",
+      "fire_group_id": "80058",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78070",
+      "fire_group_id": "80108"
+    },
+    {
+      "weapon_id": "78071",
+      "fire_group_id": "80032",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78073",
+      "fire_group_id": "26004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78074",
+      "fire_group_id": "25004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78075",
+      "fire_group_id": "24004",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78076",
+      "fire_group_id": "29000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78077",
+      "fire_group_id": "28000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78078",
+      "fire_group_id": "27000",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78079",
+      "fire_group_id": "7148",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78079",
+      "fire_group_id": "17148",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78080",
+      "fire_group_id": "7128",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78080",
+      "fire_group_id": "18079",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78081",
+      "fire_group_id": "7100",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78081",
+      "fire_group_id": "17100",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78082",
+      "fire_group_id": "80040",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78083",
+      "fire_group_id": "80040",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78084",
+      "fire_group_id": "80040",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78095",
+      "fire_group_id": "70024"
+    },
+    {
+      "weapon_id": "78099",
+      "fire_group_id": "80241",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78108",
+      "fire_group_id": "80251",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78109",
+      "fire_group_id": "80250",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78110",
+      "fire_group_id": "80252",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78114",
+      "fire_group_id": "80256",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78115",
+      "fire_group_id": "80257",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78116",
+      "fire_group_id": "80258",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78120",
+      "fire_group_id": "80262",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78121",
+      "fire_group_id": "80263",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78122",
+      "fire_group_id": "80264"
+    },
+    {
+      "weapon_id": "78123",
+      "fire_group_id": "80268",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78127",
+      "fire_group_id": "80277",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78128",
+      "fire_group_id": "80278",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78129",
+      "fire_group_id": "80279",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78130",
+      "fire_group_id": "21500",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78130",
+      "fire_group_id": "21501",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78131",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78132",
+      "fire_group_id": "80138",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78133",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78134",
+      "fire_group_id": "80139",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78135",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78136",
+      "fire_group_id": "80140",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78137",
+      "fire_group_id": "42002",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78140",
+      "fire_group_id": "80285",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78141",
+      "fire_group_id": "80287",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78142",
+      "fire_group_id": "80290",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78145",
+      "fire_group_id": "80111",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78146",
+      "fire_group_id": "80293",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78147",
+      "fire_group_id": "80300",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78148",
+      "fire_group_id": "80301",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78149",
+      "fire_group_id": "80302",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78155",
+      "fire_group_id": "80316",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78156",
+      "fire_group_id": "80317",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78157",
+      "fire_group_id": "80318",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78157",
+      "fire_group_id": "80322",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78158",
+      "fire_group_id": "80319",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78158",
+      "fire_group_id": "80320",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78158",
+      "fire_group_id": "80321",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "78159",
+      "fire_group_id": "80323",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78159",
+      "fire_group_id": "80324",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78160",
+      "fire_group_id": "80325",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78161",
+      "fire_group_id": "80326",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78162",
+      "fire_group_id": "80327",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78163",
+      "fire_group_id": "80328",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78164",
+      "fire_group_id": "80329",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78165",
+      "fire_group_id": "80330",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78166",
+      "fire_group_id": "80331",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78167",
+      "fire_group_id": "80333",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78167",
+      "fire_group_id": "80332",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78168",
+      "fire_group_id": "80334",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78170",
+      "fire_group_id": "80336",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78171",
+      "fire_group_id": "80337",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78172",
+      "fire_group_id": "80338",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78176",
+      "fire_group_id": "80343"
+    },
+    {
+      "weapon_id": "78177",
+      "fire_group_id": "80344"
+    },
+    {
+      "weapon_id": "78178",
+      "fire_group_id": "80345"
+    },
+    {
+      "weapon_id": "78179",
+      "fire_group_id": "80346"
+    },
+    {
+      "weapon_id": "78180",
+      "fire_group_id": "80347",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78181",
+      "fire_group_id": "80349"
+    },
+    {
+      "weapon_id": "78182",
+      "fire_group_id": "80350",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78183",
+      "fire_group_id": "80351",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78186",
+      "fire_group_id": "80354",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78187",
+      "fire_group_id": "80355",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78188",
+      "fire_group_id": "80356",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78190",
+      "fire_group_id": "80358",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78191",
+      "fire_group_id": "80359",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78192",
+      "fire_group_id": "80360",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78193",
+      "fire_group_id": "80361",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78194",
+      "fire_group_id": "80362",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78195",
+      "fire_group_id": "80363",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78196",
+      "fire_group_id": "80364",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78199",
+      "fire_group_id": "80366",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78200",
+      "fire_group_id": "80367"
+    },
+    {
+      "weapon_id": "78201",
+      "fire_group_id": "80368",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78202",
+      "fire_group_id": "80369",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78209",
+      "fire_group_id": "80376"
+    },
+    {
+      "weapon_id": "78210",
+      "fire_group_id": "80377"
+    },
+    {
+      "weapon_id": "78211",
+      "fire_group_id": "80378"
+    },
+    {
+      "weapon_id": "78212",
+      "fire_group_id": "80379"
+    },
+    {
+      "weapon_id": "78213",
+      "fire_group_id": "80380"
+    },
+    {
+      "weapon_id": "78214",
+      "fire_group_id": "80381"
+    },
+    {
+      "weapon_id": "78217",
+      "fire_group_id": "80384",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78228",
+      "fire_group_id": "80412"
+    },
+    {
+      "weapon_id": "78229",
+      "fire_group_id": "80413",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78232",
+      "fire_group_id": "80416",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78236",
+      "fire_group_id": "80420",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78238",
+      "fire_group_id": "80423"
+    },
+    {
+      "weapon_id": "78239",
+      "fire_group_id": "80424"
+    },
+    {
+      "weapon_id": "78240",
+      "fire_group_id": "80425"
+    },
+    {
+      "weapon_id": "78243",
+      "fire_group_id": "80428",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78244",
+      "fire_group_id": "80429",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78245",
+      "fire_group_id": "705",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78246",
+      "fire_group_id": "80430"
+    },
+    {
+      "weapon_id": "78247",
+      "fire_group_id": "80431"
+    },
+    {
+      "weapon_id": "78248",
+      "fire_group_id": "80432",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78249",
+      "fire_group_id": "80433"
+    },
+    {
+      "weapon_id": "78251",
+      "fire_group_id": "80435"
+    },
+    {
+      "weapon_id": "78252",
+      "fire_group_id": "80436"
+    },
+    {
+      "weapon_id": "78253",
+      "fire_group_id": "80437"
+    },
+    {
+      "weapon_id": "78254",
+      "fire_group_id": "80438"
+    },
+    {
+      "weapon_id": "78257",
+      "fire_group_id": "80585"
+    },
+    {
+      "weapon_id": "78258",
+      "fire_group_id": "80586"
+    },
+    {
+      "weapon_id": "78259",
+      "fire_group_id": "80443"
+    },
+    {
+      "weapon_id": "78260",
+      "fire_group_id": "80444"
+    },
+    {
+      "weapon_id": "78261",
+      "fire_group_id": "80441"
+    },
+    {
+      "weapon_id": "78262",
+      "fire_group_id": "80442"
+    },
+    {
+      "weapon_id": "78263",
+      "fire_group_id": "80445",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78264",
+      "fire_group_id": "80446",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78265",
+      "fire_group_id": "80447"
+    },
+    {
+      "weapon_id": "78266",
+      "fire_group_id": "80448"
+    },
+    {
+      "weapon_id": "78267",
+      "fire_group_id": "80450"
+    },
+    {
+      "weapon_id": "78268",
+      "fire_group_id": "80449"
+    },
+    {
+      "weapon_id": "78269",
+      "fire_group_id": "80451"
+    },
+    {
+      "weapon_id": "78270",
+      "fire_group_id": "80452"
+    },
+    {
+      "weapon_id": "78271",
+      "fire_group_id": "80453",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78272",
+      "fire_group_id": "80454",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78273",
+      "fire_group_id": "80455",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78274",
+      "fire_group_id": "80456",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78275",
+      "fire_group_id": "80457",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78276",
+      "fire_group_id": "80458"
+    },
+    {
+      "weapon_id": "78277",
+      "fire_group_id": "80459"
+    },
+    {
+      "weapon_id": "78278",
+      "fire_group_id": "80460"
+    },
+    {
+      "weapon_id": "78279",
+      "fire_group_id": "80461"
+    },
+    {
+      "weapon_id": "78280",
+      "fire_group_id": "80462"
+    },
+    {
+      "weapon_id": "78281",
+      "fire_group_id": "80463"
+    },
+    {
+      "weapon_id": "78282",
+      "fire_group_id": "80464"
+    },
+    {
+      "weapon_id": "78283",
+      "fire_group_id": "80465",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78284",
+      "fire_group_id": "80466",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78285",
+      "fire_group_id": "80467",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78286",
+      "fire_group_id": "80468"
+    },
+    {
+      "weapon_id": "78287",
+      "fire_group_id": "80469"
+    },
+    {
+      "weapon_id": "78288",
+      "fire_group_id": "80470"
+    },
+    {
+      "weapon_id": "78289",
+      "fire_group_id": "80471"
+    },
+    {
+      "weapon_id": "78290",
+      "fire_group_id": "80472"
+    },
+    {
+      "weapon_id": "78291",
+      "fire_group_id": "80473"
+    },
+    {
+      "weapon_id": "78292",
+      "fire_group_id": "80525"
+    },
+    {
+      "weapon_id": "78293",
+      "fire_group_id": "80474"
+    },
+    {
+      "weapon_id": "78294",
+      "fire_group_id": "80475"
+    },
+    {
+      "weapon_id": "78295",
+      "fire_group_id": "80476"
+    },
+    {
+      "weapon_id": "78297",
+      "fire_group_id": "80477"
+    },
+    {
+      "weapon_id": "78298",
+      "fire_group_id": "80478"
+    },
+    {
+      "weapon_id": "78299",
+      "fire_group_id": "80479"
+    },
+    {
+      "weapon_id": "78300",
+      "fire_group_id": "80480"
+    },
+    {
+      "weapon_id": "78301",
+      "fire_group_id": "80481"
+    },
+    {
+      "weapon_id": "78302",
+      "fire_group_id": "80482"
+    },
+    {
+      "weapon_id": "78303",
+      "fire_group_id": "80483"
+    },
+    {
+      "weapon_id": "78304",
+      "fire_group_id": "80484"
+    },
+    {
+      "weapon_id": "78305",
+      "fire_group_id": "80485"
+    },
+    {
+      "weapon_id": "78307",
+      "fire_group_id": "80487"
+    },
+    {
+      "weapon_id": "78308",
+      "fire_group_id": "80488"
+    },
+    {
+      "weapon_id": "78309",
+      "fire_group_id": "80506"
+    },
+    {
+      "weapon_id": "78310",
+      "fire_group_id": "80489"
+    },
+    {
+      "weapon_id": "78311",
+      "fire_group_id": "80490"
+    },
+    {
+      "weapon_id": "78312",
+      "fire_group_id": "80491"
+    },
+    {
+      "weapon_id": "78313",
+      "fire_group_id": "80492"
+    },
+    {
+      "weapon_id": "78316",
+      "fire_group_id": "80495"
+    },
+    {
+      "weapon_id": "78317",
+      "fire_group_id": "80496"
+    },
+    {
+      "weapon_id": "78322",
+      "fire_group_id": "80501"
+    },
+    {
+      "weapon_id": "78323",
+      "fire_group_id": "80502"
+    },
+    {
+      "weapon_id": "78324",
+      "fire_group_id": "80503"
+    },
+    {
+      "weapon_id": "78325",
+      "fire_group_id": "80504"
+    },
+    {
+      "weapon_id": "78327",
+      "fire_group_id": "80507"
+    },
+    {
+      "weapon_id": "78328",
+      "fire_group_id": "80508"
+    },
+    {
+      "weapon_id": "78329",
+      "fire_group_id": "80509"
+    },
+    {
+      "weapon_id": "78330",
+      "fire_group_id": "80511"
+    },
+    {
+      "weapon_id": "78331",
+      "fire_group_id": "80510"
+    },
+    {
+      "weapon_id": "78333",
+      "fire_group_id": "80513",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78334",
+      "fire_group_id": "80514",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78335",
+      "fire_group_id": "80515",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78336",
+      "fire_group_id": "80516",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78337",
+      "fire_group_id": "80517",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78338",
+      "fire_group_id": "80518",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78339",
+      "fire_group_id": "80519",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78340",
+      "fire_group_id": "80520",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78341",
+      "fire_group_id": "80521",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78342",
+      "fire_group_id": "80522",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78343",
+      "fire_group_id": "80523",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78344",
+      "fire_group_id": "80524",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78345",
+      "fire_group_id": "80526",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78346",
+      "fire_group_id": "80527",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78349",
+      "fire_group_id": "80026"
+    },
+    {
+      "weapon_id": "78351",
+      "fire_group_id": "80533",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78352",
+      "fire_group_id": "80534",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78353",
+      "fire_group_id": "80535",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78354",
+      "fire_group_id": "80536",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78355",
+      "fire_group_id": "80537",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78356",
+      "fire_group_id": "80538"
+    },
+    {
+      "weapon_id": "78357",
+      "fire_group_id": "80539",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78358",
+      "fire_group_id": "80540",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78360",
+      "fire_group_id": "80542",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78363",
+      "fire_group_id": "80545",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78364",
+      "fire_group_id": "80546",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78365",
+      "fire_group_id": "80547",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78367",
+      "fire_group_id": "80549",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78368",
+      "fire_group_id": "80550",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78369",
+      "fire_group_id": "80551",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78369",
+      "fire_group_id": "80552",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78370",
+      "fire_group_id": "80553",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78370",
+      "fire_group_id": "80554",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78372",
+      "fire_group_id": "80556",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78373",
+      "fire_group_id": "80557",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78374",
+      "fire_group_id": "80558",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78377",
+      "fire_group_id": "80561",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78379",
+      "fire_group_id": "80563",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78380",
+      "fire_group_id": "7236",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78381",
+      "fire_group_id": "80566",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78384",
+      "fire_group_id": "80569",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78385",
+      "fire_group_id": "80570",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78386",
+      "fire_group_id": "80571",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78387",
+      "fire_group_id": "80572",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78388",
+      "fire_group_id": "80573",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78389",
+      "fire_group_id": "80574",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78390",
+      "fire_group_id": "80575",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78393",
+      "fire_group_id": "80579",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78395",
+      "fire_group_id": "80581",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78403",
+      "fire_group_id": "80590",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78404",
+      "fire_group_id": "80591",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78404",
+      "fire_group_id": "80592",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78409",
+      "fire_group_id": "80597",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78409",
+      "fire_group_id": "80598",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78410",
+      "fire_group_id": "80599",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78411",
+      "fire_group_id": "80600",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78412",
+      "fire_group_id": "80601",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78413",
+      "fire_group_id": "80624",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78414",
+      "fire_group_id": "80624",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78415",
+      "fire_group_id": "80624",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78416",
+      "fire_group_id": "80624",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78417",
+      "fire_group_id": "80602",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78417",
+      "fire_group_id": "80603",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78418",
+      "fire_group_id": "80647",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78419",
+      "fire_group_id": "80605"
+    },
+    {
+      "weapon_id": "78420",
+      "fire_group_id": "80606",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78421",
+      "fire_group_id": "80607",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78422",
+      "fire_group_id": "80608",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78423",
+      "fire_group_id": "80609",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78424",
+      "fire_group_id": "80610",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78425",
+      "fire_group_id": "80611",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78426",
+      "fire_group_id": "80612",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78427",
+      "fire_group_id": "80613"
+    },
+    {
+      "weapon_id": "78428",
+      "fire_group_id": "80614"
+    },
+    {
+      "weapon_id": "78429",
+      "fire_group_id": "80615",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78430",
+      "fire_group_id": "80616",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78431",
+      "fire_group_id": "80617",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78432",
+      "fire_group_id": "80618",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78433",
+      "fire_group_id": "80619",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78434",
+      "fire_group_id": "80620",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78435",
+      "fire_group_id": "80621",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78436",
+      "fire_group_id": "80622"
+    },
+    {
+      "weapon_id": "78437",
+      "fire_group_id": "80623"
+    },
+    {
+      "weapon_id": "78438",
+      "fire_group_id": "80625"
+    },
+    {
+      "weapon_id": "78441",
+      "fire_group_id": "80628"
+    },
+    {
+      "weapon_id": "78445",
+      "fire_group_id": "80632",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78448",
+      "fire_group_id": "80635",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78449",
+      "fire_group_id": "80636",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78450",
+      "fire_group_id": "80637",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78451",
+      "fire_group_id": "80645"
+    },
+    {
+      "weapon_id": "78452",
+      "fire_group_id": "80645"
+    },
+    {
+      "weapon_id": "78453",
+      "fire_group_id": "80645"
+    },
+    {
+      "weapon_id": "78454",
+      "fire_group_id": "80645"
+    },
+    {
+      "weapon_id": "78455",
+      "fire_group_id": "80646"
+    },
+    {
+      "weapon_id": "78456",
+      "fire_group_id": "80646"
+    },
+    {
+      "weapon_id": "78457",
+      "fire_group_id": "80646"
+    },
+    {
+      "weapon_id": "78458",
+      "fire_group_id": "80646"
+    },
+    {
+      "weapon_id": "78459",
+      "fire_group_id": "80648"
+    },
+    {
+      "weapon_id": "78460",
+      "fire_group_id": "80648"
+    },
+    {
+      "weapon_id": "78461",
+      "fire_group_id": "80648"
+    },
+    {
+      "weapon_id": "78462",
+      "fire_group_id": "80648"
+    },
+    {
+      "weapon_id": "78463",
+      "fire_group_id": "80650"
+    },
+    {
+      "weapon_id": "78464",
+      "fire_group_id": "80650"
+    },
+    {
+      "weapon_id": "78465",
+      "fire_group_id": "80650"
+    },
+    {
+      "weapon_id": "78466",
+      "fire_group_id": "80650"
+    },
+    {
+      "weapon_id": "78467",
+      "fire_group_id": "80651"
+    },
+    {
+      "weapon_id": "78468",
+      "fire_group_id": "80651"
+    },
+    {
+      "weapon_id": "78469",
+      "fire_group_id": "80651"
+    },
+    {
+      "weapon_id": "78470",
+      "fire_group_id": "80651"
+    },
+    {
+      "weapon_id": "78471",
+      "fire_group_id": "80652"
+    },
+    {
+      "weapon_id": "78472",
+      "fire_group_id": "80652"
+    },
+    {
+      "weapon_id": "78473",
+      "fire_group_id": "80652"
+    },
+    {
+      "weapon_id": "78474",
+      "fire_group_id": "80652"
+    },
+    {
+      "weapon_id": "78475",
+      "fire_group_id": "80653"
+    },
+    {
+      "weapon_id": "78476",
+      "fire_group_id": "80653"
+    },
+    {
+      "weapon_id": "78477",
+      "fire_group_id": "80653"
+    },
+    {
+      "weapon_id": "78478",
+      "fire_group_id": "80653"
+    },
+    {
+      "weapon_id": "78483",
+      "fire_group_id": "80655"
+    },
+    {
+      "weapon_id": "78484",
+      "fire_group_id": "80655"
+    },
+    {
+      "weapon_id": "78485",
+      "fire_group_id": "80656"
+    },
+    {
+      "weapon_id": "78486",
+      "fire_group_id": "80656"
+    },
+    {
+      "weapon_id": "78487",
+      "fire_group_id": "80657"
+    },
+    {
+      "weapon_id": "78488",
+      "fire_group_id": "80657"
+    },
+    {
+      "weapon_id": "78489",
+      "fire_group_id": "80658"
+    },
+    {
+      "weapon_id": "78490",
+      "fire_group_id": "80658"
+    },
+    {
+      "weapon_id": "78491",
+      "fire_group_id": "80659"
+    },
+    {
+      "weapon_id": "78492",
+      "fire_group_id": "80659"
+    },
+    {
+      "weapon_id": "78493",
+      "fire_group_id": "80660"
+    },
+    {
+      "weapon_id": "78494",
+      "fire_group_id": "80660"
+    },
+    {
+      "weapon_id": "78496",
+      "fire_group_id": "80661",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78497",
+      "fire_group_id": "80662",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78498",
+      "fire_group_id": "80663",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78502",
+      "fire_group_id": "80669",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78503",
+      "fire_group_id": "80673",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78504",
+      "fire_group_id": "80674"
+    },
+    {
+      "weapon_id": "78505",
+      "fire_group_id": "80675",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78506",
+      "fire_group_id": "80687",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78506",
+      "fire_group_id": "80688",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78510",
+      "fire_group_id": "80677"
+    },
+    {
+      "weapon_id": "78511",
+      "fire_group_id": "80681",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78514",
+      "fire_group_id": "80685",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78516",
+      "fire_group_id": "80689",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78517",
+      "fire_group_id": "80690",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78518",
+      "fire_group_id": "80691",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78519",
+      "fire_group_id": "80692"
+    },
+    {
+      "weapon_id": "78520",
+      "fire_group_id": "80693",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78522",
+      "fire_group_id": "80696",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78522",
+      "fire_group_id": "80697",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78522",
+      "fire_group_id": "80698",
+      "fire_group_index": "2"
+    },
+    {
+      "weapon_id": "78523",
+      "fire_group_id": "80699",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78524",
+      "fire_group_id": "80700",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78526",
+      "fire_group_id": "80702",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78527",
+      "fire_group_id": "80703",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78527",
+      "fire_group_id": "80704",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78528",
+      "fire_group_id": "80705",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78529",
+      "fire_group_id": "80285",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78530",
+      "fire_group_id": "80706",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78531",
+      "fire_group_id": "80707",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78532",
+      "fire_group_id": "80708",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78533",
+      "fire_group_id": "80709",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78534",
+      "fire_group_id": "80710",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78534",
+      "fire_group_id": "80711",
+      "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78535",
+      "fire_group_id": "80712",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78537",
+      "fire_group_id": "80714",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78539",
+      "fire_group_id": "80716",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78541",
+      "fire_group_id": "80717",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78542",
+      "fire_group_id": "80718",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78543",
+      "fire_group_id": "80719",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78544",
+      "fire_group_id": "80720",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78545",
+      "fire_group_id": "80721",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78546",
+      "fire_group_id": "80722",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78547",
+      "fire_group_id": "80723",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78548",
+      "fire_group_id": "80724",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78549",
+      "fire_group_id": "80725",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78550",
+      "fire_group_id": "80726",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78551",
+      "fire_group_id": "80727",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78552",
+      "fire_group_id": "80728",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78553",
+      "fire_group_id": "80729",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78554",
+      "fire_group_id": "80730",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78556",
+      "fire_group_id": "80732",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78557",
+      "fire_group_id": "80733",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78558",
+      "fire_group_id": "80734",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78559",
+      "fire_group_id": "80735",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78560",
+      "fire_group_id": "80736",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78561",
+      "fire_group_id": "80737",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78562",
+      "fire_group_id": "80738",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78563",
+      "fire_group_id": "80739",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78567",
+      "fire_group_id": "80741",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78568",
+      "fire_group_id": "80742",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78570",
+      "fire_group_id": "80744",
+      "fire_group_index": "0"
+    }
+  ],
+  "returned": 1227
+}

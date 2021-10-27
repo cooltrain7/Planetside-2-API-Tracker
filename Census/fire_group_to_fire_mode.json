@@ -1,0 +1,8900 @@
+{
+  "fire_group_to_fire_mode_list": [
+    {
+      "fire_group_id": "1",
+      "fire_mode_id": "1",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "2",
+      "fire_mode_id": "2",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "2",
+      "fire_mode_id": "102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "3",
+      "fire_mode_id": "3",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "3",
+      "fire_mode_id": "103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "4",
+      "fire_mode_id": "4",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "4",
+      "fire_mode_id": "104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "6",
+      "fire_mode_id": "6",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7",
+      "fire_mode_id": "39",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "8",
+      "fire_mode_id": "8",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "8",
+      "fire_mode_id": "108",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "9",
+      "fire_mode_id": "9",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "9",
+      "fire_mode_id": "109",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "10",
+      "fire_mode_id": "10",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "10",
+      "fire_mode_id": "110",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "11",
+      "fire_mode_id": "11",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "11",
+      "fire_mode_id": "111",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "13",
+      "fire_mode_id": "13",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "13",
+      "fire_mode_id": "113",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "14",
+      "fire_mode_id": "14",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "14",
+      "fire_mode_id": "114",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "15",
+      "fire_mode_id": "15",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "15",
+      "fire_mode_id": "115",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17",
+      "fire_mode_id": "17",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18",
+      "fire_mode_id": "18",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "19",
+      "fire_mode_id": "19",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "19",
+      "fire_mode_id": "119",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "20",
+      "fire_mode_id": "20",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "20",
+      "fire_mode_id": "120",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "21",
+      "fire_mode_id": "21",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "21",
+      "fire_mode_id": "121",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25",
+      "fire_mode_id": "25",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25",
+      "fire_mode_id": "125",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26",
+      "fire_mode_id": "26",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26",
+      "fire_mode_id": "126",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "27",
+      "fire_mode_id": "27",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "27",
+      "fire_mode_id": "127",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "28",
+      "fire_mode_id": "28",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "28",
+      "fire_mode_id": "128",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "29",
+      "fire_mode_id": "29",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "29",
+      "fire_mode_id": "129",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "30",
+      "fire_mode_id": "30",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "30",
+      "fire_mode_id": "130",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "31",
+      "fire_mode_id": "31",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "32",
+      "fire_mode_id": "32",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "33",
+      "fire_mode_id": "33",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "34",
+      "fire_mode_id": "34",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "34",
+      "fire_mode_id": "188",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "35",
+      "fire_mode_id": "35",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "35",
+      "fire_mode_id": "189",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "36",
+      "fire_mode_id": "36",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "36",
+      "fire_mode_id": "190",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "37",
+      "fire_mode_id": "37",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "37",
+      "fire_mode_id": "137",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "38",
+      "fire_mode_id": "38",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "38",
+      "fire_mode_id": "138",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "48",
+      "fire_mode_id": "48",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "49",
+      "fire_mode_id": "49",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "51",
+      "fire_mode_id": "678",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "52",
+      "fire_mode_id": "679",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "53",
+      "fire_mode_id": "680",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "74",
+      "fire_mode_id": "74",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "75",
+      "fire_mode_id": "75",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80",
+      "fire_mode_id": "80",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80",
+      "fire_mode_id": "87",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "81",
+      "fire_mode_id": "81",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "83",
+      "fire_mode_id": "52",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "84",
+      "fire_mode_id": "82",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "84",
+      "fire_mode_id": "88",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "85",
+      "fire_mode_id": "83",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "85",
+      "fire_mode_id": "89",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "86",
+      "fire_mode_id": "84",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "86",
+      "fire_mode_id": "90",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "87",
+      "fire_mode_id": "85",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "87",
+      "fire_mode_id": "91",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "88",
+      "fire_mode_id": "86",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "88",
+      "fire_mode_id": "92",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "89",
+      "fire_mode_id": "53",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "90",
+      "fire_mode_id": "54",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "91",
+      "fire_mode_id": "55",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "93",
+      "fire_mode_id": "95",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "93",
+      "fire_mode_id": "96",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "94",
+      "fire_mode_id": "97",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "94",
+      "fire_mode_id": "98",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "100",
+      "fire_mode_id": "185",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "100",
+      "fire_mode_id": "191",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "101",
+      "fire_mode_id": "186",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "101",
+      "fire_mode_id": "192",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "102",
+      "fire_mode_id": "187",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "102",
+      "fire_mode_id": "196",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "136",
+      "fire_mode_id": "136",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "136",
+      "fire_mode_id": "80502",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "201",
+      "fire_mode_id": "201",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "202",
+      "fire_mode_id": "202",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "251",
+      "fire_mode_id": "51",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "300",
+      "fire_mode_id": "300",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "300",
+      "fire_mode_id": "307",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "301",
+      "fire_mode_id": "301",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "301",
+      "fire_mode_id": "308",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "302",
+      "fire_mode_id": "302",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "302",
+      "fire_mode_id": "309",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "303",
+      "fire_mode_id": "303",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "303",
+      "fire_mode_id": "329",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "304",
+      "fire_mode_id": "304",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "304",
+      "fire_mode_id": "378",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "305",
+      "fire_mode_id": "305",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "305",
+      "fire_mode_id": "379",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "306",
+      "fire_mode_id": "306",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "306",
+      "fire_mode_id": "375",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "310",
+      "fire_mode_id": "310",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "310",
+      "fire_mode_id": "320",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "311",
+      "fire_mode_id": "311",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "311",
+      "fire_mode_id": "321",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "312",
+      "fire_mode_id": "312",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "312",
+      "fire_mode_id": "322",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "313",
+      "fire_mode_id": "80209",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "313",
+      "fire_mode_id": "80210",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "314",
+      "fire_mode_id": "80213",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "314",
+      "fire_mode_id": "80214",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "315",
+      "fire_mode_id": "80211",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "315",
+      "fire_mode_id": "80212",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "316",
+      "fire_mode_id": "316",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "316",
+      "fire_mode_id": "369",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "317",
+      "fire_mode_id": "317",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "317",
+      "fire_mode_id": "370",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "318",
+      "fire_mode_id": "318",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "318",
+      "fire_mode_id": "371",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "319",
+      "fire_mode_id": "326",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "319",
+      "fire_mode_id": "372",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "320",
+      "fire_mode_id": "327",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "320",
+      "fire_mode_id": "373",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "321",
+      "fire_mode_id": "328",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "321",
+      "fire_mode_id": "374",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "322",
+      "fire_mode_id": "356",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "322",
+      "fire_mode_id": "399",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "340",
+      "fire_mode_id": "340",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "340",
+      "fire_mode_id": "505",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "341",
+      "fire_mode_id": "341",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "341",
+      "fire_mode_id": "506",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "342",
+      "fire_mode_id": "342",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "342",
+      "fire_mode_id": "507",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "348",
+      "fire_mode_id": "348",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "348",
+      "fire_mode_id": "486",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "349",
+      "fire_mode_id": "349",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "349",
+      "fire_mode_id": "380",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "350",
+      "fire_mode_id": "350",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "350",
+      "fire_mode_id": "487",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "351",
+      "fire_mode_id": "351",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "351",
+      "fire_mode_id": "397",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "352",
+      "fire_mode_id": "352",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "352",
+      "fire_mode_id": "392",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "353",
+      "fire_mode_id": "353",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "353",
+      "fire_mode_id": "393",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "354",
+      "fire_mode_id": "354",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "354",
+      "fire_mode_id": "398",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "355",
+      "fire_mode_id": "355",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "355",
+      "fire_mode_id": "488",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "359",
+      "fire_mode_id": "359",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "359",
+      "fire_mode_id": "394",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "360",
+      "fire_mode_id": "360",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "360",
+      "fire_mode_id": "401",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "361",
+      "fire_mode_id": "361",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "361",
+      "fire_mode_id": "489",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "364",
+      "fire_mode_id": "364",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "364",
+      "fire_mode_id": "395",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "365",
+      "fire_mode_id": "365",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "365",
+      "fire_mode_id": "396",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "368",
+      "fire_mode_id": "619",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "368",
+      "fire_mode_id": "620",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "369",
+      "fire_mode_id": "621",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "369",
+      "fire_mode_id": "622",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "370",
+      "fire_mode_id": "623",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "370",
+      "fire_mode_id": "624",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "373",
+      "fire_mode_id": "629",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "373",
+      "fire_mode_id": "630",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "374",
+      "fire_mode_id": "631",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "374",
+      "fire_mode_id": "632",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "375",
+      "fire_mode_id": "633",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "375",
+      "fire_mode_id": "634",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "378",
+      "fire_mode_id": "639",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "378",
+      "fire_mode_id": "640",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "379",
+      "fire_mode_id": "641",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "379",
+      "fire_mode_id": "642",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "380",
+      "fire_mode_id": "643",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "380",
+      "fire_mode_id": "644",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "405",
+      "fire_mode_id": "405",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "405",
+      "fire_mode_id": "402",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "406",
+      "fire_mode_id": "406",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "406",
+      "fire_mode_id": "403",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "407",
+      "fire_mode_id": "407",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "407",
+      "fire_mode_id": "404",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "409",
+      "fire_mode_id": "409",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "409",
+      "fire_mode_id": "383",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "410",
+      "fire_mode_id": "410",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "410",
+      "fire_mode_id": "384",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "411",
+      "fire_mode_id": "411",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "411",
+      "fire_mode_id": "385",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "412",
+      "fire_mode_id": "412",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "412",
+      "fire_mode_id": "490",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "413",
+      "fire_mode_id": "413",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "413",
+      "fire_mode_id": "491",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "414",
+      "fire_mode_id": "414",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "414",
+      "fire_mode_id": "492",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "415",
+      "fire_mode_id": "415",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "415",
+      "fire_mode_id": "386",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "416",
+      "fire_mode_id": "416",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "416",
+      "fire_mode_id": "389",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "417",
+      "fire_mode_id": "417",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "417",
+      "fire_mode_id": "390",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "418",
+      "fire_mode_id": "418",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "418",
+      "fire_mode_id": "330",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "419",
+      "fire_mode_id": "419",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "419",
+      "fire_mode_id": "376",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "420",
+      "fire_mode_id": "420",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "420",
+      "fire_mode_id": "391",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "423",
+      "fire_mode_id": "423",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "423",
+      "fire_mode_id": "331",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "424",
+      "fire_mode_id": "424",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "424",
+      "fire_mode_id": "381",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "426",
+      "fire_mode_id": "426",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "426",
+      "fire_mode_id": "438",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "427",
+      "fire_mode_id": "427",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "427",
+      "fire_mode_id": "439",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "428",
+      "fire_mode_id": "428",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "428",
+      "fire_mode_id": "440",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "429",
+      "fire_mode_id": "429",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "429",
+      "fire_mode_id": "462",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "430",
+      "fire_mode_id": "430",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "430",
+      "fire_mode_id": "463",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "431",
+      "fire_mode_id": "431",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "431",
+      "fire_mode_id": "464",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "432",
+      "fire_mode_id": "432",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "432",
+      "fire_mode_id": "441",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "433",
+      "fire_mode_id": "433",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "433",
+      "fire_mode_id": "442",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "434",
+      "fire_mode_id": "434",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "434",
+      "fire_mode_id": "443",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "435",
+      "fire_mode_id": "435",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "435",
+      "fire_mode_id": "444",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "436",
+      "fire_mode_id": "436",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "436",
+      "fire_mode_id": "445",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "437",
+      "fire_mode_id": "437",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "437",
+      "fire_mode_id": "446",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "438",
+      "fire_mode_id": "681",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "439",
+      "fire_mode_id": "682",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "440",
+      "fire_mode_id": "493",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "440",
+      "fire_mode_id": "496",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "441",
+      "fire_mode_id": "494",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "441",
+      "fire_mode_id": "497",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "442",
+      "fire_mode_id": "495",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "442",
+      "fire_mode_id": "498",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "443",
+      "fire_mode_id": "499",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "443",
+      "fire_mode_id": "502",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "444",
+      "fire_mode_id": "500",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "444",
+      "fire_mode_id": "503",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "445",
+      "fire_mode_id": "501",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "445",
+      "fire_mode_id": "504",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "450",
+      "fire_mode_id": "450",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "450",
+      "fire_mode_id": "508",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "451",
+      "fire_mode_id": "451",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "451",
+      "fire_mode_id": "509",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "452",
+      "fire_mode_id": "452",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "452",
+      "fire_mode_id": "510",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "453",
+      "fire_mode_id": "453",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "453",
+      "fire_mode_id": "377",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "454",
+      "fire_mode_id": "454",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "454",
+      "fire_mode_id": "382",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "455",
+      "fire_mode_id": "455",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "455",
+      "fire_mode_id": "387",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "456",
+      "fire_mode_id": "456",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "456",
+      "fire_mode_id": "511",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "457",
+      "fire_mode_id": "457",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "457",
+      "fire_mode_id": "512",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "458",
+      "fire_mode_id": "458",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "458",
+      "fire_mode_id": "513",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "459",
+      "fire_mode_id": "459",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "459",
+      "fire_mode_id": "514",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "460",
+      "fire_mode_id": "460",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "460",
+      "fire_mode_id": "515",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "461",
+      "fire_mode_id": "461",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "461",
+      "fire_mode_id": "516",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "462",
+      "fire_mode_id": "465",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "462",
+      "fire_mode_id": "466",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "475",
+      "fire_mode_id": "527",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "476",
+      "fire_mode_id": "476",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "476",
+      "fire_mode_id": "388",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "480",
+      "fire_mode_id": "480",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "480",
+      "fire_mode_id": "517",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "481",
+      "fire_mode_id": "481",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "481",
+      "fire_mode_id": "518",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "482",
+      "fire_mode_id": "482",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "482",
+      "fire_mode_id": "519",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "483",
+      "fire_mode_id": "483",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "483",
+      "fire_mode_id": "520",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "484",
+      "fire_mode_id": "484",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "484",
+      "fire_mode_id": "521",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "485",
+      "fire_mode_id": "485",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "485",
+      "fire_mode_id": "522",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "486",
+      "fire_mode_id": "523",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "486",
+      "fire_mode_id": "524",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "487",
+      "fire_mode_id": "525",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "487",
+      "fire_mode_id": "526",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "488",
+      "fire_mode_id": "447",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "488",
+      "fire_mode_id": "448",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "489",
+      "fire_mode_id": "70006",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "489",
+      "fire_mode_id": "70007",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "490",
+      "fire_mode_id": "70008",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "490",
+      "fire_mode_id": "70009",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "510",
+      "fire_mode_id": "80399",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "510",
+      "fire_mode_id": "80400",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "511",
+      "fire_mode_id": "80397",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "511",
+      "fire_mode_id": "80398",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "512",
+      "fire_mode_id": "80396",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "512",
+      "fire_mode_id": "80395",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "535",
+      "fire_mode_id": "535",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "535",
+      "fire_mode_id": "538",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "536",
+      "fire_mode_id": "536",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "536",
+      "fire_mode_id": "539",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "537",
+      "fire_mode_id": "537",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "537",
+      "fire_mode_id": "540",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "541",
+      "fire_mode_id": "80365",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "541",
+      "fire_mode_id": "80366",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "542",
+      "fire_mode_id": "80361",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "542",
+      "fire_mode_id": "80362",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "543",
+      "fire_mode_id": "80363",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "543",
+      "fire_mode_id": "80364",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "547",
+      "fire_mode_id": "547",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "547",
+      "fire_mode_id": "548",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "548",
+      "fire_mode_id": "549",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "548",
+      "fire_mode_id": "550",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "549",
+      "fire_mode_id": "551",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "549",
+      "fire_mode_id": "552",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "562",
+      "fire_mode_id": "577",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "562",
+      "fire_mode_id": "580",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "563",
+      "fire_mode_id": "578",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "563",
+      "fire_mode_id": "581",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "564",
+      "fire_mode_id": "579",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "564",
+      "fire_mode_id": "582",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "593",
+      "fire_mode_id": "603",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "593",
+      "fire_mode_id": "604",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "594",
+      "fire_mode_id": "605",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "594",
+      "fire_mode_id": "606",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "595",
+      "fire_mode_id": "607",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "595",
+      "fire_mode_id": "608",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "596",
+      "fire_mode_id": "609",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "596",
+      "fire_mode_id": "610",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "597",
+      "fire_mode_id": "611",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "597",
+      "fire_mode_id": "612",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "598",
+      "fire_mode_id": "613",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "598",
+      "fire_mode_id": "614",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "650",
+      "fire_mode_id": "650",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "654",
+      "fire_mode_id": "654",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "655",
+      "fire_mode_id": "655",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "655",
+      "fire_mode_id": "672",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "656",
+      "fire_mode_id": "656",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "656",
+      "fire_mode_id": "673",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "657",
+      "fire_mode_id": "657",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "657",
+      "fire_mode_id": "674",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "660",
+      "fire_mode_id": "660",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "661",
+      "fire_mode_id": "661",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "662",
+      "fire_mode_id": "662",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "663",
+      "fire_mode_id": "663",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "663",
+      "fire_mode_id": "664",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "665",
+      "fire_mode_id": "665",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "666",
+      "fire_mode_id": "666",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "667",
+      "fire_mode_id": "667",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "668",
+      "fire_mode_id": "668",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "669",
+      "fire_mode_id": "713",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "669",
+      "fire_mode_id": "714",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "670",
+      "fire_mode_id": "670",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "675",
+      "fire_mode_id": "675",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "676",
+      "fire_mode_id": "676",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "677",
+      "fire_mode_id": "677",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "678",
+      "fire_mode_id": "70061",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "678",
+      "fire_mode_id": "70062",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "679",
+      "fire_mode_id": "70063",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "679",
+      "fire_mode_id": "70064",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "680",
+      "fire_mode_id": "70065",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "680",
+      "fire_mode_id": "70066",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "683",
+      "fire_mode_id": "683",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "683",
+      "fire_mode_id": "686",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "684",
+      "fire_mode_id": "684",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "684",
+      "fire_mode_id": "687",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "685",
+      "fire_mode_id": "685",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "685",
+      "fire_mode_id": "688",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "689",
+      "fire_mode_id": "689",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "689",
+      "fire_mode_id": "692",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "690",
+      "fire_mode_id": "690",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "690",
+      "fire_mode_id": "693",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "691",
+      "fire_mode_id": "691",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "691",
+      "fire_mode_id": "694",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "695",
+      "fire_mode_id": "695",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "695",
+      "fire_mode_id": "698",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "696",
+      "fire_mode_id": "696",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "696",
+      "fire_mode_id": "699",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "697",
+      "fire_mode_id": "697",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "697",
+      "fire_mode_id": "700",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "701",
+      "fire_mode_id": "701",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "701",
+      "fire_mode_id": "704",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "702",
+      "fire_mode_id": "702",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "702",
+      "fire_mode_id": "705",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "703",
+      "fire_mode_id": "703",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "703",
+      "fire_mode_id": "706",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "704",
+      "fire_mode_id": "707",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "704",
+      "fire_mode_id": "710",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "705",
+      "fire_mode_id": "80591",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "705",
+      "fire_mode_id": "80592",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "706",
+      "fire_mode_id": "709",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "706",
+      "fire_mode_id": "712",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "707",
+      "fire_mode_id": "715",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "707",
+      "fire_mode_id": "716",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "708",
+      "fire_mode_id": "717",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "708",
+      "fire_mode_id": "718",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "709",
+      "fire_mode_id": "719",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "709",
+      "fire_mode_id": "720",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "710",
+      "fire_mode_id": "721",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "710",
+      "fire_mode_id": "722",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "711",
+      "fire_mode_id": "723",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "711",
+      "fire_mode_id": "724",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "712",
+      "fire_mode_id": "725",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "712",
+      "fire_mode_id": "726",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "713",
+      "fire_mode_id": "727",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "713",
+      "fire_mode_id": "728",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "714",
+      "fire_mode_id": "729",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "714",
+      "fire_mode_id": "730",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "715",
+      "fire_mode_id": "731",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "715",
+      "fire_mode_id": "732",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "716",
+      "fire_mode_id": "733",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "716",
+      "fire_mode_id": "734",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "717",
+      "fire_mode_id": "735",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "717",
+      "fire_mode_id": "736",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "718",
+      "fire_mode_id": "737",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "718",
+      "fire_mode_id": "738",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "719",
+      "fire_mode_id": "739",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "719",
+      "fire_mode_id": "740",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "720",
+      "fire_mode_id": "741",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "720",
+      "fire_mode_id": "742",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "721",
+      "fire_mode_id": "743",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "721",
+      "fire_mode_id": "744",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "722",
+      "fire_mode_id": "745",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "722",
+      "fire_mode_id": "746",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "723",
+      "fire_mode_id": "747",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "723",
+      "fire_mode_id": "748",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "724",
+      "fire_mode_id": "749",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "724",
+      "fire_mode_id": "750",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "725",
+      "fire_mode_id": "751",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "725",
+      "fire_mode_id": "752",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "726",
+      "fire_mode_id": "753",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "726",
+      "fire_mode_id": "754",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "730",
+      "fire_mode_id": "761",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "730",
+      "fire_mode_id": "762",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "731",
+      "fire_mode_id": "763",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "731",
+      "fire_mode_id": "764",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "734",
+      "fire_mode_id": "769",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "734",
+      "fire_mode_id": "770",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "736",
+      "fire_mode_id": "773",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "736",
+      "fire_mode_id": "774",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "738",
+      "fire_mode_id": "777",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "738",
+      "fire_mode_id": "778",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "740",
+      "fire_mode_id": "781",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "740",
+      "fire_mode_id": "782",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "742",
+      "fire_mode_id": "785",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "742",
+      "fire_mode_id": "786",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "744",
+      "fire_mode_id": "789",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "744",
+      "fire_mode_id": "790",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "745",
+      "fire_mode_id": "791",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "745",
+      "fire_mode_id": "792",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "746",
+      "fire_mode_id": "793",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "746",
+      "fire_mode_id": "794",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "747",
+      "fire_mode_id": "795",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "747",
+      "fire_mode_id": "796",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "748",
+      "fire_mode_id": "797",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "748",
+      "fire_mode_id": "798",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "749",
+      "fire_mode_id": "799",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "749",
+      "fire_mode_id": "800",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "750",
+      "fire_mode_id": "801",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "750",
+      "fire_mode_id": "802",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "751",
+      "fire_mode_id": "803",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "751",
+      "fire_mode_id": "804",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "752",
+      "fire_mode_id": "805",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "752",
+      "fire_mode_id": "806",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "756",
+      "fire_mode_id": "813",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "756",
+      "fire_mode_id": "814",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "758",
+      "fire_mode_id": "817",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "758",
+      "fire_mode_id": "818",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "760",
+      "fire_mode_id": "821",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "760",
+      "fire_mode_id": "822",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "762",
+      "fire_mode_id": "825",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "762",
+      "fire_mode_id": "826",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "764",
+      "fire_mode_id": "829",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "764",
+      "fire_mode_id": "830",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "766",
+      "fire_mode_id": "833",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "766",
+      "fire_mode_id": "834",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "768",
+      "fire_mode_id": "837",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "768",
+      "fire_mode_id": "838",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "770",
+      "fire_mode_id": "841",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "770",
+      "fire_mode_id": "842",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "772",
+      "fire_mode_id": "845",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "772",
+      "fire_mode_id": "846",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "774",
+      "fire_mode_id": "849",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "774",
+      "fire_mode_id": "850",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "776",
+      "fire_mode_id": "853",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "776",
+      "fire_mode_id": "854",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "778",
+      "fire_mode_id": "857",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "778",
+      "fire_mode_id": "858",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "780",
+      "fire_mode_id": "861",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "780",
+      "fire_mode_id": "862",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1003",
+      "fire_mode_id": "1003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1003",
+      "fire_mode_id": "1103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1004",
+      "fire_mode_id": "1004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1004",
+      "fire_mode_id": "1104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1008",
+      "fire_mode_id": "1008",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1008",
+      "fire_mode_id": "1108",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1009",
+      "fire_mode_id": "1009",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1009",
+      "fire_mode_id": "1109",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1014",
+      "fire_mode_id": "1014",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1014",
+      "fire_mode_id": "1114",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1015",
+      "fire_mode_id": "1015",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1015",
+      "fire_mode_id": "1115",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1022",
+      "fire_mode_id": "7391",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1022",
+      "fire_mode_id": "7392",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "1023",
+      "fire_mode_id": "7431",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "1023",
+      "fire_mode_id": "7432",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "6050",
+      "fire_mode_id": "6050",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7100",
+      "fire_mode_id": "7200",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7100",
+      "fire_mode_id": "7272",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7101",
+      "fire_mode_id": "7201",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7101",
+      "fire_mode_id": "7273",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7102",
+      "fire_mode_id": "7202",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7102",
+      "fire_mode_id": "7274",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7103",
+      "fire_mode_id": "7203",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7103",
+      "fire_mode_id": "7275",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7104",
+      "fire_mode_id": "7204",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7104",
+      "fire_mode_id": "7276",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7108",
+      "fire_mode_id": "7208",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7108",
+      "fire_mode_id": "7280",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7124",
+      "fire_mode_id": "7224",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7124",
+      "fire_mode_id": "7296",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7125",
+      "fire_mode_id": "7225",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7125",
+      "fire_mode_id": "7297",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7126",
+      "fire_mode_id": "7226",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7126",
+      "fire_mode_id": "7298",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7127",
+      "fire_mode_id": "7227",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7127",
+      "fire_mode_id": "7299",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7128",
+      "fire_mode_id": "7228",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7128",
+      "fire_mode_id": "7300",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7129",
+      "fire_mode_id": "7229",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7129",
+      "fire_mode_id": "7301",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7148",
+      "fire_mode_id": "7248",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7148",
+      "fire_mode_id": "7320",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7149",
+      "fire_mode_id": "7249",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7149",
+      "fire_mode_id": "7321",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7150",
+      "fire_mode_id": "7250",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7150",
+      "fire_mode_id": "7322",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7151",
+      "fire_mode_id": "7251",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7151",
+      "fire_mode_id": "7323",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7152",
+      "fire_mode_id": "7252",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7152",
+      "fire_mode_id": "7324",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7153",
+      "fire_mode_id": "7253",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7153",
+      "fire_mode_id": "7325",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7169",
+      "fire_mode_id": "7341",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7169",
+      "fire_mode_id": "7404",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7170",
+      "fire_mode_id": "7342",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7170",
+      "fire_mode_id": "7405",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7171",
+      "fire_mode_id": "7343",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7171",
+      "fire_mode_id": "7406",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7172",
+      "fire_mode_id": "7344",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7172",
+      "fire_mode_id": "7407",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7173",
+      "fire_mode_id": "7345",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7173",
+      "fire_mode_id": "7408",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7174",
+      "fire_mode_id": "7346",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7174",
+      "fire_mode_id": "7409",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7178",
+      "fire_mode_id": "7350",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7178",
+      "fire_mode_id": "7413",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7190",
+      "fire_mode_id": "7362",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7190",
+      "fire_mode_id": "7425",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7191",
+      "fire_mode_id": "7363",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7191",
+      "fire_mode_id": "7426",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7192",
+      "fire_mode_id": "7364",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7192",
+      "fire_mode_id": "7427",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7193",
+      "fire_mode_id": "7365",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7193",
+      "fire_mode_id": "7428",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7194",
+      "fire_mode_id": "7366",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7194",
+      "fire_mode_id": "7429",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7211",
+      "fire_mode_id": "7383",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7211",
+      "fire_mode_id": "7446",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7212",
+      "fire_mode_id": "7384",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7212",
+      "fire_mode_id": "7447",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7213",
+      "fire_mode_id": "7385",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7213",
+      "fire_mode_id": "7448",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7214",
+      "fire_mode_id": "7386",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7214",
+      "fire_mode_id": "7449",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7215",
+      "fire_mode_id": "7387",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7215",
+      "fire_mode_id": "7450",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7232",
+      "fire_mode_id": "7467",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7232",
+      "fire_mode_id": "7530",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7233",
+      "fire_mode_id": "7468",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7233",
+      "fire_mode_id": "7531",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7234",
+      "fire_mode_id": "7469",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7234",
+      "fire_mode_id": "7532",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7235",
+      "fire_mode_id": "7470",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7235",
+      "fire_mode_id": "7533",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7236",
+      "fire_mode_id": "7471",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7236",
+      "fire_mode_id": "7534",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7253",
+      "fire_mode_id": "7488",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7253",
+      "fire_mode_id": "7551",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7254",
+      "fire_mode_id": "7489",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7254",
+      "fire_mode_id": "7552",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7255",
+      "fire_mode_id": "7490",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7255",
+      "fire_mode_id": "7553",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7256",
+      "fire_mode_id": "7491",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7256",
+      "fire_mode_id": "7554",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7257",
+      "fire_mode_id": "7492",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7257",
+      "fire_mode_id": "7555",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7274",
+      "fire_mode_id": "7509",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7274",
+      "fire_mode_id": "7572",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7275",
+      "fire_mode_id": "7510",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7275",
+      "fire_mode_id": "7573",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7276",
+      "fire_mode_id": "7511",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7276",
+      "fire_mode_id": "7574",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7277",
+      "fire_mode_id": "7512",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7277",
+      "fire_mode_id": "7575",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7278",
+      "fire_mode_id": "7513",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7278",
+      "fire_mode_id": "7576",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7282",
+      "fire_mode_id": "7517",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7282",
+      "fire_mode_id": "7518",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7301",
+      "fire_mode_id": "7599",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7301",
+      "fire_mode_id": "7662",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7317",
+      "fire_mode_id": "7615",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7317",
+      "fire_mode_id": "7616",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7318",
+      "fire_mode_id": "7614",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7318",
+      "fire_mode_id": "7677",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7337",
+      "fire_mode_id": "7635",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7337",
+      "fire_mode_id": "7698",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7358",
+      "fire_mode_id": "7719",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7358",
+      "fire_mode_id": "7740",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7365",
+      "fire_mode_id": "7726",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7365",
+      "fire_mode_id": "7747",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7372",
+      "fire_mode_id": "7733",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7372",
+      "fire_mode_id": "7754",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7379",
+      "fire_mode_id": "2",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7379",
+      "fire_mode_id": "102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7388",
+      "fire_mode_id": "7770",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7388",
+      "fire_mode_id": "7806",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7389",
+      "fire_mode_id": "1002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7389",
+      "fire_mode_id": "1102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7390",
+      "fire_mode_id": "7772",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7390",
+      "fire_mode_id": "7808",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7391",
+      "fire_mode_id": "10",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7391",
+      "fire_mode_id": "110",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7393",
+      "fire_mode_id": "7771",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7393",
+      "fire_mode_id": "7807",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7400",
+      "fire_mode_id": "7775",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7400",
+      "fire_mode_id": "7811",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7401",
+      "fire_mode_id": "7783",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7401",
+      "fire_mode_id": "7819",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7402",
+      "fire_mode_id": "7784",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7402",
+      "fire_mode_id": "7820",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7403",
+      "fire_mode_id": "11",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7403",
+      "fire_mode_id": "111",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7412",
+      "fire_mode_id": "7794",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7412",
+      "fire_mode_id": "7830",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7413",
+      "fire_mode_id": "7795",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7413",
+      "fire_mode_id": "7831",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7414",
+      "fire_mode_id": "7796",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7414",
+      "fire_mode_id": "7832",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7423",
+      "fire_mode_id": "7841",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7423",
+      "fire_mode_id": "7868",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7432",
+      "fire_mode_id": "7850",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7432",
+      "fire_mode_id": "7877",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7441",
+      "fire_mode_id": "7859",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7441",
+      "fire_mode_id": "7886",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7494",
+      "fire_mode_id": "7972",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7494",
+      "fire_mode_id": "8002",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7495",
+      "fire_mode_id": "7973",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7495",
+      "fire_mode_id": "8003",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7496",
+      "fire_mode_id": "7974",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7496",
+      "fire_mode_id": "8004",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7505",
+      "fire_mode_id": "8013",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7506",
+      "fire_mode_id": "8014",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7507",
+      "fire_mode_id": "8015",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7512",
+      "fire_mode_id": "8020",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7513",
+      "fire_mode_id": "8021",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7518",
+      "fire_mode_id": "8026",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7519",
+      "fire_mode_id": "8027",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7520",
+      "fire_mode_id": "8028",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7525",
+      "fire_mode_id": "8033",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7528",
+      "fire_mode_id": "8036",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7528",
+      "fire_mode_id": "8057",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7533",
+      "fire_mode_id": "8041",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7533",
+      "fire_mode_id": "8062",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7540",
+      "fire_mode_id": "8048",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7540",
+      "fire_mode_id": "8069",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7546",
+      "fire_mode_id": "7546",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7547",
+      "fire_mode_id": "7547",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7548",
+      "fire_mode_id": "7548",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7600",
+      "fire_mode_id": "7454",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7600",
+      "fire_mode_id": "7455",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7601",
+      "fire_mode_id": "8187",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7605",
+      "fire_mode_id": "8191",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7605",
+      "fire_mode_id": "80503",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7608",
+      "fire_mode_id": "8194",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7608",
+      "fire_mode_id": "80504",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7611",
+      "fire_mode_id": "8197",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7611",
+      "fire_mode_id": "80505",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7614",
+      "fire_mode_id": "8200",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7614",
+      "fire_mode_id": "80506",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7617",
+      "fire_mode_id": "8203",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7617",
+      "fire_mode_id": "80507",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7618",
+      "fire_mode_id": "8204",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7618",
+      "fire_mode_id": "8205",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7619",
+      "fire_mode_id": "8206",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7619",
+      "fire_mode_id": "8207",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7620",
+      "fire_mode_id": "8208",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7620",
+      "fire_mode_id": "8209",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7621",
+      "fire_mode_id": "8210",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7621",
+      "fire_mode_id": "8211",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7622",
+      "fire_mode_id": "8212",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7622",
+      "fire_mode_id": "8213",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7623",
+      "fire_mode_id": "8214",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7623",
+      "fire_mode_id": "8215",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7624",
+      "fire_mode_id": "8216",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7624",
+      "fire_mode_id": "8217",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7625",
+      "fire_mode_id": "8218",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7625",
+      "fire_mode_id": "8219",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7626",
+      "fire_mode_id": "8220",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7626",
+      "fire_mode_id": "8221",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7627",
+      "fire_mode_id": "8222",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7627",
+      "fire_mode_id": "8223",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7628",
+      "fire_mode_id": "8224",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7628",
+      "fire_mode_id": "8225",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7629",
+      "fire_mode_id": "8226",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7629",
+      "fire_mode_id": "8227",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7630",
+      "fire_mode_id": "8228",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7630",
+      "fire_mode_id": "8229",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7631",
+      "fire_mode_id": "8230",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7631",
+      "fire_mode_id": "8231",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "7632",
+      "fire_mode_id": "8232",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "7632",
+      "fire_mode_id": "8233",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "15000",
+      "fire_mode_id": "15000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "15001",
+      "fire_mode_id": "15001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "15004",
+      "fire_mode_id": "15004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "16000",
+      "fire_mode_id": "16000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "16001",
+      "fire_mode_id": "16001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "16004",
+      "fire_mode_id": "16004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "16028",
+      "fire_mode_id": "16028",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "16029",
+      "fire_mode_id": "16029",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "16030",
+      "fire_mode_id": "16030",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17000",
+      "fire_mode_id": "17000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17001",
+      "fire_mode_id": "17001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17004",
+      "fire_mode_id": "17004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17100",
+      "fire_mode_id": "17200",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17100",
+      "fire_mode_id": "17272",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17108",
+      "fire_mode_id": "17208",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17108",
+      "fire_mode_id": "17280",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17124",
+      "fire_mode_id": "17224",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17124",
+      "fire_mode_id": "17296",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17125",
+      "fire_mode_id": "17225",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17125",
+      "fire_mode_id": "17297",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17148",
+      "fire_mode_id": "17248",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17148",
+      "fire_mode_id": "17320",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17149",
+      "fire_mode_id": "17249",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17149",
+      "fire_mode_id": "17321",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17169",
+      "fire_mode_id": "17341",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17169",
+      "fire_mode_id": "17404",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17170",
+      "fire_mode_id": "17342",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17170",
+      "fire_mode_id": "17405",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17190",
+      "fire_mode_id": "17362",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17190",
+      "fire_mode_id": "17425",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "17211",
+      "fire_mode_id": "17383",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "17211",
+      "fire_mode_id": "17446",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18076",
+      "fire_mode_id": "8076",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18076",
+      "fire_mode_id": "8075",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18077",
+      "fire_mode_id": "8077",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18077",
+      "fire_mode_id": "8078",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18079",
+      "fire_mode_id": "8079",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18079",
+      "fire_mode_id": "8080",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18081",
+      "fire_mode_id": "8081",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18081",
+      "fire_mode_id": "8082",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18083",
+      "fire_mode_id": "8083",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18083",
+      "fire_mode_id": "8084",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18095",
+      "fire_mode_id": "8095",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18095",
+      "fire_mode_id": "8096",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18097",
+      "fire_mode_id": "8097",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18097",
+      "fire_mode_id": "8098",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18099",
+      "fire_mode_id": "8099",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18099",
+      "fire_mode_id": "8100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18101",
+      "fire_mode_id": "8101",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18101",
+      "fire_mode_id": "8102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18103",
+      "fire_mode_id": "8103",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18103",
+      "fire_mode_id": "8104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18113",
+      "fire_mode_id": "8113",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18113",
+      "fire_mode_id": "8114",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18115",
+      "fire_mode_id": "8115",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18115",
+      "fire_mode_id": "8116",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18117",
+      "fire_mode_id": "8117",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18117",
+      "fire_mode_id": "8118",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18118",
+      "fire_mode_id": "80221",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18131",
+      "fire_mode_id": "8131",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18131",
+      "fire_mode_id": "8132",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18133",
+      "fire_mode_id": "8133",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18133",
+      "fire_mode_id": "8134",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18143",
+      "fire_mode_id": "8143",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18143",
+      "fire_mode_id": "8144",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18153",
+      "fire_mode_id": "8153",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18153",
+      "fire_mode_id": "8154",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18154",
+      "fire_mode_id": "8234",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18154",
+      "fire_mode_id": "8235",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18163",
+      "fire_mode_id": "8163",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18163",
+      "fire_mode_id": "8164",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18165",
+      "fire_mode_id": "8165",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18165",
+      "fire_mode_id": "8166",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18171",
+      "fire_mode_id": "8171",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18171",
+      "fire_mode_id": "8172",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18173",
+      "fire_mode_id": "8173",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18173",
+      "fire_mode_id": "8174",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18179",
+      "fire_mode_id": "8179",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18179",
+      "fire_mode_id": "8180",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "18181",
+      "fire_mode_id": "8181",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "18181",
+      "fire_mode_id": "8182",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "19000",
+      "fire_mode_id": "19000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "19000",
+      "fire_mode_id": "19100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "19200",
+      "fire_mode_id": "19200",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "19200",
+      "fire_mode_id": "19300",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "20000",
+      "fire_mode_id": "20000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "20000",
+      "fire_mode_id": "20100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "21000",
+      "fire_mode_id": "21000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "21000",
+      "fire_mode_id": "21100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "21500",
+      "fire_mode_id": "2000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "21500",
+      "fire_mode_id": "2001",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "21501",
+      "fire_mode_id": "2010",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "21501",
+      "fire_mode_id": "2011",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "24000",
+      "fire_mode_id": "24000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "24000",
+      "fire_mode_id": "24100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "24001",
+      "fire_mode_id": "24001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "24001",
+      "fire_mode_id": "24101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "24002",
+      "fire_mode_id": "24002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "24002",
+      "fire_mode_id": "24102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "24003",
+      "fire_mode_id": "24003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "24003",
+      "fire_mode_id": "24103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "24004",
+      "fire_mode_id": "24004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "24004",
+      "fire_mode_id": "24104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "24007",
+      "fire_mode_id": "24007",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "24007",
+      "fire_mode_id": "24107",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "24008",
+      "fire_mode_id": "24008",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "24008",
+      "fire_mode_id": "24108",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25000",
+      "fire_mode_id": "25000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25000",
+      "fire_mode_id": "25100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25001",
+      "fire_mode_id": "25001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25001",
+      "fire_mode_id": "25101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25002",
+      "fire_mode_id": "25002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25002",
+      "fire_mode_id": "25102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25003",
+      "fire_mode_id": "25003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25003",
+      "fire_mode_id": "25103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25004",
+      "fire_mode_id": "25004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25004",
+      "fire_mode_id": "25104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25007",
+      "fire_mode_id": "25007",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25007",
+      "fire_mode_id": "25107",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "25008",
+      "fire_mode_id": "25008",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "25008",
+      "fire_mode_id": "25108",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26000",
+      "fire_mode_id": "26000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26000",
+      "fire_mode_id": "26100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26001",
+      "fire_mode_id": "26001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26001",
+      "fire_mode_id": "26101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26002",
+      "fire_mode_id": "26002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26002",
+      "fire_mode_id": "26102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26003",
+      "fire_mode_id": "26003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26003",
+      "fire_mode_id": "26103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26004",
+      "fire_mode_id": "26004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26004",
+      "fire_mode_id": "26104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26007",
+      "fire_mode_id": "26007",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26007",
+      "fire_mode_id": "26107",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "26008",
+      "fire_mode_id": "26008",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "26008",
+      "fire_mode_id": "26108",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "27000",
+      "fire_mode_id": "27000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "27000",
+      "fire_mode_id": "27100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "27001",
+      "fire_mode_id": "27001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "27001",
+      "fire_mode_id": "27101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "27005",
+      "fire_mode_id": "27000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "27005",
+      "fire_mode_id": "27100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "28000",
+      "fire_mode_id": "28000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "28000",
+      "fire_mode_id": "28100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "28001",
+      "fire_mode_id": "28001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "28001",
+      "fire_mode_id": "28101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "28005",
+      "fire_mode_id": "28000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "28005",
+      "fire_mode_id": "28100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "29000",
+      "fire_mode_id": "29000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "29000",
+      "fire_mode_id": "29100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "29001",
+      "fire_mode_id": "29001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "29001",
+      "fire_mode_id": "29101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "29005",
+      "fire_mode_id": "29000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "29005",
+      "fire_mode_id": "29100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "33002",
+      "fire_mode_id": "33002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "33002",
+      "fire_mode_id": "33102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "33003",
+      "fire_mode_id": "33003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "33003",
+      "fire_mode_id": "33103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "33004",
+      "fire_mode_id": "33004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "33004",
+      "fire_mode_id": "33104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "34002",
+      "fire_mode_id": "34002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "34002",
+      "fire_mode_id": "34102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "34003",
+      "fire_mode_id": "34003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "34003",
+      "fire_mode_id": "34103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "34004",
+      "fire_mode_id": "34004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "34004",
+      "fire_mode_id": "34104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "35002",
+      "fire_mode_id": "35002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "35002",
+      "fire_mode_id": "35102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "35003",
+      "fire_mode_id": "35003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "35003",
+      "fire_mode_id": "35103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "35004",
+      "fire_mode_id": "35004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "35004",
+      "fire_mode_id": "35104",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "39000",
+      "fire_mode_id": "39000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "39000",
+      "fire_mode_id": "39100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "39001",
+      "fire_mode_id": "39001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "39001",
+      "fire_mode_id": "39101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "39002",
+      "fire_mode_id": "39002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "39002",
+      "fire_mode_id": "39102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "40000",
+      "fire_mode_id": "40000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "40000",
+      "fire_mode_id": "40100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "40001",
+      "fire_mode_id": "40001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "40001",
+      "fire_mode_id": "40101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "40002",
+      "fire_mode_id": "40002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "40002",
+      "fire_mode_id": "40102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "41000",
+      "fire_mode_id": "41000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "41000",
+      "fire_mode_id": "41100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "41001",
+      "fire_mode_id": "41001",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "41001",
+      "fire_mode_id": "41101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "41002",
+      "fire_mode_id": "41002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "41002",
+      "fire_mode_id": "41102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "42002",
+      "fire_mode_id": "42002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "42002",
+      "fire_mode_id": "42102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "42003",
+      "fire_mode_id": "42003",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "42003",
+      "fire_mode_id": "42103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "50051",
+      "fire_mode_id": "50051",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70004",
+      "fire_mode_id": "70013",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70005",
+      "fire_mode_id": "70014",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70006",
+      "fire_mode_id": "70015",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70007",
+      "fire_mode_id": "70016",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70007",
+      "fire_mode_id": "70017",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70008",
+      "fire_mode_id": "70018",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70008",
+      "fire_mode_id": "70019",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70009",
+      "fire_mode_id": "70020",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70009",
+      "fire_mode_id": "70021",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70010",
+      "fire_mode_id": "70022",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70010",
+      "fire_mode_id": "70023",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70012",
+      "fire_mode_id": "70050",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70012",
+      "fire_mode_id": "70051",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70015",
+      "fire_mode_id": "70056",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70015",
+      "fire_mode_id": "70057",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70017",
+      "fire_mode_id": "70059",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70018",
+      "fire_mode_id": "70059",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70019",
+      "fire_mode_id": "70059",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70020",
+      "fire_mode_id": "70059",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70021",
+      "fire_mode_id": "70059",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70022",
+      "fire_mode_id": "70024",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70022",
+      "fire_mode_id": "70025",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70023",
+      "fire_mode_id": "70026",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70023",
+      "fire_mode_id": "70027",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70024",
+      "fire_mode_id": "7975",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70024",
+      "fire_mode_id": "7976",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70025",
+      "fire_mode_id": "70028",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70025",
+      "fire_mode_id": "70029",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70026",
+      "fire_mode_id": "70030",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70026",
+      "fire_mode_id": "70031",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70061",
+      "fire_mode_id": "70067",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70062",
+      "fire_mode_id": "70067",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70063",
+      "fire_mode_id": "70067",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70064",
+      "fire_mode_id": "70067",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70065",
+      "fire_mode_id": "70067",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70066",
+      "fire_mode_id": "70068",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70066",
+      "fire_mode_id": "70069",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "70067",
+      "fire_mode_id": "70070",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "70067",
+      "fire_mode_id": "70071",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "75490",
+      "fire_mode_id": "75490",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "75490",
+      "fire_mode_id": "75494",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "75491",
+      "fire_mode_id": "75491",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "75491",
+      "fire_mode_id": "75495",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "75492",
+      "fire_mode_id": "75492",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "75492",
+      "fire_mode_id": "75496",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "75493",
+      "fire_mode_id": "75493",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "75493",
+      "fire_mode_id": "75497",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80014",
+      "fire_mode_id": "80017",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80014",
+      "fire_mode_id": "80018",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80015",
+      "fire_mode_id": "80019",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80015",
+      "fire_mode_id": "80020",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80018",
+      "fire_mode_id": "80024",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80018",
+      "fire_mode_id": "80025",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80020",
+      "fire_mode_id": "80027",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80021",
+      "fire_mode_id": "7994",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80021",
+      "fire_mode_id": "7995",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80023",
+      "fire_mode_id": "80033",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80024",
+      "fire_mode_id": "80034",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80026",
+      "fire_mode_id": "80036",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80027",
+      "fire_mode_id": "80037",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80028",
+      "fire_mode_id": "80039",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80029",
+      "fire_mode_id": "80038",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80030",
+      "fire_mode_id": "80040",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80031",
+      "fire_mode_id": "80041",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80032",
+      "fire_mode_id": "80042",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80032",
+      "fire_mode_id": "80043",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80034",
+      "fire_mode_id": "80045",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80034",
+      "fire_mode_id": "80301",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80040",
+      "fire_mode_id": "80057",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80040",
+      "fire_mode_id": "80058",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80041",
+      "fire_mode_id": "80060",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80041",
+      "fire_mode_id": "80059",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80042",
+      "fire_mode_id": "80061",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80042",
+      "fire_mode_id": "80062",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80043",
+      "fire_mode_id": "80063",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80043",
+      "fire_mode_id": "80064",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80044",
+      "fire_mode_id": "80065",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80044",
+      "fire_mode_id": "80066",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80045",
+      "fire_mode_id": "80067",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80045",
+      "fire_mode_id": "80068",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80046",
+      "fire_mode_id": "80069",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80046",
+      "fire_mode_id": "80070",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80047",
+      "fire_mode_id": "80071",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80047",
+      "fire_mode_id": "80072",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80048",
+      "fire_mode_id": "80073",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80049",
+      "fire_mode_id": "80074",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80050",
+      "fire_mode_id": "80075",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80051",
+      "fire_mode_id": "80076",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80052",
+      "fire_mode_id": "80077",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80053",
+      "fire_mode_id": "80078",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80054",
+      "fire_mode_id": "80079",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80055",
+      "fire_mode_id": "80080",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80058",
+      "fire_mode_id": "80084",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80058",
+      "fire_mode_id": "80085",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80061",
+      "fire_mode_id": "80091",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80062",
+      "fire_mode_id": "80092",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80063",
+      "fire_mode_id": "80093",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80064",
+      "fire_mode_id": "80094",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80065",
+      "fire_mode_id": "80095",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80066",
+      "fire_mode_id": "80102",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80066",
+      "fire_mode_id": "80103",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80067",
+      "fire_mode_id": "80096",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80067",
+      "fire_mode_id": "80097",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80068",
+      "fire_mode_id": "80100",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80068",
+      "fire_mode_id": "80101",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80069",
+      "fire_mode_id": "80098",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80069",
+      "fire_mode_id": "80099",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80072",
+      "fire_mode_id": "80107",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80072",
+      "fire_mode_id": "80134",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80074",
+      "fire_mode_id": "80094",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80075",
+      "fire_mode_id": "80110",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80076",
+      "fire_mode_id": "80111",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80076",
+      "fire_mode_id": "80114",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80077",
+      "fire_mode_id": "80112",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80077",
+      "fire_mode_id": "80115",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80078",
+      "fire_mode_id": "80113",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80078",
+      "fire_mode_id": "80116",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80079",
+      "fire_mode_id": "80117",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80079",
+      "fire_mode_id": "80118",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80080",
+      "fire_mode_id": "80119",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80080",
+      "fire_mode_id": "80122",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80081",
+      "fire_mode_id": "80120",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80081",
+      "fire_mode_id": "80123",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80082",
+      "fire_mode_id": "80121",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80082",
+      "fire_mode_id": "80124",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80083",
+      "fire_mode_id": "80125",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80083",
+      "fire_mode_id": "80126",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80085",
+      "fire_mode_id": "80128",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80087",
+      "fire_mode_id": "80130",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80088",
+      "fire_mode_id": "80131",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80089",
+      "fire_mode_id": "80132",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80094",
+      "fire_mode_id": "80137",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80095",
+      "fire_mode_id": "80138",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80095",
+      "fire_mode_id": "80141",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80096",
+      "fire_mode_id": "80139",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80096",
+      "fire_mode_id": "80142",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80097",
+      "fire_mode_id": "80140",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80097",
+      "fire_mode_id": "80143",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80099",
+      "fire_mode_id": "80144",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80099",
+      "fire_mode_id": "80149",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80100",
+      "fire_mode_id": "80145",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80100",
+      "fire_mode_id": "80150",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80101",
+      "fire_mode_id": "80146",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80101",
+      "fire_mode_id": "80151",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80102",
+      "fire_mode_id": "80147",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80102",
+      "fire_mode_id": "80152",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80103",
+      "fire_mode_id": "80153",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80103",
+      "fire_mode_id": "80148",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80108",
+      "fire_mode_id": "80158",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80108",
+      "fire_mode_id": "80159",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80109",
+      "fire_mode_id": "80160",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80109",
+      "fire_mode_id": "80161",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80111",
+      "fire_mode_id": "80163",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80111",
+      "fire_mode_id": "80164",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80112",
+      "fire_mode_id": "80165",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80112",
+      "fire_mode_id": "80166",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80113",
+      "fire_mode_id": "80167",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80113",
+      "fire_mode_id": "80168",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80114",
+      "fire_mode_id": "80169",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80114",
+      "fire_mode_id": "80170",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80115",
+      "fire_mode_id": "80171",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80115",
+      "fire_mode_id": "80172",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80116",
+      "fire_mode_id": "80174",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80116",
+      "fire_mode_id": "80175",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80117",
+      "fire_mode_id": "80176",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80118",
+      "fire_mode_id": "80177",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80119",
+      "fire_mode_id": "80178",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80120",
+      "fire_mode_id": "80179",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80125",
+      "fire_mode_id": "80187",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80125",
+      "fire_mode_id": "80188",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80131",
+      "fire_mode_id": "80196",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80135",
+      "fire_mode_id": "80202",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80135",
+      "fire_mode_id": "80203",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80136",
+      "fire_mode_id": "80200",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80136",
+      "fire_mode_id": "80201",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80137",
+      "fire_mode_id": "80204",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80137",
+      "fire_mode_id": "80205",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80138",
+      "fire_mode_id": "80206",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80139",
+      "fire_mode_id": "80207",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80140",
+      "fire_mode_id": "80208",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80141",
+      "fire_mode_id": "314",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80141",
+      "fire_mode_id": "324",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80142",
+      "fire_mode_id": "314",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80142",
+      "fire_mode_id": "324",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80143",
+      "fire_mode_id": "315",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80143",
+      "fire_mode_id": "325",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80144",
+      "fire_mode_id": "315",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80144",
+      "fire_mode_id": "325",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80145",
+      "fire_mode_id": "313",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80145",
+      "fire_mode_id": "323",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80146",
+      "fire_mode_id": "313",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80146",
+      "fire_mode_id": "323",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80147",
+      "fire_mode_id": "80215",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80150",
+      "fire_mode_id": "80220",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80156",
+      "fire_mode_id": "80226",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80157",
+      "fire_mode_id": "80226",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80158",
+      "fire_mode_id": "80226",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80161",
+      "fire_mode_id": "80228",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80162",
+      "fire_mode_id": "80229",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80163",
+      "fire_mode_id": "80230",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80164",
+      "fire_mode_id": "80231",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80165",
+      "fire_mode_id": "80232",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80166",
+      "fire_mode_id": "80233",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80166",
+      "fire_mode_id": "80234",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80167",
+      "fire_mode_id": "80235",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80168",
+      "fire_mode_id": "80236",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80169",
+      "fire_mode_id": "80237",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80170",
+      "fire_mode_id": "80238",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80174",
+      "fire_mode_id": "80242",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80175",
+      "fire_mode_id": "80243",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80175",
+      "fire_mode_id": "80246",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80176",
+      "fire_mode_id": "80244",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80176",
+      "fire_mode_id": "80247",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80177",
+      "fire_mode_id": "80245",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80177",
+      "fire_mode_id": "80248",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80178",
+      "fire_mode_id": "80249",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80178",
+      "fire_mode_id": "80250",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80181",
+      "fire_mode_id": "80253",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80181",
+      "fire_mode_id": "80254",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80182",
+      "fire_mode_id": "80255",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80182",
+      "fire_mode_id": "80256",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80183",
+      "fire_mode_id": "80094",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80184",
+      "fire_mode_id": "80258",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80185",
+      "fire_mode_id": "80257",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80185",
+      "fire_mode_id": "80269",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80186",
+      "fire_mode_id": "80259",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80187",
+      "fire_mode_id": "80260",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80188",
+      "fire_mode_id": "80261",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80189",
+      "fire_mode_id": "80262",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80191",
+      "fire_mode_id": "80264",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80196",
+      "fire_mode_id": "80270",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80196",
+      "fire_mode_id": "80271",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80197",
+      "fire_mode_id": "80272",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80198",
+      "fire_mode_id": "80273",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80199",
+      "fire_mode_id": "80312",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80200",
+      "fire_mode_id": "80275",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80201",
+      "fire_mode_id": "80276",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80202",
+      "fire_mode_id": "80277",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80203",
+      "fire_mode_id": "80278",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80204",
+      "fire_mode_id": "80279",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80206",
+      "fire_mode_id": "80281",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80210",
+      "fire_mode_id": "80286",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80211",
+      "fire_mode_id": "80287",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80211",
+      "fire_mode_id": "80288",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80216",
+      "fire_mode_id": "80296",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80216",
+      "fire_mode_id": "80297",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80217",
+      "fire_mode_id": "7636",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80217",
+      "fire_mode_id": "7637",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80235",
+      "fire_mode_id": "80323",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80235",
+      "fire_mode_id": "80324",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80241",
+      "fire_mode_id": "80337",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80250",
+      "fire_mode_id": "80340",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80250",
+      "fire_mode_id": "80339",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80251",
+      "fire_mode_id": "80343",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80251",
+      "fire_mode_id": "80344",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80252",
+      "fire_mode_id": "80341",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80252",
+      "fire_mode_id": "80342",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80256",
+      "fire_mode_id": "80355",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80256",
+      "fire_mode_id": "80356",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80257",
+      "fire_mode_id": "80351",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80257",
+      "fire_mode_id": "80352",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80258",
+      "fire_mode_id": "80353",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80258",
+      "fire_mode_id": "80354",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80262",
+      "fire_mode_id": "80355",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80262",
+      "fire_mode_id": "80356",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80263",
+      "fire_mode_id": "80353",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80263",
+      "fire_mode_id": "80354",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80264",
+      "fire_mode_id": "80351",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80264",
+      "fire_mode_id": "80352",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80265",
+      "fire_mode_id": "542",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80265",
+      "fire_mode_id": "545",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80266",
+      "fire_mode_id": "543",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80266",
+      "fire_mode_id": "546",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80267",
+      "fire_mode_id": "541",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80267",
+      "fire_mode_id": "544",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80268",
+      "fire_mode_id": "80367",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80270",
+      "fire_mode_id": "80369",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80270",
+      "fire_mode_id": "80370",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80277",
+      "fire_mode_id": "80378",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80278",
+      "fire_mode_id": "80378",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80279",
+      "fire_mode_id": "80378",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80281",
+      "fire_mode_id": "80381",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80282",
+      "fire_mode_id": "80382",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80285",
+      "fire_mode_id": "80387",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80285",
+      "fire_mode_id": "80388",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80287",
+      "fire_mode_id": "80387",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80287",
+      "fire_mode_id": "80388",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80290",
+      "fire_mode_id": "80390",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80293",
+      "fire_mode_id": "80393",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80293",
+      "fire_mode_id": "80394",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80294",
+      "fire_mode_id": "80403",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80294",
+      "fire_mode_id": "80404",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80295",
+      "fire_mode_id": "80403",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80295",
+      "fire_mode_id": "80404",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80296",
+      "fire_mode_id": "80405",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80296",
+      "fire_mode_id": "80406",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80297",
+      "fire_mode_id": "80405",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80297",
+      "fire_mode_id": "80406",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80298",
+      "fire_mode_id": "80401",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80298",
+      "fire_mode_id": "80402",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80299",
+      "fire_mode_id": "80401",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80299",
+      "fire_mode_id": "80402",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80300",
+      "fire_mode_id": "80407",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80301",
+      "fire_mode_id": "80431",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80301",
+      "fire_mode_id": "80432",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80302",
+      "fire_mode_id": "80410",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80302",
+      "fire_mode_id": "80411",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80303",
+      "fire_mode_id": "80412",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80303",
+      "fire_mode_id": "80413",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80304",
+      "fire_mode_id": "80412",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80304",
+      "fire_mode_id": "80413",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80305",
+      "fire_mode_id": "80414",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80305",
+      "fire_mode_id": "80415",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80306",
+      "fire_mode_id": "80414",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80306",
+      "fire_mode_id": "80415",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80307",
+      "fire_mode_id": "80416",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80307",
+      "fire_mode_id": "80417",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80308",
+      "fire_mode_id": "80416",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80308",
+      "fire_mode_id": "80417",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80311",
+      "fire_mode_id": "80421",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80316",
+      "fire_mode_id": "80435",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80316",
+      "fire_mode_id": "80436",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80317",
+      "fire_mode_id": "80437",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80317",
+      "fire_mode_id": "80438",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80318",
+      "fire_mode_id": "7346",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80318",
+      "fire_mode_id": "7409",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80319",
+      "fire_mode_id": "8153",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80319",
+      "fire_mode_id": "8154",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80320",
+      "fire_mode_id": "8234",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80320",
+      "fire_mode_id": "8235",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80321",
+      "fire_mode_id": "7387",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80321",
+      "fire_mode_id": "7450",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80322",
+      "fire_mode_id": "8143",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80322",
+      "fire_mode_id": "8144",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80323",
+      "fire_mode_id": "19000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80323",
+      "fire_mode_id": "19100",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80324",
+      "fire_mode_id": "19200",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80324",
+      "fire_mode_id": "19300",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80325",
+      "fire_mode_id": "7719",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80325",
+      "fire_mode_id": "7740",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80326",
+      "fire_mode_id": "7733",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80326",
+      "fire_mode_id": "7754",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80327",
+      "fire_mode_id": "7726",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80327",
+      "fire_mode_id": "7747",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80328",
+      "fire_mode_id": "80452",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80328",
+      "fire_mode_id": "80453",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80329",
+      "fire_mode_id": "80441",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80329",
+      "fire_mode_id": "80442",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80330",
+      "fire_mode_id": "8048",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80330",
+      "fire_mode_id": "8069",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80331",
+      "fire_mode_id": "8041",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80331",
+      "fire_mode_id": "8062",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80332",
+      "fire_mode_id": "97",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80332",
+      "fire_mode_id": "98",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80333",
+      "fire_mode_id": "8036",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80333",
+      "fire_mode_id": "8057",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80334",
+      "fire_mode_id": "80443",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80334",
+      "fire_mode_id": "80444",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80336",
+      "fire_mode_id": "80446",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80336",
+      "fire_mode_id": "80447",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80337",
+      "fire_mode_id": "80448",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80337",
+      "fire_mode_id": "80449",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80338",
+      "fire_mode_id": "80450",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80338",
+      "fire_mode_id": "80451",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80343",
+      "fire_mode_id": "80464",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80344",
+      "fire_mode_id": "80465",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80345",
+      "fire_mode_id": "80466",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80346",
+      "fire_mode_id": "80478",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80347",
+      "fire_mode_id": "80468",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80347",
+      "fire_mode_id": "80469",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80349",
+      "fire_mode_id": "80472",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80350",
+      "fire_mode_id": "42002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80350",
+      "fire_mode_id": "42102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80351",
+      "fire_mode_id": "80809",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80351",
+      "fire_mode_id": "80810",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80354",
+      "fire_mode_id": "80474",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80355",
+      "fire_mode_id": "80475",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80356",
+      "fire_mode_id": "80476",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80358",
+      "fire_mode_id": "80479",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80359",
+      "fire_mode_id": "80480",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80359",
+      "fire_mode_id": "80481",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80360",
+      "fire_mode_id": "80482",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80361",
+      "fire_mode_id": "80483",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80361",
+      "fire_mode_id": "80484",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80362",
+      "fire_mode_id": "80485",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80363",
+      "fire_mode_id": "80486",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80364",
+      "fire_mode_id": "80487",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80366",
+      "fire_mode_id": "80489",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80367",
+      "fire_mode_id": "80490",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80367",
+      "fire_mode_id": "80491",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80368",
+      "fire_mode_id": "80492",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80368",
+      "fire_mode_id": "80493",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80369",
+      "fire_mode_id": "80494",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80369",
+      "fire_mode_id": "80495",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80376",
+      "fire_mode_id": "80508",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80376",
+      "fire_mode_id": "80514",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80377",
+      "fire_mode_id": "80509",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80377",
+      "fire_mode_id": "80515",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80378",
+      "fire_mode_id": "80510",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80378",
+      "fire_mode_id": "80516",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80379",
+      "fire_mode_id": "80511",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80379",
+      "fire_mode_id": "80517",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80380",
+      "fire_mode_id": "80512",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80380",
+      "fire_mode_id": "80518",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80381",
+      "fire_mode_id": "80513",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80381",
+      "fire_mode_id": "80519",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80384",
+      "fire_mode_id": "80522",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80412",
+      "fire_mode_id": "80547",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80412",
+      "fire_mode_id": "80548",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80413",
+      "fire_mode_id": "80549",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80416",
+      "fire_mode_id": "80568",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80416",
+      "fire_mode_id": "80569",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80420",
+      "fire_mode_id": "80572",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80420",
+      "fire_mode_id": "80573",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80423",
+      "fire_mode_id": "80580",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80423",
+      "fire_mode_id": "80581",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80424",
+      "fire_mode_id": "80582",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80424",
+      "fire_mode_id": "80583",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80425",
+      "fire_mode_id": "80578",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80425",
+      "fire_mode_id": "80579",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80428",
+      "fire_mode_id": "481",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80428",
+      "fire_mode_id": "481",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80429",
+      "fire_mode_id": "80589",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80429",
+      "fire_mode_id": "80590",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80430",
+      "fire_mode_id": "80593",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80430",
+      "fire_mode_id": "80594",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80431",
+      "fire_mode_id": "80596",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80431",
+      "fire_mode_id": "80595",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80432",
+      "fire_mode_id": "80597",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80433",
+      "fire_mode_id": "80598",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80433",
+      "fire_mode_id": "80599",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80435",
+      "fire_mode_id": "80602",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80435",
+      "fire_mode_id": "80603",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80436",
+      "fire_mode_id": "80602",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80436",
+      "fire_mode_id": "80603",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80437",
+      "fire_mode_id": "80604",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80437",
+      "fire_mode_id": "80605",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80438",
+      "fire_mode_id": "80604",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80438",
+      "fire_mode_id": "80605",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80441",
+      "fire_mode_id": "80608",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80441",
+      "fire_mode_id": "80609",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80442",
+      "fire_mode_id": "80608",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80442",
+      "fire_mode_id": "80609",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80443",
+      "fire_mode_id": "80611",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80443",
+      "fire_mode_id": "80610",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80444",
+      "fire_mode_id": "80611",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80444",
+      "fire_mode_id": "80610",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80445",
+      "fire_mode_id": "80612",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80446",
+      "fire_mode_id": "80613",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80447",
+      "fire_mode_id": "80614",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80448",
+      "fire_mode_id": "80616",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80448",
+      "fire_mode_id": "80615",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80449",
+      "fire_mode_id": "80617",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80449",
+      "fire_mode_id": "80618",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80450",
+      "fire_mode_id": "80619",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80450",
+      "fire_mode_id": "80620",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80451",
+      "fire_mode_id": "80621",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80451",
+      "fire_mode_id": "80622",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80452",
+      "fire_mode_id": "80623",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80452",
+      "fire_mode_id": "80624",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80453",
+      "fire_mode_id": "80625",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80454",
+      "fire_mode_id": "80626",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80455",
+      "fire_mode_id": "80452",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80455",
+      "fire_mode_id": "80453",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80456",
+      "fire_mode_id": "80450",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80456",
+      "fire_mode_id": "80451",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80457",
+      "fire_mode_id": "80441",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80457",
+      "fire_mode_id": "80442",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80458",
+      "fire_mode_id": "80628",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80458",
+      "fire_mode_id": "80629",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80459",
+      "fire_mode_id": "80630",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80459",
+      "fire_mode_id": "80631",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80460",
+      "fire_mode_id": "80632",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80460",
+      "fire_mode_id": "80633",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80461",
+      "fire_mode_id": "80634",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80461",
+      "fire_mode_id": "80635",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80462",
+      "fire_mode_id": "80636",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80462",
+      "fire_mode_id": "80637",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80463",
+      "fire_mode_id": "80638",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80463",
+      "fire_mode_id": "80639",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80464",
+      "fire_mode_id": "80640",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80464",
+      "fire_mode_id": "80641",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80465",
+      "fire_mode_id": "80642",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80466",
+      "fire_mode_id": "80643",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80466",
+      "fire_mode_id": "80644",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80467",
+      "fire_mode_id": "80645",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80468",
+      "fire_mode_id": "80646",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80468",
+      "fire_mode_id": "80647",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80469",
+      "fire_mode_id": "80648",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80469",
+      "fire_mode_id": "80649",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80470",
+      "fire_mode_id": "80658",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80470",
+      "fire_mode_id": "80657",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80471",
+      "fire_mode_id": "80656",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80471",
+      "fire_mode_id": "80655",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80472",
+      "fire_mode_id": "80654",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80472",
+      "fire_mode_id": "80653",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80473",
+      "fire_mode_id": "80652",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80473",
+      "fire_mode_id": "80651",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80474",
+      "fire_mode_id": "80660",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80475",
+      "fire_mode_id": "80659",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80476",
+      "fire_mode_id": "80661",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80476",
+      "fire_mode_id": "80662",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80477",
+      "fire_mode_id": "80663",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80477",
+      "fire_mode_id": "80664",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80478",
+      "fire_mode_id": "80665",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80478",
+      "fire_mode_id": "80666",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80479",
+      "fire_mode_id": "80667",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80479",
+      "fire_mode_id": "80668",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80480",
+      "fire_mode_id": "80669",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80480",
+      "fire_mode_id": "80670",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80481",
+      "fire_mode_id": "80671",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80481",
+      "fire_mode_id": "80673",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80482",
+      "fire_mode_id": "80674",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80482",
+      "fire_mode_id": "80672",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80483",
+      "fire_mode_id": "80675",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80483",
+      "fire_mode_id": "80676",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80484",
+      "fire_mode_id": "80677",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80484",
+      "fire_mode_id": "80678",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80485",
+      "fire_mode_id": "80679",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80485",
+      "fire_mode_id": "80680",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80487",
+      "fire_mode_id": "80683",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80487",
+      "fire_mode_id": "80684",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80488",
+      "fire_mode_id": "80685",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80489",
+      "fire_mode_id": "80686",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80489",
+      "fire_mode_id": "80687",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80490",
+      "fire_mode_id": "80686",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80490",
+      "fire_mode_id": "80687",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80491",
+      "fire_mode_id": "80686",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80491",
+      "fire_mode_id": "80687",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80492",
+      "fire_mode_id": "80686",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80492",
+      "fire_mode_id": "80687",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80495",
+      "fire_mode_id": "80688",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80495",
+      "fire_mode_id": "80689",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80496",
+      "fire_mode_id": "80688",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80496",
+      "fire_mode_id": "80689",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80501",
+      "fire_mode_id": "80692",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80501",
+      "fire_mode_id": "80693",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80502",
+      "fire_mode_id": "80692",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80502",
+      "fire_mode_id": "80693",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80503",
+      "fire_mode_id": "80694",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80503",
+      "fire_mode_id": "80695",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80504",
+      "fire_mode_id": "80694",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80504",
+      "fire_mode_id": "80695",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80506",
+      "fire_mode_id": "80696",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80506",
+      "fire_mode_id": "80697",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80507",
+      "fire_mode_id": "80698",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80507",
+      "fire_mode_id": "80699",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80508",
+      "fire_mode_id": "80706",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80508",
+      "fire_mode_id": "80707",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80509",
+      "fire_mode_id": "80700",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80509",
+      "fire_mode_id": "80701",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80510",
+      "fire_mode_id": "80702",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80510",
+      "fire_mode_id": "80703",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80511",
+      "fire_mode_id": "80704",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80511",
+      "fire_mode_id": "80705",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80513",
+      "fire_mode_id": "80710",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80514",
+      "fire_mode_id": "80711",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80515",
+      "fire_mode_id": "80716",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80515",
+      "fire_mode_id": "80717",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80516",
+      "fire_mode_id": "80714",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80516",
+      "fire_mode_id": "80715",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80517",
+      "fire_mode_id": "80712",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80517",
+      "fire_mode_id": "80713",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80518",
+      "fire_mode_id": "80765",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80518",
+      "fire_mode_id": "80718",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80519",
+      "fire_mode_id": "80763",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80519",
+      "fire_mode_id": "80720",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80520",
+      "fire_mode_id": "80764",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80520",
+      "fire_mode_id": "80719",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80521",
+      "fire_mode_id": "80721",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80521",
+      "fire_mode_id": "80722",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80522",
+      "fire_mode_id": "80723",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80522",
+      "fire_mode_id": "80724",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80523",
+      "fire_mode_id": "80725",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80523",
+      "fire_mode_id": "80726",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80524",
+      "fire_mode_id": "80167",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80524",
+      "fire_mode_id": "80168",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80525",
+      "fire_mode_id": "80650",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80526",
+      "fire_mode_id": "80727",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80526",
+      "fire_mode_id": "80728",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80527",
+      "fire_mode_id": "80045",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80527",
+      "fire_mode_id": "80301",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80533",
+      "fire_mode_id": "80733",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80534",
+      "fire_mode_id": "80734",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80535",
+      "fire_mode_id": "80735",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80536",
+      "fire_mode_id": "80736",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80537",
+      "fire_mode_id": "80737",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80537",
+      "fire_mode_id": "80738",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80538",
+      "fire_mode_id": "80739",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80538",
+      "fire_mode_id": "80740",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80539",
+      "fire_mode_id": "80741",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80539",
+      "fire_mode_id": "80742",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80540",
+      "fire_mode_id": "80743",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80540",
+      "fire_mode_id": "80744",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80542",
+      "fire_mode_id": "80747",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80542",
+      "fire_mode_id": "80748",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80545",
+      "fire_mode_id": "80753",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80545",
+      "fire_mode_id": "80754",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80546",
+      "fire_mode_id": "80755",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80546",
+      "fire_mode_id": "80756",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80547",
+      "fire_mode_id": "80757",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80547",
+      "fire_mode_id": "80758",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80549",
+      "fire_mode_id": "7795",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80549",
+      "fire_mode_id": "7831",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80550",
+      "fire_mode_id": "7775",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80550",
+      "fire_mode_id": "7811",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80551",
+      "fire_mode_id": "1002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80551",
+      "fire_mode_id": "1102",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80552",
+      "fire_mode_id": "7771",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80552",
+      "fire_mode_id": "7807",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80553",
+      "fire_mode_id": "80761",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80554",
+      "fire_mode_id": "80762",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80556",
+      "fire_mode_id": "80767",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80556",
+      "fire_mode_id": "80768",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80557",
+      "fire_mode_id": "80769",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80557",
+      "fire_mode_id": "80770",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80558",
+      "fire_mode_id": "80771",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80558",
+      "fire_mode_id": "80772",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80561",
+      "fire_mode_id": "80174",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80561",
+      "fire_mode_id": "80175",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80563",
+      "fire_mode_id": "80721",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80563",
+      "fire_mode_id": "80724",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80566",
+      "fire_mode_id": "80777",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80566",
+      "fire_mode_id": "80778",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80569",
+      "fire_mode_id": "70061",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80569",
+      "fire_mode_id": "70062",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80570",
+      "fire_mode_id": "70065",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80570",
+      "fire_mode_id": "70066",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80571",
+      "fire_mode_id": "306",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80571",
+      "fire_mode_id": "375",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80572",
+      "fire_mode_id": "80640",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80572",
+      "fire_mode_id": "80641",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80573",
+      "fire_mode_id": "70063",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80573",
+      "fire_mode_id": "70064",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80574",
+      "fire_mode_id": "70008",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80574",
+      "fire_mode_id": "70009",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80575",
+      "fire_mode_id": "70006",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80575",
+      "fire_mode_id": "70007",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80579",
+      "fire_mode_id": "80784",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80579",
+      "fire_mode_id": "80785",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80581",
+      "fire_mode_id": "80787",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80585",
+      "fire_mode_id": "80792",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80585",
+      "fire_mode_id": "80793",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80586",
+      "fire_mode_id": "80792",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80586",
+      "fire_mode_id": "80793",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80589",
+      "fire_mode_id": "80797",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80590",
+      "fire_mode_id": "80798",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80590",
+      "fire_mode_id": "80799",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80591",
+      "fire_mode_id": "80800",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80591",
+      "fire_mode_id": "80801",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80592",
+      "fire_mode_id": "80802",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80592",
+      "fire_mode_id": "80803",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80597",
+      "fire_mode_id": "80811",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80598",
+      "fire_mode_id": "80812",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80599",
+      "fire_mode_id": "80578",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80599",
+      "fire_mode_id": "80579",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80600",
+      "fire_mode_id": "80813",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80600",
+      "fire_mode_id": "80813",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80601",
+      "fire_mode_id": "80814",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80601",
+      "fire_mode_id": "80814",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80602",
+      "fire_mode_id": "80815",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80603",
+      "fire_mode_id": "80816",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80605",
+      "fire_mode_id": "80818",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80605",
+      "fire_mode_id": "80819",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80606",
+      "fire_mode_id": "80820",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80607",
+      "fire_mode_id": "80821",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80607",
+      "fire_mode_id": "80822",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80608",
+      "fire_mode_id": "80823",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80608",
+      "fire_mode_id": "80824",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80609",
+      "fire_mode_id": "80825",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80610",
+      "fire_mode_id": "80826",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80611",
+      "fire_mode_id": "80827",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80612",
+      "fire_mode_id": "80828",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80613",
+      "fire_mode_id": "80829",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80613",
+      "fire_mode_id": "80830",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80614",
+      "fire_mode_id": "80831",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80614",
+      "fire_mode_id": "80832",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80615",
+      "fire_mode_id": "80833",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80615",
+      "fire_mode_id": "80834",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80616",
+      "fire_mode_id": "80835",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80616",
+      "fire_mode_id": "80836",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80617",
+      "fire_mode_id": "80837",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80617",
+      "fire_mode_id": "80838",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80618",
+      "fire_mode_id": "80839",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80618",
+      "fire_mode_id": "80840",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80619",
+      "fire_mode_id": "80841",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80619",
+      "fire_mode_id": "80842",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80620",
+      "fire_mode_id": "80843",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80620",
+      "fire_mode_id": "80844",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80621",
+      "fire_mode_id": "80845",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80621",
+      "fire_mode_id": "80846",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80622",
+      "fire_mode_id": "80847",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80623",
+      "fire_mode_id": "80848",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80624",
+      "fire_mode_id": "80850",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80624",
+      "fire_mode_id": "80851",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80625",
+      "fire_mode_id": "80852",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80628",
+      "fire_mode_id": "80855",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80632",
+      "fire_mode_id": "80861",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80635",
+      "fire_mode_id": "80864",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80636",
+      "fire_mode_id": "80865",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80636",
+      "fire_mode_id": "80866",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80637",
+      "fire_mode_id": "80867",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80637",
+      "fire_mode_id": "80868",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80638",
+      "fire_mode_id": "80869",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80639",
+      "fire_mode_id": "80870",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80640",
+      "fire_mode_id": "80871",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80641",
+      "fire_mode_id": "80872",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80642",
+      "fire_mode_id": "80873",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80645",
+      "fire_mode_id": "80877",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80645",
+      "fire_mode_id": "80878",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80646",
+      "fire_mode_id": "80879",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80646",
+      "fire_mode_id": "80880",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80647",
+      "fire_mode_id": "80817",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80647",
+      "fire_mode_id": "80849",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80648",
+      "fire_mode_id": "80883",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80648",
+      "fire_mode_id": "80884",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80650",
+      "fire_mode_id": "80886",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80650",
+      "fire_mode_id": "80887",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80651",
+      "fire_mode_id": "80888",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80651",
+      "fire_mode_id": "80889",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80652",
+      "fire_mode_id": "80890",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80652",
+      "fire_mode_id": "80891",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80653",
+      "fire_mode_id": "80892",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80653",
+      "fire_mode_id": "80893",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80655",
+      "fire_mode_id": "80896",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80655",
+      "fire_mode_id": "80897",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80656",
+      "fire_mode_id": "80898",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80656",
+      "fire_mode_id": "80899",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80657",
+      "fire_mode_id": "80901",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80657",
+      "fire_mode_id": "80902",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80658",
+      "fire_mode_id": "80903",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80658",
+      "fire_mode_id": "80904",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80659",
+      "fire_mode_id": "80905",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80659",
+      "fire_mode_id": "80906",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80660",
+      "fire_mode_id": "80907",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80660",
+      "fire_mode_id": "80908",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80661",
+      "fire_mode_id": "80909",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80661",
+      "fire_mode_id": "80910",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80662",
+      "fire_mode_id": "80911",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80662",
+      "fire_mode_id": "80912",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80663",
+      "fire_mode_id": "80913",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80663",
+      "fire_mode_id": "80914",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80668",
+      "fire_mode_id": "80920",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80669",
+      "fire_mode_id": "80921",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80669",
+      "fire_mode_id": "80922",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80670",
+      "fire_mode_id": "80923",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80670",
+      "fire_mode_id": "80924",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80671",
+      "fire_mode_id": "80925",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80671",
+      "fire_mode_id": "80926",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80672",
+      "fire_mode_id": "80927",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80672",
+      "fire_mode_id": "80928",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80673",
+      "fire_mode_id": "80929",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80674",
+      "fire_mode_id": "80930",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80675",
+      "fire_mode_id": "80932",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80675",
+      "fire_mode_id": "80931",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80677",
+      "fire_mode_id": "80935",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80681",
+      "fire_mode_id": "80940",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80685",
+      "fire_mode_id": "80946",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80687",
+      "fire_mode_id": "80949",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80688",
+      "fire_mode_id": "80948",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80689",
+      "fire_mode_id": "80950",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80689",
+      "fire_mode_id": "80951",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80690",
+      "fire_mode_id": "80952",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80690",
+      "fire_mode_id": "80953",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80691",
+      "fire_mode_id": "80954",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80691",
+      "fire_mode_id": "80955",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80692",
+      "fire_mode_id": "80956",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80693",
+      "fire_mode_id": "80957",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80696",
+      "fire_mode_id": "80960",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80697",
+      "fire_mode_id": "80961",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80698",
+      "fire_mode_id": "80962",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80699",
+      "fire_mode_id": "80964",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80699",
+      "fire_mode_id": "80963",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80700",
+      "fire_mode_id": "80965",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80700",
+      "fire_mode_id": "80966",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80702",
+      "fire_mode_id": "80970",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80702",
+      "fire_mode_id": "80971",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80703",
+      "fire_mode_id": "80972",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80703",
+      "fire_mode_id": "80973",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80704",
+      "fire_mode_id": "80974",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80704",
+      "fire_mode_id": "80975",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80705",
+      "fire_mode_id": "80976",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80705",
+      "fire_mode_id": "80977",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80706",
+      "fire_mode_id": "80978",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80707",
+      "fire_mode_id": "80979",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80708",
+      "fire_mode_id": "80981",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80709",
+      "fire_mode_id": "80982",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80709",
+      "fire_mode_id": "80983",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80710",
+      "fire_mode_id": "80985",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80711",
+      "fire_mode_id": "80984",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80712",
+      "fire_mode_id": "80986",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80712",
+      "fire_mode_id": "80987",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80714",
+      "fire_mode_id": "80988",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80714",
+      "fire_mode_id": "80989",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80716",
+      "fire_mode_id": "80992",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80716",
+      "fire_mode_id": "80993",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80717",
+      "fire_mode_id": "80994",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80717",
+      "fire_mode_id": "80995",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80718",
+      "fire_mode_id": "80996",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80718",
+      "fire_mode_id": "80997",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80719",
+      "fire_mode_id": "80998",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80719",
+      "fire_mode_id": "80999",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80720",
+      "fire_mode_id": "81000",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80720",
+      "fire_mode_id": "81001",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80721",
+      "fire_mode_id": "81002",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80721",
+      "fire_mode_id": "81003",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80722",
+      "fire_mode_id": "81004",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80722",
+      "fire_mode_id": "81005",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80723",
+      "fire_mode_id": "81006",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80723",
+      "fire_mode_id": "81007",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80724",
+      "fire_mode_id": "81008",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80724",
+      "fire_mode_id": "81009",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80725",
+      "fire_mode_id": "81010",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80725",
+      "fire_mode_id": "81011",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80726",
+      "fire_mode_id": "81012",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80726",
+      "fire_mode_id": "81013",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80727",
+      "fire_mode_id": "81014",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80727",
+      "fire_mode_id": "81015",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80728",
+      "fire_mode_id": "81016",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80728",
+      "fire_mode_id": "81017",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80729",
+      "fire_mode_id": "81018",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80729",
+      "fire_mode_id": "81019",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80730",
+      "fire_mode_id": "81020",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80730",
+      "fire_mode_id": "81021",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80732",
+      "fire_mode_id": "81024",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80732",
+      "fire_mode_id": "81025",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80733",
+      "fire_mode_id": "81026",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80733",
+      "fire_mode_id": "81027",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80734",
+      "fire_mode_id": "81028",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80734",
+      "fire_mode_id": "81029",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80735",
+      "fire_mode_id": "81030",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80735",
+      "fire_mode_id": "81031",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80736",
+      "fire_mode_id": "81032",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80736",
+      "fire_mode_id": "81033",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80737",
+      "fire_mode_id": "81034",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80737",
+      "fire_mode_id": "81035",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80738",
+      "fire_mode_id": "81036",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80738",
+      "fire_mode_id": "81037",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80739",
+      "fire_mode_id": "81038",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80739",
+      "fire_mode_id": "81039",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80741",
+      "fire_mode_id": "7733",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80741",
+      "fire_mode_id": "7754",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80742",
+      "fire_mode_id": "7726",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80742",
+      "fire_mode_id": "7747",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80744",
+      "fire_mode_id": "80169",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80744",
+      "fire_mode_id": "80170",
+      "fire_mode_index": "1"
+    }
+  ],
+  "returned": 1779
+}

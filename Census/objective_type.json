@@ -1,0 +1,224 @@
+{
+  "objective_type_list": [
+    {
+      "objective_type_id": "3",
+      "description": "Kill NPC",
+      "param1": "Count",
+      "param2": "NPC definition ID (optional)",
+      "param3": "NPC classification ID (optional)",
+      "param4": "Ignore Killer"
+    },
+    {
+      "objective_type_id": "8",
+      "description": "Enter Area",
+      "param1": "Area",
+      "param2": "Area ID"
+    },
+    {
+      "objective_type_id": "12",
+      "description": "Total Kill Count",
+      "param1": "Kill Count",
+      "param2": "Npc",
+      "param3": "Npc Classification",
+      "param4": "Vehicle",
+      "param5": "Item",
+      "param6": "Item Classification",
+      "param8": "Friendly Fire"
+    },
+    {
+      "objective_type_id": "14",
+      "description": "Group Leader Ranks Gained",
+      "param1": "Goal Count",
+      "param2": "Max Rank"
+    },
+    {
+      "objective_type_id": "15",
+      "description": "Group Leader Group XP Earned",
+      "param1": "XP Amount",
+      "param2": "Award Type",
+      "param3": "Award Type",
+      "param4": "Award Type",
+      "param5": "Award Type",
+      "param6": "Award Type",
+      "param8": "XP Classification"
+    },
+    {
+      "objective_type_id": "17",
+      "description": "Group XP Earned",
+      "param1": "XP Amount",
+      "param2": "Award Type",
+      "param3": "Award Type",
+      "param4": "Award Type",
+      "param5": "Award Type",
+      "param6": "Award Type",
+      "param8": "XP Classification"
+    },
+    {
+      "objective_type_id": "19",
+      "description": "Raid Owner Group Achievement Complete",
+      "param1": "Achievement",
+      "param2": "Goal Count"
+    },
+    {
+      "objective_type_id": "20",
+      "description": "Raid Owner Member Facility Capture",
+      "param1": "Goal Count",
+      "param2": "Facility Type",
+      "param3": "Min Enemy Count",
+      "param4": "Zone",
+      "param5": "Capture Type"
+    },
+    {
+      "objective_type_id": "21",
+      "description": "Group Member Kill",
+      "param1": "Kill Count",
+      "param2": "Npc",
+      "param3": "Npc Classification",
+      "param4": "Vehicle",
+      "param5": "Item",
+      "param6": "Item Classification",
+      "param8": "Friendly Fire",
+      "param9": "Ignore Self"
+    },
+    {
+      "objective_type_id": "23",
+      "description": "Character Flag",
+      "param1": "Required Value",
+      "param2": "Display as Count",
+      "param3": "Reset Flag on Reset",
+      "param7": "Character Flag"
+    },
+    {
+      "objective_type_id": "27",
+      "description": "Change Profile",
+      "param1": "Goal Count",
+      "param2": "Profile",
+      "param3": "Profile Type",
+      "param4": "Profile Classification"
+    },
+    {
+      "objective_type_id": "30",
+      "description": "Player has traveled a given distance",
+      "param1": "Meters",
+      "param2": "Mounted",
+      "param3": "Vehicle",
+      "param4": "Vehicle Set"
+    },
+    {
+      "objective_type_id": "31",
+      "description": "Join Outfit"
+    },
+    {
+      "objective_type_id": "33",
+      "description": "Player Design Event",
+      "param1": "Goal Count",
+      "param2": "Custom Param1",
+      "param3": "Custom Param2",
+      "param4": "Custom Param3",
+      "param7": "Design Event"
+    },
+    {
+      "objective_type_id": "34",
+      "description": "Damage Taken",
+      "param1": "Target Damage Amount",
+      "param2": "Item",
+      "param3": "Item Classification",
+      "param4": "Resist Type",
+      "param5": "Allow Friendly Fire",
+      "param6": "Headshots Only",
+      "param8": "Use Total Damage"
+    },
+    {
+      "objective_type_id": "35",
+      "description": "Player transferred resources",
+      "param1": "Goal Count",
+      "param2": "Resource Type"
+    },
+    {
+      "objective_type_id": "37",
+      "description": "Killstreak",
+      "param1": "Kill Count",
+      "param2": "Npc",
+      "param3": "Npc Classification",
+      "param4": "Vehicle",
+      "param5": "Item",
+      "param6": "Item Classification",
+      "param8": "Friendly Fire",
+      "param9": "Reset On Spawn"
+    },
+    {
+      "objective_type_id": "40",
+      "description": "Item Count",
+      "param1": "Item",
+      "param2": "Count",
+      "param3": "NPC Classification",
+      "param4": "Item Classification"
+    },
+    {
+      "objective_type_id": "66",
+      "description": "Achievement Completed",
+      "param1": "Achievement ID (0 = any achievement)",
+      "param2": "Check on Start",
+      "param3": "Goal Count"
+    },
+    {
+      "objective_type_id": "69",
+      "description": "XP Award Count",
+      "param1": "Goal Count",
+      "param2": "Award Type",
+      "param3": "Award Type",
+      "param4": "Award Type",
+      "param5": "Award Type",
+      "param6": "Award Type",
+      "param8": "XP Classification"
+    },
+    {
+      "objective_type_id": "74",
+      "description": "Add Friends",
+      "param1": "Friend Count"
+    },
+    {
+      "objective_type_id": "89",
+      "description": "Kill PC",
+      "param1": "Vehicle",
+      "param2": "Item",
+      "param3": "Suicide",
+      "param4": "Friendly fire",
+      "param5": "Count",
+      "param6": "Item Classification"
+    },
+    {
+      "objective_type_id": "90",
+      "description": "Passenger Kill Count",
+      "param1": "Goal Count",
+      "param2": "Vehicle ID",
+      "param3": "Item ID"
+    },
+    {
+      "objective_type_id": "91",
+      "description": "Heal",
+      "param1": "Goal Count",
+      "param2": "Vehicle ID",
+      "param3": "NPCDef ID",
+      "param4": "Profile ID",
+      "param5": "Is Repair",
+      "param6": "Is Facility Object",
+      "param7": "Heal Effect ID to check source"
+    },
+    {
+      "objective_type_id": "92",
+      "description": "Revive",
+      "param1": "Goal Count"
+    },
+    {
+      "objective_type_id": "93",
+      "description": "Capture Facility",
+      "param1": "Goal Count",
+      "param2": "Action Type",
+      "param3": "Facility Type",
+      "param4": "Enemy Count",
+      "param5": "Zone ID"
+    }
+  ],
+  "returned": 26
+}
