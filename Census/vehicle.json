@@ -571,7 +571,7 @@
         "en": "Deliverer Prototype"
       },
       "description": {
-        "en": "A prototype ANT design reconfigured for carrying infantry and MAX units."
+        "en": "A prototype ANT reconfigured to act as an advanced mobile station."
       },
       "type_id": "5",
       "type_name": "Four Wheeled Ground Vehicle",
@@ -587,7 +587,7 @@
         "en": "Wasp Prototype"
       },
       "description": {
-        "en": "This is a prototype configuration of the Valkyrie transport vehicle that can harvest and deposit Cortium while providing close-range anti-vehicle support."
+        "en": "This is a prototype Valkyrie configuration can harvest and deposit Cortium."
       },
       "type_id": "1",
       "type_name": "Light Aircraft",
