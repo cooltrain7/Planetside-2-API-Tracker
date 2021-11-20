@@ -908,6 +908,7 @@
 6010044,Javelin Primary Weapon,,JVN-30 Salamander,,none
 6010078,Javelin Primary Weapon,,JVN-50 Celeste,,none
 6010076,Javelin Primary Weapon,,JVN-X3 Hydra,,none
+6011556,Knife,,The Swashbuckler,,
 6008651,Knife,0,Ancient Psykinetic Blade,0,none
 6011053,Knife,,Ancient Psykinetic Blade,,none
 800625,Knife,0,Auraxium Chainblade,3,none
@@ -1032,6 +1033,8 @@
 3107,Lightning Primary Weapon,1,Skyguard,2,armor
 3108,Lightning Primary Weapon,1,Skyguard,3,armor
 6005303,Lightning Primary Weapon,1,Skyguard,4,armor
+6011563,LMG,,"""Treasured"" LA-1 Anchor",,
+6011564,LMG,,"""Treasured"" MSW-R",,
 6011562,LMG,,"""Treasured"" Orion VS54",,infantry
 1894,LMG,0,Betelgeuse 54-A,1,infantry
 7232,LMG,0,EM1,2,infantry
