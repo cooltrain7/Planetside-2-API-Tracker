@@ -42,6 +42,7 @@ A collection of sites, and applications that use the planetside 2 API.
  Planetside 2 Repositories
 
 - [Auraxium](https://github.com/leonhard-s/auraxium)
+- [DbgCensus](https://github.com/carlst99/DbgCensus)
 - [Tide OP Tracker](https://github.com/Varunda/topt)
 - [PS2Alerts](https://github.com/ps2alerts)
 - [PS2-Alerts.io](https://github.com/ps2-alerts/ps2-alerts.github.io)
