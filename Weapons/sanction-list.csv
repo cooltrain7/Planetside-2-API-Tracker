@@ -343,6 +343,13 @@
 2317,Crossbow,0,Hunter QCX-B,,none
 2318,Crossbow,0,Hunter QCX-G,,none
 50562,Crossbow,0,Hunter QCX-P,,none
+6011606,Deliverer Prototype Primary Weapon,1,M20 Basilisk,,
+6009928,Dervish Nose Cannon,1,DV-21 Lotus,4,air
+6009860,Dervish Nose Cannon,1,DV-22 Raycaster,4,air
+6009927,Dervish Nose Cannon,1,DV-XE,4,air
+6009861,Dervish Top Turret,1,DV-22T Lightweaver,4,gunner
+6009991,Dervish Top Turret,1,DV-LAT Pixie,4,gunner
+6009992,Dervish Top Turret,1,DV-XAT,4,gunner
 1044,Explosive,0,Bouncing Betty,2,none
 432,Explosive,0,C-4,0,none
 800623,Explosive,0,C-4 ARX,0,none
@@ -1448,12 +1455,6 @@
 6005242,Sunderer Rear Gunner,1,M60-G Bulldog,4,gunner
 6002421,UNKNOWN Admin: Base Gun,0,Admin: Base Gun,,none
 6002429,UNKNOWN BaseSmash: Crystal Gun,0,BaseSmash: Crystal Gun,,none
-6009928,UNKNOWN DV-21 Lotus,1,DV-21 Lotus,4,air
-6009860,UNKNOWN DV-22 Raycaster,1,DV-22 Raycaster,4,air
-6009861,UNKNOWN DV-22T Lightweaver,,DV-22T Lightweaver,,gunner
-6009991,UNKNOWN DV-LAT Pixie,,DV-LAT Pixie,,gunner
-6009992,UNKNOWN DV-XAT,,DV-XAT,,gunner
-6009927,UNKNOWN DV-XE,1,DV-XE,4,air
 6553,Valkyrie Nose Gunner,1,CAS 14-E,1,none
 6554,Valkyrie Nose Gunner,1,CAS 14-E,2,none
 6555,Valkyrie Nose Gunner,1,CAS 14-E,3,none
