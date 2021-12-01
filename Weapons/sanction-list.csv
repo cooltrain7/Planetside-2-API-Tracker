@@ -1,4 +1,6 @@
 ﻿Item ID,Item Category,Is Vehicle Weapon,Item Name,Faction ID,Sanction
+6002421,,0,Admin: Base Gun,,none
+6002429,,0,BaseSmash: Crystal Gun,,none
 15016,AA MAX (Left),0,NS-10 Burster,3,max
 16016,AA MAX (Left),0,NS-10 Burster,2,max
 17016,AA MAX (Left),0,NS-10 Burster,1,max
@@ -1453,8 +1455,6 @@
 2836,Sunderer Rear Gunner,1,M60-G Bulldog,2,gunner
 2837,Sunderer Rear Gunner,1,M60-G Bulldog,3,gunner
 6005242,Sunderer Rear Gunner,1,M60-G Bulldog,4,gunner
-6002421,UNKNOWN Admin: Base Gun,0,Admin: Base Gun,,none
-6002429,UNKNOWN BaseSmash: Crystal Gun,0,BaseSmash: Crystal Gun,,none
 6553,Valkyrie Nose Gunner,1,CAS 14-E,1,none
 6554,Valkyrie Nose Gunner,1,CAS 14-E,2,none
 6555,Valkyrie Nose Gunner,1,CAS 14-E,3,none
@@ -1489,10 +1489,10 @@
 3700,Vanguard Primary Weapon,1,Titan-150 HEAT,2,armor
 3731,Vanguard Primary Weapon,1,Titan-150 HESH,2,armor
 6008733,Vehicle Abilities,1,JVN-MM N.E.S.T.,0,none
-728,Vehicle Weapons,1,UNKNOWN Vehicle Weapons {728},2,
-729,Vehicle Weapons,1,UNKNOWN Vehicle Weapons {729},3,
-731,Vehicle Weapons,1,UNKNOWN Vehicle Weapons {731},2,
-732,Vehicle Weapons,1,UNKNOWN Vehicle Weapons {732},3,
+728,Vehicle Weapons,1,,2,
+729,Vehicle Weapons,1,,3,
+731,Vehicle Weapons,1,,2,
+732,Vehicle Weapons,1,,3,
 700,Vehicle Weapons,1,Aspis Anti-Aircraft Phalanx Turret,1,none
 701,Vehicle Weapons,1,Aspis Anti-Aircraft Phalanx Turret,2,none
 702,Vehicle Weapons,1,Aspis Anti-Aircraft Phalanx Turret,3,none
