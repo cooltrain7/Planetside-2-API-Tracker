@@ -525,7 +525,6 @@
 6011152,Hybrid Rifle,,NSX Kuwa,,infantry
 6005967,Hybrid Rifle,0,NSX-A Kuwa,0,infantry
 804846,Infantry Abilities,0,Cert Fountain,0,
-6011430,Infantry Abilities,,Jack Johnson and Tom O'Leary,,
 6009460,Infantry Abilities,0,Metal Detector,0,
 6004560,Infantry Abilities,0,Meteorite,,
 6005102,Infantry Abilities,0,Pumpking Slayer,,
@@ -681,6 +680,7 @@
 6005644,Infantry Abilities,0,Infantry Tower,4,none
 6009093,Infantry Abilities,0,Infradine,,none
 6002553,Infantry Abilities,0,IPC Targeting Dart,0,none
+6011430,Infantry Abilities,,Jack Johnson and Tom O'Leary,,none
 6009047,Infantry Abilities,0,Javelin XS-1,0,none
 6011574,Infantry Abilities,,Jump Booster 1,,none
 6011712,Infantry Abilities,,Jump Booster 1,,none
@@ -842,6 +842,11 @@
 804975,Infantry Abilities,0,Reinforcements Module,3,none
 804976,Infantry Abilities,0,Reinforcements Module,1,none
 6005654,Infantry Abilities,0,Reinforcements Module,4,none
+6011576,Infantry Abilities,,Repair Drone 1,,none
+6011593,Infantry Abilities,,Repair Drone 2,,none
+6011594,Infantry Abilities,,Repair Drone 3,,none
+6011595,Infantry Abilities,,Repair Drone 4,,none
+6011596,Infantry Abilities,,Repair Drone 5,,none
 804269,Infantry Abilities,0,Repair Module,2,none
 804270,Infantry Abilities,0,Repair Module,3,none
 804271,Infantry Abilities,0,Repair Module,1,none
