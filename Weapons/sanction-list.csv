@@ -78,6 +78,7 @@
 6005536,ANT Top Turret,0,M20 Basilisk,0,gunner
 6005537,ANT Top Turret,0,M20 Basilisk,0,gunner
 6005538,ANT Top Turret,0,M20 Basilisk,0,gunner
+6011606,ANT Top Turret,1,M20 Basilisk,4,gunner
 803491,ANT Top Turret,1,M40 Fury,1,gunner
 803492,ANT Top Turret,1,M40 Fury,2,gunner
 803493,ANT Top Turret,1,M40 Fury,3,gunner
@@ -345,7 +346,6 @@
 2317,Crossbow,0,Hunter QCX-B,,none
 2318,Crossbow,0,Hunter QCX-G,,none
 50562,Crossbow,0,Hunter QCX-P,,none
-6011606,Deliverer Prototype Primary Weapon,1,M20 Basilisk,,
 6009928,Dervish Nose Cannon,1,DV-21 Lotus,4,air
 6009860,Dervish Nose Cannon,1,DV-22 Raycaster,4,air
 6009927,Dervish Nose Cannon,1,DV-XE,4,air
