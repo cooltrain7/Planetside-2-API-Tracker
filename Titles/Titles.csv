@@ -210,9 +210,9 @@
 211,Warbringer,From the Commander’s Five-Year Anniversary Bundle (2020),NS,N,Purchase/Bundle
 212,Jolly,Awarded for completing the 2017 Christmas event,NS,N,Seasonal Event
 213,A.S.P. Operative,Awarded to those who use the ASP prestige system,NS,Y,Battlerank
-214,Advisory,NC Battlerank 100 ASP,NC,Y,Battlerank
-215,Myriad,TR Battlerank 100 ASP,TR,Y,Battlerank
-216,Chosen,VS Battlerank 100 ASP,VS,Y,Battlerank
+214,Advisory,NC Battlerank 100 ASP 1,NC,Y,Battlerank
+215,Myriad,TR Battlerank 100 ASP 1,TR,Y,Battlerank
+216,Chosen,VS Battlerank 100 ASP 1,VS,Y,Battlerank
 217,Builder,Awarded for completion of the Construction Directive,NS,Y,Kills/Directive
 218,Scrim Master,Awarded for completing Scrim Masters 2017 tournament? (12v12 on jaeger),NS,N,Specific Event
 219,Grouchy,Awarded for completing the 2018 Christmas event,NS,N,Seasonal Event
@@ -335,7 +335,7 @@
 344,v1.1.8,NSO Battlerank 118,NSO,Y,Battlerank
 345,v1.1.9,NSO Battlerank 119,NSO,Y,Battlerank
 346,v1.2.0,NSO Battlerank 120,NSO,Y,Battlerank
-347,Recursive,Awarded to ASP 100 NSO Characters,NSO,Y,Battlerank
+347,Recursive,Awarded to ASP 100 NSO Characters 1,NSO,Y,Battlerank
 390,Surfer,Awarded for completion of the 2019 Summer Event,NS,N,Seasonal Event
 391,Undertaker,Awarded for completion of the 2019 Halloween event?,NS,N,Seasonal Event
 392,Abominable,Awarded for completing the 2019 Christmas event,NS,N,Seasonal Event
@@ -366,3 +366,5 @@
 417,Fleet Admiral,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
 418,Quartermaster,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
 419,Deckhand,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
+420,Considerate,Unknown,NS,Y,Unknown
+421,Festive,Awarded for completion of the 2021 Christmas event,NS,Y,Seasonal Event
