@@ -98,7 +98,7 @@
 97,Grand Ambassador,Awarded by the SOE referral scheme for getting 25 players into the game,NS,N,Specific Event
 98,Pyro,Awarded for getting 50 kills with the Flare Gun,NS,Y,Kills/Directive
 99,Skirmisher,Awarded to VS players who won the WDS pre-season,VS,N,Specific Event
-100,Snowblower,Awarded for shooting 10 snowmen during the Christmas Holiday 2013 event,NS,N,Seasonal Event
+100,Snowblower,"Awarded for shooting 10 snowmen during the Christmas Holiday 2013, 2021 events",NS,Y,Seasonal Event
 101,Snow Balla,Awarded for getting 50 kills with the Deep Freeze,NS,Y,Seasonal Event
 102,Dominator,Awarded to the WDS winning faction,NS,N,Specific Event
 103,Hater,Awarded for getting 50 kills with the Black Heart,NS,Y,Kills/Directive
@@ -210,9 +210,9 @@
 211,Warbringer,From the Commander’s Five-Year Anniversary Bundle (2020),NS,N,Purchase/Bundle
 212,Jolly,Awarded for completing the 2017 Christmas event,NS,N,Seasonal Event
 213,A.S.P. Operative,Awarded to those who use the ASP prestige system,NS,Y,Battlerank
-214,Advisory,NC Battlerank 100 ASP 1,NC,Y,Battlerank
-215,Myriad,TR Battlerank 100 ASP 1,TR,Y,Battlerank
-216,Chosen,VS Battlerank 100 ASP 1,VS,Y,Battlerank
+214,Advisory,Awarded to NC Characters for reaching BR 100 ASP 1 ,NC,Y,Battlerank
+215,Myriad,Awarded to TR Characters for reaching BR 100 ASP 1 ,TR,Y,Battlerank
+216,Chosen,Awarded to VS Characters for reaching BR 100 ASP 1 ,VS,Y,Battlerank
 217,Builder,Awarded for completion of the Construction Directive,NS,Y,Kills/Directive
 218,Scrim Master,Awarded for completing Scrim Masters 2017 tournament? (12v12 on jaeger),NS,N,Specific Event
 219,Grouchy,Awarded for completing the 2018 Christmas event,NS,N,Seasonal Event
@@ -335,7 +335,7 @@
 344,v1.1.8,NSO Battlerank 118,NSO,Y,Battlerank
 345,v1.1.9,NSO Battlerank 119,NSO,Y,Battlerank
 346,v1.2.0,NSO Battlerank 120,NSO,Y,Battlerank
-347,Recursive,Awarded to ASP 100 NSO Characters 1,NSO,Y,Battlerank
+347,Recursive,Awarded to NSO Characters for reaching BR 100 ASP 1 ,NSO,Y,Battlerank
 390,Surfer,Awarded for completion of the 2019 Summer Event,NS,N,Seasonal Event
 391,Undertaker,Awarded for completion of the 2019 Halloween event?,NS,N,Seasonal Event
 392,Abominable,Awarded for completing the 2019 Christmas event,NS,N,Seasonal Event
@@ -366,5 +366,9 @@
 417,Fleet Admiral,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
 418,Quartermaster,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
 419,Deckhand,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
-420,Considerate,Unknown,NS,Y,Unknown
+420,Considerate,Awarded for completion of all Auraximas 2021 daily missions.,NS,Y,Seasonal Event
 421,Festive,Awarded for completion of the 2021 Christmas event,NS,Y,Seasonal Event
+422,Illustrious,Awarded to VS Characters for reaching BR 100 ASP 2,VS,Y,Battlerank
+423,Effectual,Awarded to NC Characters for reaching BR 100 ASP 2,NC,Y,Battlerank
+424,Vigorous,Awarded to TR Characters for reaching BR 100 ASP 2,TR,Y,Battlerank
+425,Intrepid,Awarded to NSO Characters for reaching BR 100 ASP 2,NSO,Y,Battlerank
