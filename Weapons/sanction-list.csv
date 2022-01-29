@@ -1247,6 +1247,7 @@
 35004,Rocket Launcher,0,Nemesis VSH9,1,none
 6003611,Rocket Launcher,0,"NS ""Heatwave"" Decimator",0,none
 6004407,Rocket Launcher,0,"NS ""Jackpot"" Decimator",0,none
+6011773,Rocket Launcher,0,"NS ""Tigerstrike"" Decimator",0,none
 50561,Rocket Launcher,0,NS Annihilator,0,none
 802302,Rocket Launcher,0,NS Annihilator-B,0,none
 802301,Rocket Launcher,0,NS Annihilator-G,0,none
@@ -1508,6 +1509,7 @@
 701,Vehicle Weapons,1,Aspis Anti-Aircraft Phalanx Turret,2,none
 702,Vehicle Weapons,1,Aspis Anti-Aircraft Phalanx Turret,3,none
 727,Vehicle Weapons,1,Aspis Anti-Aircraft Phalanx Turret,0,none
+6011770,Vehicle Weapons,1,Exodus PPC,0,none
 6002396,Vehicle Weapons,0,Glaive IPC,1,none
 6002397,Vehicle Weapons,0,Glaive IPC,2,none
 6002398,Vehicle Weapons,0,Glaive IPC,3,none
