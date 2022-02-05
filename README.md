@@ -1,4 +1,4 @@
-#<img src="https://raw.githubusercontent.com/cooltrain7/Planetside-2-API-Tracker/master/Misc/Assets/PS2Logo_256.png" align="left" height="140"/>Planetside 2 API Tracker
+# <img src="https://raw.githubusercontent.com/cooltrain7/Planetside-2-API-Tracker/master/Misc/Assets/PS2Logo_256.png" align="left" height="140"/>Planetside 2 API Tracker
 
 Welcome to the *Planetside 2 API Tracker* an unofficial collection of Planetside 2 resources and API issues compiled by the discord community.
 This repositories focus is to act as a place for members of the community to share resources that are for or from the Planetside ceneus, and can be found
