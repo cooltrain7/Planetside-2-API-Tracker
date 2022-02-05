@@ -1,33 +1,27 @@
+#<img src="https://raw.githubusercontent.com/cooltrain7/Planetside-2-API-Tracker/master/Misc/Assets/PS2Logo_256.png" align="left" height="140"/>Planetside 2 API Tracker
 
-# Planetside 2 API Tracker
-An unofficial collection of Planetside 2 resources, and API issues compiled by the community.
+Welcome to the *Planetside 2 API Tracker* an unofficial collection of Planetside 2 resources and API issues compiled by the discord community.
+This repositories focus is to act as a place for members of the community to share resources that are for or from the Planetside ceneus, and can be found
+in the following sub directories.
 
 ## Census
-Full census collections for storing of past versions/backup. Updated whenever census changes.
-
-[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Census)
+Full static census collections for storing of past versions/backup. Each collection should match the current live version of said collection.
 
 ## Maps
-A collection of map lods from 0-3 quality.
-
-[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Maps)
+A collection if in-game map lods 0-3 quality. Useful in conjunction with the API for the creation of web maps or overlays.
 
 ## Titles
-Full tracking of all current tiles, how and when they are awarded and if they're still achievable.
-
-[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Titles)
+Full tracking of all current titles, how and when they are awarded and if they're still achievable.
 
 ## Weapons
-Community Created Sanctions list for all weapons, intended for use in unifying community sites/bots to use a single list for stat calculation.
+Community created sanctions list for all weapons, intended for use in unifying community sites/bots to use a single list for stat calculations.
 
-[Read More](https://github.com/cooltrain7/Planetside-2-API-Tracker/tree/master/Weapons)
+## Issues
+Issues are used for tracking of known census issues, as well as updates to the weapons sanctions.
+Labels are split for Rest API, Streaming API, and Features. Found something not on the list? Or request an update to the sanctions? Open an issue or PR to start a discussion.
 
-##  The Issues
-Have any issue with the census collection or stream API? Want to see known community issues? Add it here for community tracking.
-Labels are split for Rest API,Streaming API, and Features. These can then have a High, Medium, Or Low priority.
-
-## Planetside API Services
-A collection of sites, and applications that use the planetside 2 API.
+## Community API Services
+A collection of sites, applications and repositories that use the planetside 2 API.
 
  - [Official PS2 Players](https://www.planetside2.com/players)
  - [Fisu](https://ps2.fisu.pw/)
@@ -38,6 +32,8 @@ A collection of sites, and applications that use the planetside 2 API.
  - [PS2Alerts](https://ps2alerts.com/)
  - [PS2-Alerts.io](https://ps2-alerts.github.io)
  - [PS2Alert.me](https://ps2alert.me)
+ - [PS2 Query Editor](https://eating-coleslaw.github.io/ps2-visual-query/)
+ - [BinaryCoder](http://stats.binarycoder.info/)
 
  Planetside 2 Repositories
 
@@ -49,4 +45,4 @@ A collection of sites, and applications that use the planetside 2 API.
 - [PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
 - [PS2Maps](https://github.com/ps2maps/ps2maps.com)
 - [Auraxis-Bot](https://github.com/ultimastormGH/auraxis-bot)
-
+- [PS2 Query Editor](https://github.com/eating-coleslaw/ps2-visual-query)
