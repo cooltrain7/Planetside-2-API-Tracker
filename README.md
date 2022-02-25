@@ -42,6 +42,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
 - Golang [Censusgo](https://github.com/Lampjaw/censusgo)
 - JS [Dbgcensus](https://github.com/Lampjaw/dbgcensus)
 - TS [PS2Census](https://github.com/microwavekonijn/ps2census)
+- Elixir [Planetside API](https://github.com/Bentheburrito/planetside_api)
 
 ## Community API services repositories
 - [Tide OP Tracker](https://github.com/Varunda/topt)
