@@ -35,10 +35,16 @@ A collection of sites, applications and repositories that use the planetside 2 A
  - [PS2 Query Editor](https://eating-coleslaw.github.io/ps2-visual-query/)
  - [BinaryCoder](http://stats.binarycoder.info/)
 
- Planetside 2 Repositories
+## Census libraries
+- Python [Auraxium](https://github.com/leonhard-s/auraxium)
+- C# [DbgCensus](https://github.com/carlst99/DbgCensus)
+- C# [DaybreakGames.Census](https://github.com/Lampjaw/DaybreakGames.Census)
+- Golang [Censusgo](https://github.com/Lampjaw/censusgo)
+- JS [Dbgcensus](https://github.com/Lampjaw/dbgcensus)
+- TS [PS2Census](https://github.com/microwavekonijn/ps2census)
+- Elixir [Planetside API](https://github.com/Bentheburrito/planetside_api)
 
-- [Auraxium](https://github.com/leonhard-s/auraxium)
-- [DbgCensus](https://github.com/carlst99/DbgCensus)
+## Community API services repositories
 - [Tide OP Tracker](https://github.com/Varunda/topt)
 - [PS2Alerts](https://github.com/ps2alerts)
 - [PS2-Alerts.io](https://github.com/ps2-alerts/ps2-alerts.github.io)
