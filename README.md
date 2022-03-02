@@ -34,6 +34,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
  - [PS2Alert.me](https://ps2alert.me)
  - [PS2 Query Editor](https://eating-coleslaw.github.io/ps2-visual-query/)
  - [BinaryCoder](http://stats.binarycoder.info/)
+ - [Auraxis Control Center(Android)](https://play.google.com/store/apps/details?id=com.cesarandres.ps2link)
 
 ## Census libraries
 - Python [Auraxium](https://github.com/leonhard-s/auraxium)
