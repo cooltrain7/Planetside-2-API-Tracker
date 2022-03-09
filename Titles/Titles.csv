@@ -1,375 +1,376 @@
-﻿ID,Title,Awarded How,Faction,Still Achievable,Type
-1,Private,TR Battlerank 1,TR,Y,Battlerank
-2,PFC,TR Battlerank 2,TR,Y,Battlerank
-3,Specialist,TR Battlerank 4,TR,Y,Battlerank
-4,Lance Cpl.,TR Battlerank 6,TR,Y,Battlerank
-5,Corporal,TR Battlerank 8,TR,Y,Battlerank
-6,Sergeant,TR Battlerank 11,TR,Y,Battlerank
-7,Staff Sgt.,TR Battlerank 14,TR,Y,Battlerank
-8,Tech Sgt.,TR Battlerank 17,TR,Y,Battlerank
-9,Sgt. 1st Class,TR Battlerank 20,TR,Y,Battlerank
-10,Master Sgt.,TR Battlerank 23,TR,Y,Battlerank
-11,First Sgt.,TR Battlerank 26,TR,Y,Battlerank
-12,Sgt. Major,TR Battlerank 29,TR,Y,Battlerank
-13,Comm. Sgt. Major,TR Battlerank 32,TR,Y,Battlerank
-14,Warrant Officer,TR Battlerank 35,TR,Y,Battlerank
-15,Second Lt.,TR Battlerank 38,TR,Y,Battlerank
-16,First Lt.,TR Battlerank 42,TR,Y,Battlerank
-17,Lt. Commander,TR Battlerank 46,TR,Y,Battlerank
-18,Commander,TR Battlerank 51,TR,Y,Battlerank
-19,Captain,TR Battlerank 56,TR,Y,Battlerank
-20,Major,TR Battlerank 61,TR,Y,Battlerank
-21,Lt. Colonel,TR Battlerank 66,TR,Y,Battlerank
-22,Colonel,TR Battlerank 71,TR,Y,Battlerank
-23,Commissar,TR Battlerank 76,TR,Y,Battlerank
-24,Maj. General,TR Battlerank 82,TR,Y,Battlerank
-25,Lt. General,TR Battlerank 88,TR,Y,Battlerank
-26,General,TR Battlerank 94,TR,Y,Battlerank
-27,Field Marshal,TR battlerank 100,TR,Y,Battlerank
-28,Initiate,VS Battlerank 1,VS,Y,Battlerank
-29,Novus,VS Battlerank 2,VS,Y,Battlerank
-30,Disciple,VS Battlerank 4,VS,Y,Battlerank
-31,Aspirant ,VS Battlerank 6,VS,Y,Battlerank
-32,Lictor,VS Battlerank 8,VS,Y,Battlerank
-33,Decanus,VS Battlerank 11,VS,Y,Battlerank
-34,Preceptor,VS Battlerank 14,VS,Y,Battlerank
-35,Prefect,VS Battlerank 17,VS,Y,Battlerank
-36,Adept,VS Battlerank 20,VS,Y,Battlerank
-37,Legionary,VS Battlerank 23,VS,Y,Battlerank
-38,Adherent,VS Battlerank 26,VS,Y,Battlerank
-39,Operant,VS Battlerank 29,VS,Y,Battlerank
-40,Venator,VS Battlerank 32,VS,Y,Battlerank
-41,Arcanus,VS Battlerank 35,VS,Y,Battlerank
-42,Justicar,VS Battlerank 38,VS,Y,Battlerank
-43,Ascendant,VS Battlerank 42,VS,Y,Battlerank
-44,Primus,VS Battlerank 46,VS,Y,Battlerank
-45,Centurion,VS Battlerank 51,VS,Y,Battlerank
-46,Signifer,VS Battlerank 56,VS,Y,Battlerank
-47,Castellan,VS Battlerank 61,VS,Y,Battlerank
-48,Immortal,VS Battlerank 66,VS,Y,Battlerank
-49,Legate,VS Battlerank 71,VS,Y,Battlerank
-50,Archon,VS Battlerank 76,VS,Y,Battlerank
-51,Praetor,VS Battlerank 82,VS,Y,Battlerank
-52,Harbinger,VS Battlerank 88,VS,Y,Battlerank
-53,Primarch,VS Battlerank 94,VS,Y,Battlerank
-54,Paragon,VS Battlerank 100,VS,Y,Battlerank
-55,Recruit,NC Battlerank 1,NC,Y,Battlerank
-56,Cadet,NC Battlerank 2,NC,Y,Battlerank
-57,Grunt,NC Battlerank 4,NC,Y,Battlerank
-58,Trooper,NC Battlerank 6,NC,Y,Battlerank
-59,Gunner,NC Battlerank 8,NC,Y,Battlerank
-60,Guerilla,NC Battlerank 11,NC,Y,Battlerank
-61,Scout,NC Battlerank 14,NC,Y,Battlerank
-62,Vigilante,NC Battlerank 17,NC,Y,Battlerank
-63,Maverick,NC Battlerank 20,NC,Y,Battlerank
-64,Serviceman,NC Battlerank 23,NC,Y,Battlerank
-65,Guardsman,NC Battlerank 26,NC,Y,Battlerank
-66,Corporal,NC Battlerank 26,NC,Y,Battlerank
-67,Cavalier,NC Battlerank 32,NC,Y,Battlerank
-68,Commando,NC Battlerank 35,NC,Y,Battlerank
-69,Ranger,NC Battlerank 38,NC,Y,Battlerank
-70,Deputy,NC Battlerank 42,NC,Y,Battlerank
-71,Ensign,NC Battlerank 46,NC,Y,Battlerank
-72,Agent,NC Battlerank 51,NC,Y,Battlerank
-73,Raider,NC Battlerank 56,NC,Y,Battlerank
-74,Warden,NC Battlerank 61,NC,Y,Battlerank
-75,Overseer,NC Battlerank 66,NC,Y,Battlerank
-76,Sentinel,NC Battlerank 71,NC,Y,Battlerank
-77,Brigadier,NC Battlerank 76,NC,Y,Battlerank
-78,Maj. General,NC Battlerank 82,NC,Y,Battlerank
-79,Deputy Director,NC Battlerank 88,NC,Y,Battlerank
-80,Director General,NC Battlerank 94,NC,Y,Battlerank
-81,Executor,NC Battlerank 100,NC,Y,Battlerank
-82,Enforcer,Dev/GM title dating back to 2012,NS,N/A,Special Character
-83,Operative,Dev/GM title dating back to 2012,NS,N/A,Special Character
-84,Lead Enforcer,No Characters hold this currently,NS,N/A,Not Obtainable
-85,Head Enforcer,No Characters hold this currently,NS,N/A,Not Obtainable
-86,Lead Operative,Dev/GM title dating back to 2012,NS,N/A,Special Character
-87,Head Operative,Dev/GM title dating back to 2012,NS,N/A,Special Character
-88,Founder,Awarded for purchasing the Alpha Squad pack during the PS2 beta,NS,N,Specific Event
-89,Veteran,Played Planetside 1,NS,Y,Seasonal Event
-90,Exterminator,Played Planetside 2 Beta,NS,N,Specific Event
-91,Loyal Soldier,Loyal Soldier Pack,NS,N,Specific Event
-92,Delegate,Awarded by the SOE referral scheme for getting 2 players into the game,NS,N,Specific Event
-93,Attache,Awarded by the SOE referral scheme for getting 5 players into the game,NS,N,Specific Event
-94,Consul,Awarded by the SOE referral scheme for getting 10 players into the game,NS,N,Specific Event
-95,Diplomat,Awarded by the SOE referral scheme for getting 15 players into the game,NS,N,Specific Event
-96,Ambassador,Awarded by the SOE referral scheme for getting 20 players into the game,NS,N,Specific Event
-97,Grand Ambassador,Awarded by the SOE referral scheme for getting 25 players into the game,NS,N,Specific Event
-98,Pyro,Awarded for getting 50 kills with the Flare Gun,NS,Y,Kills/Directive
-99,Skirmisher,Awarded to VS players who won the WDS pre-season,VS,N,Specific Event
-100,Snowblower,"Awarded for shooting 10 snowmen during the Christmas Holiday 2013, 2021 events",NS,Y,Seasonal Event
-101,Snow Balla,Awarded for getting 50 kills with the Deep Freeze,NS,Y,Seasonal Event
-102,Dominator,Awarded to the WDS winning faction,NS,N,Specific Event
-103,Hater,Awarded for getting 50 kills with the Black Heart,NS,Y,Kills/Directive
-104,Sweetheart,Awarded for getting 50 kills with the Heartstring,NS,Y,Kills/Directive
-105,Raid Boss,Awarded to Daddy for being the first TR player to earn enough certs to unlock everything in the game,TR,N,Special Character
-106,Bug Hunter,Unused PTS linked Title,NS,N,Not Obtainable
-107,Opportunist,This title was sold as Daum Title 1 by mistake in the store. Renamed by SOE after players had already bought the title,NS,N,Purchase/Bundle
-108,Daum Title 2,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-109,Daum Title 3,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-110,Daum Title 4,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-111,Daum Title 5,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-112,Daum Title 6,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-113,Daum Title 7,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-114,Daum Title 8,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-115,Daum Title 9,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-116,Daum Title 10,Unused title possible connected to the closed Daum Server,NS,N,Not Obtainable
-117,Juggernaut,"Unknown, currently held by no characters",NS,N/A,Unknown
-118,Fleet Admiral,Awarded to Blib for being the first VS player to earn enough certs to unlock everything in the game,VS,N,Special Character
-119,the Smasher,"2014 Halloween Directive reward Title, not currently used by any characters",NS,N,Not Obtainable
-120,the Faceless,"2014 Halloween Directive reward Title, not currently used by any characters",NS,N,Not Obtainable
-121,the Wrecker,"2014 Halloween Directive reward Title, not currently used by any characters",NS,N,Not Obtainable
-122,the Butcher,"2014 Halloween Directive reward Title, not currently used by any characters",NS,N,Not Obtainable
-123,the Trickster,"2014 Halloween Directive reward Title, not currently used by any characters",NS,N,Not Obtainable
-124,the Slayer,"2014 Halloween Directive reward Title, not currently used by any characters",NS,N,Not Obtainable
-125,Space,Awarded for completing the 2014 Halloween directive event,NS,N,Seasonal Event
-126,Executive Officer,Awarded to TorokF for being the first NC player to earn enough certs to unlock everything in the game,NC,N,Special Character
-127,Cold Blooded,Awarded for completing the 2014 Christmas event,NS,N,Seasonal Event
-128,Ice Cold,Awarded for getting 100 kills with the the Icikill,NS,Y,Kills/Directive
-129,Innova Placeholder Title 1,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-130,Innova Placeholder Title 2,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-131,Innova Placeholder Title 3,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-132,Innova Placeholder Title 4,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-133,Innova Placeholder Title 5,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-134,Innova Placeholder Title 6,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-135,Innova Placeholder Title 7,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-136,Innova Placeholder Title 8,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-137,Innova Placeholder Title 9,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-138,Innova Placeholder Title 10,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-139,Innova Placeholder Title 11,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-140,Innova Placeholder Title 12,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-141,Innova Placeholder Title 13,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-142,Innova Placeholder Title 14,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-143,Innova Placeholder Title 15,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-144,Innova Placeholder Title 16,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-145,Innova Placeholder Title 17,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-146,Innova Placeholder Title 18,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-147,Innova Placeholder Title 19,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-148,Innova Placeholder Title 20,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-149,Innova Placeholder Title 21,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-150,Innova Placeholder Title 22,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-151,Innova Placeholder Title 23,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-152,Innova Placeholder Title 24,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-153,Innova Placeholder Title 25,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-154,Innova Placeholder Title 26,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-155,Innova Placeholder Title 27,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-156,Innova Placeholder Title 28,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-157,Innova Placeholder Title 29,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-158,Innova Placeholder Title 30,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-159,Innova Placeholder Title 31,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-160,Innova Placeholder Title 32,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-161,Innova Placeholder Title 33,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-162,Innova Placeholder Title 34,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-163,Innova Placeholder Title 35,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-164,Innova Placeholder Title 36,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-165,Innova Placeholder Title 37,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-166,Innova Placeholder Title 38,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-167,Innova Placeholder Title 39,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-168,Innova Placeholder Title 40,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-169,Innova Placeholder Title 41,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-170,Innova Placeholder Title 42,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-171,Innova Placeholder Title 43,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-172,Innova Placeholder Title 44,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-173,Innova Placeholder Title 45,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-174,Innova Placeholder Title 46,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-175,Innova Placeholder Title 47,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-176,Innova Placeholder Title 48,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-177,Innova Placeholder Title 49,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-178,Innova Placeholder Title 50,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-179,Innova Placeholder Title 51,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-180,Innova Placeholder Title 52,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-181,Innova Placeholder Title 53,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-182,Innova Placeholder Title 54,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-183,Innova Placeholder Title 55,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-184,Innova Placeholder Title 56,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-185,Innova Placeholder Title 57,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-186,Innova Placeholder Title 58,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-187,Innova Placeholder Title 59,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-188,Innova Placeholder Title 60,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia,NS,N,Not Obtainable
-190,PS2 Developer,Title held only by Developer Characters,NS,N,Special Character
-191,Based,Title held by the Character HigbyEast,NS,N,Special Character
-192,Record Smasher,Participated in the 2015 Planetside 2 Guinness World Record battle,NS,N,Specific Event
-193,PlanetsideBattles,Awarded to PSB Admins,NS,Y,Special Character
-194,AGD Patriarch,Awarded to Vindicore for his work on the Planetside Upgrade Project,VS,N,Special Character
-195,The Survivor,Awarded to players who switched from the Korean server Daum when it closed down,NS,N,Specific Event
-197,Bounty Hunter,Awarded for completition of the Bounty Hunter directive,NS,Y,Kills/Directive
-198,Destroyer,Awarded at Battlerank 101,NS,Y,Battlerank
-199,Champion,Awarded at Battlerank 105,NS,Y,Battlerank
-200,Conqueror,Awarded at Battlerank 110,NS,Y,Battlerank
-201,Predator,Awarded at Battlerank 115,NS,Y,Battlerank
-202,Dreadnaught,Awarded at Battle rank 120,NS,Y,Battlerank
-203,Creator,Currently not in use (2021),NS,N/A,Not Obtainable
-204,Imperator,Awarded from a Planetside 2 welcome pack,NS,N,Purchase/Bundle
-205,Detection Master,Awarded to ReconDarts for reaching BR 120 using only recon darts,NS,N,Special Character
-206,World Champion,Awarded to PS2CommClash 2014 Winners,NS,N,Specific Event
-207,LaneSmash Champion,Awarded to PSB LaneSmash bracket finalists,NS,N,Specific Event
-208,The Heroic,"Unknown, currently held by no characters",NS,N/A,Unknown
-209,Madman,Awarded to Maldrasou for completion of all directives on all factions,NS,N,Special Character
-210,Horseman,Awarded for completing the 2017 Halloween event,NS,N,Seasonal Event
-211,Warbringer,From the Commander’s Five-Year Anniversary Bundle (2020),NS,N,Purchase/Bundle
-212,Jolly,Awarded for completing the 2017 Christmas event,NS,N,Seasonal Event
-213,A.S.P. Operative,Awarded to those who use the ASP prestige system,NS,Y,Battlerank
-214,Advisory,Awarded to NC Characters for reaching BR 100 ASP 1 ,NC,Y,Battlerank
-215,Myriad,Awarded to TR Characters for reaching BR 100 ASP 1 ,TR,Y,Battlerank
-216,Chosen,Awarded to VS Characters for reaching BR 100 ASP 1 ,VS,Y,Battlerank
-217,Builder,Awarded for completion of the Construction Directive,NS,Y,Kills/Directive
-218,Scrim Master,Awarded for completing Scrim Masters 2017 tournament? (12v12 on jaeger),NS,N,Specific Event
-219,Grouchy,Awarded for completing the 2018 Christmas event,NS,N,Seasonal Event
-228,v0.0.2,NSO Battlerank 2,NSO,Y,Battlerank
-229,v0.0.3,NSO Battlerank 3,NSO,Y,Battlerank
-230,v0.0.4,NSO Battlerank 4,NSO,Y,Battlerank
-231,v0.0.5,NSO Battlerank 5,NSO,Y,Battlerank
-232,v0.0.6,NSO Battlerank 6,NSO,Y,Battlerank
-233,v0.0.7,NSO Battlerank 7,NSO,Y,Battlerank
-234,v0.0.8,NSO Battlerank 8,NSO,Y,Battlerank
-235,v0.0.9,NSO Battlerank 9,NSO,Y,Battlerank
-236,v0.1.0,NSO Battlerank 10,NSO,Y,Battlerank
-237,v0.1.1,NSO Battlerank 11,NSO,Y,Battlerank
-238,v0.1.2,NSO Battlerank 12,NSO,Y,Battlerank
-239,v0.1.3,NSO Battlerank 13,NSO,Y,Battlerank
-240,v0.1.4,NSO Battlerank 14,NSO,Y,Battlerank
-241,v0.1.5,NSO Battlerank 15,NSO,Y,Battlerank
-242,v0.1.6,NSO Battlerank 16,NSO,Y,Battlerank
-243,v0.1.7,NSO Battlerank 17,NSO,Y,Battlerank
-244,v0.1.8,NSO Battlerank 18,NSO,Y,Battlerank
-245,v0.1.9,NSO Battlerank 19,NSO,Y,Battlerank
-246,v0.2.0,NSO Battlerank 20,NSO,Y,Battlerank
-247,v0.2.1,NSO Battlerank 21,NSO,Y,Battlerank
-248,v0.2.2,NSO Battlerank 22,NSO,Y,Battlerank
-249,v0.2.3,NSO Battlerank 23,NSO,Y,Battlerank
-250,v0.2.4,NSO Battlerank 24,NSO,Y,Battlerank
-251,v0.2.5,NSO Battlerank 25,NSO,Y,Battlerank
-252,v0.2.6,NSO Battlerank 26,NSO,Y,Battlerank
-253,v0.2.7,NSO Battlerank 27,NSO,Y,Battlerank
-254,v0.2.8,NSO Battlerank 28,NSO,Y,Battlerank
-255,v0.2.9,NSO Battlerank 29,NSO,Y,Battlerank
-256,v0.3.0,NSO Battlerank 30,NSO,Y,Battlerank
-257,v0.3.1,NSO Battlerank 31,NSO,Y,Battlerank
-258,v0.3.2,NSO Battlerank 32,NSO,Y,Battlerank
-259,v0.3.3,NSO Battlerank 33,NSO,Y,Battlerank
-260,v0.3.4,NSO Battlerank 34,NSO,Y,Battlerank
-261,v0.3.5,NSO Battlerank 35,NSO,Y,Battlerank
-262,v0.3.6,NSO Battlerank 36,NSO,Y,Battlerank
-263,v0.3.7,NSO Battlerank 37,NSO,Y,Battlerank
-264,v0.3.8,NSO Battlerank 38,NSO,Y,Battlerank
-265,v0.3.9,NSO Battlerank 39,NSO,Y,Battlerank
-266,v0.4.0,NSO Battlerank 40,NSO,Y,Battlerank
-267,v0.4.1,NSO Battlerank 41,NSO,Y,Battlerank
-268,v0.4.2,NSO Battlerank 42,NSO,Y,Battlerank
-269,v0.4.3,NSO Battlerank 43,NSO,Y,Battlerank
-270,v0.4.4,NSO Battlerank 44,NSO,Y,Battlerank
-271,v0.4.5,NSO Battlerank 45,NSO,Y,Battlerank
-272,v0.4.6,NSO Battlerank 46,NSO,Y,Battlerank
-273,v0.4.7,NSO Battlerank 47,NSO,Y,Battlerank
-274,v0.4.8,NSO Battlerank 48,NSO,Y,Battlerank
-275,v0.4.9,NSO Battlerank 49,NSO,Y,Battlerank
-276,v0.5.0,NSO Battlerank 50,NSO,Y,Battlerank
-277,v0.5.1,NSO Battlerank 51,NSO,Y,Battlerank
-278,v0.5.2,NSO Battlerank 52,NSO,Y,Battlerank
-279,v0.5.3,NSO Battlerank 53,NSO,Y,Battlerank
-280,v0.5.4,NSO Battlerank 54,NSO,Y,Battlerank
-281,v0.5.5,NSO Battlerank 55,NSO,Y,Battlerank
-282,v0.5.6,NSO Battlerank 56,NSO,Y,Battlerank
-283,v0.5.7,NSO Battlerank 57,NSO,Y,Battlerank
-284,v0.5.8,NSO Battlerank 58,NSO,Y,Battlerank
-285,v0.5.9,NSO Battlerank 59,NSO,Y,Battlerank
-286,v0.6.0,NSO Battlerank 60,NSO,Y,Battlerank
-287,v0.6.1,NSO Battlerank 61,NSO,Y,Battlerank
-288,v0.6.2,NSO Battlerank 62,NSO,Y,Battlerank
-289,v0.6.3,NSO Battlerank 63,NSO,Y,Battlerank
-290,v0.6.4,NSO Battlerank 64,NSO,Y,Battlerank
-291,v0.6.5,NSO Battlerank 65,NSO,Y,Battlerank
-292,v0.6.6,NSO Battlerank 66,NSO,Y,Battlerank
-293,v0.6.7,NSO Battlerank 67,NSO,Y,Battlerank
-294,v0.6.8,NSO Battlerank 68,NSO,Y,Battlerank
-295,v0.6.9,NSO Battlerank 69,NSO,Y,Battlerank
-296,v0.7.0,NSO Battlerank 70,NSO,Y,Battlerank
-297,v0.7.1,NSO Battlerank 71,NSO,Y,Battlerank
-298,v0.7.2,NSO Battlerank 72,NSO,Y,Battlerank
-299,v0.7.3,NSO Battlerank 73,NSO,Y,Battlerank
-300,v0.7.4,NSO Battlerank 74,NSO,Y,Battlerank
-301,v0.7.5,NSO Battlerank 75,NSO,Y,Battlerank
-302,v0.7.6,NSO Battlerank 76,NSO,Y,Battlerank
-303,v0.7.7,NSO Battlerank 77,NSO,Y,Battlerank
-304,v0.7.8,NSO Battlerank 78,NSO,Y,Battlerank
-305,v0.7.9,NSO Battlerank 79,NSO,Y,Battlerank
-306,v0.8.0,NSO Battlerank 80,NSO,Y,Battlerank
-307,v0.8.1,NSO Battlerank 81,NSO,Y,Battlerank
-308,v0.8.2,NSO Battlerank 82,NSO,Y,Battlerank
-309,v0.8.3,NSO Battlerank 83,NSO,Y,Battlerank
-310,v0.8.4,NSO Battlerank 84,NSO,Y,Battlerank
-311,v0.8.5,NSO Battlerank 85,NSO,Y,Battlerank
-312,v0.8.6,NSO Battlerank 86,NSO,Y,Battlerank
-313,v0.8.7,NSO Battlerank 87,NSO,Y,Battlerank
-314,v0.8.8,NSO Battlerank 88,NSO,Y,Battlerank
-315,v0.8.9,NSO Battlerank 89,NSO,Y,Battlerank
-316,v0.9.0,NSO Battlerank 90,NSO,Y,Battlerank
-317,v0.9.1,NSO Battlerank 91,NSO,Y,Battlerank
-318,v0.9.2,NSO Battlerank 92,NSO,Y,Battlerank
-319,v0.9.3,NSO Battlerank 93,NSO,Y,Battlerank
-320,v0.9.4,NSO Battlerank 94,NSO,Y,Battlerank
-321,v0.9.5,NSO Battlerank 95,NSO,Y,Battlerank
-322,v0.9.6,NSO Battlerank 96,NSO,Y,Battlerank
-323,v0.9.7,NSO Battlerank 97,NSO,Y,Battlerank
-324,v0.9.8,NSO Battlerank 98,NSO,Y,Battlerank
-325,v0.9.9,NSO Battlerank 99,NSO,Y,Battlerank
-326,v1.0.0,NSO Battlerank 100,NSO,Y,Battlerank
-327,v1.0.1,NSO Battlerank 101,NSO,Y,Battlerank
-328,v1.0.2,NSO Battlerank 102,NSO,Y,Battlerank
-329,v1.0.3,NSO Battlerank 103,NSO,Y,Battlerank
-330,v1.0.4,NSO Battlerank 104,NSO,Y,Battlerank
-331,v1.0.5,NSO Battlerank 105,NSO,Y,Battlerank
-332,v1.0.6,NSO Battlerank 106,NSO,Y,Battlerank
-333,v1.0.7,NSO Battlerank 107,NSO,Y,Battlerank
-334,v1.0.8,NSO Battlerank 108,NSO,Y,Battlerank
-335,v1.0.9,NSO Battlerank 109,NSO,Y,Battlerank
-336,v1.1.0,NSO Battlerank 110,NSO,Y,Battlerank
-337,v1.1.1,NSO Battlerank 111,NSO,Y,Battlerank
-338,v1.1.2,NSO Battlerank 112,NSO,Y,Battlerank
-339,v1.1.3,NSO Battlerank 113,NSO,Y,Battlerank
-340,v1.1.4,NSO Battlerank 114,NSO,Y,Battlerank
-341,v1.1.5,NSO Battlerank 115,NSO,Y,Battlerank
-342,v1.1.6,NSO Battlerank 116,NSO,Y,Battlerank
-343,v1.1.7,NSO Battlerank 117,NSO,Y,Battlerank
-344,v1.1.8,NSO Battlerank 118,NSO,Y,Battlerank
-345,v1.1.9,NSO Battlerank 119,NSO,Y,Battlerank
-346,v1.2.0,NSO Battlerank 120,NSO,Y,Battlerank
-347,Recursive,Awarded to NSO Characters for reaching BR 100 ASP 1 ,NSO,Y,Battlerank
-390,Surfer,Awarded for completion of the 2019 Summer Event,NS,N,Seasonal Event
-391,Undertaker,Awarded for completion of the 2019 Halloween event?,NS,N,Seasonal Event
-392,Abominable,Awarded for completing the 2019 Christmas event,NS,N,Seasonal Event
-393,Outfit Loyalist,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-394,Outfit Loyalist,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-395,Outfit Loyalist,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-396,Outfit Loyalist,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-397,Outfit Supporter,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-398,Outfit Supporter,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-399,Outfit Supporter,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-400,Outfit Supporter,"Unknown, possibly connected to the Outfit Merit system",NS,N,Not Obtainable
-401,Warrior,Awarded to Winning (Gold Bracket) outfit members in OutfitWar 2020,NS,N,Specific Event
-402,Stormchaser,Awarded for completion of the First Esaimr Campaign in 2021,NS,Y,Specific Event
-403,Creepy,Awarded for completion of the 2020 Halloween event,NS,N,Seasonal Event
-404,Cinematographer,Awarded to Alpha141 for the 2020 Content Creation contest Winner,NS,N,Special Character
-405,Rocketman,From the Starseeker's Bundle (2020),NS,N,Purchase/Bundle
-406,Generous,Awarded for completion of all the 2020 Christmas event dailies,NS,N,Seasonal Event
-407,Victorious,Awarded to Winning (Gold Bracket) outfit members in OutfitWar 2021,NS,N,Specific Event
-408,Cheerful,Awarded for completion of all the 2020 Christmas event,NS,N,Seasonal Event
-409,Matchmaker,Awarded for completing the 2021 Valentines/Lunda New year event,NS,N,Seasonal Event
-410,Researcher,From the Hazmat Bundle (2021),NS,Y,Purchase/Bundle
-411,Bushwhacker,Awarded for destroying 100 carrots in an Esamir containment facility and then interacting with the 'Giga Carrot',NS,Y,Specific Event
-412,Scavenger,From the Post-Collapse Bundle (2021),NS,Y,Purchase/Bundle
-413,Flamerider,Awarded for completion of the 2021 Summer event,NS,N,Seasonal Event
-414,Demon Hunter,From the Demon Hunter Bundle (2021),NS,N,Purchase/Bundle
-415,Terrifying,Awarded for completion of the 2021 Halloween event,NS,N,Seasonal Event
-416,Plunderer,Awarded for completion of the Distant Shores Oshur Campaign,NS,N,Specific Event
-417,Fleet Admiral,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
-418,Quartermaster,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
-419,Deckhand,From the Fleet Admiral's Bundle (2021),NS,Y,Purchase/Bundle
-420,Considerate,Awarded for completion of all Auraximas 2021 daily missions.,NS,Y,Seasonal Event
-421,Festive,Awarded for completion of the 2021 Christmas event,NS,Y,Seasonal Event
-422,Illustrious,Awarded to VS Characters for reaching BR 100 ASP 2,VS,Y,Battlerank
-423,Effectual,Awarded to NC Characters for reaching BR 100 ASP 2,NC,Y,Battlerank
-424,Vigorous,Awarded to TR Characters for reaching BR 100 ASP 2,TR,Y,Battlerank
-425,Intrepid,Awarded to NSO Characters for reaching BR 100 ASP 2,NSO,Y,Battlerank
-427,Lovestruck,Awarded for completion of the 2022 Valentines day event,NS,Y,Seasonal Event
+﻿ID,Title,Type,Faction,Source
+1,Private,Battlerank,TR,TR Battlerank 1
+2,PFC,Battlerank,TR,TR Battlerank 2
+3,Specialist,Battlerank,TR,TR Battlerank 4
+4,Lance Cpl.,Battlerank,TR,TR Battlerank 6
+5,Corporal,Battlerank,TR,TR Battlerank 8
+6,Sergeant,Battlerank,TR,TR Battlerank 11
+7,Staff Sgt.,Battlerank,TR,TR Battlerank 14
+8,Tech Sgt.,Battlerank,TR,TR Battlerank 17
+9,Sgt. 1st Class,Battlerank,TR,TR Battlerank 20
+10,Master Sgt.,Battlerank,TR,TR Battlerank 23
+11,First Sgt.,Battlerank,TR,TR Battlerank 26
+12,Sgt. Major,Battlerank,TR,TR Battlerank 29
+13,Comm. Sgt. Major,Battlerank,TR,TR Battlerank 32
+14,Warrant Officer,Battlerank,TR,TR Battlerank 35
+15,Second Lt.,Battlerank,TR,TR Battlerank 38
+16,First Lt.,Battlerank,TR,TR Battlerank 42
+17,Lt. Commander,Battlerank,TR,TR Battlerank 46
+18,Commander,Battlerank,TR,TR Battlerank 51
+19,Captain,Battlerank,TR,TR Battlerank 56
+20,Major,Battlerank,TR,TR Battlerank 61
+21,Lt. Colonel,Battlerank,TR,TR Battlerank 66
+22,Colonel,Battlerank,TR,TR Battlerank 71
+23,Commissar,Battlerank,TR,TR Battlerank 76
+24,Maj. General,Battlerank,TR,TR Battlerank 82
+25,Lt. General,Battlerank,TR,TR Battlerank 88
+26,General,Battlerank,TR,TR Battlerank 94
+27,Field Marshal,Battlerank,TR,TR battlerank 100
+28,Initiate,Battlerank,VS,VS Battlerank 1
+29,Novus,Battlerank,VS,VS Battlerank 2
+30,Disciple,Battlerank,VS,VS Battlerank 4
+31,Aspirant ,Battlerank,VS,VS Battlerank 6
+32,Lictor,Battlerank,VS,VS Battlerank 8
+33,Decanus,Battlerank,VS,VS Battlerank 11
+34,Preceptor,Battlerank,VS,VS Battlerank 14
+35,Prefect,Battlerank,VS,VS Battlerank 17
+36,Adept,Battlerank,VS,VS Battlerank 20
+37,Legionary,Battlerank,VS,VS Battlerank 23
+38,Adherent,Battlerank,VS,VS Battlerank 26
+39,Operant,Battlerank,VS,VS Battlerank 29
+40,Venator,Battlerank,VS,VS Battlerank 32
+41,Arcanus,Battlerank,VS,VS Battlerank 35
+42,Justicar,Battlerank,VS,VS Battlerank 38
+43,Ascendant,Battlerank,VS,VS Battlerank 42
+44,Primus,Battlerank,VS,VS Battlerank 46
+45,Centurion,Battlerank,VS,VS Battlerank 51
+46,Signifer,Battlerank,VS,VS Battlerank 56
+47,Castellan,Battlerank,VS,VS Battlerank 61
+48,Immortal,Battlerank,VS,VS Battlerank 66
+49,Legate,Battlerank,VS,VS Battlerank 71
+50,Archon,Battlerank,VS,VS Battlerank 76
+51,Praetor,Battlerank,VS,VS Battlerank 82
+52,Harbinger,Battlerank,VS,VS Battlerank 88
+53,Primarch,Battlerank,VS,VS Battlerank 94
+54,Paragon,Battlerank,VS,VS Battlerank 100
+55,Recruit,Battlerank,NC,NC Battlerank 1
+56,Cadet,Battlerank,NC,NC Battlerank 2
+57,Grunt,Battlerank,NC,NC Battlerank 4
+58,Trooper,Battlerank,NC,NC Battlerank 6
+59,Gunner,Battlerank,NC,NC Battlerank 8
+60,Guerilla,Battlerank,NC,NC Battlerank 11
+61,Scout,Battlerank,NC,NC Battlerank 14
+62,Vigilante,Battlerank,NC,NC Battlerank 17
+63,Maverick,Battlerank,NC,NC Battlerank 20
+64,Serviceman,Battlerank,NC,NC Battlerank 23
+65,Guardsman,Battlerank,NC,NC Battlerank 26
+66,Corporal,Battlerank,NC,NC Battlerank 26
+67,Cavalier,Battlerank,NC,NC Battlerank 32
+68,Commando,Battlerank,NC,NC Battlerank 35
+69,Ranger,Battlerank,NC,NC Battlerank 38
+70,Deputy,Battlerank,NC,NC Battlerank 42
+71,Ensign,Battlerank,NC,NC Battlerank 46
+72,Agent,Battlerank,NC,NC Battlerank 51
+73,Raider,Battlerank,NC,NC Battlerank 56
+74,Warden,Battlerank,NC,NC Battlerank 61
+75,Overseer,Battlerank,NC,NC Battlerank 66
+76,Sentinel,Battlerank,NC,NC Battlerank 71
+77,Brigadier,Battlerank,NC,NC Battlerank 76
+78,Maj. General,Battlerank,NC,NC Battlerank 82
+79,Deputy Director,Battlerank,NC,NC Battlerank 88
+80,Director General,Battlerank,NC,NC Battlerank 94
+81,Executor,Battlerank,NC,NC Battlerank 100
+82,Enforcer,Special Character,NS,Dev/GM title dating back to 2012
+83,Operative,Special Character,NS,Dev/GM title dating back to 2012
+84,Lead Enforcer,Not Obtainable,NS,No Characters hold this currently
+85,Head Enforcer,Not Obtainable,NS,No Characters hold this currently
+86,Lead Operative,Special Character,NS,Dev/GM title dating back to 2012
+87,Head Operative,Special Character,NS,Dev/GM title dating back to 2012
+88,Founder,Specific Event,NS,Awarded for purchasing the Alpha Squad pack during the PS2 beta
+89,Veteran,Seasonal Event,NS,Played Planetside 1
+90,Exterminator,Specific Event,NS,Played Planetside 2 Beta
+91,Loyal Soldier,Specific Event,NS,Loyal Soldier Pack
+92,Delegate,Specific Event,NS,Awarded by the SOE referral scheme for getting 2 players into the game
+93,Attache,Specific Event,NS,Awarded by the SOE referral scheme for getting 5 players into the game
+94,Consul,Specific Event,NS,Awarded by the SOE referral scheme for getting 10 players into the game
+95,Diplomat,Specific Event,NS,Awarded by the SOE referral scheme for getting 15 players into the game
+96,Ambassador,Specific Event,NS,Awarded by the SOE referral scheme for getting 20 players into the game
+97,Grand Ambassador,Specific Event,NS,Awarded by the SOE referral scheme for getting 25 players into the game
+98,Pyro,Kills/Directive,NS,Awarded for getting 50 kills with the Flare Gun
+99,Skirmisher,Specific Event,VS,Awarded to VS players who won the WDS pre-season
+100,Snowblower,Seasonal Event,NS,"Awarded for shooting 10 snowmen during the Christmas Holiday 2013, 2021 events"
+101,Snow Balla,Seasonal Event,NS,Awarded for getting 50 kills with the Deep Freeze
+102,Dominator,Specific Event,NS,Awarded to the WDS winning faction
+103,Hater,Kills/Directive,NS,Awarded for getting 50 kills with the Black Heart
+104,Sweetheart,Kills/Directive,NS,Awarded for getting 50 kills with the Heartstring
+105,Raid Boss,Special Character,TR,Awarded to Daddy for being the first TR player to earn enough certs to unlock everything in the game
+106,Bug Hunter,Not Obtainable,NS,Unused PTS linked Title
+107,Opportunist,Purchase/Bundle,NS,This title was sold as Daum Title 1 by mistake in the store. Renamed by SOE after players had already bought the title
+108,Daum Title 2,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+109,Daum Title 3,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+110,Daum Title 4,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+111,Daum Title 5,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+112,Daum Title 6,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+113,Daum Title 7,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+114,Daum Title 8,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+115,Daum Title 9,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+116,Daum Title 10,Not Obtainable,NS,Unused title possible connected to the closed Daum Server
+117,Juggernaut,Unknown,NS,"Unknown, currently held by no characters"
+118,Fleet Admiral,Special Character,VS,Awarded to Blib for being the first VS player to earn enough certs to unlock everything in the game
+119,the Smasher,Not Obtainable,NS,"2014 Halloween Directive reward Title, not currently used by any characters"
+120,the Faceless,Not Obtainable,NS,"2014 Halloween Directive reward Title, not currently used by any characters"
+121,the Wrecker,Not Obtainable,NS,"2014 Halloween Directive reward Title, not currently used by any characters"
+122,the Butcher,Not Obtainable,NS,"2014 Halloween Directive reward Title, not currently used by any characters"
+123,the Trickster,Not Obtainable,NS,"2014 Halloween Directive reward Title, not currently used by any characters"
+124,the Slayer,Not Obtainable,NS,"2014 Halloween Directive reward Title, not currently used by any characters"
+125,Space,Seasonal Event,NS,Awarded for completing the 2014 Halloween directive event
+126,Executive Officer,Special Character,NC,Awarded to TorokF for being the first NC player to earn enough certs to unlock everything in the game
+127,Cold Blooded,Seasonal Event,NS,Awarded for completing the 2014 Christmas event
+128,Ice Cold,Kills/Directive,NS,Awarded for getting 100 kills with the the Icikill
+129,Innova Placeholder Title 1,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+130,Innova Placeholder Title 2,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+131,Innova Placeholder Title 3,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+132,Innova Placeholder Title 4,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+133,Innova Placeholder Title 5,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+134,Innova Placeholder Title 6,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+135,Innova Placeholder Title 7,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+136,Innova Placeholder Title 8,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+137,Innova Placeholder Title 9,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+138,Innova Placeholder Title 10,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+139,Innova Placeholder Title 11,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+140,Innova Placeholder Title 12,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+141,Innova Placeholder Title 13,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+142,Innova Placeholder Title 14,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+143,Innova Placeholder Title 15,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+144,Innova Placeholder Title 16,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+145,Innova Placeholder Title 17,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+146,Innova Placeholder Title 18,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+147,Innova Placeholder Title 19,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+148,Innova Placeholder Title 20,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+149,Innova Placeholder Title 21,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+150,Innova Placeholder Title 22,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+151,Innova Placeholder Title 23,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+152,Innova Placeholder Title 24,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+153,Innova Placeholder Title 25,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+154,Innova Placeholder Title 26,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+155,Innova Placeholder Title 27,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+156,Innova Placeholder Title 28,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+157,Innova Placeholder Title 29,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+158,Innova Placeholder Title 30,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+159,Innova Placeholder Title 31,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+160,Innova Placeholder Title 32,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+161,Innova Placeholder Title 33,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+162,Innova Placeholder Title 34,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+163,Innova Placeholder Title 35,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+164,Innova Placeholder Title 36,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+165,Innova Placeholder Title 37,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+166,Innova Placeholder Title 38,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+167,Innova Placeholder Title 39,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+168,Innova Placeholder Title 40,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+169,Innova Placeholder Title 41,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+170,Innova Placeholder Title 42,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+171,Innova Placeholder Title 43,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+172,Innova Placeholder Title 44,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+173,Innova Placeholder Title 45,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+174,Innova Placeholder Title 46,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+175,Innova Placeholder Title 47,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+176,Innova Placeholder Title 48,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+177,Innova Placeholder Title 49,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+178,Innova Placeholder Title 50,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+179,Innova Placeholder Title 51,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+180,Innova Placeholder Title 52,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+181,Innova Placeholder Title 53,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+182,Innova Placeholder Title 54,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+183,Innova Placeholder Title 55,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+184,Innova Placeholder Title 56,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+185,Innova Placeholder Title 57,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+186,Innova Placeholder Title 58,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+187,Innova Placeholder Title 59,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+188,Innova Placeholder Title 60,Not Obtainable,NS,Possibly connected to the deal with Innova Systems and SOE in 2012 to bring PS2 to Russia
+190,PS2 Developer,Special Character,NS,Title held only by Developer Characters
+191,Based,Special Character,NS,Title held by the Character HigbyEast
+192,Record Smasher,Specific Event,NS,Participated in the 2015 Planetside 2 Guinness World Record battle
+193,PlanetsideBattles,Special Character,NS,Awarded to PSB Admins
+194,AGD Patriarch,Special Character,VS,Awarded to Vindicore for his work on the Planetside Upgrade Project
+195,The Survivor,Specific Event,NS,Awarded to players who switched from the Korean server Daum when it closed down
+197,Bounty Hunter,Kills/Directive,NS,Awarded for completition of the Bounty Hunter directive
+198,Destroyer,Battlerank,NS,Awarded at Battlerank 101
+199,Champion,Battlerank,NS,Awarded at Battlerank 105
+200,Conqueror,Battlerank,NS,Awarded at Battlerank 110
+201,Predator,Battlerank,NS,Awarded at Battlerank 115
+202,Dreadnaught,Battlerank,NS,Awarded at Battle rank 120
+203,Creator,Not Obtainable,NS,Currently not in use (2021)
+204,Imperator,Purchase/Bundle,NS,Awarded from a Planetside 2 welcome pack
+205,Detection Master,Special Character,NS,Awarded to ReconDarts for reaching BR 120 using only recon darts
+206,World Champion,Specific Event,NS,Awarded to PS2CommClash 2014 Winners
+207,LaneSmash Champion,Specific Event,NS,Awarded to PSB LaneSmash bracket finalists
+208,The Heroic,Unknown,NS,"Unknown, currently held by no characters"
+209,Madman,Special Character,NS,Awarded to Maldrasou for completion of all directives on all factions
+210,Horseman,Seasonal Event,NS,Awarded for completing the 2017 Halloween event
+211,Warbringer,Purchase/Bundle,NS,From the Commander’s Five-Year Anniversary Bundle (2020)
+212,Jolly,Seasonal Event,NS,Awarded for completing the 2017 Christmas event
+213,A.S.P. Operative,Battlerank,NS,Awarded to those who use the ASP prestige system
+214,Advisory,Battlerank,NC,Awarded to NC Characters for reaching BR 100 ASP 1 
+215,Myriad,Battlerank,TR,Awarded to TR Characters for reaching BR 100 ASP 1 
+216,Chosen,Battlerank,VS,Awarded to VS Characters for reaching BR 100 ASP 1 
+217,Builder,Kills/Directive,NS,Awarded for completion of the Construction Directive
+218,Scrim Master,Specific Event,NS,Awarded for completing Scrim Masters 2017 tournament? (12v12 on jaeger)
+219,Grouchy,Seasonal Event,NS,Awarded for completing the 2018 Christmas event
+228,v0.0.2,Battlerank,NSO,NSO Battlerank 2
+229,v0.0.3,Battlerank,NSO,NSO Battlerank 3
+230,v0.0.4,Battlerank,NSO,NSO Battlerank 4
+231,v0.0.5,Battlerank,NSO,NSO Battlerank 5
+232,v0.0.6,Battlerank,NSO,NSO Battlerank 6
+233,v0.0.7,Battlerank,NSO,NSO Battlerank 7
+234,v0.0.8,Battlerank,NSO,NSO Battlerank 8
+235,v0.0.9,Battlerank,NSO,NSO Battlerank 9
+236,v0.1.0,Battlerank,NSO,NSO Battlerank 10
+237,v0.1.1,Battlerank,NSO,NSO Battlerank 11
+238,v0.1.2,Battlerank,NSO,NSO Battlerank 12
+239,v0.1.3,Battlerank,NSO,NSO Battlerank 13
+240,v0.1.4,Battlerank,NSO,NSO Battlerank 14
+241,v0.1.5,Battlerank,NSO,NSO Battlerank 15
+242,v0.1.6,Battlerank,NSO,NSO Battlerank 16
+243,v0.1.7,Battlerank,NSO,NSO Battlerank 17
+244,v0.1.8,Battlerank,NSO,NSO Battlerank 18
+245,v0.1.9,Battlerank,NSO,NSO Battlerank 19
+246,v0.2.0,Battlerank,NSO,NSO Battlerank 20
+247,v0.2.1,Battlerank,NSO,NSO Battlerank 21
+248,v0.2.2,Battlerank,NSO,NSO Battlerank 22
+249,v0.2.3,Battlerank,NSO,NSO Battlerank 23
+250,v0.2.4,Battlerank,NSO,NSO Battlerank 24
+251,v0.2.5,Battlerank,NSO,NSO Battlerank 25
+252,v0.2.6,Battlerank,NSO,NSO Battlerank 26
+253,v0.2.7,Battlerank,NSO,NSO Battlerank 27
+254,v0.2.8,Battlerank,NSO,NSO Battlerank 28
+255,v0.2.9,Battlerank,NSO,NSO Battlerank 29
+256,v0.3.0,Battlerank,NSO,NSO Battlerank 30
+257,v0.3.1,Battlerank,NSO,NSO Battlerank 31
+258,v0.3.2,Battlerank,NSO,NSO Battlerank 32
+259,v0.3.3,Battlerank,NSO,NSO Battlerank 33
+260,v0.3.4,Battlerank,NSO,NSO Battlerank 34
+261,v0.3.5,Battlerank,NSO,NSO Battlerank 35
+262,v0.3.6,Battlerank,NSO,NSO Battlerank 36
+263,v0.3.7,Battlerank,NSO,NSO Battlerank 37
+264,v0.3.8,Battlerank,NSO,NSO Battlerank 38
+265,v0.3.9,Battlerank,NSO,NSO Battlerank 39
+266,v0.4.0,Battlerank,NSO,NSO Battlerank 40
+267,v0.4.1,Battlerank,NSO,NSO Battlerank 41
+268,v0.4.2,Battlerank,NSO,NSO Battlerank 42
+269,v0.4.3,Battlerank,NSO,NSO Battlerank 43
+270,v0.4.4,Battlerank,NSO,NSO Battlerank 44
+271,v0.4.5,Battlerank,NSO,NSO Battlerank 45
+272,v0.4.6,Battlerank,NSO,NSO Battlerank 46
+273,v0.4.7,Battlerank,NSO,NSO Battlerank 47
+274,v0.4.8,Battlerank,NSO,NSO Battlerank 48
+275,v0.4.9,Battlerank,NSO,NSO Battlerank 49
+276,v0.5.0,Battlerank,NSO,NSO Battlerank 50
+277,v0.5.1,Battlerank,NSO,NSO Battlerank 51
+278,v0.5.2,Battlerank,NSO,NSO Battlerank 52
+279,v0.5.3,Battlerank,NSO,NSO Battlerank 53
+280,v0.5.4,Battlerank,NSO,NSO Battlerank 54
+281,v0.5.5,Battlerank,NSO,NSO Battlerank 55
+282,v0.5.6,Battlerank,NSO,NSO Battlerank 56
+283,v0.5.7,Battlerank,NSO,NSO Battlerank 57
+284,v0.5.8,Battlerank,NSO,NSO Battlerank 58
+285,v0.5.9,Battlerank,NSO,NSO Battlerank 59
+286,v0.6.0,Battlerank,NSO,NSO Battlerank 60
+287,v0.6.1,Battlerank,NSO,NSO Battlerank 61
+288,v0.6.2,Battlerank,NSO,NSO Battlerank 62
+289,v0.6.3,Battlerank,NSO,NSO Battlerank 63
+290,v0.6.4,Battlerank,NSO,NSO Battlerank 64
+291,v0.6.5,Battlerank,NSO,NSO Battlerank 65
+292,v0.6.6,Battlerank,NSO,NSO Battlerank 66
+293,v0.6.7,Battlerank,NSO,NSO Battlerank 67
+294,v0.6.8,Battlerank,NSO,NSO Battlerank 68
+295,v0.6.9,Battlerank,NSO,NSO Battlerank 69
+296,v0.7.0,Battlerank,NSO,NSO Battlerank 70
+297,v0.7.1,Battlerank,NSO,NSO Battlerank 71
+298,v0.7.2,Battlerank,NSO,NSO Battlerank 72
+299,v0.7.3,Battlerank,NSO,NSO Battlerank 73
+300,v0.7.4,Battlerank,NSO,NSO Battlerank 74
+301,v0.7.5,Battlerank,NSO,NSO Battlerank 75
+302,v0.7.6,Battlerank,NSO,NSO Battlerank 76
+303,v0.7.7,Battlerank,NSO,NSO Battlerank 77
+304,v0.7.8,Battlerank,NSO,NSO Battlerank 78
+305,v0.7.9,Battlerank,NSO,NSO Battlerank 79
+306,v0.8.0,Battlerank,NSO,NSO Battlerank 80
+307,v0.8.1,Battlerank,NSO,NSO Battlerank 81
+308,v0.8.2,Battlerank,NSO,NSO Battlerank 82
+309,v0.8.3,Battlerank,NSO,NSO Battlerank 83
+310,v0.8.4,Battlerank,NSO,NSO Battlerank 84
+311,v0.8.5,Battlerank,NSO,NSO Battlerank 85
+312,v0.8.6,Battlerank,NSO,NSO Battlerank 86
+313,v0.8.7,Battlerank,NSO,NSO Battlerank 87
+314,v0.8.8,Battlerank,NSO,NSO Battlerank 88
+315,v0.8.9,Battlerank,NSO,NSO Battlerank 89
+316,v0.9.0,Battlerank,NSO,NSO Battlerank 90
+317,v0.9.1,Battlerank,NSO,NSO Battlerank 91
+318,v0.9.2,Battlerank,NSO,NSO Battlerank 92
+319,v0.9.3,Battlerank,NSO,NSO Battlerank 93
+320,v0.9.4,Battlerank,NSO,NSO Battlerank 94
+321,v0.9.5,Battlerank,NSO,NSO Battlerank 95
+322,v0.9.6,Battlerank,NSO,NSO Battlerank 96
+323,v0.9.7,Battlerank,NSO,NSO Battlerank 97
+324,v0.9.8,Battlerank,NSO,NSO Battlerank 98
+325,v0.9.9,Battlerank,NSO,NSO Battlerank 99
+326,v1.0.0,Battlerank,NSO,NSO Battlerank 100
+327,v1.0.1,Battlerank,NSO,NSO Battlerank 101
+328,v1.0.2,Battlerank,NSO,NSO Battlerank 102
+329,v1.0.3,Battlerank,NSO,NSO Battlerank 103
+330,v1.0.4,Battlerank,NSO,NSO Battlerank 104
+331,v1.0.5,Battlerank,NSO,NSO Battlerank 105
+332,v1.0.6,Battlerank,NSO,NSO Battlerank 106
+333,v1.0.7,Battlerank,NSO,NSO Battlerank 107
+334,v1.0.8,Battlerank,NSO,NSO Battlerank 108
+335,v1.0.9,Battlerank,NSO,NSO Battlerank 109
+336,v1.1.0,Battlerank,NSO,NSO Battlerank 110
+337,v1.1.1,Battlerank,NSO,NSO Battlerank 111
+338,v1.1.2,Battlerank,NSO,NSO Battlerank 112
+339,v1.1.3,Battlerank,NSO,NSO Battlerank 113
+340,v1.1.4,Battlerank,NSO,NSO Battlerank 114
+341,v1.1.5,Battlerank,NSO,NSO Battlerank 115
+342,v1.1.6,Battlerank,NSO,NSO Battlerank 116
+343,v1.1.7,Battlerank,NSO,NSO Battlerank 117
+344,v1.1.8,Battlerank,NSO,NSO Battlerank 118
+345,v1.1.9,Battlerank,NSO,NSO Battlerank 119
+346,v1.2.0,Battlerank,NSO,NSO Battlerank 120
+347,Recursive,Battlerank,NSO,Awarded to NSO Characters for reaching BR 100 ASP 1 
+390,Surfer,Seasonal Event,NS,Awarded for completion of the 2019 Summer Event
+391,Undertaker,Seasonal Event,NS,Awarded for completion of the 2019 Halloween event?
+392,Abominable,Seasonal Event,NS,Awarded for completing the 2019 Christmas event
+393,Outfit Loyalist,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+394,Outfit Loyalist,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+395,Outfit Loyalist,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+396,Outfit Loyalist,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+397,Outfit Supporter,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+398,Outfit Supporter,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+399,Outfit Supporter,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+400,Outfit Supporter,Not Obtainable,NS,"Unknown, possibly connected to the Outfit Merit system"
+401,Warrior,Specific Event,NS,Awarded to Winning (Gold Bracket) outfit members in OutfitWar 2020
+402,Stormchaser,Specific Event,NS,Awarded for completion of the First Esaimr Campaign in 2021
+403,Creepy,Seasonal Event,NS,Awarded for completion of the 2020 Halloween event
+404,Cinematographer,Special Character,NS,Awarded to Alpha141 for the 2020 Content Creation contest Winner
+405,Rocketman,Purchase/Bundle,NS,From the Starseeker's Bundle (2020)
+406,Generous,Seasonal Event,NS,Awarded for completion of all the 2020 Christmas event dailies
+407,Victorious,Specific Event,NS,Awarded to Winning (Gold Bracket) outfit members in OutfitWar 2021
+408,Cheerful,Seasonal Event,NS,Awarded for completion of all the 2020 Christmas event
+409,Matchmaker,Seasonal Event,NS,Awarded for completing the 2021 Valentines/Lunda New year event
+410,Researcher,Purchase/Bundle,NS,From the Hazmat Bundle (2021)
+411,Bushwhacker,Specific Event,NS,Awarded for destroying 100 carrots in an Esamir containment facility and then interacting with the 'Giga Carrot'
+412,Scavenger,Purchase/Bundle,NS,From the Post-Collapse Bundle (2021)
+413,Flamerider,Seasonal Event,NS,Awarded for completion of the 2021 Summer event
+414,Demon Hunter,Purchase/Bundle,NS,From the Demon Hunter Bundle (2021)
+415,Terrifying,Seasonal Event,NS,Awarded for completion of the 2021 Halloween event
+416,Plunderer,Specific Event,NS,Awarded for completion of the Distant Shores Oshur Campaign
+417,Fleet Admiral,Purchase/Bundle,NS,From the Fleet Admiral's Bundle (2021)
+418,Quartermaster,Purchase/Bundle,NS,From the Fleet Admiral's Bundle (2021)
+419,Deckhand,Purchase/Bundle,NS,From the Fleet Admiral's Bundle (2021)
+420,Considerate,Seasonal Event,NS,Awarded for completion of all Auraximas 2021 daily missions.
+421,Festive,Seasonal Event,NS,Awarded for completion of the 2021 Christmas event
+422,Illustrious,Battlerank,VS,Awarded to VS Characters for reaching BR 100 ASP 2
+423,Effectual,Battlerank,NC,Awarded to NC Characters for reaching BR 100 ASP 2
+424,Vigorous,Battlerank,TR,Awarded to TR Characters for reaching BR 100 ASP 2
+425,Intrepid,Battlerank,NSO,Awarded to NSO Characters for reaching BR 100 ASP 2
+427,Lovestruck,Seasonal Event,NS,Awarded for completion of the 2022 Valentines day event
+428,Druid,Purchase/Bundle,NS,From the Wyrdwood Bundle (2022)
