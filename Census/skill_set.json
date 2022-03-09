@@ -1252,7 +1252,7 @@
         "en": "Secondary: Pistol: LA8 Rebel"
       },
       "description": {
-        "en": "The LA8 Rebel's high damage gives it a longer effective range when compared to most side arms. NC use only."
+        "en": "The LA8 Rebel's remarkable stopping power makes it a popular choice among Conglomerate infiltrators. NC use only."
       },
       "image_set_id": "880",
       "image_id": "2335",
@@ -7760,10 +7760,10 @@
       "skill_points": "1000",
       "required_item_id": "7213",
       "name": {
-        "en": "Primary: Carbine: Solstice SF"
+        "en": "Primary: Carbine: Prominence VE4"
       },
       "description": {
-        "en": "A built-in select fire mode gives users of the Solstice SF the ability to adapt to nearly any scenario. VS use only."
+        "en": "The Prominence's increased customization options allow soldiers to adapt to nearly any scenario. VS use only."
       },
       "image_set_id": "903",
       "image_id": "2358",
@@ -9747,7 +9747,7 @@
         "en": "Eclipse VE3A"
       },
       "description": {
-        "en": "The Eclipse easily overshadows its predecessor, the Solstice, as a close-quarters combat king. It comes equipped with an underbarrel plasma shotgun for ambushes and last-ditch scenarios."
+        "en": "The Eclipse easily overshadows its predecessor, the Solstice in high-risk close-quarter operations. It comes equipped with an underbarrel impulse launcher for improved maneuverability around the battlefield."
       },
       "image_set_id": "14339",
       "image_id": "79796",

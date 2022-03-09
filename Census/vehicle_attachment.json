@@ -69767,14 +69767,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "71569",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "71570",
@@ -69795,14 +69795,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "71571",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "71572",
@@ -69823,14 +69823,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "71573",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "71584",
@@ -73015,14 +73015,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78316",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78340",
@@ -73981,14 +73981,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803327",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803870",
@@ -74170,14 +74170,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803995",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803996",
@@ -74198,20 +74198,13 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803997",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "803998",
-      "vehicle_id": "6",
-      "faction_id": "3",
-      "description": "Prowler TR",
       "slot_id": "7"
     },
     {
@@ -74220,6 +74213,13 @@
       "faction_id": "3",
       "description": "Prowler TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "803998",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
     },
     {
       "item_id": "804030",
@@ -74506,14 +74506,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804902",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6002403",
@@ -138157,20 +138157,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6210",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6211",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
       "slot_id": "7"
     },
     {
@@ -138179,6 +138172,13 @@
       "faction_id": "1",
       "description": "Harasser VS",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6211",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "7"
     },
     {
       "item_id": "6212",
@@ -138199,20 +138199,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6213",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6214",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
       "slot_id": "7"
     },
     {
@@ -138221,6 +138214,13 @@
       "faction_id": "1",
       "description": "Harasser VS",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6214",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "7"
     },
     {
       "item_id": "6215",
@@ -138724,14 +138724,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6274",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6275",
@@ -138752,14 +138752,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6276",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6277",
@@ -138780,20 +138780,13 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6278",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6279",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "7"
     },
     {
@@ -138802,6 +138795,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6279",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "6280",
@@ -138822,14 +138822,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6281",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6282",
@@ -138850,14 +138850,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6283",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6284",
@@ -138906,20 +138906,13 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6287",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6288",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "7"
     },
     {
@@ -138928,6 +138921,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6288",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "6289",
@@ -138962,14 +138962,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6291",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6292",
@@ -138990,20 +138990,13 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6292",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6292",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "7"
     },
     {
@@ -139012,6 +139005,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6292",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "6292",
@@ -139025,14 +139025,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6293",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6293",
@@ -139053,14 +139053,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6293",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6293",
@@ -139123,20 +139123,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6295",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6295",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -139145,6 +139138,13 @@
       "faction_id": "2",
       "description": "Harasser NC",
       "slot_id": "7"
+    },
+    {
+      "item_id": "6295",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "9"
     },
     {
       "item_id": "6295",
@@ -139172,20 +139172,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6296",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6296",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -139198,8 +139191,8 @@
     {
       "item_id": "6296",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -139208,6 +139201,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "6296",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "6296",
@@ -139221,20 +139221,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6297",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6297",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -139247,8 +139240,8 @@
     {
       "item_id": "6297",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -139257,6 +139250,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "6297",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "6297",
@@ -139270,14 +139270,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6298",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6298",
@@ -139298,14 +139298,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6298",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6298",
@@ -139319,14 +139319,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6299",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6299",
@@ -139368,20 +139368,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6300",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6300",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -139394,8 +139387,8 @@
     {
       "item_id": "6300",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -139404,6 +139397,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "6300",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "6300",
@@ -139417,14 +139417,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6301",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6301",
@@ -139494,21 +139494,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6304",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6305",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6305",
@@ -139520,8 +139513,8 @@
     {
       "item_id": "6305",
       "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
+      "faction_id": "1",
+      "description": "Harasser VS",
       "slot_id": "9"
     },
     {
@@ -139530,6 +139523,13 @@
       "faction_id": "2",
       "description": "Harasser NC",
       "slot_id": "7"
+    },
+    {
+      "item_id": "6305",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "9"
     },
     {
       "item_id": "6305",
@@ -139739,20 +139739,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6313",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6314",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
       "slot_id": "7"
     },
     {
@@ -139763,7 +139756,7 @@
       "slot_id": "9"
     },
     {
-      "item_id": "6315",
+      "item_id": "6314",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
@@ -139775,6 +139768,13 @@
       "faction_id": "1",
       "description": "Harasser VS",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6315",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "7"
     },
     {
       "item_id": "6316",
@@ -139879,14 +139879,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6323",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6324",
@@ -139949,14 +139949,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6328",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6329",
@@ -148307,14 +148307,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77643",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77644",
@@ -148629,14 +148629,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77670",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77670",
@@ -148692,14 +148692,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77671",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77671",
@@ -148741,14 +148741,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77672",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77672",
@@ -148776,14 +148776,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77673",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77674",
@@ -148804,14 +148804,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77675",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77676",
@@ -148846,14 +148846,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77676",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77676",
@@ -148867,14 +148867,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77677",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77678",
@@ -148909,14 +148909,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77680",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77680",
@@ -150386,14 +150386,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77882",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77882",
@@ -150449,14 +150449,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77883",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77883",
@@ -150484,14 +150484,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77884",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77884",
@@ -150512,14 +150512,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77884",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77884",
@@ -150841,14 +150841,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78219",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78220",
@@ -150883,14 +150883,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78221",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78221",
@@ -150911,14 +150911,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78221",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78221",
@@ -150960,20 +150960,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78223",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "78223",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -150982,6 +150975,13 @@
       "faction_id": "2",
       "description": "Harasser NC",
       "slot_id": "7"
+    },
+    {
+      "item_id": "78223",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "9"
     },
     {
       "item_id": "78223",
@@ -151387,14 +151387,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78351",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78352",
@@ -152206,21 +152206,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "802548",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "802549",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "802549",
@@ -152228,6 +152221,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "802549",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "802550",
@@ -153907,14 +153907,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803319",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803319",
@@ -153928,14 +153928,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803320",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803320",
@@ -153956,14 +153956,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803320",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803320",
@@ -154432,14 +154432,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804063",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "804063",
@@ -154887,21 +154887,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804773",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "804773",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "804773",
@@ -154909,6 +154902,13 @@
       "faction_id": "2",
       "description": "Harasser NC",
       "slot_id": "9"
+    },
+    {
+      "item_id": "804773",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "7"
     },
     {
       "item_id": "804773",
@@ -154936,20 +154936,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "804774",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "804774",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
       "slot_id": "7"
     },
     {
@@ -154962,9 +154955,9 @@
     {
       "item_id": "804774",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "9"
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "7"
     },
     {
       "item_id": "804774",
@@ -154972,6 +154965,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "804774",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "804774",
@@ -156070,14 +156070,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6003146",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6003146",
@@ -156343,14 +156343,14 @@
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "20"
+      "slot_id": "17"
     },
     {
       "item_id": "6005059",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "17"
+      "slot_id": "20"
     },
     {
       "item_id": "6005378",
@@ -156819,14 +156819,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6007376",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6007376",
@@ -157190,14 +157190,14 @@
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "20"
+      "slot_id": "17"
     },
     {
       "item_id": "6009832",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "17"
+      "slot_id": "20"
     },
     {
       "item_id": "6009844",
@@ -192771,14 +192771,14 @@
       "vehicle_id": "100",
       "faction_id": "1",
       "description": "Phalanx Anti-Personnel VS",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "551",
       "vehicle_id": "100",
       "faction_id": "1",
       "description": "Phalanx Anti-Personnel VS",
-      "slot_id": "1"
+      "slot_id": "2"
     },
     {
       "item_id": "552",
@@ -192820,14 +192820,14 @@
       "vehicle_id": "100",
       "faction_id": "2",
       "description": "Phalanx Anti-Personnel NC",
-      "slot_id": "1"
+      "slot_id": "2"
     },
     {
       "item_id": "725",
       "vehicle_id": "100",
       "faction_id": "2",
       "description": "Phalanx Anti-Personnel NC",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "726",
@@ -192862,14 +192862,14 @@
       "vehicle_id": "100",
       "faction_id": "3",
       "description": "Phalanx Anti-Personnel TR",
-      "slot_id": "1"
+      "slot_id": "2"
     },
     {
       "item_id": "729",
       "vehicle_id": "100",
       "faction_id": "3",
       "description": "Phalanx Anti-Personnel TR",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "731",
@@ -192890,14 +192890,14 @@
       "vehicle_id": "100",
       "faction_id": "3",
       "description": "Phalanx Anti-Personnel TR",
-      "slot_id": "1"
+      "slot_id": "2"
     },
     {
       "item_id": "732",
       "vehicle_id": "100",
       "faction_id": "3",
       "description": "Phalanx Anti-Personnel TR",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "551",
@@ -193254,21 +193254,14 @@
       "vehicle_id": "2009",
       "faction_id": "3",
       "description": "Calldown - Xiphos - TR",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "553",
       "vehicle_id": "2009",
       "faction_id": "3",
       "description": "Calldown - Xiphos - TR",
-      "slot_id": "1"
-    },
-    {
-      "item_id": "724",
-      "vehicle_id": "2009",
-      "faction_id": "0",
-      "description": "Calldown - Xiphos - NS",
-      "slot_id": "1"
+      "slot_id": "2"
     },
     {
       "item_id": "724",
@@ -193276,6 +193269,13 @@
       "faction_id": "0",
       "description": "Calldown - Xiphos - NS",
       "slot_id": "2"
+    },
+    {
+      "item_id": "724",
+      "vehicle_id": "2009",
+      "faction_id": "0",
+      "description": "Calldown - Xiphos - NS",
+      "slot_id": "1"
     },
     {
       "item_id": "725",
