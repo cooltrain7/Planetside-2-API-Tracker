@@ -264,7 +264,7 @@
 7215,Carbine,0,Zenith VX-5,1,infantry
 6003967,Carbine,0,Zenith VX-5AE,1,infantry
 7172,Carbine,0,Gauss Compact S,2,none
-7213,Carbine,0,Solstice SF,1,none
+7213,Carbine,0,Prominence VE4,1,none
 7192,Carbine,0,TRAC-5 S,3,none
 6010679,Chimera Primary Weapons,,CT-102 Satyr,,armor
 6009957,Chimera Primary Weapons,,CT-135,,armor
@@ -503,7 +503,7 @@
 6126,Harasser Top Gunner,1,Saron HRB-H,1,gunner
 6011442,Heavy Crossbow,,Demon Seeker HLX,,none
 6011432,Heavy Crossbow,,Seeker HLX,,none
-6011831,Heavy Crossbow,,Seraphim HLX,,none
+6011831,Heavy Crossbow,0,Seraphim HLX,,none
 6011140,Heavy Weapon,,D11 Detonator,,max
 6011064,Heavy Weapon,,D7 Hummingbird,,max
 6008686,Heavy Weapon,0,Grenade Printer,4,max
@@ -993,6 +993,7 @@
 6005452,Knife,0,Ripper AE,3,none
 801969,Knife,0,The Slasher,0,none
 6011556,Knife,,The Swashbuckler,,none
+6011914,Knife,0,Wyrdwood Shillelagh,,none
 5209,Liberator Belly Weapon,1,AP30 Shredder,3,gunner
 5210,Liberator Belly Weapon,1,AP30 Shredder,2,gunner
 5211,Liberator Belly Weapon,1,AP30 Shredder,1,gunner
@@ -1157,6 +1158,7 @@
 75173,Pistol,0,NS-357B Underboss,,infantry
 75171,Pistol,0,NS-357G Underboss,,infantry
 75268,Pistol,0,NS-357P Underboss,,infantry
+6011930,Pistol,0,"NS-44 ""Jackpot"" Commissioner",,infantry
 75063,Pistol,0,NS-44 Commissioner,,infantry
 803824,Pistol,0,NS-44 Commissioner AE,1,infantry
 803825,Pistol,0,NS-44 Commissioner AE,3,infantry
