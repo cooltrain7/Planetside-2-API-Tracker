@@ -479,7 +479,7 @@
       "objective_set_id": "4169",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -527,7 +527,7 @@
       "objective_set_id": "4172",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -750,7 +750,7 @@
       "objective_set_id": "4186",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -862,7 +862,7 @@
       "objective_set_id": "4193",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -1101,7 +1101,7 @@
       "objective_set_id": "4208",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -1213,7 +1213,7 @@
       "objective_set_id": "4215",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -1452,7 +1452,7 @@
       "objective_set_id": "4230",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -1564,7 +1564,7 @@
       "objective_set_id": "4237",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -5498,7 +5498,7 @@
       "objective_set_id": "4484",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -5849,7 +5849,7 @@
       "objective_set_id": "4506",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -6200,7 +6200,7 @@
       "objective_set_id": "4528",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -6551,7 +6551,7 @@
       "objective_set_id": "4550",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "1000 Enemies Killed"

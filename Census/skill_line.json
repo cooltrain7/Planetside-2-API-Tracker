@@ -659,7 +659,7 @@
         "en": "Nano-Armor Cloaking"
       },
       "description": {
-        "en": "While the cloak is active, the Infiltrator takes less damage from small arms but drains nanites faster."
+        "en": "While this cloak is active, the Infiltrator takes less damage from kinetic weapons."
       },
       "image_set_id": "2012",
       "image_id": "3677",
@@ -4925,7 +4925,7 @@
         "en": "Nano-Armor Cloaking"
       },
       "description": {
-        "en": "While the cloak is active, the Infiltrator takes less damage from small arms but drains nanites faster."
+        "en": "While this cloak is active, the Infiltrator takes less damage from kinetic weapons."
       },
       "image_set_id": "2012",
       "image_id": "3677",
@@ -5024,7 +5024,7 @@
         "en": "Nano-Armor Cloaking"
       },
       "description": {
-        "en": "While the cloak is active, the Infiltrator takes less damage from small arms but drains nanites faster."
+        "en": "While this cloak is active, the Infiltrator takes less damage from kinetic weapons."
       },
       "image_set_id": "2012",
       "image_id": "3677",
@@ -11757,7 +11757,7 @@
         "en": "Nanite Healing Grenade"
       },
       "description": {
-        "en": "Nanite Healing Grenades heal nearby friendly soldiers upon detonation."
+        "en": "The Nano-Regen Grenade heals friendly soldiers in an area over time."
       },
       "image_set_id": "2103",
       "image_id": "3673",
@@ -13194,7 +13194,7 @@
         "en": "Nanite Healing Grenade"
       },
       "description": {
-        "en": "Nanite Healing Grenades heal nearby friendly soldiers upon detonation."
+        "en": "The Nano-Regen Grenade heals friendly soldiers in an area over time."
       },
       "image_set_id": "2103",
       "image_id": "3673",
@@ -13239,7 +13239,7 @@
         "en": "Nanite Healing Grenade"
       },
       "description": {
-        "en": "Nanite Healing Grenades heal nearby friendly soldiers upon detonation."
+        "en": "The Nano-Regen Grenade heals friendly soldiers in an area over time."
       },
       "image_set_id": "2103",
       "image_id": "3673",
@@ -95166,7 +95166,7 @@
         "en": "Sidearm Primaries"
       },
       "description": {
-        "en": "Allows characters to equip sidearms in their primary weapon slot. Does not include Directive reward weapons. "
+        "en": "Allows characters to equip sidearms in their primary weapon slot."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95286,7 +95286,7 @@
         "en": "Shotgun Secondary"
       },
       "description": {
-        "en": "Allows Shotguns to be equipped in the secondary weapon slot. Does not include Directive reward weapons. Engineer only."
+        "en": "Allows Shotguns to be equipped in the secondary weapon slot. Engineer only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95301,7 +95301,7 @@
         "en": "LMG Access"
       },
       "description": {
-        "en": "Unlocks access to LMGs. Does not include Directive reward weapons. Engineer only."
+        "en": "Unlocks access to LMGs. Engineer only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95316,7 +95316,7 @@
         "en": "Assault Rifle Access"
       },
       "description": {
-        "en": "Unlocks access to Assault Rifles. Does not include Directive reward weapons. Engineer only."
+        "en": "Unlocks access to Assault Rifles. Engineer only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95375,7 +95375,7 @@
         "en": "SMG Secondary"
       },
       "description": {
-        "en": "Allows SMGs to be equipped in the secondary weapon slot. Does not include Directive reward weapons. Light Assault only."
+        "en": "Allows SMGs to be equipped in the secondary weapon slot. Light Assault only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95404,7 +95404,7 @@
         "en": "LMG Secondary"
       },
       "description": {
-        "en": "Allows LMGs to be used in the secondary weapon slot. Does not include Directive reward weapons. Heavy Assault only."
+        "en": "Allows LMGs to be used in the secondary weapon slot. Heavy Assault only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95419,7 +95419,7 @@
         "en": "Heavy Weapon Secondary"
       },
       "description": {
-        "en": "Allows Heavy Weapons to be used in the secondary weapon slot. Does not include Directive reward weapons. Heavy Assault only."
+        "en": "Allows Heavy Weapons to be used in the secondary weapon slot. Heavy Assault only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95448,7 +95448,7 @@
         "en": "Carbine Access"
       },
       "description": {
-        "en": "Unlocks access to Carbines. Does not include Directive reward weapons. Infiltrator only."
+        "en": "Unlocks access to Carbines. Infiltrator only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95493,7 +95493,7 @@
         "en": "Scout Rifle Secondary"
       },
       "description": {
-        "en": "Allows use of Scout Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only."
+        "en": "Allows use of Scout Rifles in the secondary weapon slot. Combat Medic only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -95508,7 +95508,7 @@
         "en": "Carbine Access"
       },
       "description": {
-        "en": "Unlocks access to Carbines. Does not include Directive reward weapons. Combat Medic only."
+        "en": "Unlocks access to Carbines. Combat Medic only."
       },
       "image_set_id": "1557",
       "image_id": "2700",
@@ -96818,7 +96818,7 @@
         "en": "Experimental Stims"
       },
       "description": {
-        "en": "Using a Stim will also provide 12 seconds of benefit from another rank 5 implant. The implant chosen is random from this list: Safe Fall, Vampire, Battle Hardened, Heavyweight, Response Jacket. Experimental Stims only triggers when there is no active benefit."
+        "en": "Passively increases the carry capacity of all stims by 1, and using a stim will provide 12 seconds of another rank 5 implant's benefits. The implant chosen is random from this list: Safe Fall, Vampire, Battle Hardened, Heavyweight, Response Jacket. Experimental Stims only triggers when there is no active benefit."
       },
       "image_set_id": "803876",
       "image_id": "87717",
@@ -96983,7 +96983,7 @@
         "en": "Nano-Armor Cloaking"
       },
       "description": {
-        "en": "While the cloak is active, the Infiltrator takes less damage from small arms but drains nanites faster."
+        "en": "While this cloak is active, the Infiltrator takes less damage from kinetic weapons."
       },
       "image_set_id": "2012",
       "image_id": "3677",
@@ -98738,7 +98738,7 @@
         "en": "Nanite Healing Grenade"
       },
       "description": {
-        "en": "Nanite Healing Grenades heal nearby friendly soldiers upon detonation."
+        "en": "The Nano-Regen Grenade heals friendly soldiers in an area over time."
       },
       "image_set_id": "2103",
       "image_id": "3673",

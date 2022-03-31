@@ -1319,7 +1319,7 @@
         "en": "Primary: LMG:  VX29 Polaris"
       },
       "description": {
-        "en": "Embedded recoil dampeners along the barrel of the Polaris allow it to remain accurate when firing from the hip. VS use only."
+        "en": "Embedded recoil dampeners along the barrel of the Polaris allow it to remain accurate during sustained fire while aiming. The Polaris also boasts better hipfire accuracy than most LMGs in its class. VS use only."
       },
       "image_set_id": "905",
       "image_id": "2360",
@@ -1360,7 +1360,7 @@
         "en": "Primary: LMG:  EM1"
       },
       "description": {
-        "en": "Esamir Munition Corporation's EM1 LMG is a unique mix of high ammo count and fast reloading time, allowing the shooter to control firing lanes with little downtime. NC use only."
+        "en": "Esamir Munition Corporation's first forray into the weapons market yielded an LMG that remains accurate while sustaining fire. The EM1 boasts fast reloads and high ammo capacity, allowing it to control firing lanes with ease. NC use only."
       },
       "image_set_id": "874",
       "image_id": "2329",
@@ -1401,7 +1401,7 @@
         "en": "Primary: LMG:  T9 CARV-S"
       },
       "description": {
-        "en": "This special, versatile variant of the CARV can adapt to nearly any situation thanks to its multiple firing modes and wide range of attachments. Compared to its predecessor, it features a slightly slower rate of fire and more controllable recoil. TR use only."
+        "en": "This versatile variant of the CARV can adapt to nearly any situation thanks to a wide range of attachments. Compared to its predecessor, it features more controllable recoil in exchange for slightly slower rate of fire. TR use only."
       },
       "image_set_id": "886",
       "image_id": "2341",
@@ -1456,7 +1456,7 @@
         "en": "Primary: Carbine: Pulsar C"
       },
       "description": {
-        "en": "Based off of its bigger assault rifle brother, the smaller Pulsar C  was developed with an emphasis on stopping power. While not as easy to control, the heavy-hitting Pulsar C is far more devastating at close range. VS use only."
+        "en": "Based off of the Pulsar assault rifle platform, the compact Pulsar C was developed to support more mobile operations. While not as easy to control, the heavy-hitting Pulsar C is far more devastating at close range. VS use only."
       },
       "image_set_id": "903",
       "image_id": "2358",
@@ -1661,7 +1661,7 @@
         "en": "Primary: Assault Rifle: SABR-13"
       },
       "description": {
-        "en": "The SABR-13's two-round burst fire mode was originally developed with ammunition conservation in mind. It has since become popular with marksmen because of its ability to reliably land those two rounds on target from long range. TR use only."
+        "en": "The SABR-13's two-round burst walks the line between a long-range marksman rifle, and a mid-range assault rifle. For especially distant targets, this weapon can toggle a semi-auto firing mode for increased accuracy. TR use only."
       },
       "image_set_id": "888",
       "image_id": "2477",
@@ -4034,7 +4034,7 @@
       "skill_set_id": "334",
       "required_item_id": "7154",
       "name": {
-        "en": "Primary: Assault Rifle: Equinox VE2 Burst"
+        "en": "Primary: Assault Rifle: Pulsar Burst"
       },
       "image_set_id": "902",
       "image_id": "2357",
@@ -4240,7 +4240,7 @@
         "en": "Primary: LMG:  LA1 Anchor"
       },
       "description": {
-        "en": "The LA1 Anchor is tuned for close quarters effectiveness. It features high damage, moderate rate of fire, advanced laser attachments, and a 50 round box magazine for quick combat reloads. NC use only."
+        "en": "The LA1 Anchor is tuned for close quarters effectiveness. It features best-in-class rate of fire for its considerable stopping power, and a 50 round box magazine for quick combat reloads. NC use only."
       },
       "image_set_id": "874",
       "image_id": "2329",
@@ -7550,10 +7550,10 @@
       "skill_points": "650",
       "required_item_id": "7171",
       "name": {
-        "en": "Primary: Carbine: Gauss Compact Burst"
+        "en": "Primary: Carbine: AF-20 Rogue"
       },
       "description": {
-        "en": "The NC2B Gauss Compact features a burst fire mode for controllable long range fire. NC use only."
+        "en": "The AF-20 Rogue is a burst-fire version of the tried and true AF-19 Mercenary that boasts controllable recoil over moderate distances. NC use only."
       },
       "image_set_id": "877",
       "image_id": "2332",
@@ -7567,7 +7567,7 @@
         "en": "Primary: LMG:  NC6S Gauss SAW S"
       },
       "description": {
-        "en": "The NC6S Gauss SAW's select fire mode gives it incredible adaptability on the field. NC use only."
+        "en": "The Gauss SAW S was designed as a more versatile alternative of the iconic Gauss SAW. It boasts faster reloads and more controllability at cost to rate of fire and magazine size. NC use only."
       },
       "image_set_id": "874",
       "image_id": "2329",
@@ -7592,10 +7592,10 @@
       "skill_points": "1000",
       "required_item_id": "7172",
       "name": {
-        "en": "Primary: Carbine: Gauss Compact S"
+        "en": "Primary: Carbine: NC2 Gauss Compact"
       },
       "description": {
-        "en": "The NC2S Gauss Compact possesses a select-fire mode that further diversifies the usage of the already adaptable carbine. NC use only."
+        "en": "The NC2 Gauss Compact was designed with adaptability in mind, and is one of the most customizable carbines in the New Conglomerate's arsenal. NC use only."
       },
       "image_set_id": "877",
       "image_id": "2332",
@@ -7609,7 +7609,7 @@
         "en": "Primary: Assault Rifle: Gauss Rifle S"
       },
       "description": {
-        "en": "The Gauss Rifle S possesses a select fire option that allows for further adaptability on the battlefield. NC use only."
+        "en": "The controllable Gauss Rifle S was developed as a highly adaptable combat platform, allowing engineers to tinker with their attachment options based on battlefield conditions. NC use only."
       },
       "image_set_id": "876",
       "image_id": "2468",
@@ -7679,7 +7679,7 @@
         "en": "Primary: Carbine: TRAC-5 S"
       },
       "description": {
-        "en": "Created to further enhance the carbine's versatility, the TRAC-5 S can choose between multiple fire modes for firing at distant targets. TR use only."
+        "en": "Created to further enhance the carbine's versatility, the TRAC-5 S can choose from an extended array of attachment options. TR use only."
       },
       "image_set_id": "889",
       "image_id": "2344",
@@ -7693,7 +7693,7 @@
         "en": "Primary: Assault Rifle: T1S Cycler"
       },
       "description": {
-        "en": "The T1S Cycler performs well at many ranges, attributing its adaptability due to its multiple fire modes. TR use only."
+        "en": "The T1S Cycler performs well at many ranges, attributing its versatility to the wide range of customization options available to it. TR use only."
       },
       "image_set_id": "888",
       "image_id": "2477",
@@ -7732,10 +7732,10 @@
       "skill_points": "650",
       "required_item_id": "7150",
       "name": {
-        "en": "Primary: Assault Rifle: Equinox VE2 Burst"
+        "en": "Primary: Assault Rifle: Pulsar Burst"
       },
       "description": {
-        "en": "Vanu Esamir Labs created the Equinox VE2 Burst to provide easily controllable burst fire for distant targets. VS use only."
+        "en": "The first of many adaptations to the Pulsar VS1, this burst-fire variant provides enhanced control at long range without compromising on stopping power. VS use only."
       },
       "image_set_id": "902",
       "image_id": "2357",
@@ -7777,7 +7777,7 @@
         "en": "Primary: Assault Rifle: Equinox VE2"
       },
       "description": {
-        "en": "The versatile Equinox VE2 assault rifle was designed to perform well in many situations. VS use only."
+        "en": "Vanu Esamir labs developed the Equinox VE2 assault rifle as a versatile combat platform with a wide array of attachment options. Its lightweight design also allows for quicker movement while aiming, and better accuracy from the hip. VS use only."
       },
       "image_set_id": "902",
       "image_id": "2357",
@@ -7826,7 +7826,7 @@
         "en": "Secondary: Pistol: LA3 Desperado"
       },
       "description": {
-        "en": "The 2-round burst LA3 Desperado can quickly eliminate targets at close range. NC use only."
+        "en": "The 2-round burst LA3 Desperado can quickly eliminate targets at close range, and has access to semi-auto firing mode for increased control. NC use only."
       },
       "image_set_id": "8685",
       "image_id": "10557",
@@ -7949,7 +7949,7 @@
         "en": "Secondary: Pistol: TS2 Inquisitor"
       },
       "description": {
-        "en": "The TS2 Inquisitor features an extended magazine capable of outlasting the enemy even in the most drawn out firefights. TR use only."
+        "en": "The TS2 Inquisitor features two-round burst or semi-auto firemodes, with an extended magazine capable of outlasting the enemy even in the most drawn out firefights. TR use only."
       },
       "image_set_id": "8686",
       "image_id": "10558",

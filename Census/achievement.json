@@ -903,7 +903,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -919,7 +919,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -1447,7 +1447,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -2951,7 +2951,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -2967,7 +2967,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -3495,7 +3495,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -4999,7 +4999,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -5015,7 +5015,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -5543,7 +5543,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -7047,7 +7047,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -7063,7 +7063,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -7591,7 +7591,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -34151,7 +34151,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Nanite Healing Grenade"
+        "en": "Nano-Regen Grenade"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -38407,7 +38407,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Equinox VE2 Burst"
+        "en": "Pulsar Burst"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -38487,7 +38487,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Gauss Compact Burst"
+        "en": "AF-20 Rogue"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -38503,7 +38503,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Gauss Compact S"
+        "en": "NC2 Gauss Compact"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
