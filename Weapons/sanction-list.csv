@@ -59,10 +59,10 @@
 803424,ANT Harvesting Tool,1,WLT-Mandible Mining Laser,2,none
 803425,ANT Harvesting Tool,1,WLT-Mandible Mining Laser,3,none
 6005436,ANT Harvesting Tool,1,WLT-Mandible Mining Laser,4,none
-6011882,ANT Top Turret,1,A2-20 HCG,,
-6011879,ANT Top Turret,1,M18 Palisade-A,,
-6011881,ANT Top Turret,1,N30 Trawler-A,,
-6011880,ANT Top Turret,1,V42 Pariah-A,,
+6011882,ANT Top Turret,1,A2-20 HCG,,gunner
+6011879,ANT Top Turret,1,M18 Palisade-A,,gunner
+6011881,ANT Top Turret,1,N30 Trawler-A,,gunner
+6011880,ANT Top Turret,1,V42 Pariah-A,,gunner
 803485,ANT Top Turret,1,G30 Walker,1,gunner
 803486,ANT Top Turret,1,G30 Walker,2,gunner
 803487,ANT Top Turret,1,G30 Walker,3,gunner
@@ -356,10 +356,10 @@
 6009861,Dervish Top Turret,1,DV-22T Lightweaver,4,gunner
 6009991,Dervish Top Turret,1,DV-LAT Pixie,4,gunner
 6009992,Dervish Top Turret,1,DV-XAT,4,gunner
-6011878,Explosive,0,Concussion Mine,,
-6011923,Explosive,0,EMP Mine,,
-6011915,Explosive,0,Flashbang Mine,,
-6011924,Explosive,0,Havoc Mine,,
+6011878,Explosive,0,Concussion Mine,,none
+6011923,Explosive,0,EMP Mine,,none
+6011915,Explosive,0,Flashbang Mine,,none
+6011924,Explosive,0,Havoc Mine,,none
 1044,Explosive,0,Bouncing Betty,2,none
 432,Explosive,0,C-4,0,none
 800623,Explosive,0,C-4 ARX,0,none
@@ -438,10 +438,10 @@
 5504,Galaxy Top Weapon,1,M20 Drake,2,none
 5508,Galaxy Top Weapon,1,M20 Drake,3,none
 6005476,Galaxy Top Weapon,1,M20 Drake,4,none
-6011863,Grenade,0,Cleansing Grenade,,
-6011943,Grenade,0,Havoc Grenade,,
-6011871,Grenade,0,Impulse Grenade,,
-6011945,Grenade,0,Timed EMP Grenade,,
+6011863,Grenade,0,Cleansing Grenade,,none
+6011943,Grenade,0,Havoc Grenade,,none
+6011871,Grenade,0,Impulse Grenade,,none
+6011945,Grenade,0,Timed EMP Grenade,,none
 1095,Grenade,0,Anti-Vehicle Grenade,0,none
 1096,Grenade,0,Concussion Grenade,0,none
 6009524,Grenade,0,Condensate Grenade,0,none
@@ -472,10 +472,10 @@
 6004743,Grenade,0,Water Balloon,0,none
 6004744,Grenade,0,Water Balloon,0,none
 6007252,Grenade,0,Water Balloon,0,none
-6011886,Harasser Top Gunner,1,H2-20 HCG,,
-6011883,Harasser Top Gunner,1,M18 Palisade-H,,
-6011885,Harasser Top Gunner,1,N30 Trawler-H,,
-6011884,Harasser Top Gunner,1,V42 Pariah-H,,
+6011886,Harasser Top Gunner,1,H2-20 HCG,,gunner
+6011883,Harasser Top Gunner,1,M18 Palisade-H,,gunner
+6011885,Harasser Top Gunner,1,N30 Trawler-H,,gunner
+6011884,Harasser Top Gunner,1,V42 Pariah-H,,gunner
 802898,Harasser Top Gunner,1,Aphelion VEX-4H,1,gunner
 6124,Harasser Top Gunner,1,C85 Canister-H,2,gunner
 6118,Harasser Top Gunner,1,E540 Halberd-H,1,gunner
@@ -520,7 +520,7 @@
 6011442,Heavy Crossbow,,Demon Seeker HLX,,none
 6011432,Heavy Crossbow,,Seeker HLX,,none
 6011831,Heavy Crossbow,0,Seraphim HLX,,none
-6012324,Heavy Weapon,0,SPRK-33's Stomper,,
+6012324,Heavy Weapon,0,SPRK-33's Stomper,,none
 6011140,Heavy Weapon,,D11 Detonator,,max
 6011064,Heavy Weapon,,D7 Hummingbird,,max
 6008686,Heavy Weapon,0,Grenade Printer,4,max
@@ -960,7 +960,7 @@
 6010044,Javelin Primary Weapon,,JVN-30 Salamander,,none
 6010078,Javelin Primary Weapon,,JVN-50 Celeste,,none
 6010076,Javelin Primary Weapon,,JVN-X3 Hydra,,none
-6012441,Knife,0,NS SQU-34K,,
+6012441,Knife,0,NS SQU-34K,,none
 6008651,Knife,0,Ancient Psykinetic Blade,0,none
 6011053,Knife,,Ancient Psykinetic Blade,,none
 800625,Knife,0,Auraxium Chainblade,3,none
@@ -1136,7 +1136,7 @@
 6009900,LMG,0,XMG-155,,infantry
 6009901,LMG,0,XMG-200,,infantry
 6011254,LMG,,XMG-ARX Galilei,,infantry
-6011888,Magrider Gunner Weapon,1,V42 Pariah,,
+6011888,Magrider Gunner Weapon,1,V42 Pariah,,gunner
 802897,Magrider Gunner Weapon,1,Aphelion VEX-4,1,gunner
 3441,Magrider Gunner Weapon,1,E540 Halberd,1,gunner
 3403,Magrider Gunner Weapon,1,G30 Walker,1,gunner
@@ -1230,7 +1230,7 @@
 75521,Pistol,0,VS Patriot Flare Gun,1,meme
 803009,Pistol,0,VS Triumph Flare Gun,1,meme
 7390,Pistol,0,NC08 Mag-Scatter,2,none
-6011887,Prowler Gunner Weapon,1,M18 Palisade,,
+6011887,Prowler Gunner Weapon,1,M18 Palisade,,gunner
 4015,Prowler Gunner Weapon,1,E540 Halberd,3,gunner
 4029,Prowler Gunner Weapon,1,G30 Vulcan,3,gunner
 4003,Prowler Gunner Weapon,1,G30 Walker,3,gunner
@@ -1355,7 +1355,7 @@
 1884,Shotgun,0,The Brawler,2,shotgun
 39001,Shotgun,0,TRS-12 Uppercut,3,shotgun
 7432,Shotgun,0,TS4 Haymaker,3,shotgun
-6013051,SMG,0,NS-66 Bumblebee,,
+6013051,SMG,0,NS-66 Bumblebee,,infantry
 27000,SMG,0,AF-4 Cyclone,2,infantry
 6002824,SMG,0,AF-4AE Cyclone,2,infantry
 27005,SMG,0,AF-4G Cyclone,2,infantry
@@ -1439,10 +1439,10 @@
 26003,Sniper Rifle,0,V10,1,sniper
 89,Sniper Rifle,0,VA39 Spectre,1,sniper
 26000,Sniper Rifle,0,XM98,1,sniper
-6011874,Sunderer Front Gunner,1,M18 Palisade-S,,
-6011872,Sunderer Front Gunner,1,N30 Trawler-S,,
-6011869,Sunderer Front Gunner,1,S2-20 HCG,,
-6011877,Sunderer Front Gunner,1,V42 Pariah-S,,
+6011874,Sunderer Front Gunner,1,M18 Palisade-S,,gunner
+6011872,Sunderer Front Gunner,1,N30 Trawler-S,,gunner
+6011869,Sunderer Front Gunner,1,S2-20 HCG,,gunner
+6011877,Sunderer Front Gunner,1,V42 Pariah-S,,gunner
 3080,Sunderer Front Gunner,1,G30 Walker,1,gunner
 3081,Sunderer Front Gunner,1,G30 Walker,2,gunner
 3082,Sunderer Front Gunner,1,G30 Walker,3,gunner
@@ -1467,10 +1467,10 @@
 2833,Sunderer Front Gunner,1,M60-G Bulldog,2,gunner
 2834,Sunderer Front Gunner,1,M60-G Bulldog,3,gunner
 6005241,Sunderer Front Gunner,1,M60-G Bulldog,4,gunner
-6011875,Sunderer Rear Gunner,1,M18 Palisade-S,,
-6011873,Sunderer Rear Gunner,1,N30 Trawler-S,,
-6011870,Sunderer Rear Gunner,1,S2-20 HCG,,
-6011876,Sunderer Rear Gunner,1,V42 Pariah-S,,
+6011875,Sunderer Rear Gunner,1,M18 Palisade-S,,gunner
+6011873,Sunderer Rear Gunner,1,N30 Trawler-S,,gunner
+6011870,Sunderer Rear Gunner,1,S2-20 HCG,,gunner
+6011876,Sunderer Rear Gunner,1,V42 Pariah-S,,gunner
 3083,Sunderer Rear Gunner,1,G30 Walker,1,gunner
 3084,Sunderer Rear Gunner,1,G30 Walker,2,gunner
 3085,Sunderer Rear Gunner,1,G30 Walker,3,gunner
@@ -1519,7 +1519,7 @@
 6563,Valkyrie Nose Gunner,1,VLG Missile Launcher,2,none
 6564,Valkyrie Nose Gunner,1,VLG Missile Launcher,3,none
 6005498,Valkyrie Nose Gunner,1,VLG Missile Launcher,4,none
-6011889,Vanguard Gunner Weapon,1,N30 Trawler,,
+6011889,Vanguard Gunner Weapon,1,N30 Trawler,,gunner
 3707,Vanguard Gunner Weapon,1,C85 Canister,2,gunner
 3709,Vanguard Gunner Weapon,1,E540 Halberd,2,gunner
 3704,Vanguard Gunner Weapon,1,Enforcer ML85,2,gunner
