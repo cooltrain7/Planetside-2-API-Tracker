@@ -26,8 +26,9 @@ A collection of sites, applications and repositories that use the planetside 2 A
  - [Official PS2 Players](https://www.planetside2.com/players)
  - [Fisu](https://ps2.fisu.pw/)
  - [VoidWell](https://voidwell.com)
+ - [Honu](https://wt.honu.pw/)
  - [Dasanfall](http://stats.dasanfall.com/ps2/news/)
- - [Tide OP Tracker](http://tide-op-tracker.ddns.net/)
+ - [Tide OP Tracker](https://topt.honu.pw/)
  - [PS2 Population Tracker](https://ps2.nice.kiwi/)
  - [PS2Alerts](https://ps2alerts.com/)
  - [PS2-Alerts.io](https://ps2-alerts.github.io)
@@ -47,6 +48,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
 
 ## Community API services repositories
 - [Tide OP Tracker](https://github.com/Varunda/topt)
+- [Honu](https://github.com/Varunda/honu)
 - [PS2Alerts](https://github.com/ps2alerts)
 - [PS2-Alerts.io](https://github.com/ps2-alerts/ps2-alerts.github.io)
 - [PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
