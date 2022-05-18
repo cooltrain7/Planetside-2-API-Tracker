@@ -47,6 +47,10 @@
 16012,AI MAX (Right),0,NCM1 Scattercannon,2,max
 17024,AI MAX (Right),0,Nebula VM20,1,max
 17012,AI MAX (Right),0,Quasar VM1,1,max
+6011526,Amphibious Rifle,,UBR-100 Frogman,,infantry
+6011527,Amphibious Rifle,,UBR-150 Sea Lion,,infantry
+6011528,Amphibious Rifle,,UBR-300 Swordfish,,infantry
+6011538,Amphibious Sidearm,,UBP-1 Starfish,,infantry
 6004869,ANT Harvesting Tool,1,WLT-ARX Mining Laser,1,none
 6004870,ANT Harvesting Tool,1,WLT-ARX Mining Laser,2,none
 6004871,ANT Harvesting Tool,1,WLT-ARX Mining Laser,3,none
@@ -99,6 +103,22 @@
 803498,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,2,none
 803499,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,3,none
 6005434,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,4,none
+6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry
+6013464,Anti-Materiel Rifle,0,DAGR-81,,infantry
+6013463,Anti-Materiel Rifle,0,LA60 Masthead,,infantry
+6013466,Anti-Materiel Rifle,0,NE-36 Linecutter,,infantry
+6002943,Anti-Materiel Rifle,0,NS-AM7 AE/NC Archer,0,infantry
+6002930,Anti-Materiel Rifle,0,NS-AM7 AE/TR Archer,0,infantry
+802771,Anti-Materiel Rifle,0,NS-AM7 Archer,0,infantry
+6002918,Anti-Materiel Rifle,0,NS-AM7 VS/AE Archer,0,infantry
+802910,Anti-Materiel Rifle,0,NS-AM7B Archer,0,infantry
+802921,Anti-Materiel Rifle,0,NS-AM7G Archer,0,infantry
+6004992,Anti-Materiel Rifle,0,NS-AM8 Shortbow,0,infantry
+6008496,Anti-Materiel Rifle,0,PSA-01 Hammerhead AMR,0,infantry
+6013465,Anti-Materiel Rifle,0,VX4-3 Slicer,,infantry
+6013480,Assault Rifle,0,"""Apex"" NC1 Gauss Rifle",,infantry
+6013476,Assault Rifle,0,"""Apex"" Pulsar VS1",,infantry
+6013477,Assault Rifle,0,"""Apex"" T1 Cycler",,infantry
 6009864,Assault Rifle,0,AR-100,0,infantry
 6009891,Assault Rifle,0,AR-101,0,infantry
 6011252,Assault Rifle,,AR-ARX Maxwell,,infantry
@@ -1395,18 +1415,9 @@
 28005,SMG,0,SMG-46G Armistice,3,infantry
 1899,SMG,0,Tempest,2,infantry
 6003925,SMG,0,VE-S Canis,1,infantry
-6004294,Sniper Rifle,0,AM7-XOXO,0,infantry
 24002,Sniper Rifle,0,Impetus,2,infantry
 25002,Sniper Rifle,0,KSR-35,3,infantry
-6002943,Sniper Rifle,0,NS-AM7 AE/NC Archer,0,infantry
-6002930,Sniper Rifle,0,NS-AM7 AE/TR Archer,0,infantry
-802771,Sniper Rifle,0,NS-AM7 Archer,0,infantry
-6002918,Sniper Rifle,0,NS-AM7 VS/AE Archer,0,infantry
-802910,Sniper Rifle,0,NS-AM7B Archer,0,infantry
-802921,Sniper Rifle,0,NS-AM7G Archer,0,infantry
-6004992,Sniper Rifle,0,NS-AM8 Shortbow,0,infantry
 26002,Sniper Rifle,0,Phantom VA23,1,infantry
-6008496,Sniper Rifle,0,PSA-01 Hammerhead AMR,0,infantry
 88,Sniper Rifle,0,99SV,3,sniper
 6006850,Sniper Rifle,0,ADVX // Mako,4,sniper
 7301,Sniper Rifle,0,AF-8 RailJack,2,sniper
@@ -1495,10 +1506,6 @@
 6011873,Sunderer Rear Gunner,1,N30 Trawler-S,,gunner
 6011870,Sunderer Rear Gunner,1,S2-20 HCG,,gunner
 6011876,Sunderer Rear Gunner,1,V42 Pariah-S,,gunner
-6011538,Underwater Weapons,,UBP-1 Starfish,,infantry
-6011526,Underwater Weapons,,UBR-100 Frogman,,infantry
-6011527,Underwater Weapons,,UBR-150 Sea Lion,,infantry
-6011528,Underwater Weapons,,UBR-300 Swordfish,,infantry
 6553,Valkyrie Nose Gunner,1,CAS 14-E,1,none
 6554,Valkyrie Nose Gunner,1,CAS 14-E,2,none
 6555,Valkyrie Nose Gunner,1,CAS 14-E,3,none
