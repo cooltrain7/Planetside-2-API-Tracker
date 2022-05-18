@@ -27,6 +27,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
  - [Fisu](https://ps2.fisu.pw/)
  - [VoidWell](https://voidwell.com)
  - [Honu](https://wt.honu.pw/)
+ - [Outfit-Tracker](https://www.outfit-tracker.com/)
  - [Dasanfall](http://stats.dasanfall.com/ps2/news/)
  - [Tide OP Tracker](https://topt.honu.pw/)
  - [PS2 Population Tracker](https://ps2.nice.kiwi/)
