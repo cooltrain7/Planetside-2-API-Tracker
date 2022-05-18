@@ -103,11 +103,10 @@
 803498,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,2,none
 803499,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,3,none
 6005434,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,4,none
+6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry
 6013464,Anti-Materiel Rifle,0,DAGR-81,,infantry
 6013463,Anti-Materiel Rifle,0,LA60 Masthead,,infantry
 6013466,Anti-Materiel Rifle,0,NE-36 Linecutter,,infantry
-6013465,Anti-Materiel Rifle,0,VX4-3 Slicer,,infantry
-6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry
 6002943,Anti-Materiel Rifle,0,NS-AM7 AE/NC Archer,0,infantry
 6002930,Anti-Materiel Rifle,0,NS-AM7 AE/TR Archer,0,infantry
 802771,Anti-Materiel Rifle,0,NS-AM7 Archer,0,infantry
@@ -116,6 +115,7 @@
 802921,Anti-Materiel Rifle,0,NS-AM7G Archer,0,infantry
 6004992,Anti-Materiel Rifle,0,NS-AM8 Shortbow,0,infantry
 6008496,Anti-Materiel Rifle,0,PSA-01 Hammerhead AMR,0,infantry
+6013465,Anti-Materiel Rifle,0,VX4-3 Slicer,,infantry
 6013480,Assault Rifle,0,"""Apex"" NC1 Gauss Rifle",,infantry
 6013476,Assault Rifle,0,"""Apex"" Pulsar VS1",,infantry
 6013477,Assault Rifle,0,"""Apex"" T1 Cycler",,infantry
