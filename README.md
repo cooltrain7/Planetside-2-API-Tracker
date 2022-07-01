@@ -48,6 +48,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
 - Elixir [Planetside API](https://github.com/Bentheburrito/planetside_api)
 
 ## Community API services repositories
+- [Nanite-Systems Stream Replacement](https://github.com/nanite-systems)
 - [Tide OP Tracker](https://github.com/Varunda/topt)
 - [Honu](https://github.com/Varunda/honu)
 - [PS2Alerts](https://github.com/ps2alerts)
