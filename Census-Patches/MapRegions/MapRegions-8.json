@@ -1,0 +1,713 @@
+[
+  {
+    "map_region_id": 18001,
+    "zone_id": 8,
+    "facility_id": 230000,
+    "facility_name": "Palos Solar Array",
+    "facility_type_id": 6,
+    "location_x": 1369.66394,
+    "location_z": -2438.760986,
+    "facility_links": [
+      245000,
+      231000,
+      258000
+    ]
+  },
+  {
+    "map_region_id": 18002,
+    "zone_id": 8,
+    "facility_id": 231000,
+    "facility_name": "Crystal Ridge Comm Array",
+    "facility_type_id": 6,
+    "location_x": 1511.380981,
+    "location_z": -1661.208984,
+    "facility_links": [
+      253000,
+      230000,
+      232000,
+      258000
+    ]
+  },
+  {
+    "map_region_id": 18003,
+    "zone_id": 8,
+    "facility_id": 232000,
+    "facility_name": "Haven Outpost",
+    "facility_type_id": 6,
+    "location_x": 2265.324951,
+    "location_z": -687.724609,
+    "facility_links": [
+      231000,
+      255010,
+      258000
+    ]
+  },
+  {
+    "map_region_id": 18004,
+    "zone_id": 8,
+    "facility_id": 233000,
+    "facility_name": "Aurora Materials Lab",
+    "facility_type_id": 6,
+    "location_x": 1431.570068,
+    "location_z": -501.545166,
+    "facility_links": [
+      253000,
+      244610,
+      255030
+    ]
+  },
+  {
+    "map_region_id": 18005,
+    "zone_id": 8,
+    "facility_id": 234000,
+    "facility_name": "Mani Containment Site",
+    "facility_type_id": 11,
+    "location_x": 1099.279053,
+    "location_z": 409.824585,
+    "facility_links": [
+      244610,
+      244620,
+      255030,
+      235000
+    ]
+  },
+  {
+    "map_region_id": 18006,
+    "zone_id": 8,
+    "facility_id": 235000,
+    "facility_name": "Stillwater Watch",
+    "facility_type_id": 9,
+    "location_x": 1871.567017,
+    "location_z": 1174.458008,
+    "facility_links": [
+      247000,
+      400315,
+      234000
+    ]
+  },
+  {
+    "map_region_id": 18007,
+    "zone_id": 8,
+    "facility_id": 236000,
+    "facility_name": "Grey Heron Shipping",
+    "facility_type_id": 5,
+    "location_x": 915.476196,
+    "location_z": 1883.579956,
+    "facility_links": [
+      256000,
+      400315,
+      244620,
+      260000
+    ]
+  },
+  {
+    "map_region_id": 18008,
+    "zone_id": 8,
+    "facility_id": 237000,
+    "facility_name": "The Traverse",
+    "facility_type_id": 6,
+    "location_x": 311.391479,
+    "location_z": -1349.821411,
+    "facility_links": [
+      245000,
+      253000,
+      246000,
+      400134
+    ]
+  },
+  {
+    "map_region_id": 18010,
+    "zone_id": 8,
+    "facility_id": 239000,
+    "facility_name": "Pale Canyon Chemical",
+    "facility_type_id": 6,
+    "location_x": -477.783813,
+    "location_z": -1071.928955,
+    "facility_links": [
+      246000,
+      400134,
+      400314
+    ]
+  },
+  {
+    "map_region_id": 18011,
+    "zone_id": 8,
+    "facility_id": 240000,
+    "facility_name": "Old Shore Checkpoint",
+    "facility_type_id": 6,
+    "location_x": -1711.926025,
+    "location_z": -370.127014,
+    "facility_links": [
+      252010,
+      244300,
+      259000
+    ]
+  },
+  {
+    "map_region_id": 18013,
+    "zone_id": 8,
+    "facility_id": 242000,
+    "facility_name": "Eastwake Harborage",
+    "facility_type_id": 6,
+    "location_x": -750.881958,
+    "location_z": 2838.585693,
+    "facility_links": [
+      256000,
+      260000,
+      244000
+    ]
+  },
+  {
+    "map_region_id": 18014,
+    "zone_id": 8,
+    "facility_id": 243000,
+    "facility_name": "Elli Forest Pass",
+    "facility_type_id": 6,
+    "location_x": -1904.35498,
+    "location_z": 648.972473,
+    "facility_links": [
+      252010,
+      400327,
+      400328
+    ]
+  },
+  {
+    "map_region_id": 18015,
+    "zone_id": 8,
+    "facility_id": 244000,
+    "facility_name": "Frostfall Overlook",
+    "facility_type_id": 6,
+    "location_x": -1216.208008,
+    "location_z": 2576.946045,
+    "facility_links": [
+      257000,
+      242000,
+      260010
+    ]
+  },
+  {
+    "map_region_id": 18016,
+    "zone_id": 8,
+    "facility_id": 245000,
+    "facility_name": "Snowshear Fort",
+    "facility_type_id": 5,
+    "location_x": 1003.724976,
+    "location_z": -2011.889038,
+    "facility_links": [
+      237000,
+      230000,
+      251010
+    ]
+  },
+  {
+    "map_region_id": 18017,
+    "zone_id": 8,
+    "facility_id": 246000,
+    "facility_name": "Mattherson's Triumph",
+    "facility_type_id": 5,
+    "location_x": 161.459595,
+    "location_z": -785.205872,
+    "facility_links": [
+      237000,
+      254000,
+      239000,
+      400135
+    ]
+  },
+  {
+    "map_region_id": 18018,
+    "zone_id": 8,
+    "facility_id": 247000,
+    "facility_name": "Northpoint Ruins",
+    "facility_type_id": 9,
+    "location_x": 2612.332031,
+    "location_z": 1121.946045,
+    "facility_links": [
+      255020,
+      235000
+    ]
+  },
+  {
+    "map_region_id": 18019,
+    "zone_id": 8,
+    "facility_id": 248000,
+    "facility_name": "Saerro Listening Post",
+    "facility_type_id": 5,
+    "location_x": 220.313095,
+    "location_z": 590.709717,
+    "facility_links": [
+      244100,
+      254000,
+      244610,
+      244620,
+      256030
+    ]
+  },
+  {
+    "map_region_id": 18020,
+    "zone_id": 8,
+    "facility_id": 249000,
+    "facility_name": "Waterson's Redemption",
+    "facility_type_id": 5,
+    "location_x": -688.141724,
+    "location_z": 124.289703,
+    "facility_links": [
+      244100,
+      244200,
+      254000,
+      400314
+    ]
+  },
+  {
+    "map_region_id": 18022,
+    "zone_id": 8,
+    "facility_id": 400326,
+    "facility_name": "Andvari Containment Site",
+    "facility_type_id": 11,
+    "location_x": 82.0,
+    "location_z": -2490.0,
+    "facility_links": [
+      251030,
+      400134,
+      251010
+    ]
+  },
+  {
+    "map_region_id": 18024,
+    "zone_id": 8,
+    "facility_id": 253000,
+    "facility_name": "Freyr",
+    "facility_type_id": 2,
+    "location_x": 1123.680054,
+    "location_z": -1020.969971,
+    "facility_links": [
+      237000,
+      231000,
+      233000
+    ]
+  },
+  {
+    "map_region_id": 18025,
+    "zone_id": 8,
+    "facility_id": 254000,
+    "facility_name": "Eisa",
+    "facility_type_id": 4,
+    "location_x": 70.712578,
+    "location_z": -80.929832,
+    "facility_links": [
+      246000,
+      244610,
+      248000,
+      249000
+    ]
+  },
+  {
+    "map_region_id": 18027,
+    "zone_id": 8,
+    "facility_id": 256000,
+    "facility_name": "Nott Communications",
+    "facility_type_id": 6,
+    "location_x": -40.150677,
+    "location_z": 1964.311279,
+    "facility_links": [
+      256030,
+      242000,
+      260000,
+      236000
+    ]
+  },
+  {
+    "map_region_id": 18028,
+    "zone_id": 8,
+    "facility_id": 257000,
+    "facility_name": "Ymir",
+    "facility_type_id": 9,
+    "location_x": -1953.991943,
+    "location_z": 2135.370117,
+    "facility_links": [
+      400327,
+      244000
+    ]
+  },
+  {
+    "map_region_id": 18029,
+    "zone_id": 8,
+    "facility_id": 258000,
+    "facility_name": "Esamir Northern Warpgate",
+    "facility_type_id": 7,
+    "location_x": 2250.666992,
+    "location_z": -2389.305908,
+    "facility_links": [
+      230000,
+      231000,
+      232000
+    ]
+  },
+  {
+    "map_region_id": 18030,
+    "zone_id": 8,
+    "facility_id": 259000,
+    "facility_name": "Esamir Southern Warpgate",
+    "facility_type_id": 7,
+    "location_x": -2387.216064,
+    "location_z": -1999.223022,
+    "facility_links": [
+      244300,
+      240000,
+      244600
+    ]
+  },
+  {
+    "map_region_id": 18032,
+    "zone_id": 8,
+    "facility_id": 244100,
+    "facility_name": "Echo Valley Substation",
+    "facility_type_id": 6,
+    "location_x": -342.963776,
+    "location_z": 524.312744,
+    "facility_links": [
+      248000,
+      249000,
+      400317
+    ]
+  },
+  {
+    "map_region_id": 18033,
+    "zone_id": 8,
+    "facility_id": 244200,
+    "facility_name": "Bridge-ward",
+    "facility_type_id": 6,
+    "location_x": -1130.016968,
+    "location_z": 9.949173,
+    "facility_links": [
+      252010,
+      249000
+    ]
+  },
+  {
+    "map_region_id": 18034,
+    "zone_id": 8,
+    "facility_id": 244300,
+    "facility_name": "Frostbite Harbor",
+    "facility_type_id": 6,
+    "location_x": -1470.939941,
+    "location_z": -939.556885,
+    "facility_links": [
+      400314,
+      240000,
+      244600,
+      259000
+    ]
+  },
+  {
+    "map_region_id": 18036,
+    "zone_id": 8,
+    "facility_id": 244500,
+    "facility_name": "Jaeger's Fist",
+    "facility_type_id": 6,
+    "location_x": -839.595581,
+    "location_z": -2175.327881,
+    "facility_links": [
+      251030,
+      400134,
+      244600
+    ]
+  },
+  {
+    "map_region_id": 18037,
+    "zone_id": 8,
+    "facility_id": 244600,
+    "facility_name": "Two Stone Beach",
+    "facility_type_id": 6,
+    "location_x": -1604.48999,
+    "location_z": -2181.708984,
+    "facility_links": [
+      244300,
+      244500,
+      259000
+    ]
+  },
+  {
+    "map_region_id": 18038,
+    "zone_id": 8,
+    "facility_id": 260010,
+    "facility_name": "Terran BL-4 Crash Site",
+    "facility_type_id": 5,
+    "location_x": -1181.333008,
+    "location_z": 1897.884033,
+    "facility_links": [
+      400133,
+      400327,
+      400328,
+      244000
+    ]
+  },
+  {
+    "map_region_id": 18046,
+    "zone_id": 8,
+    "facility_id": 251010,
+    "facility_name": "Andvari Barracks",
+    "facility_type_id": 6,
+    "location_x": 458.46463,
+    "location_z": -2380.399658,
+    "facility_links": [
+      245000,
+      400326
+    ]
+  },
+  {
+    "map_region_id": 18048,
+    "zone_id": 8,
+    "facility_id": 251030,
+    "facility_name": "Andvari South Bank",
+    "facility_type_id": 6,
+    "location_x": -349.209991,
+    "location_z": -2356.22998,
+    "facility_links": [
+      244500,
+      400326
+    ]
+  },
+  {
+    "map_region_id": 18049,
+    "zone_id": 8,
+    "facility_id": 252010,
+    "facility_name": "Elli Tower",
+    "facility_type_id": 6,
+    "location_x": -1730.969971,
+    "location_z": 242.976807,
+    "facility_links": [
+      244200,
+      240000,
+      243000
+    ]
+  },
+  {
+    "map_region_id": 18058,
+    "zone_id": 8,
+    "facility_id": 255010,
+    "facility_name": "Steelshore Processing",
+    "facility_type_id": 6,
+    "location_x": 2416.212891,
+    "location_z": -211.856903,
+    "facility_links": [
+      232000,
+      255020
+    ]
+  },
+  {
+    "map_region_id": 18059,
+    "zone_id": 8,
+    "facility_id": 255020,
+    "facility_name": "Steelshore Reconstruction",
+    "facility_type_id": 6,
+    "location_x": 2578.249023,
+    "location_z": 304.52121,
+    "facility_links": [
+      255010,
+      247000,
+      255030
+    ]
+  },
+  {
+    "map_region_id": 18060,
+    "zone_id": 8,
+    "facility_id": 255030,
+    "facility_name": "Esper Research Station",
+    "facility_type_id": 6,
+    "location_x": 1860.760986,
+    "location_z": -42.99902,
+    "facility_links": [
+      255020,
+      233000,
+      234000
+    ]
+  },
+  {
+    "map_region_id": 18062,
+    "zone_id": 8,
+    "facility_id": 260000,
+    "facility_name": "Esamir Eastern Warpgate",
+    "facility_type_id": 7,
+    "location_x": 233.934998,
+    "location_z": 2658.075195,
+    "facility_links": [
+      256000,
+      242000,
+      236000
+    ]
+  },
+  {
+    "map_region_id": 18063,
+    "zone_id": 8,
+    "facility_id": 256030,
+    "facility_name": "Genudine Gardens",
+    "facility_type_id": 6,
+    "location_x": 310.721252,
+    "location_z": 1348.02356,
+    "facility_links": [
+      256000,
+      248000
+    ]
+  },
+  {
+    "map_region_id": 18067,
+    "zone_id": 8,
+    "facility_id": 244610,
+    "facility_name": "Rime Analytics",
+    "facility_type_id": 6,
+    "location_x": 723.09198,
+    "location_z": 60.083462,
+    "facility_links": [
+      254000,
+      400135,
+      248000,
+      233000,
+      234000
+    ]
+  },
+  {
+    "map_region_id": 18068,
+    "zone_id": 8,
+    "facility_id": 244620,
+    "facility_name": "The Rink",
+    "facility_type_id": 6,
+    "location_x": 716.089783,
+    "location_z": 986.139709,
+    "facility_links": [
+      248000,
+      234000,
+      236000
+    ]
+  },
+  {
+    "map_region_id": 18208,
+    "zone_id": 8,
+    "facility_id": 400133,
+    "facility_name": "BL-4 Recovery Point",
+    "facility_type_id": 9,
+    "location_x": -694.309998,
+    "location_z": 1670.949951,
+    "facility_links": [
+      400317,
+      260010
+    ]
+  },
+  {
+    "map_region_id": 18209,
+    "zone_id": 8,
+    "facility_id": 400134,
+    "facility_name": "Tapp Waystation",
+    "facility_type_id": 9,
+    "location_x": -342.569336,
+    "location_z": -1751.916504,
+    "facility_links": [
+      237000,
+      239000,
+      244500,
+      400326
+    ]
+  },
+  {
+    "map_region_id": 18210,
+    "zone_id": 8,
+    "facility_id": 400135,
+    "facility_name": "Untapped Reservoir",
+    "facility_type_id": 9,
+    "location_x": 757.119995,
+    "location_z": -407.940002,
+    "facility_links": [
+      246000,
+      244610
+    ]
+  },
+  {
+    "map_region_id": 18249,
+    "zone_id": 8,
+    "facility_id": 0,
+    "facility_name": "The Wash",
+    "facility_type_id": 0,
+    "location_x": 0.0,
+    "location_z": 0.0,
+    "facility_links": null
+  },
+  {
+    "map_region_id": 18250,
+    "zone_id": 8,
+    "facility_id": 400314,
+    "facility_name": "Baldur",
+    "facility_type_id": 2,
+    "location_x": -828.223511,
+    "location_z": -559.682373,
+    "facility_links": [
+      239000,
+      244300,
+      249000
+    ]
+  },
+  {
+    "map_region_id": 18251,
+    "zone_id": 8,
+    "facility_id": 400315,
+    "facility_name": "Vidar Observation Site",
+    "facility_type_id": 9,
+    "location_x": 1342.113403,
+    "location_z": 2176.018066,
+    "facility_links": [
+      235000,
+      236000
+    ]
+  },
+  {
+    "map_region_id": 18252,
+    "zone_id": 8,
+    "facility_id": 400327,
+    "facility_name": "Ymir Containment Site",
+    "facility_type_id": 11,
+    "location_x": -2047.060059,
+    "location_z": 1556.339966,
+    "facility_links": [
+      257000,
+      243000,
+      260010
+    ]
+  },
+  {
+    "map_region_id": 18253,
+    "zone_id": 8,
+    "facility_id": 400317,
+    "facility_name": "Jord",
+    "facility_type_id": 2,
+    "location_x": -440.229645,
+    "location_z": 1150.347046,
+    "facility_links": [
+      244100,
+      400133,
+      400328
+    ]
+  },
+  {
+    "map_region_id": 18261,
+    "zone_id": 8,
+    "facility_id": 400328,
+    "facility_name": "Spral Oasis",
+    "facility_type_id": 9,
+    "location_x": -1454.660034,
+    "location_z": 1098.22998,
+    "facility_links": [
+      400317,
+      243000,
+      260010
+    ]
+  },
+  {
+    "map_region_id": 18262,
+    "zone_id": 8,
+    "facility_id": 0,
+    "facility_name": "The Shattered Warpgate",
+    "facility_type_id": 0,
+    "location_x": 0.0,
+    "location_z": 0.0,
+    "facility_links": null
+  }
+]
