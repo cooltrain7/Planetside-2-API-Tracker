@@ -1,0 +1,1235 @@
+[
+  {
+    "map_region_id": 2101,
+    "zone_id": 2,
+    "facility_id": 7500,
+    "facility_name": "Hvar",
+    "facility_type_id": 4,
+    "location_x": -585.226563,
+    "location_z": -2547.084229,
+    "facility_links": [
+      7520,
+      7510,
+      7530
+    ]
+  },
+  {
+    "map_region_id": 2102,
+    "zone_id": 2,
+    "facility_id": 4401,
+    "facility_name": "Mao",
+    "facility_type_id": 4,
+    "location_x": 1810.618286,
+    "location_z": 1514.764038,
+    "facility_links": [
+      4430,
+      4420,
+      4410
+    ]
+  },
+  {
+    "map_region_id": 2103,
+    "zone_id": 2,
+    "facility_id": 4001,
+    "facility_name": "Allatum",
+    "facility_type_id": 3,
+    "location_x": -383.0,
+    "location_z": -845.0,
+    "facility_links": [
+      4010,
+      4020,
+      4030
+    ]
+  },
+  {
+    "map_region_id": 2104,
+    "zone_id": 2,
+    "facility_id": 3801,
+    "facility_name": "Saurva",
+    "facility_type_id": 3,
+    "location_x": 2381.499512,
+    "location_z": -2045.003906,
+    "facility_links": [
+      3810,
+      3820,
+      203
+    ]
+  },
+  {
+    "map_region_id": 2105,
+    "zone_id": 2,
+    "facility_id": 3400,
+    "facility_name": "Peris",
+    "facility_type_id": 2,
+    "location_x": -2384.11499,
+    "location_z": -1148.465576,
+    "facility_links": [
+      3430,
+      3410,
+      3420
+    ]
+  },
+  {
+    "map_region_id": 2106,
+    "zone_id": 2,
+    "facility_id": 3601,
+    "facility_name": "Rashnu",
+    "facility_type_id": 3,
+    "location_x": -508.115326,
+    "location_z": 2456.425293,
+    "facility_links": [
+      3620,
+      3610,
+      3630
+    ]
+  },
+  {
+    "map_region_id": 2107,
+    "zone_id": 2,
+    "facility_id": 3201,
+    "facility_name": "Dahaka",
+    "facility_type_id": 2,
+    "location_x": 1416.0,
+    "location_z": -1181.0,
+    "facility_links": [
+      3210,
+      3230,
+      3220
+    ]
+  },
+  {
+    "map_region_id": 2108,
+    "zone_id": 2,
+    "facility_id": 7000,
+    "facility_name": "Tawrich",
+    "facility_type_id": 4,
+    "location_x": -1937.0,
+    "location_z": 810.0,
+    "facility_links": [
+      7030,
+      7010,
+      7020
+    ]
+  },
+  {
+    "map_region_id": 2109,
+    "zone_id": 2,
+    "facility_id": 118000,
+    "facility_name": "Zurvan",
+    "facility_type_id": 2,
+    "location_x": -432.539001,
+    "location_z": 1126.246094,
+    "facility_links": [
+      118030,
+      118010,
+      118020
+    ]
+  },
+  {
+    "map_region_id": 2201,
+    "zone_id": 2,
+    "facility_id": 7801,
+    "facility_name": "Indar Northern Warpgate",
+    "facility_type_id": 7,
+    "location_x": 2750.148438,
+    "location_z": 95.019592,
+    "facility_links": [
+      201,
+      209,
+      210
+    ]
+  },
+  {
+    "map_region_id": 2202,
+    "zone_id": 2,
+    "facility_id": 120000,
+    "facility_name": "Indar Western Warpgate",
+    "facility_type_id": 7,
+    "location_x": -2276.636719,
+    "location_z": -2486.449463,
+    "facility_links": [
+      6000,
+      252,
+      237
+    ]
+  },
+  {
+    "map_region_id": 2203,
+    "zone_id": 2,
+    "facility_id": 4801,
+    "facility_name": "Indar Eastern Warpgate",
+    "facility_type_id": 7,
+    "location_x": -2435.837646,
+    "location_z": 2764.69165,
+    "facility_links": [
+      247,
+      248,
+      246
+    ]
+  },
+  {
+    "map_region_id": 2301,
+    "zone_id": 2,
+    "facility_id": 5300,
+    "facility_name": "Camp Connery",
+    "facility_type_id": 5,
+    "location_x": 2507.057617,
+    "location_z": -786.635071,
+    "facility_links": [
+      207,
+      208,
+      201
+    ]
+  },
+  {
+    "map_region_id": 2302,
+    "zone_id": 2,
+    "facility_id": 5500,
+    "facility_name": "Camp Waterson",
+    "facility_type_id": 5,
+    "location_x": 2705.0,
+    "location_z": 1537.0,
+    "facility_links": [
+      210,
+      212
+    ]
+  },
+  {
+    "map_region_id": 2303,
+    "zone_id": 2,
+    "facility_id": 5100,
+    "facility_name": "Indar Excavation Site",
+    "facility_type_id": 5,
+    "location_x": 999.114197,
+    "location_z": -2385.057861,
+    "facility_links": [
+      400132,
+      204,
+      206
+    ]
+  },
+  {
+    "map_region_id": 2304,
+    "zone_id": 2,
+    "facility_id": 5200,
+    "facility_name": "J908 Impact Site",
+    "facility_type_id": 5,
+    "location_x": 1112.44873,
+    "location_z": 48.478561,
+    "facility_links": [
+      209,
+      220,
+      3220
+    ]
+  },
+  {
+    "map_region_id": 2305,
+    "zone_id": 2,
+    "facility_id": 5900,
+    "facility_name": "Crimson Bluff Tower",
+    "facility_type_id": 5,
+    "location_x": 224.638077,
+    "location_z": 1949.769287,
+    "facility_links": [
+      224,
+      235,
+      221,
+      118020
+    ]
+  },
+  {
+    "map_region_id": 2306,
+    "zone_id": 2,
+    "facility_id": 6200,
+    "facility_name": "The Crown",
+    "facility_type_id": 5,
+    "location_x": -130.914978,
+    "location_z": 305.380341,
+    "facility_links": [
+      218,
+      6100,
+      219,
+      221,
+      118010
+    ]
+  },
+  {
+    "map_region_id": 2307,
+    "zone_id": 2,
+    "facility_id": 6100,
+    "facility_name": "Crossroads Watchtower",
+    "facility_type_id": 5,
+    "location_x": -790.42511,
+    "location_z": 277.360718,
+    "facility_links": [
+      7010,
+      6200,
+      229,
+      230
+    ]
+  },
+  {
+    "map_region_id": 2308,
+    "zone_id": 2,
+    "facility_id": 6000,
+    "facility_name": "Indar Bay Point",
+    "facility_type_id": 5,
+    "location_x": -1339.236206,
+    "location_z": -2194.353516,
+    "facility_links": [
+      120000,
+      7510,
+      227,
+      252
+    ]
+  },
+  {
+    "map_region_id": 2309,
+    "zone_id": 2,
+    "facility_id": 5800,
+    "facility_name": "Vanu Archives",
+    "facility_type_id": 5,
+    "location_x": -1143.912231,
+    "location_z": -839.805176,
+    "facility_links": [
+      228,
+      229,
+      3420
+    ]
+  },
+  {
+    "map_region_id": 2310,
+    "zone_id": 2,
+    "facility_id": 5700,
+    "facility_name": "Regent Rock Garrison",
+    "facility_type_id": 5,
+    "location_x": -1763.052734,
+    "location_z": -391.545349,
+    "facility_links": [
+      3430,
+      400130,
+      230
+    ]
+  },
+  {
+    "map_region_id": 2311,
+    "zone_id": 2,
+    "facility_id": 6500,
+    "facility_name": "The Stronghold",
+    "facility_type_id": 5,
+    "location_x": -1579.100708,
+    "location_z": 1651.753906,
+    "facility_links": [
+      6400,
+      7020
+    ]
+  },
+  {
+    "map_region_id": 2312,
+    "zone_id": 2,
+    "facility_id": 6400,
+    "facility_name": "Feldspar Canyon Base",
+    "facility_type_id": 5,
+    "location_x": -1571.195435,
+    "location_z": 2100.945557,
+    "facility_links": [
+      247,
+      236,
+      6500
+    ]
+  },
+  {
+    "map_region_id": 2313,
+    "zone_id": 2,
+    "facility_id": 6300,
+    "facility_name": "Arroyo Torre Station",
+    "facility_type_id": 5,
+    "location_x": -2218.261475,
+    "location_z": 1761.455078,
+    "facility_links": [
+      7030,
+      246
+    ]
+  },
+  {
+    "map_region_id": 2402,
+    "zone_id": 2,
+    "facility_id": 201,
+    "facility_name": "Indar Waste Treatment",
+    "facility_type_id": 6,
+    "location_x": 2934.29248,
+    "location_z": -903.353271,
+    "facility_links": [
+      7801,
+      209,
+      5300
+    ]
+  },
+  {
+    "map_region_id": 2404,
+    "zone_id": 2,
+    "facility_id": 203,
+    "facility_name": "Saurva Overflow Depot",
+    "facility_type_id": 6,
+    "location_x": 2397.959473,
+    "location_z": -2380.91626,
+    "facility_links": [
+      3801,
+      3810,
+      204
+    ]
+  },
+  {
+    "map_region_id": 2405,
+    "zone_id": 2,
+    "facility_id": 204,
+    "facility_name": "Helios Solar, Inc.",
+    "facility_type_id": 6,
+    "location_x": 1849.328491,
+    "location_z": -2381.741943,
+    "facility_links": [
+      203,
+      5100
+    ]
+  },
+  {
+    "map_region_id": 2406,
+    "zone_id": 2,
+    "facility_id": 205,
+    "facility_name": "Alkali Shipping",
+    "facility_type_id": 6,
+    "location_x": 1795.966431,
+    "location_z": -1616.925659,
+    "facility_links": [
+      207,
+      3820,
+      3210
+    ]
+  },
+  {
+    "map_region_id": 2407,
+    "zone_id": 2,
+    "facility_id": 206,
+    "facility_name": "CoraMed Labs",
+    "facility_type_id": 6,
+    "location_x": 1257.532715,
+    "location_z": -1896.411133,
+    "facility_links": [
+      3210,
+      5100
+    ]
+  },
+  {
+    "map_region_id": 2408,
+    "zone_id": 2,
+    "facility_id": 207,
+    "facility_name": "Benson Construction",
+    "facility_type_id": 6,
+    "location_x": 2545.194336,
+    "location_z": -1248.234253,
+    "facility_links": [
+      3810,
+      5300,
+      205
+    ]
+  },
+  {
+    "map_region_id": 2409,
+    "zone_id": 2,
+    "facility_id": 208,
+    "facility_name": "Alkali Mining Supply",
+    "facility_type_id": 6,
+    "location_x": 1867.873291,
+    "location_z": -590.80127,
+    "facility_links": [
+      209,
+      5300
+    ]
+  },
+  {
+    "map_region_id": 2410,
+    "zone_id": 2,
+    "facility_id": 209,
+    "facility_name": "Crater Firing Range",
+    "facility_type_id": 6,
+    "location_x": 1813.0,
+    "location_z": 80.0,
+    "facility_links": [
+      5200,
+      208,
+      7801,
+      201,
+      210
+    ]
+  },
+  {
+    "map_region_id": 2411,
+    "zone_id": 2,
+    "facility_id": 210,
+    "facility_name": "Alkali Storage",
+    "facility_type_id": 6,
+    "location_x": 2470.576416,
+    "location_z": 1036.436157,
+    "facility_links": [
+      7801,
+      209,
+      5500
+    ]
+  },
+  {
+    "map_region_id": 2412,
+    "zone_id": 2,
+    "facility_id": 211,
+    "facility_name": "Briggs Laboratories",
+    "facility_type_id": 6,
+    "location_x": 1331.585449,
+    "location_z": 1028.919434,
+    "facility_links": [
+      220,
+      4410,
+      221
+    ]
+  },
+  {
+    "map_region_id": 2413,
+    "zone_id": 2,
+    "facility_id": 212,
+    "facility_name": "NS Refinery",
+    "facility_type_id": 6,
+    "location_x": 2434.537109,
+    "location_z": 1957.293579,
+    "facility_links": [
+      4420,
+      5500
+    ]
+  },
+  {
+    "map_region_id": 2414,
+    "zone_id": 2,
+    "facility_id": 213,
+    "facility_name": "Howling Pass Checkpoint",
+    "facility_type_id": 5,
+    "location_x": 857.929321,
+    "location_z": 2376.405518,
+    "facility_links": [
+      224,
+      4430,
+      400131
+    ]
+  },
+  {
+    "map_region_id": 2415,
+    "zone_id": 2,
+    "facility_id": 214,
+    "facility_name": "Indar Comm. Array",
+    "facility_type_id": 6,
+    "location_x": 681.002563,
+    "location_z": -1420.115234,
+    "facility_links": [
+      215,
+      4020,
+      3230
+    ]
+  },
+  {
+    "map_region_id": 2416,
+    "zone_id": 2,
+    "facility_id": 215,
+    "facility_name": "Quartz Ridge Camp",
+    "facility_type_id": 5,
+    "location_x": 153.998962,
+    "location_z": -2312.848145,
+    "facility_links": [
+      400132,
+      7520,
+      214
+    ]
+  },
+  {
+    "map_region_id": 2418,
+    "zone_id": 2,
+    "facility_id": 217,
+    "facility_name": "Seabed Listening Post",
+    "facility_type_id": 6,
+    "location_x": 622.454346,
+    "location_z": -432.45639,
+    "facility_links": [
+      219,
+      3230
+    ]
+  },
+  {
+    "map_region_id": 2419,
+    "zone_id": 2,
+    "facility_id": 218,
+    "facility_name": "Ti Alloys, Inc.",
+    "facility_type_id": 6,
+    "location_x": -130.89444,
+    "location_z": -103.954803,
+    "facility_links": [
+      6200,
+      4030,
+      219
+    ]
+  },
+  {
+    "map_region_id": 2420,
+    "zone_id": 2,
+    "facility_id": 219,
+    "facility_name": "Ceres Hydroponics",
+    "facility_type_id": 6,
+    "location_x": 284.21698,
+    "location_z": 84.640587,
+    "facility_links": [
+      217,
+      6200,
+      218,
+      220
+    ]
+  },
+  {
+    "map_region_id": 2421,
+    "zone_id": 2,
+    "facility_id": 220,
+    "facility_name": "Galaxy Solar Plant",
+    "facility_type_id": 6,
+    "location_x": 721.0,
+    "location_z": 688.0,
+    "facility_links": [
+      5200,
+      219,
+      211
+    ]
+  },
+  {
+    "map_region_id": 2422,
+    "zone_id": 2,
+    "facility_id": 221,
+    "facility_name": "The Palisade",
+    "facility_type_id": 6,
+    "location_x": 333.0,
+    "location_z": 1063.0,
+    "facility_links": [
+      5900,
+      6200,
+      211
+    ]
+  },
+  {
+    "map_region_id": 2425,
+    "zone_id": 2,
+    "facility_id": 224,
+    "facility_name": "NS Material Storage",
+    "facility_type_id": 6,
+    "location_x": 212.056396,
+    "location_z": 2426.673096,
+    "facility_links": [
+      5900,
+      3620,
+      213
+    ]
+  },
+  {
+    "map_region_id": 2427,
+    "zone_id": 2,
+    "facility_id": 226,
+    "facility_name": "NS Secure Data Lab",
+    "facility_type_id": 6,
+    "location_x": -964.906494,
+    "location_z": -1314.808228,
+    "facility_links": [
+      4010,
+      7530
+    ]
+  },
+  {
+    "map_region_id": 2428,
+    "zone_id": 2,
+    "facility_id": 227,
+    "facility_name": "Highlands Solar Station",
+    "facility_type_id": 6,
+    "location_x": -1323.311646,
+    "location_z": -1660.740723,
+    "facility_links": [
+      6000,
+      228
+    ]
+  },
+  {
+    "map_region_id": 2429,
+    "zone_id": 2,
+    "facility_id": 228,
+    "facility_name": "Ayani Labs",
+    "facility_type_id": 6,
+    "location_x": -1395.0,
+    "location_z": -1306.0,
+    "facility_links": [
+      227,
+      252,
+      5800
+    ]
+  },
+  {
+    "map_region_id": 2430,
+    "zone_id": 2,
+    "facility_id": 229,
+    "facility_name": "Snake Ravine Lookout",
+    "facility_type_id": 6,
+    "location_x": -831.667236,
+    "location_z": -470.338318,
+    "facility_links": [
+      6100,
+      4030,
+      5800
+    ]
+  },
+  {
+    "map_region_id": 2431,
+    "zone_id": 2,
+    "facility_id": 230,
+    "facility_name": "XenoTech Labs",
+    "facility_type_id": 6,
+    "location_x": -1233.52417,
+    "location_z": -49.678246,
+    "facility_links": [
+      6100,
+      400130,
+      5700
+    ]
+  },
+  {
+    "map_region_id": 2433,
+    "zone_id": 2,
+    "facility_id": 232,
+    "facility_name": "Gravel Pass",
+    "facility_type_id": 6,
+    "location_x": -1239.864014,
+    "location_z": 964.789124,
+    "facility_links": [
+      118010,
+      7020
+    ]
+  },
+  {
+    "map_region_id": 2436,
+    "zone_id": 2,
+    "facility_id": 235,
+    "facility_name": "Rust Mesa Lookout",
+    "facility_type_id": 6,
+    "location_x": -230.45639,
+    "location_z": 1722.342163,
+    "facility_links": [
+      5900,
+      3610,
+      236
+    ]
+  },
+  {
+    "map_region_id": 2437,
+    "zone_id": 2,
+    "facility_id": 236,
+    "facility_name": "The Old Stockpile",
+    "facility_type_id": 6,
+    "location_x": -996.366028,
+    "location_z": 2001.284546,
+    "facility_links": [
+      6400,
+      235,
+      118030
+    ]
+  },
+  {
+    "map_region_id": 2438,
+    "zone_id": 2,
+    "facility_id": 237,
+    "facility_name": "Ceres Biotech",
+    "facility_type_id": 6,
+    "location_x": -2320.438232,
+    "location_z": -1903.400269,
+    "facility_links": [
+      239,
+      120000,
+      252
+    ]
+  },
+  {
+    "map_region_id": 2440,
+    "zone_id": 2,
+    "facility_id": 239,
+    "facility_name": "Highlands Substation",
+    "facility_type_id": 6,
+    "location_x": -2804.0,
+    "location_z": -1689.0,
+    "facility_links": [
+      237,
+      3410
+    ]
+  },
+  {
+    "map_region_id": 2443,
+    "zone_id": 2,
+    "facility_id": 242,
+    "facility_name": "Scarred Mesa Skydock",
+    "facility_type_id": 6,
+    "location_x": -2663.46582,
+    "location_z": 390.433197,
+    "facility_links": [
+      7030,
+      400130
+    ]
+  },
+  {
+    "map_region_id": 2447,
+    "zone_id": 2,
+    "facility_id": 246,
+    "facility_name": "Copper Ravine Station",
+    "facility_type_id": 6,
+    "location_x": -2300.645264,
+    "location_z": 2160.577881,
+    "facility_links": [
+      247,
+      6300,
+      4801
+    ]
+  },
+  {
+    "map_region_id": 2448,
+    "zone_id": 2,
+    "facility_id": 247,
+    "facility_name": "Old Auraxium Mines",
+    "facility_type_id": 6,
+    "location_x": -1929.104126,
+    "location_z": 2305.955078,
+    "facility_links": [
+      6400,
+      248,
+      4801,
+      246
+    ]
+  },
+  {
+    "map_region_id": 2449,
+    "zone_id": 2,
+    "facility_id": 248,
+    "facility_name": "Valley Storage Yard",
+    "facility_type_id": 6,
+    "location_x": -1393.312866,
+    "location_z": 2643.841309,
+    "facility_links": [
+      247,
+      4801,
+      3630
+    ]
+  },
+  {
+    "map_region_id": 2453,
+    "zone_id": 2,
+    "facility_id": 252,
+    "facility_name": "Ceres Farms",
+    "facility_type_id": 6,
+    "location_x": -1768.703247,
+    "location_z": -1731.420898,
+    "facility_links": [
+      120000,
+      6000,
+      228,
+      237
+    ]
+  },
+  {
+    "map_region_id": 2454,
+    "zone_id": 2,
+    "facility_id": 3410,
+    "facility_name": "Peris Barracks",
+    "facility_type_id": 6,
+    "location_x": -2441.974121,
+    "location_z": -1574.937622,
+    "facility_links": [
+      239,
+      3400
+    ]
+  },
+  {
+    "map_region_id": 2455,
+    "zone_id": 2,
+    "facility_id": 3420,
+    "facility_name": "Peris Field Tower",
+    "facility_type_id": 6,
+    "location_x": -1993.015381,
+    "location_z": -1133.279541,
+    "facility_links": [
+      3400,
+      5800
+    ]
+  },
+  {
+    "map_region_id": 2456,
+    "zone_id": 2,
+    "facility_id": 3430,
+    "facility_name": "Peris Eastern Grove",
+    "facility_type_id": 6,
+    "location_x": -1936.085205,
+    "location_z": -663.545105,
+    "facility_links": [
+      3400,
+      5700
+    ]
+  },
+  {
+    "map_region_id": 2457,
+    "zone_id": 2,
+    "facility_id": 4010,
+    "facility_name": "Allatum Research Lab",
+    "facility_type_id": 6,
+    "location_x": -361.665405,
+    "location_z": -1215.664063,
+    "facility_links": [
+      226,
+      4030,
+      4001
+    ]
+  },
+  {
+    "map_region_id": 2458,
+    "zone_id": 2,
+    "facility_id": 4020,
+    "facility_name": "Allatum Broadcast Hub",
+    "facility_type_id": 6,
+    "location_x": -5.060028,
+    "location_z": -956.08136,
+    "facility_links": [
+      4001,
+      214
+    ]
+  },
+  {
+    "map_region_id": 2459,
+    "zone_id": 2,
+    "facility_id": 4030,
+    "facility_name": "Allatum Botany Wing",
+    "facility_type_id": 6,
+    "location_x": -560.324829,
+    "location_z": -675.142334,
+    "facility_links": [
+      4010,
+      218,
+      229,
+      4001
+    ]
+  },
+  {
+    "map_region_id": 2460,
+    "zone_id": 2,
+    "facility_id": 4430,
+    "facility_name": "Mao Southeast Gate",
+    "facility_type_id": 6,
+    "location_x": 1633.906738,
+    "location_z": 1717.87793,
+    "facility_links": [
+      4420,
+      213,
+      4401
+    ]
+  },
+  {
+    "map_region_id": 2461,
+    "zone_id": 2,
+    "facility_id": 4420,
+    "facility_name": "Mao Watchtower",
+    "facility_type_id": 6,
+    "location_x": 1945.303955,
+    "location_z": 1942.44812,
+    "facility_links": [
+      4430,
+      212,
+      4401,
+      400131
+    ]
+  },
+  {
+    "map_region_id": 2462,
+    "zone_id": 2,
+    "facility_id": 4410,
+    "facility_name": "Mao Southwest Gate",
+    "facility_type_id": 6,
+    "location_x": 1754.546997,
+    "location_z": 1221.427002,
+    "facility_links": [
+      211,
+      4401
+    ]
+  },
+  {
+    "map_region_id": 2463,
+    "zone_id": 2,
+    "facility_id": 7020,
+    "facility_name": "Tawrich Tower",
+    "facility_type_id": 6,
+    "location_x": -1605.565308,
+    "location_z": 899.358398,
+    "facility_links": [
+      232,
+      7010,
+      7000,
+      6500
+    ]
+  },
+  {
+    "map_region_id": 2464,
+    "zone_id": 2,
+    "facility_id": 7030,
+    "facility_name": "Tawrich Recycling",
+    "facility_type_id": 6,
+    "location_x": -2139.935791,
+    "location_z": 1037.408691,
+    "facility_links": [
+      6300,
+      242,
+      7000
+    ]
+  },
+  {
+    "map_region_id": 2465,
+    "zone_id": 2,
+    "facility_id": 7010,
+    "facility_name": "Tawrich Depot",
+    "facility_type_id": 6,
+    "location_x": -1710.767944,
+    "location_z": 658.540894,
+    "facility_links": [
+      6100,
+      7000,
+      7020
+    ]
+  },
+  {
+    "map_region_id": 2466,
+    "zone_id": 2,
+    "facility_id": 3620,
+    "facility_name": "Rashnu Watchtower",
+    "facility_type_id": 6,
+    "location_x": -314.984406,
+    "location_z": 2772.190186,
+    "facility_links": [
+      224,
+      3601,
+      3610
+    ]
+  },
+  {
+    "map_region_id": 2467,
+    "zone_id": 2,
+    "facility_id": 3610,
+    "facility_name": "Rashnu Cavern",
+    "facility_type_id": 6,
+    "location_x": -242.817734,
+    "location_z": 2293.439209,
+    "facility_links": [
+      3601,
+      3620,
+      235
+    ]
+  },
+  {
+    "map_region_id": 2468,
+    "zone_id": 2,
+    "facility_id": 3630,
+    "facility_name": "Rashnu Southern Pass",
+    "facility_type_id": 6,
+    "location_x": -749.254639,
+    "location_z": 2480.462646,
+    "facility_links": [
+      248,
+      3601
+    ]
+  },
+  {
+    "map_region_id": 2469,
+    "zone_id": 2,
+    "facility_id": 118030,
+    "facility_name": "Zurvan Network Complex",
+    "facility_type_id": 6,
+    "location_x": -625.762817,
+    "location_z": 1472.189453,
+    "facility_links": [
+      118000,
+      236
+    ]
+  },
+  {
+    "map_region_id": 2470,
+    "zone_id": 2,
+    "facility_id": 118010,
+    "facility_name": "Zurvan Pump Station",
+    "facility_type_id": 6,
+    "location_x": -419.622375,
+    "location_z": 721.211792,
+    "facility_links": [
+      232,
+      6200,
+      118000
+    ]
+  },
+  {
+    "map_region_id": 2471,
+    "zone_id": 2,
+    "facility_id": 118020,
+    "facility_name": "Zurvan Storage Yard",
+    "facility_type_id": 6,
+    "location_x": -97.417061,
+    "location_z": 1239.2146,
+    "facility_links": [
+      5900,
+      118000
+    ]
+  },
+  {
+    "map_region_id": 2472,
+    "zone_id": 2,
+    "facility_id": 3810,
+    "facility_name": "Saurva Data Storage",
+    "facility_type_id": 6,
+    "location_x": 2747.48584,
+    "location_z": -2088.378174,
+    "facility_links": [
+      207,
+      3801,
+      203
+    ]
+  },
+  {
+    "map_region_id": 2473,
+    "zone_id": 2,
+    "facility_id": 3820,
+    "facility_name": "Saurva South Fortress",
+    "facility_type_id": 6,
+    "location_x": 1998.100098,
+    "location_z": -2106.455811,
+    "facility_links": [
+      3801,
+      205
+    ]
+  },
+  {
+    "map_region_id": 2474,
+    "zone_id": 2,
+    "facility_id": 7520,
+    "facility_name": "Hvar Databank",
+    "facility_type_id": 6,
+    "location_x": -606.125122,
+    "location_z": -2164.260498,
+    "facility_links": [
+      215,
+      7530,
+      7500
+    ]
+  },
+  {
+    "map_region_id": 2475,
+    "zone_id": 2,
+    "facility_id": 7510,
+    "facility_name": "Hvar Western Post",
+    "facility_type_id": 6,
+    "location_x": -867.674072,
+    "location_z": -2744.414551,
+    "facility_links": [
+      6000,
+      7500
+    ]
+  },
+  {
+    "map_region_id": 2476,
+    "zone_id": 2,
+    "facility_id": 7530,
+    "facility_name": "Hvar Physics Lab",
+    "facility_type_id": 6,
+    "location_x": -925.69281,
+    "location_z": -2214.309814,
+    "facility_links": [
+      7520,
+      226,
+      7500
+    ]
+  },
+  {
+    "map_region_id": 2477,
+    "zone_id": 2,
+    "facility_id": 3210,
+    "facility_name": "Dahaka Uplink Hub",
+    "facility_type_id": 6,
+    "location_x": 1280.266602,
+    "location_z": -1618.84021,
+    "facility_links": [
+      3201,
+      205,
+      206
+    ]
+  },
+  {
+    "map_region_id": 2478,
+    "zone_id": 2,
+    "facility_id": 3230,
+    "facility_name": "Dahaka Southern Post",
+    "facility_type_id": 6,
+    "location_x": 1049.639526,
+    "location_z": -1139.72937,
+    "facility_links": [
+      217,
+      3201,
+      214
+    ]
+  },
+  {
+    "map_region_id": 2479,
+    "zone_id": 2,
+    "facility_id": 3220,
+    "facility_name": "Dahaka Pump Station",
+    "facility_type_id": 6,
+    "location_x": 1405.414795,
+    "location_z": -864.272583,
+    "facility_links": [
+      5200,
+      3201
+    ]
+  },
+  {
+    "map_region_id": 18205,
+    "zone_id": 2,
+    "facility_id": 400130,
+    "facility_name": "Berjess Overlook",
+    "facility_type_id": 9,
+    "location_x": -2031.734253,
+    "location_z": -92.174286,
+    "facility_links": [
+      242,
+      5700,
+      230
+    ]
+  },
+  {
+    "map_region_id": 18206,
+    "zone_id": 2,
+    "facility_id": 400131,
+    "facility_name": "Sunken Relay Station",
+    "facility_type_id": 9,
+    "location_x": 1424.286133,
+    "location_z": 2631.262207,
+    "facility_links": [
+      4420,
+      213
+    ]
+  },
+  {
+    "map_region_id": 18207,
+    "zone_id": 2,
+    "facility_id": 400132,
+    "facility_name": "Lowland Trading Post",
+    "facility_type_id": 9,
+    "location_x": 601.011353,
+    "location_z": -2407.583008,
+    "facility_links": [
+      215,
+      5100
+    ]
+  }
+]
