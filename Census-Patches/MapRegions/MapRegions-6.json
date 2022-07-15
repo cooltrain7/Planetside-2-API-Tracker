@@ -1,0 +1,1097 @@
+[
+  {
+    "map_region_id": 6001,
+    "zone_id": 6,
+    "facility_id": 200000,
+    "facility_name": "Amerish Western Warpgate",
+    "facility_type_id": 7,
+    "location_x": 2807.917236,
+    "location_z": -2293.612305,
+    "facility_links": [
+      222040,
+      222050,
+      222000
+    ]
+  },
+  {
+    "map_region_id": 6002,
+    "zone_id": 6,
+    "facility_id": 201000,
+    "facility_name": "Amerish Eastern Warpgate",
+    "facility_type_id": 7,
+    "location_x": 2501.734131,
+    "location_z": 2842.080811,
+    "facility_links": [
+      222130,
+      260004,
+      222020
+    ]
+  },
+  {
+    "map_region_id": 6003,
+    "zone_id": 6,
+    "facility_id": 203000,
+    "facility_name": "Amerish Southern Warpgate",
+    "facility_type_id": 7,
+    "location_x": -2868.86377,
+    "location_z": 770.334229,
+    "facility_links": [
+      222380,
+      222240,
+      222250
+    ]
+  },
+  {
+    "map_region_id": 6101,
+    "zone_id": 6,
+    "facility_id": 204000,
+    "facility_name": "Kwahtee",
+    "facility_type_id": 2,
+    "location_x": 1305.857544,
+    "location_z": -2355.519287,
+    "facility_links": [
+      204001,
+      204002,
+      204003
+    ]
+  },
+  {
+    "map_region_id": 6102,
+    "zone_id": 6,
+    "facility_id": 205000,
+    "facility_name": "Ikanam",
+    "facility_type_id": 3,
+    "location_x": 1649.284424,
+    "location_z": -507.814728,
+    "facility_links": [
+      205002,
+      205003,
+      205001
+    ]
+  },
+  {
+    "map_region_id": 6103,
+    "zone_id": 6,
+    "facility_id": 206000,
+    "facility_name": "Heyoka",
+    "facility_type_id": 4,
+    "location_x": -81.141495,
+    "location_z": -1841.45752,
+    "facility_links": [
+      206001,
+      206002
+    ]
+  },
+  {
+    "map_region_id": 6111,
+    "zone_id": 6,
+    "facility_id": 207000,
+    "facility_name": "Sungrey",
+    "facility_type_id": 2,
+    "location_x": 2311.400879,
+    "location_z": 1190.187378,
+    "facility_links": [
+      207001,
+      207002,
+      207003
+    ]
+  },
+  {
+    "map_region_id": 6112,
+    "zone_id": 6,
+    "facility_id": 208000,
+    "facility_name": "Mekala",
+    "facility_type_id": 4,
+    "location_x": 231.565918,
+    "location_z": 1317.272095,
+    "facility_links": [
+      208002,
+      208001
+    ]
+  },
+  {
+    "map_region_id": 6113,
+    "zone_id": 6,
+    "facility_id": 209000,
+    "facility_name": "Onatha",
+    "facility_type_id": 3,
+    "location_x": 396.259308,
+    "location_z": 2793.945313,
+    "facility_links": [
+      209001,
+      209002,
+      209003
+    ]
+  },
+  {
+    "map_region_id": 6121,
+    "zone_id": 6,
+    "facility_id": 210000,
+    "facility_name": "Wokuk",
+    "facility_type_id": 2,
+    "location_x": -1969.289185,
+    "location_z": -2140.14209,
+    "facility_links": [
+      210001,
+      210002,
+      210003
+    ]
+  },
+  {
+    "map_region_id": 6122,
+    "zone_id": 6,
+    "facility_id": 211000,
+    "facility_name": "Tumas",
+    "facility_type_id": 4,
+    "location_x": -1807.569458,
+    "location_z": -485.850403,
+    "facility_links": [
+      211002,
+      211001
+    ]
+  },
+  {
+    "map_region_id": 6123,
+    "zone_id": 6,
+    "facility_id": 212000,
+    "facility_name": "Xelas",
+    "facility_type_id": 3,
+    "location_x": -1555.773315,
+    "location_z": 2338.205811,
+    "facility_links": [
+      212001,
+      212002,
+      212003
+    ]
+  },
+  {
+    "map_region_id": 6201,
+    "zone_id": 6,
+    "facility_id": 213000,
+    "facility_name": "LithCorp Secure Mine",
+    "facility_type_id": 5,
+    "location_x": 1969.765259,
+    "location_z": -1211.690796,
+    "facility_links": [
+      222000,
+      205001
+    ]
+  },
+  {
+    "map_region_id": 6202,
+    "zone_id": 6,
+    "facility_id": 214000,
+    "facility_name": "The NC Arsenal",
+    "facility_type_id": 5,
+    "location_x": 2073.250732,
+    "location_z": 377.365753,
+    "facility_links": [
+      222060,
+      207001,
+      222320
+    ]
+  },
+  {
+    "map_region_id": 6203,
+    "zone_id": 6,
+    "facility_id": 215000,
+    "facility_name": "Crux Mining Operation",
+    "facility_type_id": 5,
+    "location_x": 1180.592773,
+    "location_z": 2952.214111,
+    "facility_links": [
+      209001,
+      222130
+    ]
+  },
+  {
+    "map_region_id": 6204,
+    "zone_id": 6,
+    "facility_id": 216000,
+    "facility_name": "Crux Headquarters",
+    "facility_type_id": 5,
+    "location_x": 1017.312988,
+    "location_z": 864.884155,
+    "facility_links": [
+      222120,
+      222060,
+      222150,
+      208001
+    ]
+  },
+  {
+    "map_region_id": 6205,
+    "zone_id": 6,
+    "facility_id": 217000,
+    "facility_name": "The Bastion",
+    "facility_type_id": 5,
+    "location_x": 464.03299,
+    "location_z": -417.802307,
+    "facility_links": [
+      222100,
+      222110,
+      222060,
+      222350
+    ]
+  },
+  {
+    "map_region_id": 6206,
+    "zone_id": 6,
+    "facility_id": 218000,
+    "facility_name": "Auraxis Firearms Corp.",
+    "facility_type_id": 5,
+    "location_x": -1212.78125,
+    "location_z": 471.720398,
+    "facility_links": [
+      211002,
+      222190,
+      222270,
+      222230
+    ]
+  },
+  {
+    "map_region_id": 6207,
+    "zone_id": 6,
+    "facility_id": 219000,
+    "facility_name": "Splitpeak Pass",
+    "facility_type_id": 5,
+    "location_x": -719.208496,
+    "location_z": 1922.303223,
+    "facility_links": [
+      222190,
+      212001,
+      222160
+    ]
+  },
+  {
+    "map_region_id": 6208,
+    "zone_id": 6,
+    "facility_id": 220000,
+    "facility_name": "West Pass Watchtower",
+    "facility_type_id": 5,
+    "location_x": -1052.092163,
+    "location_z": -1927.831177,
+    "facility_links": [
+      400129,
+      210002,
+      222180
+    ]
+  },
+  {
+    "map_region_id": 6209,
+    "zone_id": 6,
+    "facility_id": 221000,
+    "facility_name": "Granite Valley Garrison",
+    "facility_type_id": 5,
+    "location_x": -1903.561279,
+    "location_z": 1515.283203,
+    "facility_links": [
+      212003,
+      222250
+    ]
+  },
+  {
+    "map_region_id": 6301,
+    "zone_id": 6,
+    "facility_id": 222000,
+    "facility_name": "Stoneridge Reserve",
+    "facility_type_id": 6,
+    "location_x": 2798.045654,
+    "location_z": -1162.959106,
+    "facility_links": [
+      200000,
+      213000,
+      222050
+    ]
+  },
+  {
+    "map_region_id": 6302,
+    "zone_id": 6,
+    "facility_id": 222010,
+    "facility_name": "North Grove Post",
+    "facility_type_id": 6,
+    "location_x": 2856.104248,
+    "location_z": -123.651833,
+    "facility_links": [
+      222300,
+      222310
+    ]
+  },
+  {
+    "map_region_id": 6303,
+    "zone_id": 6,
+    "facility_id": 222020,
+    "facility_name": "Jagged Lance Mine",
+    "facility_type_id": 6,
+    "location_x": 2803.240234,
+    "location_z": 2206.654297,
+    "facility_links": [
+      222030,
+      201000,
+      260004
+    ]
+  },
+  {
+    "map_region_id": 6304,
+    "zone_id": 6,
+    "facility_id": 222030,
+    "facility_name": "Hidden Ridge Mining",
+    "facility_type_id": 6,
+    "location_x": 2767.351074,
+    "location_z": 1635.560425,
+    "facility_links": [
+      207003,
+      222020
+    ]
+  },
+  {
+    "map_region_id": 6305,
+    "zone_id": 6,
+    "facility_id": 222040,
+    "facility_name": "SolTech Charging Station",
+    "facility_type_id": 6,
+    "location_x": 2243.76123,
+    "location_z": -2881.061523,
+    "facility_links": [
+      200000,
+      222050,
+      222290
+    ]
+  },
+  {
+    "map_region_id": 6306,
+    "zone_id": 6,
+    "facility_id": 222050,
+    "facility_name": "Deserted Mineshaft",
+    "facility_type_id": 6,
+    "location_x": 2023.971191,
+    "location_z": -1834.285645,
+    "facility_links": [
+      222040,
+      200000,
+      222000,
+      222100
+    ]
+  },
+  {
+    "map_region_id": 6307,
+    "zone_id": 6,
+    "facility_id": 222060,
+    "facility_name": "AuraxiCom Network Hub",
+    "facility_type_id": 6,
+    "location_x": 1001.048767,
+    "location_z": 136.025085,
+    "facility_links": [
+      214000,
+      216000,
+      217000
+    ]
+  },
+  {
+    "map_region_id": 6308,
+    "zone_id": 6,
+    "facility_id": 260004,
+    "facility_name": "Amerish ARX Reserve",
+    "facility_type_id": 6,
+    "location_x": 1703.290161,
+    "location_z": 2051.147949,
+    "facility_links": [
+      222120,
+      201000,
+      222130,
+      222020
+    ]
+  },
+  {
+    "map_region_id": 6309,
+    "zone_id": 6,
+    "facility_id": 222080,
+    "facility_name": "Genudine Physics Lab",
+    "facility_type_id": 6,
+    "location_x": 416.504333,
+    "location_z": -2993.407715,
+    "facility_links": [
+      222330,
+      204003
+    ]
+  },
+  {
+    "map_region_id": 6310,
+    "zone_id": 6,
+    "facility_id": 222090,
+    "facility_name": "Cobalt Communications",
+    "facility_type_id": 6,
+    "location_x": 214.028061,
+    "location_z": -2501.914307,
+    "facility_links": [
+      400129,
+      204002
+    ]
+  },
+  {
+    "map_region_id": 6311,
+    "zone_id": 6,
+    "facility_id": 222100,
+    "facility_name": "West Foothills Airdock",
+    "facility_type_id": 6,
+    "location_x": 1314.221069,
+    "location_z": -1249.746582,
+    "facility_links": [
+      222050,
+      217000
+    ]
+  },
+  {
+    "map_region_id": 6312,
+    "zone_id": 6,
+    "facility_id": 222110,
+    "facility_name": "DeepCore Geolab",
+    "facility_type_id": 6,
+    "location_x": 389.078003,
+    "location_z": -1228.158081,
+    "facility_links": [
+      206001,
+      217000
+    ]
+  },
+  {
+    "map_region_id": 6313,
+    "zone_id": 6,
+    "facility_id": 222120,
+    "facility_name": "Blackshard Tungsten Mine",
+    "facility_type_id": 6,
+    "location_x": 1298.538086,
+    "location_z": 1337.164429,
+    "facility_links": [
+      216000,
+      260004
+    ]
+  },
+  {
+    "map_region_id": 6314,
+    "zone_id": 6,
+    "facility_id": 222130,
+    "facility_name": "Shadespire Farms",
+    "facility_type_id": 6,
+    "location_x": 1254.880371,
+    "location_z": 2178.210205,
+    "facility_links": [
+      201000,
+      215000,
+      260004
+    ]
+  },
+  {
+    "map_region_id": 6316,
+    "zone_id": 6,
+    "facility_id": 222150,
+    "facility_name": "Rockslide Outlook",
+    "facility_type_id": 6,
+    "location_x": 399.056213,
+    "location_z": 255.883377,
+    "facility_links": [
+      222280,
+      216000,
+      222350
+    ]
+  },
+  {
+    "map_region_id": 6317,
+    "zone_id": 6,
+    "facility_id": 222160,
+    "facility_name": "East Hills Checkpoint",
+    "facility_type_id": 6,
+    "location_x": -43.087044,
+    "location_z": 2139.275146,
+    "facility_links": [
+      209003,
+      219000
+    ]
+  },
+  {
+    "map_region_id": 6318,
+    "zone_id": 6,
+    "facility_id": 222170,
+    "facility_name": "Silver Valley Arsenal",
+    "facility_type_id": 6,
+    "location_x": -308.573853,
+    "location_z": 2818.730713,
+    "facility_links": [
+      222360,
+      400128
+    ]
+  },
+  {
+    "map_region_id": 6319,
+    "zone_id": 6,
+    "facility_id": 222180,
+    "facility_name": "Chimney Rock Depot",
+    "facility_type_id": 6,
+    "location_x": -852.0,
+    "location_z": -674.0,
+    "facility_links": [
+      220000,
+      206002,
+      211001
+    ]
+  },
+  {
+    "map_region_id": 6320,
+    "zone_id": 6,
+    "facility_id": 222190,
+    "facility_name": "AuraxiCom Substation",
+    "facility_type_id": 6,
+    "location_x": -683.219971,
+    "location_z": 1129.030029,
+    "facility_links": [
+      208002,
+      218000,
+      219000
+    ]
+  },
+  {
+    "map_region_id": 6323,
+    "zone_id": 6,
+    "facility_id": 222220,
+    "facility_name": "Torremar Storage Yard",
+    "facility_type_id": 6,
+    "location_x": -2511.082031,
+    "location_z": -1486.358887,
+    "facility_links": [
+      222240,
+      210003
+    ]
+  },
+  {
+    "map_region_id": 6324,
+    "zone_id": 6,
+    "facility_id": 222230,
+    "facility_name": "Highroads Station",
+    "facility_type_id": 6,
+    "location_x": -1775.0,
+    "location_z": 560.0,
+    "facility_links": [
+      222380,
+      218000
+    ]
+  },
+  {
+    "map_region_id": 6325,
+    "zone_id": 6,
+    "facility_id": 222240,
+    "facility_name": "Aramax Chemical Co.",
+    "facility_type_id": 6,
+    "location_x": -2738.894043,
+    "location_z": -333.652069,
+    "facility_links": [
+      222380,
+      222220,
+      203000
+    ]
+  },
+  {
+    "map_region_id": 6326,
+    "zone_id": 6,
+    "facility_id": 222250,
+    "facility_name": "The Auraxian Cryobank",
+    "facility_type_id": 6,
+    "location_x": -2479.385498,
+    "location_z": 1771.310059,
+    "facility_links": [
+      221000,
+      222380,
+      203000
+    ]
+  },
+  {
+    "map_region_id": 6328,
+    "zone_id": 6,
+    "facility_id": 222270,
+    "facility_name": "Raven Landing",
+    "facility_type_id": 6,
+    "location_x": -636.242188,
+    "location_z": 201.243881,
+    "facility_links": [
+      222280,
+      218000,
+      222350
+    ]
+  },
+  {
+    "map_region_id": 6329,
+    "zone_id": 6,
+    "facility_id": 222280,
+    "facility_name": "The Ascent",
+    "facility_type_id": 5,
+    "location_x": -0.252918,
+    "location_z": 197.541245,
+    "facility_links": [
+      222270,
+      222150,
+      222350
+    ]
+  },
+  {
+    "map_region_id": 6330,
+    "zone_id": 6,
+    "facility_id": 222300,
+    "facility_name": "LithCorp Fortress",
+    "facility_type_id": 6,
+    "location_x": 2371.836426,
+    "location_z": -92.309113,
+    "facility_links": [
+      205002,
+      222010
+    ]
+  },
+  {
+    "map_region_id": 6331,
+    "zone_id": 6,
+    "facility_id": 222310,
+    "facility_name": "Moss Ravine",
+    "facility_type_id": 6,
+    "location_x": 2736.126221,
+    "location_z": 444.44754,
+    "facility_links": [
+      207002,
+      222010
+    ]
+  },
+  {
+    "map_region_id": 6332,
+    "zone_id": 6,
+    "facility_id": 222320,
+    "facility_name": "The Auger",
+    "facility_type_id": 6,
+    "location_x": 1671.804932,
+    "location_z": 48.449326,
+    "facility_links": [
+      205002,
+      205003,
+      214000
+    ]
+  },
+  {
+    "map_region_id": 6333,
+    "zone_id": 6,
+    "facility_id": 222330,
+    "facility_name": "Shrouded Skyway",
+    "facility_type_id": 6,
+    "location_x": -27.343304,
+    "location_z": -3011.436523,
+    "facility_links": [
+      222080,
+      222340
+    ]
+  },
+  {
+    "map_region_id": 6334,
+    "zone_id": 6,
+    "facility_id": 222340,
+    "facility_name": "The Scarfield Reliquary",
+    "facility_type_id": 6,
+    "location_x": -431.255402,
+    "location_z": -2945.247314,
+    "facility_links": [
+      210001,
+      400129,
+      222330
+    ]
+  },
+  {
+    "map_region_id": 6335,
+    "zone_id": 6,
+    "facility_id": 222350,
+    "facility_name": "LithCorp Central",
+    "facility_type_id": 6,
+    "location_x": -174.495117,
+    "location_z": -205.47879,
+    "facility_links": [
+      222270,
+      222280,
+      222150,
+      217000
+    ]
+  },
+  {
+    "map_region_id": 6336,
+    "zone_id": 6,
+    "facility_id": 222360,
+    "facility_name": "Eastshore Training Camp",
+    "facility_type_id": 6,
+    "location_x": 111.953629,
+    "location_z": 3104.443848,
+    "facility_links": [
+      209002,
+      222170
+    ]
+  },
+  {
+    "map_region_id": 6337,
+    "zone_id": 6,
+    "facility_id": 400128,
+    "facility_name": "Solus Nature Annex",
+    "facility_type_id": 9,
+    "location_x": -825.849976,
+    "location_z": 2755.040039,
+    "facility_links": [
+      212002,
+      222170
+    ]
+  },
+  {
+    "map_region_id": 6338,
+    "zone_id": 6,
+    "facility_id": 222380,
+    "facility_name": "Barrik Electrical Station",
+    "facility_type_id": 6,
+    "location_x": -2194.523193,
+    "location_z": 404.757202,
+    "facility_links": [
+      203000,
+      222230,
+      222240,
+      222250
+    ]
+  },
+  {
+    "map_region_id": 6339,
+    "zone_id": 6,
+    "facility_id": 222290,
+    "facility_name": "SolTech Gorge",
+    "facility_type_id": 6,
+    "location_x": 1710.370483,
+    "location_z": -2951.367676,
+    "facility_links": [
+      222040,
+      204001
+    ]
+  },
+  {
+    "map_region_id": 6340,
+    "zone_id": 6,
+    "facility_id": 204001,
+    "facility_name": "Kwahtee West Pass",
+    "facility_type_id": 6,
+    "location_x": 1385.954346,
+    "location_z": -2679.6521,
+    "facility_links": [
+      222290,
+      204000
+    ]
+  },
+  {
+    "map_region_id": 6341,
+    "zone_id": 6,
+    "facility_id": 204002,
+    "facility_name": "Kwahtee Fortress",
+    "facility_type_id": 6,
+    "location_x": 1181.260986,
+    "location_z": -2013.717041,
+    "facility_links": [
+      204000,
+      222090
+    ]
+  },
+  {
+    "map_region_id": 6342,
+    "zone_id": 6,
+    "facility_id": 204003,
+    "facility_name": "Kwahtee Mountain Complex",
+    "facility_type_id": 6,
+    "location_x": 993.954895,
+    "location_z": -2661.92627,
+    "facility_links": [
+      204000,
+      222080
+    ]
+  },
+  {
+    "map_region_id": 6343,
+    "zone_id": 6,
+    "facility_id": 205001,
+    "facility_name": "Ikanam Motor Pool",
+    "facility_type_id": 6,
+    "location_x": 1866.517944,
+    "location_z": -704.026123,
+    "facility_links": [
+      213000,
+      205000
+    ]
+  },
+  {
+    "map_region_id": 6344,
+    "zone_id": 6,
+    "facility_id": 205002,
+    "facility_name": "Ikanam Garrison",
+    "facility_type_id": 6,
+    "location_x": 1896.222656,
+    "location_z": -323.281769,
+    "facility_links": [
+      222300,
+      222320,
+      205000
+    ]
+  },
+  {
+    "map_region_id": 6345,
+    "zone_id": 6,
+    "facility_id": 205003,
+    "facility_name": "Ikanam Triage Station",
+    "facility_type_id": 6,
+    "location_x": 1298.991211,
+    "location_z": -485.348816,
+    "facility_links": [
+      222320,
+      205000
+    ]
+  },
+  {
+    "map_region_id": 6346,
+    "zone_id": 6,
+    "facility_id": 206001,
+    "facility_name": "Heyoka Armory",
+    "facility_type_id": 6,
+    "location_x": 323.471741,
+    "location_z": -1853.602295,
+    "facility_links": [
+      222110,
+      206000
+    ]
+  },
+  {
+    "map_region_id": 6347,
+    "zone_id": 6,
+    "facility_id": 206002,
+    "facility_name": "Heyoka Chemical Lab",
+    "facility_type_id": 6,
+    "location_x": -363.920593,
+    "location_z": -1408.110352,
+    "facility_links": [
+      222180,
+      206000
+    ]
+  },
+  {
+    "map_region_id": 6348,
+    "zone_id": 6,
+    "facility_id": 207001,
+    "facility_name": "Sungrey West Gate",
+    "facility_type_id": 6,
+    "location_x": 2217.72876,
+    "location_z": 807.838562,
+    "facility_links": [
+      214000,
+      207000
+    ]
+  },
+  {
+    "map_region_id": 6349,
+    "zone_id": 6,
+    "facility_id": 207002,
+    "facility_name": "Sungrey Power Hub",
+    "facility_type_id": 6,
+    "location_x": 2718.543457,
+    "location_z": 973.142517,
+    "facility_links": [
+      222310,
+      207000
+    ]
+  },
+  {
+    "map_region_id": 6350,
+    "zone_id": 6,
+    "facility_id": 207003,
+    "facility_name": "Sungrey Overwatch",
+    "facility_type_id": 6,
+    "location_x": 2329.64624,
+    "location_z": 1554.971313,
+    "facility_links": [
+      222030,
+      207000
+    ]
+  },
+  {
+    "map_region_id": 6351,
+    "zone_id": 6,
+    "facility_id": 208001,
+    "facility_name": "Mekala Cart Mining",
+    "facility_type_id": 6,
+    "location_x": 644.107178,
+    "location_z": 1072.032593,
+    "facility_links": [
+      208000,
+      216000
+    ]
+  },
+  {
+    "map_region_id": 6352,
+    "zone_id": 6,
+    "facility_id": 208002,
+    "facility_name": "Mekala's Auxiliary Compound",
+    "facility_type_id": 6,
+    "location_x": -267.638,
+    "location_z": 1739.855469,
+    "facility_links": [
+      208000,
+      222190
+    ]
+  },
+  {
+    "map_region_id": 6353,
+    "zone_id": 6,
+    "facility_id": 209001,
+    "facility_name": "Onatha North Gate",
+    "facility_type_id": 6,
+    "location_x": 748.658997,
+    "location_z": 2726.788818,
+    "facility_links": [
+      209000,
+      215000
+    ]
+  },
+  {
+    "map_region_id": 6354,
+    "zone_id": 6,
+    "facility_id": 209002,
+    "facility_name": "East Onatha Comm. Array",
+    "facility_type_id": 6,
+    "location_x": 607.358215,
+    "location_z": 3095.884766,
+    "facility_links": [
+      222360,
+      209000
+    ]
+  },
+  {
+    "map_region_id": 6355,
+    "zone_id": 6,
+    "facility_id": 209003,
+    "facility_name": "Onatha Southwest Gate",
+    "facility_type_id": 6,
+    "location_x": 249.210693,
+    "location_z": 2565.091309,
+    "facility_links": [
+      209000,
+      222160
+    ]
+  },
+  {
+    "map_region_id": 6356,
+    "zone_id": 6,
+    "facility_id": 210001,
+    "facility_name": "Wokuk Ecological Preserve",
+    "facility_type_id": 6,
+    "location_x": -1497.875122,
+    "location_z": -2574.819824,
+    "facility_links": [
+      210000,
+      222340
+    ]
+  },
+  {
+    "map_region_id": 6357,
+    "zone_id": 6,
+    "facility_id": 210002,
+    "facility_name": "Wokuk Shipping Dock",
+    "facility_type_id": 6,
+    "location_x": -1472.988403,
+    "location_z": -2188.334473,
+    "facility_links": [
+      220000,
+      210000
+    ]
+  },
+  {
+    "map_region_id": 6358,
+    "zone_id": 6,
+    "facility_id": 210003,
+    "facility_name": "Wokuk Watchtower",
+    "facility_type_id": 6,
+    "location_x": -1862.503296,
+    "location_z": -1696.952393,
+    "facility_links": [
+      210000,
+      222220
+    ]
+  },
+  {
+    "map_region_id": 6359,
+    "zone_id": 6,
+    "facility_id": 211001,
+    "facility_name": "Tumas Skylance Battery",
+    "facility_type_id": 6,
+    "location_x": -1500.633545,
+    "location_z": -810.684143,
+    "facility_links": [
+      211000,
+      222180
+    ]
+  },
+  {
+    "map_region_id": 6360,
+    "zone_id": 6,
+    "facility_id": 211002,
+    "facility_name": "Tumas Cargo Facility",
+    "facility_type_id": 6,
+    "location_x": -1499.432129,
+    "location_z": -43.054924,
+    "facility_links": [
+      211000,
+      218000
+    ]
+  },
+  {
+    "map_region_id": 6361,
+    "zone_id": 6,
+    "facility_id": 212001,
+    "facility_name": "Xelas West Air Dock",
+    "facility_type_id": 6,
+    "location_x": -1481.090576,
+    "location_z": 2101.383301,
+    "facility_links": [
+      212000,
+      219000
+    ]
+  },
+  {
+    "map_region_id": 6362,
+    "zone_id": 6,
+    "facility_id": 212002,
+    "facility_name": "Xelas North Gate",
+    "facility_type_id": 6,
+    "location_x": -1250.950562,
+    "location_z": 2542.862305,
+    "facility_links": [
+      400128,
+      212000
+    ]
+  },
+  {
+    "map_region_id": 6363,
+    "zone_id": 6,
+    "facility_id": 212003,
+    "facility_name": "Xelas South Bridge",
+    "facility_type_id": 6,
+    "location_x": -1891.44873,
+    "location_z": 2488.153564,
+    "facility_links": [
+      221000,
+      212000
+    ]
+  },
+  {
+    "map_region_id": 18204,
+    "zone_id": 6,
+    "facility_id": 400129,
+    "facility_name": "Cobalt Geological Outpost",
+    "facility_type_id": 9,
+    "location_x": -559.73999,
+    "location_z": -2602.199951,
+    "facility_links": [
+      220000,
+      222090,
+      222340
+    ]
+  }
+]
