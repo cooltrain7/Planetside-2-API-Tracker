@@ -987,6 +987,11 @@
 803592,Infantry Abilities,0,Xiphos Anti-Personnel Tower,3,none
 803593,Infantry Abilities,0,Xiphos Anti-Personnel Tower,1,none
 6005624,Infantry Abilities,0,Xiphos Anti-Personnel Tower,4,none
+6011792,Infantry Gear,,Diver Propulsion Device 1,,none
+6011793,Infantry Gear,,Diver Propulsion Device 2,,none
+6011794,Infantry Gear,,Diver Propulsion Device 3,,none
+6011795,Infantry Gear,,Diver Propulsion Device 4,,none
+6011796,Infantry Gear,,Diver Propulsion Device 5,,none
 554,Infantry Weapons,1,MANA Anti-Personnel Turret,1,none
 555,Infantry Weapons,1,MANA Anti-Personnel Turret,2,none
 556,Infantry Weapons,1,MANA Anti-Personnel Turret,3,none
@@ -1556,6 +1561,11 @@
 3730,Vanguard Primary Weapon,1,Titan-150 AP,2,armor
 3700,Vanguard Primary Weapon,1,Titan-150 HEAT,2,armor
 3731,Vanguard Primary Weapon,1,Titan-150 HESH,2,armor
+6013591,Vehicle Abilities,,Catapult System,,none
+6013729,Vehicle Abilities,,Catapult System,,none
+6013730,Vehicle Abilities,,Catapult System,,none
+6013731,Vehicle Abilities,,Catapult System,,none
+6013732,Vehicle Abilities,,Catapult System,,none
 6008733,Vehicle Abilities,1,JVN-MM N.E.S.T.,0,none
 728,Vehicle Weapons,1,,2,
 729,Vehicle Weapons,1,,3,
