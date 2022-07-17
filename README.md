@@ -4,8 +4,8 @@ Welcome to the *Planetside 2 API Tracker* an unofficial collection of Planetside
 This repositories focus is to act as a place for members of the community to share resources that are for or from the Planetside ceneus, and can be found
 in the following sub directories.
 
-## Census
-Full static census collections for storing of past versions/backup. Each collection should match the current live version of said collection.
+## Census & Census Patches
+Full static census collection copies for versioning. As well as manually crafted census patches, for missing census data.
 
 ## Maps
 A collection if in-game map lods 0-3 quality. Useful in conjunction with the API for the creation of web maps or overlays.
@@ -35,6 +35,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
  - [PS2-Alerts.io](https://ps2-alerts.github.io)
  - [PS2Alert.me](https://ps2alert.me)
  - [PS2 Query Editor](https://eating-coleslaw.github.io/ps2-visual-query/)
+ - [Sanctuary-Census](https://census.lithafalcon.cc/get/ps2)
  - [BinaryCoder](http://stats.binarycoder.info/)
  - [Auraxis Control Center(Android)](https://play.google.com/store/apps/details?id=com.cesarandres.ps2link)
 
@@ -49,6 +50,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
 
 ## Community API services repositories
 - [Nanite-Systems Stream Replacement](https://github.com/nanite-systems)
+- [Sanctuary-Census Census Replacement](https://github.com/carlst99/Sanctuary.Census)
 - [Tide OP Tracker](https://github.com/Varunda/topt)
 - [Honu](https://github.com/Varunda/honu)
 - [PS2Alerts](https://github.com/ps2alerts)
