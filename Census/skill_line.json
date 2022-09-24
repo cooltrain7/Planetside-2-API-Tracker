@@ -44626,7 +44626,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "Grants access to grenades which simulate the sound of weapons fire, project false radar signatures, and fool automated anti-infantry turrets."
+        "en": "Grants access to grenades that spot enemies, project false radar signatures, and fool automated anti-infantry turrets."
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -44641,7 +44641,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "Grants access to grenades which simulate the sound of weapons fire, project false radar signatures, and fool automated anti-infantry turrets."
+        "en": "Grants access to grenades that spot enemies, project false radar signatures, and fool automated anti-infantry turrets."
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -44656,7 +44656,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "Grants access to grenades which simulate the sound of weapons fire, project false radar signatures, and fool automated anti-infantry turrets."
+        "en": "Grants access to grenades that spot enemies, project false radar signatures, and fool automated anti-infantry turrets."
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -92933,7 +92933,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -92948,7 +92948,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -92963,7 +92963,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -93670,7 +93670,7 @@
       "skill_points": "0",
       "skill_category_id": "16432",
       "name": {
-        "en": "Infravision"
+        "en": "Infravision [Perfect]"
       },
       "description": {
         "en": "Allows the user to permanently see the world in infrared vision."
@@ -95979,7 +95979,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -95994,7 +95994,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96009,7 +96009,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96024,7 +96024,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96039,7 +96039,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96054,7 +96054,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96069,7 +96069,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96084,7 +96084,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96099,7 +96099,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96114,7 +96114,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96129,7 +96129,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -96144,7 +96144,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -97988,7 +97988,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -100928,7 +100928,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -100958,7 +100958,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -101003,7 +101003,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
@@ -101048,7 +101048,7 @@
         "en": "Decoy Grenade"
       },
       "description": {
-        "en": "This grenade simulates the sound of weapons fire, projects a false radar signature to enemies and will also distract automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
+        "en": "This grenade provides high-fidelity motion spotting of enemies, while projecting a false radar signature and distracting automated anti-infantry turrets. <font color=\"#dc9c36\"><br><br>Lasts for 8 seconds.</font>"
       },
       "image_set_id": "2194",
       "image_id": "4018",
