@@ -228,6 +228,14 @@
 6009020,Bastion Point Defense,0,Bastion CIWS,,none
 6009021,Bastion Point Defense,0,Bastion CIWS,,none
 6009022,Bastion Point Defense,0,Bastion CIWS,,none
+6014241,Bastion Weapon System,1,Argo Missile Battery,0,none
+6014242,Bastion Weapon System,1,Argo Missile Battery,0,none
+6014243,Bastion Weapon System,1,Argo Missile Battery,0,none
+6014244,Bastion Weapon System,1,Argo Missile Battery,0,none
+6014245,Bastion Weapon System,1,Argo Missile Battery,0,none
+6014246,Bastion Weapon System,1,Argo Missile Battery,0,none
+6014247,Bastion Weapon System,1,Argo Missile Battery,0,none
+6014249,Bastion Weapon System,1,Argo Missile Battery,0,none
 6008910,Bastion Weapon System,0,Bastion Battery,,none
 6008911,Bastion Weapon System,0,Bastion Battery,,none
 6008929,Bastion Weapon System,0,Bastion Battery,,none
@@ -295,6 +303,7 @@
 6010679,Chimera Primary Weapons,,CT-102 Satyr,,armor
 6009957,Chimera Primary Weapons,,CT-135,,armor
 6010678,Chimera Primary Weapons,,CT-150 Cyclops,,armor
+6013932,Chimera Primary Weapons,1,Larion PPC,4,armor
 6010715,Chimera Secondary Weapons,,CT2-20 HCG,,gunner
 6010717,Chimera Secondary Weapons,,CT2-8M Siren,,gunner
 6010716,Chimera Secondary Weapons,,CT2-XP,,gunner
@@ -1108,6 +1117,7 @@
 3101,Lightning Primary Weapon,1,C75 Viper,2,armor
 3102,Lightning Primary Weapon,1,C75 Viper,3,armor
 6005302,Lightning Primary Weapon,1,C75 Viper,4,armor
+6013945,Lightning Primary Weapon,1,JGX11,2,armor
 3103,Lightning Primary Weapon,1,L100 Python AP,1,armor
 3104,Lightning Primary Weapon,1,L100 Python AP,2,armor
 3105,Lightning Primary Weapon,1,L100 Python AP,3,armor
@@ -1120,10 +1130,13 @@
 3154,Lightning Primary Weapon,1,L100 Python HESH,2,armor
 3155,Lightning Primary Weapon,1,L100 Python HESH,3,armor
 6005301,Lightning Primary Weapon,1,L100 Python HESH,4,armor
+6013946,Lightning Primary Weapon,1,L2-100 Kingsnake,3,armor
+6013948,Lightning Primary Weapon,1,Larion LPPC,4,armor
 6005068,Lightning Primary Weapon,1,LB00 Python AP,2,armor
 6005069,Lightning Primary Weapon,1,LB00 Python AP,3,armor
 6005070,Lightning Primary Weapon,1,LB00 Python AP,1,armor
 6008684,Lightning Primary Weapon,1,LB00 Python AP,4,armor
+6013947,Lightning Primary Weapon,1,Perihelion L-VXC,1,armor
 3106,Lightning Primary Weapon,1,Skyguard,1,armor
 3107,Lightning Primary Weapon,1,Skyguard,2,armor
 3108,Lightning Primary Weapon,1,Skyguard,3,armor
@@ -1187,6 +1200,7 @@
 3404,Magrider Gunner Weapon,1,Proton II PPA,1,gunner
 3442,Magrider Gunner Weapon,1,Saron HRB,1,gunner
 6011888,Magrider Gunner Weapon,1,V42 Pariah,,gunner
+6014236,Magrider Primary Weapon,1,Perihelion VXC,1,armor
 3460,Magrider Primary Weapon,1,Supernova FPC,1,armor
 3400,Magrider Primary Weapon,1,Supernova PC,1,armor
 3461,Magrider Primary Weapon,1,Supernova VPC,1,armor
@@ -1286,6 +1300,7 @@
 4000,Prowler Primary Weapon,1,P2-120 HEAT,3,armor
 4009,Prowler Primary Weapon,1,P2-120 HESH,3,armor
 4016,Prowler Primary Weapon,1,P2-120-R HEAT,3,armor
+6013930,Prowler Primary Weapon,1,P4-120 Kingsnake,3,armor
 4745,Reaver Nose Cannon,1,M20 Kestrel,2,air
 4600,Reaver Nose Cannon,1,M20 Mustang,2,air
 6009029,Reaver Nose Cannon,1,M20-W Appaloosa,2,air
@@ -1321,6 +1336,7 @@
 802300,Rocket Launcher,0,NS Decimator-B,0,none
 802299,Rocket Launcher,0,NS Decimator-G,0,none
 6010049,Rocket Launcher,0,NS Scorpion,,none
+6013979,Rocket Launcher,0,"NS-R3 ""Dawnstinger"" Swarm",0,none
 6002637,Rocket Launcher,0,"NS-R3 ""Ravenous"" Swarm",0,none
 802969,Rocket Launcher,0,NS-R3 Swarm,0,none
 804179,Rocket Launcher,0,NSX Masamune,0,none
@@ -1410,6 +1426,7 @@
 2315,SMG,0,MKV-B Suppressed,,infantry
 2316,SMG,0,MKV-G Suppressed,,infantry
 6003059,SMG,0,MKV-P Suppressed,,infantry
+6013950,SMG,0,"NS-66 ""Alchemist"" Punisher",0,infantry
 6013051,SMG,0,NS-66 Bumblebee,,infantry
 6009203,SMG,0,NS-66 Punisher,,infantry
 6010117,SMG,0,NS-66 Punisher SE,,infantry
@@ -1451,6 +1468,8 @@
 26001,Sniper Rifle,0,Ghost,1,sniper
 24003,Sniper Rifle,0,LA80,2,sniper
 25000,Sniper Rifle,0,M77-B,3,sniper
+6013976,Sniper Rifle,0,"M77-B ""Dawnbreaker""",3,sniper
+6013975,Sniper Rifle,0,"NC14 ""Dawnbreaker""",2,sniper
 87,Sniper Rifle,0,NC14 Bolt Driver,2,sniper
 6008652,Sniper Rifle,0,"NSX ""Ivory"" Daimyo",0,sniper
 6008670,Sniper Rifle,0,"NSX ""Networked"" Daimyo",0,sniper
@@ -1463,6 +1482,7 @@
 6002745,Sniper Rifle,0,RAMS-AE .50M,3,sniper
 24001,Sniper Rifle,0,SAS-R,2,sniper
 6010510,Sniper Rifle,,SR-100,,sniper
+6013978,Sniper Rifle,0,"SR-100 ""Dawnbreaker""",4,sniper
 6010512,Sniper Rifle,,SR-150,,sniper
 25003,Sniper Rifle,0,SR-7,3,sniper
 6011255,Sniper Rifle,,SR-ARX Einstein,,sniper
@@ -1473,6 +1493,7 @@
 26003,Sniper Rifle,0,V10,1,sniper
 89,Sniper Rifle,0,VA39 Spectre,1,sniper
 26000,Sniper Rifle,0,XM98,1,sniper
+6013977,Sniper Rifle,0,"XM98 ""Dawnbreaker""",1,sniper
 3080,Sunderer Front Gunner,1,G30 Walker,1,gunner
 3081,Sunderer Front Gunner,1,G30 Walker,2,gunner
 3082,Sunderer Front Gunner,1,G30 Walker,3,gunner
@@ -1560,6 +1581,7 @@
 802899,Vanguard Gunner Weapon,1,M96 Mjolnir,2,gunner
 6011889,Vanguard Gunner Weapon,1,N30 Trawler,,gunner
 3756,Vanguard Primary Weapon,1,150mm Titan-R HEAT,2,armor
+6013929,Vanguard Primary Weapon,1,JGX12,2,armor
 3730,Vanguard Primary Weapon,1,Titan-150 AP,2,armor
 3700,Vanguard Primary Weapon,1,Titan-150 HEAT,2,armor
 3731,Vanguard Primary Weapon,1,Titan-150 HESH,2,armor
