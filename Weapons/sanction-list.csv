@@ -1,6 +1,7 @@
 ﻿Item ID,Item Category,Is Vehicle Weapon,Item Name,Faction ID,Sanction
 6002421,,0,Admin: Base Gun,,none
 6002429,,0,BaseSmash: Crystal Gun,,none
+6014305,,0,Conduit,0,none
 15016,AA MAX (Left),0,NS-10 Burster,3,max
 16016,AA MAX (Left),0,NS-10 Burster,2,max
 17016,AA MAX (Left),0,NS-10 Burster,1,max
@@ -301,6 +302,7 @@
 7172,Carbine,0,NC2 Gauss Compact,2,none
 7213,Carbine,0,Prominence VE4,1,none
 7192,Carbine,0,TRAC-5 S,3,none
+6014319,Chimera Primary Weapon,1,"CT-150 ""Fafnir"" Cyclops",4,armor
 6010679,Chimera Primary Weapons,,CT-102 Satyr,,armor
 6009957,Chimera Primary Weapons,,CT-135,,armor
 6010678,Chimera Primary Weapons,,CT-150 Cyclops,,armor
@@ -1032,6 +1034,7 @@
 802316,Knife,0,Hardlight Dagger,2,none
 802315,Knife,0,Hexedge,3,none
 802584,Knife,0,Icikill,0,none
+6014042,Knife,0,KTR-3 Saboteur,0,none
 286,Knife,0,Lumine Edge,1,none
 6005451,Knife,0,Lumine Edge AE,1,none
 1,Knife,0,Mag-Cutter,2,none
@@ -1060,6 +1063,7 @@
 804795,Knife,0,NSX Amaterasu,0,none
 285,Knife,0,Ripper,3,none
 6005452,Knife,0,Ripper AE,3,none
+6014268,Knife,0,Stormbringer,0,none
 801969,Knife,0,The Slasher,0,none
 6011556,Knife,,The Swashbuckler,,none
 6011914,Knife,0,Wyrdwood Shillelagh,,none
@@ -1202,6 +1206,7 @@
 3442,Magrider Gunner Weapon,1,Saron HRB,1,gunner
 6011888,Magrider Gunner Weapon,1,V42 Pariah,,gunner
 6014236,Magrider Primary Weapon,1,Perihelion VXC,1,armor
+6014318,Magrider Primary Weapon,1,"Supernova ""Fafnir"" FPC",1,armor
 3460,Magrider Primary Weapon,1,Supernova FPC,1,armor
 3400,Magrider Primary Weapon,1,Supernova PC,1,armor
 3461,Magrider Primary Weapon,1,Supernova VPC,1,armor
@@ -1297,6 +1302,7 @@
 4002,Prowler Gunner Weapon,1,M20 Basilisk,3,gunner
 802874,Prowler Gunner Weapon,1,MR11 Gatekeeper,3,gunner
 4007,Prowler Gunner Weapon,1,P525 Marauder,3,gunner
+6014317,Prowler Primary Weapon,1,"P2-120 ""Fafnir"" AP",3,armor
 4008,Prowler Primary Weapon,1,P2-120 AP,3,armor
 4000,Prowler Primary Weapon,1,P2-120 HEAT,3,armor
 4009,Prowler Primary Weapon,1,P2-120 HESH,3,armor
@@ -1326,6 +1332,7 @@
 85,Rocket Launcher,0,ML-7,3,none
 33002,Rocket Launcher,0,NC15 Phoenix,2,none
 35004,Rocket Launcher,0,Nemesis VSH9,1,none
+6014299,Rocket Launcher,0,"NS ""Fenrir's Maw"" Annihilator",0,none
 6003611,Rocket Launcher,0,"NS ""Heatwave"" Decimator",0,none
 6004407,Rocket Launcher,0,"NS ""Jackpot"" Decimator",0,none
 6011773,Rocket Launcher,0,"NS ""Tigerstrike"" Decimator",0,none
@@ -1362,6 +1369,7 @@
 6010046,Scout Rifle,,BAR-A75,,infantry
 6011257,Scout Rifle,,BAR-ARX Feynman,,infantry
 25007,Scout Rifle,0,HSR-1,3,infantry
+6014263,Scout Rifle,0,"NS-30 ""Gungnir"" Vandal",0,infantry
 2311,Scout Rifle,0,NS-30 Vandal,0,infantry
 2312,Scout Rifle,0,NS-30B Vandal,0,infantry
 2313,Scout Rifle,0,NS-30G Vandal,0,infantry
@@ -1583,6 +1591,7 @@
 6011889,Vanguard Gunner Weapon,1,N30 Trawler,,gunner
 3756,Vanguard Primary Weapon,1,150mm Titan-R HEAT,2,armor
 6013929,Vanguard Primary Weapon,1,JGX12,2,armor
+6014316,Vanguard Primary Weapon,1,"Titan-150 ""Fafnir"" AP",2,armor
 3730,Vanguard Primary Weapon,1,Titan-150 AP,2,armor
 3700,Vanguard Primary Weapon,1,Titan-150 HEAT,2,armor
 3731,Vanguard Primary Weapon,1,Titan-150 HESH,2,armor
