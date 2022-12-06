@@ -7879,7 +7879,7 @@
         "en": "Tool: Rocket Launcher: Hawk GD-68"
       },
       "description": {
-        "en": "Genudine Dynamic's flexible Hawk rocket launcher can lock onto enemy aircraft, as well as be dumbfired against enemy armor or infantry. NC use only. <font color=\"#dc9c36\">Flak detonation. Optional Lockon: Aircraft</font>"
+        "en": "Genudine Dynamic's flexible Hawk rocket launcher can lock onto enemy aircraft, as well as be dumbfired against enemy armor or infantry. NC use only. <font color=\"#dc9c36\">Optional Lockon: Aircraft</font>"
       },
       "image_set_id": "2215",
       "image_id": "2338",
@@ -7907,7 +7907,7 @@
         "en": "Tool: Rocket Launcher: ASP-30 Grounder"
       },
       "description": {
-        "en": "The ASP-30 Grounder takes advantage of lock-on technology to quickly dispatch enemy aircraft, and can be dumbfired when encountering enemy vehicles or infantry. TR use only. <font color=\"#dc9c36\">Flak detonation. Optional Lockon: Aircraft</font>"
+        "en": "The ASP-30 Grounder takes advantage of lock-on technology to quickly dispatch enemy aircraft, and can be dumbfired when encountering enemy vehicles or infantry. TR use only. <font color=\"#dc9c36\">Optional Lockon: Aircraft</font>"
       },
       "image_set_id": "2216",
       "image_id": "2353",
@@ -7935,7 +7935,7 @@
         "en": "Tool: Rocket Launcher: Nemesis VSH9"
       },
       "description": {
-        "en": "The Nemesis VSH9's integrated IFF capabilities allow it to lock onto enemy aircraft, and retains dumbfire capabilities for ground-based combat. VS use only. <font color=\"#dc9c36\">Flak detonation. Optional Lockon: Aircraft</font>"
+        "en": "The Nemesis VSH9's integrated IFF capabilities allow it to lock onto enemy aircraft, and retains dumbfire capabilities for ground-based combat. VS use only. <font color=\"#dc9c36\">Optional Lockon: Aircraft</font>"
       },
       "image_set_id": "2217",
       "image_id": "2364",
@@ -8653,7 +8653,7 @@
         "en": "Tool: Rocket Launcher: T2 Striker"
       },
       "description": {
-        "en": "The dumbfire-capable T2 Striker houses a six-round magazine of compact, heat-seeking rockets that will home in when within proximity of enemy aircraft. TR use only. <font color=\"#dc9c36\">Flak detonation. Proximity Seeking: Aircraft</font>"
+        "en": "The dumbfire-capable T2 Striker houses a six-round magazine of compact, heat-seeking rockets that will home in when within proximity of enemy aircraft. TR use only. <font color=\"#dc9c36\">Proximity Seeking: Aircraft</font>"
       },
       "image_set_id": "2216",
       "image_id": "2353",
@@ -8695,7 +8695,7 @@
         "en": "Tool: Rocket Launcher: NS Annihilator"
       },
       "description": {
-        "en": "Nanite Systems' Annihilator was the first rocket launcher to integrate both air and ground-based lockon capabilities, at cost to its dumbfire capabilities. All factions can use NS weapons. <font color=\"#dc9c36\">Flak detonation. Required Lockon: Aircraft or Armor</font>"
+        "en": "Nanite Systems' Annihilator was the first rocket launcher to integrate both air and ground-based lockon capabilities, at cost to its dumbfire capabilities. All factions can use NS weapons. <font color=\"#dc9c36\">Required Lockon: Aircraft or Armor</font>"
       },
       "image_set_id": "7088",
       "image_id": "7088",
