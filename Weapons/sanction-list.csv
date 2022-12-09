@@ -282,6 +282,7 @@
 6005055,Carbine,0,MGR-C1 Charger,2,infantry
 6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry
 75005,Carbine,0,NS-11C,,infantry
+6014480,Carbine,0,NS-11C Frostbite,0,infantry
 802100,Carbine,0,NS-11CB,,infantry
 802102,Carbine,0,NS-11CG,,infantry
 75234,Carbine,0,NS-11CP,,infantry
@@ -1065,6 +1066,7 @@
 285,Knife,0,Ripper,3,none
 6005452,Knife,0,Ripper AE,3,none
 6014268,Knife,0,Stormbringer,0,none
+6014446,Knife,0,Sweet Tooth,0,none
 801969,Knife,0,The Slasher,0,none
 6011556,Knife,,The Swashbuckler,,none
 6011914,Knife,0,Wyrdwood Shillelagh,,none
@@ -1169,6 +1171,7 @@
 6009672,LMG,0,"NS-15 ""Endeavor"" Machinegun",,infantry
 803699,LMG,0,NS-15 Gallows,,infantry
 802319,LMG,0,NS-15M AE,,infantry
+6014505,LMG,0,NS-15M Frostbite,0,infantry
 75034,LMG,0,NS-15M1,,infantry
 802106,LMG,0,NS-15M2,,infantry
 802105,LMG,0,NS-15MB,,infantry
