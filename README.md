@@ -47,6 +47,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
 - JS [Dbgcensus](https://github.com/Lampjaw/dbgcensus)
 - TS [PS2Census](https://github.com/microwavekonijn/ps2census)
 - Elixir [Planetside API](https://github.com/Bentheburrito/planetside_api)
+- Rust [Auraxis-rs](https://github.com/AnotherGenZ/auraxis-rs)
 
 ## Community API services repositories
 - [Nanite-Systems Stream Replacement](https://github.com/nanite-systems)
