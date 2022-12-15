@@ -383,9 +383,12 @@
 435,Guardian,Purchase/Bundle,NS,From the Lightbringer Bundle (2022)
 436,Operative,Kills/Directive,NS,Awarded for completion of the Subterfuge Directive
 437,Wicked,Seasonal Event,NS,Awarded for completion of the 2022 Halloween event
-438,Arbiter,Battlerank,,An ASP 3 rank title
-439,Unshackled,Battlerank,,An ASP 3 rank title
-440,Judicator,Battlerank,,An ASP 3 rank title
-441,Scion,Battlerank,,An ASP 3 rank title
+438,Arbiter,Battlerank,,Awarded to NC Characters for reaching BR 100 ASP 3
+439,Unshackled,Battlerank,,Awarded to NSO Characters for reaching BR 100 ASP 3
+440,Judicator,Battlerank,TR,Awarded to TR Characters for reaching BR 100 ASP 3
+441,Scion,Battlerank,VS,Awarded to VS Characters for reaching BR 100 ASP 3
 442,Eternal,Purchase/Bundle,NS,From the Giant's 10-Year Anniversary Bundle (2022)
 443,Record Breaker,Specific Event,NS,Participated in the 2022 Guinness World Record battle
+444,Kindly,Unknown,NS,Unknown
+445,Joyous,Seasonal Event,NS,Awarded for completion of the 2022 Christmas event
+446,Sleigher,Purchase/Bundle,NS,From the Wintery Wonder Bundle (2022)
