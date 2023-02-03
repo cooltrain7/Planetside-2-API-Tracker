@@ -141,13 +141,6 @@
 6006186,Assault Rifle,0,MGR-A1 Vanquisher,2,infantry
 4,Assault Rifle,0,NC1 Gauss Rifle,2,infantry
 7104,Assault Rifle,0,NC9 A-Tross,2,infantry
-6009604,Assault Rifle,0,"NS-11 ""Endeavor"" Assault Rifle",0,infantry
-70998,Assault Rifle,0,NS-11A,0,infantry
-6003571,Assault Rifle,0,"NS-11A ""Heatwave""",0,infantry
-6014404,Assault Rifle,0,NS-11A Frontline,0,infantry
-802099,Assault Rifle,0,NS-11AB,0,infantry
-802101,Assault Rifle,0,NS-11AG,0,infantry
-69999,Assault Rifle,0,NS-11P,0,infantry
 6008645,Assault Rifle,0,"NSX ""Ivory"" Yumi",0,infantry
 6008665,Assault Rifle,0,"NSX ""Networked"" Yumi",0,infantry
 804246,Assault Rifle,0,NSX Yumi,0,infantry
@@ -164,9 +157,16 @@
 7153,Assault Rifle,0,Terminus VX-9,1,infantry
 7129,Assault Rifle,0,TORQ-9,3,infantry
 6006188,Assault Rifle,0,VE-A Lacerta,1,infantry
-7151,Assault Rifle,0,Equinox VE2,1,none
-7102,Assault Rifle,0,Gauss Rifle S,2,none
-7127,Assault Rifle,0,T1S Cycler,3,none
+7151,Assault Rifle,0,Equinox VE2,1,infantry-ubgl
+7102,Assault Rifle,0,Gauss Rifle S,2,infantry-ubgl
+6009604,Assault Rifle,0,"NS-11 ""Endeavor"" Assault Rifle",0,infantry-ubgl
+70998,Assault Rifle,0,NS-11A,0,infantry-ubgl
+6003571,Assault Rifle,0,"NS-11A ""Heatwave""",0,infantry-ubgl
+6014404,Assault Rifle,0,NS-11A Frontline,0,infantry-ubgl
+802099,Assault Rifle,0,NS-11AB,0,infantry-ubgl
+802101,Assault Rifle,0,NS-11AG,0,infantry-ubgl
+69999,Assault Rifle,0,NS-11P,0,infantry-ubgl
+7127,Assault Rifle,0,T1S Cycler,3,infantry-ubgl
 17013,AV MAX (Left),0,Comet VM2,1,max
 15013,AV MAX (Left),0,M3 Pounder HEG,3,max
 16030,AV MAX (Left),0,MR1 Fracture,3,max
@@ -253,15 +253,15 @@
 6009043,Bastion Weapon System,0,Bastion Battery,,none
 25008,Battle Rifle,0,AMR-66,3,infantry
 1989,Battle Rifle,0,DMR-99,3,infantry
-26008,Battle Rifle,0,Eidolon VE33,1,infantry
 1984,Battle Rifle,0,GD Guardian,2,infantry
 6004216,Battle Rifle,0,MG-HBR1 Dragoon,3,infantry
 6004209,Battle Rifle,0,MGR-M1 Bishop,2,infantry
-6009101,Battle Rifle,0,NS-30 Tranquility,0,infantry
 6005970,Battle Rifle,0,NSX-A Sesshin,0,infantry
 1994,Battle Rifle,0,Revenant,1,infantry
 6004214,Battle Rifle,0,VE-LR Obelisk,1,infantry
 24008,Battle Rifle,0,Warden,2,infantry
+26008,Battle Rifle,0,Eidolon VE33,1,infantry-ubgl
+6009101,Battle Rifle,0,NS-30 Tranquility,0,infantry-ubgl
 1869,Carbine,0,19A Fortuna,2,infantry
 7170,Carbine,0,AC-X11,2,infantry
 3,Carbine,0,AF-19 Mercenary,2,infantry
@@ -280,12 +280,6 @@
 7193,Carbine,0,LC3 Jaguar,3,infantry
 6005049,Carbine,0,MG-C1 Kindred,3,infantry
 6005055,Carbine,0,MGR-C1 Charger,2,infantry
-6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry
-75005,Carbine,0,NS-11C,,infantry
-6014480,Carbine,0,NS-11C Frostbite,0,infantry
-802100,Carbine,0,NS-11CB,,infantry
-802102,Carbine,0,NS-11CG,,infantry
-75234,Carbine,0,NS-11CP,,infantry
 804243,Carbine,0,NSX Tanto,,infantry
 6003752,Carbine,0,NSX-P Tanto,,infantry
 7211,Carbine,0,Pulsar C,1,infantry
@@ -301,6 +295,12 @@
 20000,Carbine,0,VX6-7,1,infantry
 7215,Carbine,0,Zenith VX-5,1,infantry
 6003967,Carbine,0,Zenith VX-5AE,1,infantry
+6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry-ubgl
+75005,Carbine,0,NS-11C,,infantry-ubgl
+6014480,Carbine,0,NS-11C Frostbite,0,infantry-ubgl
+802100,Carbine,0,NS-11CB,,infantry-ubgl
+802102,Carbine,0,NS-11CG,,infantry-ubgl
+75234,Carbine,0,NS-11CP,,infantry-ubgl
 7172,Carbine,0,NC2 Gauss Compact,2,none
 7213,Carbine,0,Prominence VE4,1,none
 7192,Carbine,0,TRAC-5 S,3,none
@@ -590,8 +590,8 @@
 7533,Heavy Weapon,0,T7 Mini-Chaingun,3,none
 803779,Heavy Weapon,0,T7 Mini-Chaingun AE,3,none
 6004168,Heavy Weapon,0,T7-P Mini-Chaingun,3,none
-6011152,Hybrid Rifle,,NSX Kuwa,,infantry
 6005967,Hybrid Rifle,0,NSX-A Kuwa,0,infantry
+6011152,Hybrid Rifle,,NSX Kuwa,,infantry-ubgl
 804846,Infantry Abilities,0,Cert Fountain,0,
 6009460,Infantry Abilities,0,Metal Detector,0,
 6004560,Infantry Abilities,0,Meteorite,,
