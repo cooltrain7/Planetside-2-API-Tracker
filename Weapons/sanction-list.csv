@@ -106,19 +106,19 @@
 803498,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,2,none
 803499,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,3,none
 6005434,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,4,none
-6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry
 6013464,Anti-Materiel Rifle,0,DAGR-81,,infantry
 6013463,Anti-Materiel Rifle,0,LA60 Masthead,,infantry
 6013466,Anti-Materiel Rifle,0,NE-36 Linecutter,,infantry
-6002943,Anti-Materiel Rifle,0,NS-AM7 AE/NC Archer,0,infantry
-6002930,Anti-Materiel Rifle,0,NS-AM7 AE/TR Archer,0,infantry
-802771,Anti-Materiel Rifle,0,NS-AM7 Archer,0,infantry
-6002918,Anti-Materiel Rifle,0,NS-AM7 VS/AE Archer,0,infantry
-802910,Anti-Materiel Rifle,0,NS-AM7B Archer,0,infantry
-802921,Anti-Materiel Rifle,0,NS-AM7G Archer,0,infantry
 6004992,Anti-Materiel Rifle,0,NS-AM8 Shortbow,0,infantry
-6008496,Anti-Materiel Rifle,0,PSA-01 Hammerhead AMR,0,infantry
 6013465,Anti-Materiel Rifle,0,VX4-3 Slicer,,infantry
+6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry-explosive
+6002943,Anti-Materiel Rifle,0,NS-AM7 AE/NC Archer,0,infantry-explosive
+6002930,Anti-Materiel Rifle,0,NS-AM7 AE/TR Archer,0,infantry-explosive
+802771,Anti-Materiel Rifle,0,NS-AM7 Archer,0,infantry-explosive
+6002918,Anti-Materiel Rifle,0,NS-AM7 VS/AE Archer,0,infantry-explosive
+802910,Anti-Materiel Rifle,0,NS-AM7B Archer,0,infantry-explosive
+802921,Anti-Materiel Rifle,0,NS-AM7G Archer,0,infantry-explosive
+6008496,Anti-Materiel Rifle,0,PSA-01 Hammerhead AMR,0,infantry-explosive
 6013480,Assault Rifle,0,"""Apex"" NC1 Gauss Rifle",,infantry
 6013476,Assault Rifle,0,"""Apex"" Pulsar VS1",,infantry
 6013477,Assault Rifle,0,"""Apex"" T1 Cycler",,infantry
@@ -394,12 +394,12 @@
 6013340,Corsair Top Gunner,,M60-G Bulldog,,gunner
 6013624,Corsair Top Gunner,,N30 Trawler-C,,gunner
 6013628,Corsair Top Gunner,,V42 Pariah-C,,gunner
-2310,Crossbow,0,Blackheart,,none
-2309,Crossbow,0,Heartstring,,none
-2308,Crossbow,0,Hunter QCX,,none
-2317,Crossbow,0,Hunter QCX-B,,none
-2318,Crossbow,0,Hunter QCX-G,,none
-50562,Crossbow,0,Hunter QCX-P,,none
+2310,Crossbow,0,Blackheart,,infantry-explosive
+2309,Crossbow,0,Heartstring,,infantry-explosive
+2308,Crossbow,0,Hunter QCX,,infantry-explosive
+2317,Crossbow,0,Hunter QCX-B,,infantry-explosive
+2318,Crossbow,0,Hunter QCX-G,,infantry-explosive
+50562,Crossbow,0,Hunter QCX-P,,infantry-explosive
 6009928,Dervish Nose Cannon,1,DV-21 Lotus,4,air
 6009860,Dervish Nose Cannon,1,DV-22 Raycaster,4,air
 6009927,Dervish Nose Cannon,1,DV-XE,4,air
@@ -567,9 +567,9 @@
 6125,Harasser Top Gunner,1,Proton II PPA-H,1,gunner
 6126,Harasser Top Gunner,1,Saron HRB-H,1,gunner
 6011884,Harasser Top Gunner,1,V42 Pariah-H,,gunner
-6011442,Heavy Crossbow,,Demon Seeker HLX,,none
-6011432,Heavy Crossbow,,Seeker HLX,,none
-6011831,Heavy Crossbow,0,Seraphim HLX,,none
+6011442,Heavy Crossbow,,Demon Seeker HLX,,infantry-explosive
+6011432,Heavy Crossbow,,Seeker HLX,,infantry-explosive
+6011831,Heavy Crossbow,0,Seraphim HLX,,infantry-explosive
 6011140,Heavy Weapon,,D11 Detonator,,max
 6011064,Heavy Weapon,,D7 Hummingbird,,max
 6008686,Heavy Weapon,0,Grenade Printer,4,max
