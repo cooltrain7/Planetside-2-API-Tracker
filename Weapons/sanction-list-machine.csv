@@ -212,14 +212,14 @@
 7101,infantry
 7102,infantry-explosive
 7103,infantry
-7104,infantry
+7104,infantry-explosive
 7108,infantry
 7124,infantry
-7125,infantry
+7125,infantry-explosive
 7126,infantry
 7127,infantry-explosive
 7128,infantry
-7129,infantry
+7129,infantry-explosive
 7148,infantry
 7149,infantry
 7150,infantry
@@ -227,7 +227,7 @@
 7152,infantry
 7153,infantry
 7169,infantry
-7170,infantry
+7170,infantry-explosive
 7171,infantry
 7172,infantry-explosive
 7173,infantry
@@ -237,7 +237,7 @@
 7192,infantry-explosive
 7193,infantry
 7194,infantry
-7211,infantry
+7211,infantry-explosive
 7212,infantry
 7213,infantry-explosive
 7214,infantry
@@ -621,11 +621,11 @@
 6009860,air
 6009861,gunner
 6009864,infantry
-6009891,infantry
+6009891,infantry-explosive
 6009892,infantry
 6009893,infantry
 6009894,infantry
-6009895,infantry
+6009895,infantry-explosive
 6009896,infantry
 6009897,infantry
 6009898,infantry
@@ -649,7 +649,7 @@
 6009992,gunner
 6010045,infantry
 6010046,infantry
-6010047,infantry
+6010047,infantry-explosive
 6010117,infantry
 6010510,sniper
 6010511,sniper
@@ -671,7 +671,7 @@
 6011254,infantry
 6011255,sniper
 6011256,shotgun
-6011257,infantry
+6011257,infantry-explosive
 6011258,infantry
 6011389,meme
 6011409,meme
