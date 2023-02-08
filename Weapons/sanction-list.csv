@@ -106,24 +106,23 @@
 803498,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,2,none
 803499,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,3,none
 6005434,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,4,none
-6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry
 6013464,Anti-Materiel Rifle,0,DAGR-81,,infantry
 6013463,Anti-Materiel Rifle,0,LA60 Masthead,,infantry
 6013466,Anti-Materiel Rifle,0,NE-36 Linecutter,,infantry
-6002943,Anti-Materiel Rifle,0,NS-AM7 AE/NC Archer,0,infantry
-6002930,Anti-Materiel Rifle,0,NS-AM7 AE/TR Archer,0,infantry
-802771,Anti-Materiel Rifle,0,NS-AM7 Archer,0,infantry
-6002918,Anti-Materiel Rifle,0,NS-AM7 VS/AE Archer,0,infantry
-802910,Anti-Materiel Rifle,0,NS-AM7B Archer,0,infantry
-802921,Anti-Materiel Rifle,0,NS-AM7G Archer,0,infantry
 6004992,Anti-Materiel Rifle,0,NS-AM8 Shortbow,0,infantry
-6008496,Anti-Materiel Rifle,0,PSA-01 Hammerhead AMR,0,infantry
 6013465,Anti-Materiel Rifle,0,VX4-3 Slicer,,infantry
+6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry-explosive
+6002943,Anti-Materiel Rifle,0,NS-AM7 AE/NC Archer,0,infantry-explosive
+6002930,Anti-Materiel Rifle,0,NS-AM7 AE/TR Archer,0,infantry-explosive
+802771,Anti-Materiel Rifle,0,NS-AM7 Archer,0,infantry-explosive
+6002918,Anti-Materiel Rifle,0,NS-AM7 VS/AE Archer,0,infantry-explosive
+802910,Anti-Materiel Rifle,0,NS-AM7B Archer,0,infantry-explosive
+802921,Anti-Materiel Rifle,0,NS-AM7G Archer,0,infantry-explosive
+6008496,Anti-Materiel Rifle,0,PSA-01 Hammerhead AMR,0,infantry-explosive
 6013480,Assault Rifle,0,"""Apex"" NC1 Gauss Rifle",,infantry
 6013476,Assault Rifle,0,"""Apex"" Pulsar VS1",,infantry
 6013477,Assault Rifle,0,"""Apex"" T1 Cycler",,infantry
 6009864,Assault Rifle,0,AR-100,0,infantry
-6009891,Assault Rifle,0,AR-101,0,infantry
 6011252,Assault Rifle,,AR-ARX Maxwell,,infantry
 6009892,Assault Rifle,0,AR-N203,0,infantry
 7103,Assault Rifle,0,Carnage AR,2,infantry
@@ -140,33 +139,34 @@
 6006187,Assault Rifle,0,MG-A1 Arbalest,3,infantry
 6006186,Assault Rifle,0,MGR-A1 Vanquisher,2,infantry
 4,Assault Rifle,0,NC1 Gauss Rifle,2,infantry
-7104,Assault Rifle,0,NC9 A-Tross,2,infantry
-6009604,Assault Rifle,0,"NS-11 ""Endeavor"" Assault Rifle",0,infantry
-70998,Assault Rifle,0,NS-11A,0,infantry
-6003571,Assault Rifle,0,"NS-11A ""Heatwave""",0,infantry
-6014404,Assault Rifle,0,NS-11A Frontline,0,infantry
-802099,Assault Rifle,0,NS-11AB,0,infantry
-802101,Assault Rifle,0,NS-11AG,0,infantry
-69999,Assault Rifle,0,NS-11P,0,infantry
-6008645,Assault Rifle,0,"NSX ""Ivory"" Yumi",0,infantry
-6008665,Assault Rifle,0,"NSX ""Networked"" Yumi",0,infantry
-804246,Assault Rifle,0,NSX Yumi,0,infantry
-6008371,Assault Rifle,0,PSA-02 Diamondback,0,infantry
 7150,Assault Rifle,0,Pulsar Burst,1,infantry
 20,Assault Rifle,0,Pulsar VS1,1,infantry
 7108,Assault Rifle,0,Reaper DMR,2,infantry
-7125,Assault Rifle,0,SABR-13,3,infantry
 14,Assault Rifle,0,T1 Cycler,3,infantry
 1904,Assault Rifle,0,T1A Unity,3,infantry
 7126,Assault Rifle,0,T1B Cycler,3,infantry
 7128,Assault Rifle,0,TAR,3,infantry
 6002874,Assault Rifle,0,TAR-AE,3,infantry
 7153,Assault Rifle,0,Terminus VX-9,1,infantry
-7129,Assault Rifle,0,TORQ-9,3,infantry
 6006188,Assault Rifle,0,VE-A Lacerta,1,infantry
-7151,Assault Rifle,0,Equinox VE2,1,none
-7102,Assault Rifle,0,Gauss Rifle S,2,none
-7127,Assault Rifle,0,T1S Cycler,3,none
+6009891,Assault Rifle,0,AR-101,0,infantry-explosive
+7151,Assault Rifle,0,Equinox VE2,1,infantry-explosive
+7102,Assault Rifle,0,Gauss Rifle S,2,infantry-explosive
+7104,Assault Rifle,0,NC9 A-Tross,2,infantry-explosive
+6009604,Assault Rifle,0,"NS-11 ""Endeavor"" Assault Rifle",0,infantry-explosive
+70998,Assault Rifle,0,NS-11A,0,infantry-explosive
+6003571,Assault Rifle,0,"NS-11A ""Heatwave""",0,infantry-explosive
+6014404,Assault Rifle,0,NS-11A Frontline,0,infantry-explosive
+802099,Assault Rifle,0,NS-11AB,0,infantry-explosive
+802101,Assault Rifle,0,NS-11AG,0,infantry-explosive
+69999,Assault Rifle,0,NS-11P,0,infantry-explosive
+6008645,Assault Rifle,0,"NSX ""Ivory"" Yumi",0,infantry-explosive
+6008665,Assault Rifle,0,"NSX ""Networked"" Yumi",0,infantry-explosive
+804246,Assault Rifle,0,NSX Yumi,0,infantry-explosive
+6008371,Assault Rifle,0,PSA-02 Diamondback,0,infantry-explosive
+7125,Assault Rifle,0,SABR-13,3,infantry-explosive
+7127,Assault Rifle,0,T1S Cycler,3,infantry-explosive
+7129,Assault Rifle,0,TORQ-9,3,infantry-explosive
 17013,AV MAX (Left),0,Comet VM2,1,max
 15013,AV MAX (Left),0,M3 Pounder HEG,3,max
 16030,AV MAX (Left),0,MR1 Fracture,3,max
@@ -251,25 +251,23 @@
 6009041,Bastion Weapon System,0,Bastion Battery,,none
 6009042,Bastion Weapon System,0,Bastion Battery,,none
 6009043,Bastion Weapon System,0,Bastion Battery,,none
-25008,Battle Rifle,0,AMR-66,3,infantry
 1989,Battle Rifle,0,DMR-99,3,infantry
-26008,Battle Rifle,0,Eidolon VE33,1,infantry
 1984,Battle Rifle,0,GD Guardian,2,infantry
 6004216,Battle Rifle,0,MG-HBR1 Dragoon,3,infantry
 6004209,Battle Rifle,0,MGR-M1 Bishop,2,infantry
-6009101,Battle Rifle,0,NS-30 Tranquility,0,infantry
 6005970,Battle Rifle,0,NSX-A Sesshin,0,infantry
 1994,Battle Rifle,0,Revenant,1,infantry
 6004214,Battle Rifle,0,VE-LR Obelisk,1,infantry
-24008,Battle Rifle,0,Warden,2,infantry
+25008,Battle Rifle,0,AMR-66,3,infantry-explosive
+26008,Battle Rifle,0,Eidolon VE33,1,infantry-explosive
+6009101,Battle Rifle,0,NS-30 Tranquility,0,infantry-explosive
+24008,Battle Rifle,0,Warden,2,infantry-explosive
 1869,Carbine,0,19A Fortuna,2,infantry
-7170,Carbine,0,AC-X11,2,infantry
 3,Carbine,0,AF-19 Mercenary,2,infantry
 7171,Carbine,0,AF-20 Rogue,2,infantry
 7174,Carbine,0,AF-4A Bandit,2,infantry
 6003947,Carbine,0,AF-4A Bandit AE,2,infantry
 6009893,Carbine,0,CB-100,,infantry
-6009895,Carbine,0,CB-200,,infantry
 6011251,Carbine,,CB-ARX Newton,,infantry
 6009894,Carbine,0,CB-X75,,infantry
 1919,Carbine,0,Eclipse VE3A,1,infantry
@@ -280,15 +278,8 @@
 7193,Carbine,0,LC3 Jaguar,3,infantry
 6005049,Carbine,0,MG-C1 Kindred,3,infantry
 6005055,Carbine,0,MGR-C1 Charger,2,infantry
-6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry
-75005,Carbine,0,NS-11C,,infantry
-6014480,Carbine,0,NS-11C Frostbite,0,infantry
-802100,Carbine,0,NS-11CB,,infantry
-802102,Carbine,0,NS-11CG,,infantry
-75234,Carbine,0,NS-11CP,,infantry
 804243,Carbine,0,NSX Tanto,,infantry
 6003752,Carbine,0,NSX-P Tanto,,infantry
-7211,Carbine,0,Pulsar C,1,infantry
 7173,Carbine,0,Razor GD-23,2,infantry
 7214,Carbine,0,Serpent VE92,1,infantry
 7212,Carbine,0,Solstice Burst,1,infantry
@@ -301,9 +292,18 @@
 20000,Carbine,0,VX6-7,1,infantry
 7215,Carbine,0,Zenith VX-5,1,infantry
 6003967,Carbine,0,Zenith VX-5AE,1,infantry
-7172,Carbine,0,NC2 Gauss Compact,2,none
-7213,Carbine,0,Prominence VE4,1,none
-7192,Carbine,0,TRAC-5 S,3,none
+7170,Carbine,0,AC-X11,2,infantry-explosive
+6009895,Carbine,0,CB-200,,infantry-explosive
+7172,Carbine,0,NC2 Gauss Compact,2,infantry-explosive
+6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry-explosive
+75005,Carbine,0,NS-11C,,infantry-explosive
+6014480,Carbine,0,NS-11C Frostbite,0,infantry-explosive
+802100,Carbine,0,NS-11CB,,infantry-explosive
+802102,Carbine,0,NS-11CG,,infantry-explosive
+75234,Carbine,0,NS-11CP,,infantry-explosive
+7213,Carbine,0,Prominence VE4,1,infantry-explosive
+7211,Carbine,0,Pulsar C,1,infantry-explosive
+7192,Carbine,0,TRAC-5 S,3,infantry-explosive
 6014319,Chimera Primary Weapon,1,"CT-150 ""Fafnir"" Cyclops",4,armor
 6010679,Chimera Primary Weapons,,CT-102 Satyr,,armor
 6009957,Chimera Primary Weapons,,CT-135,,armor
@@ -394,12 +394,12 @@
 6013340,Corsair Top Gunner,,M60-G Bulldog,,gunner
 6013624,Corsair Top Gunner,,N30 Trawler-C,,gunner
 6013628,Corsair Top Gunner,,V42 Pariah-C,,gunner
-2310,Crossbow,0,Blackheart,,none
-2309,Crossbow,0,Heartstring,,none
-2308,Crossbow,0,Hunter QCX,,none
-2317,Crossbow,0,Hunter QCX-B,,none
-2318,Crossbow,0,Hunter QCX-G,,none
-50562,Crossbow,0,Hunter QCX-P,,none
+2310,Crossbow,0,Blackheart,,infantry-explosive
+2309,Crossbow,0,Heartstring,,infantry-explosive
+2308,Crossbow,0,Hunter QCX,,infantry-explosive
+2317,Crossbow,0,Hunter QCX-B,,infantry-explosive
+2318,Crossbow,0,Hunter QCX-G,,infantry-explosive
+50562,Crossbow,0,Hunter QCX-P,,infantry-explosive
 6009928,Dervish Nose Cannon,1,DV-21 Lotus,4,air
 6009860,Dervish Nose Cannon,1,DV-22 Raycaster,4,air
 6009927,Dervish Nose Cannon,1,DV-XE,4,air
@@ -567,9 +567,9 @@
 6125,Harasser Top Gunner,1,Proton II PPA-H,1,gunner
 6126,Harasser Top Gunner,1,Saron HRB-H,1,gunner
 6011884,Harasser Top Gunner,1,V42 Pariah-H,,gunner
-6011442,Heavy Crossbow,,Demon Seeker HLX,,none
-6011432,Heavy Crossbow,,Seeker HLX,,none
-6011831,Heavy Crossbow,0,Seraphim HLX,,none
+6011442,Heavy Crossbow,,Demon Seeker HLX,,infantry-explosive
+6011432,Heavy Crossbow,,Seeker HLX,,infantry-explosive
+6011831,Heavy Crossbow,0,Seraphim HLX,,infantry-explosive
 6011140,Heavy Weapon,,D11 Detonator,,max
 6011064,Heavy Weapon,,D7 Hummingbird,,max
 6008686,Heavy Weapon,0,Grenade Printer,4,max
@@ -590,8 +590,8 @@
 7533,Heavy Weapon,0,T7 Mini-Chaingun,3,none
 803779,Heavy Weapon,0,T7 Mini-Chaingun AE,3,none
 6004168,Heavy Weapon,0,T7-P Mini-Chaingun,3,none
-6011152,Hybrid Rifle,,NSX Kuwa,,infantry
-6005967,Hybrid Rifle,0,NSX-A Kuwa,0,infantry
+6011152,Hybrid Rifle,,NSX Kuwa,,infantry-explosive
+6005967,Hybrid Rifle,0,NSX-A Kuwa,0,infantry-explosive
 804846,Infantry Abilities,0,Cert Fountain,0,
 6009460,Infantry Abilities,0,Metal Detector,0,
 6004560,Infantry Abilities,0,Meteorite,,
@@ -1371,9 +1371,7 @@
 7372,Scout Rifle,0,Artemis VX26,1,infantry
 6004010,Scout Rifle,0,Artemis VX26 AE,1,infantry
 6010045,Scout Rifle,,BAR-100,,infantry
-6010047,Scout Rifle,,BAR-200,,infantry
 6010046,Scout Rifle,,BAR-A75,,infantry
-6011257,Scout Rifle,,BAR-ARX Feynman,,infantry
 25007,Scout Rifle,0,HSR-1,3,infantry
 6014263,Scout Rifle,0,"NS-30 ""Gungnir"" Vandal",0,infantry
 2311,Scout Rifle,0,NS-30 Vandal,0,infantry
@@ -1388,6 +1386,8 @@
 7365,Scout Rifle,0,SOAS-20,3,infantry
 6009971,Scout Rifle,0,"SOAS-20 ""Hazmat""",3,infantry
 6004009,Scout Rifle,0,SOAS-20 AE,3,infantry
+6010047,Scout Rifle,,BAR-200,,infantry-explosive
+6011257,Scout Rifle,,BAR-ARX Feynman,,infantry-explosive
 4445,Scythe Nose Cannon,1,Antares LC,1,air
 4305,Scythe Nose Cannon,1,Light PPA,1,air
 4302,Scythe Nose Cannon,1,Saron Laser Cannon,1,air
