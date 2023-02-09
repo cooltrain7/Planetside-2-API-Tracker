@@ -222,7 +222,7 @@
     },
     {
       "profile_id": "59",
-      "description": "Grenade - Used for multitple grenades"
+      "description": "Grenade - Used for multiple grenades"
     },
     {
       "profile_id": "60",
@@ -342,7 +342,7 @@
     },
     {
       "profile_id": "89",
-      "description": "NS Crossbow 01: Detect Dart NPC"
+      "description": "Recon Detection Dart"
     },
     {
       "profile_id": "90",
@@ -490,7 +490,7 @@
     },
     {
       "profile_id": "131",
-      "description": "Construction: Reinforcement Module"
+      "description": "Construction: Reconnaissance Module"
     },
     {
       "profile_id": "132",
@@ -518,7 +518,7 @@
     },
     {
       "profile_id": "138",
-      "description": "Targeting Dart"
+      "description": "Artillery Targeting Dart (used by both glaive and flail)"
     },
     {
       "profile_id": "139",
@@ -618,7 +618,7 @@
     },
     {
       "profile_id": "169",
-      "description": "Construction: Artillery Battery"
+      "description": "Construction: Shared: Flail"
     },
     {
       "profile_id": "173",
@@ -694,7 +694,7 @@
     },
     {
       "profile_id": "211",
-      "description": "Wasp"
+      "description": "Wasp Prototype"
     },
     {
       "profile_id": "234",
@@ -863,7 +863,47 @@
     {
       "profile_id": "295",
       "description": "Vehicle: Deploayble: Buoy"
+    },
+    {
+      "profile_id": "297",
+      "description": "War Asset: Steel Rain"
+    },
+    {
+      "profile_id": "298",
+      "description": "Chimera"
+    },
+    {
+      "profile_id": "299",
+      "description": "Chimera.RumbleShield"
+    },
+    {
+      "profile_id": "300",
+      "description": "Tutorial2 - Launcher Target"
+    },
+    {
+      "profile_id": "301",
+      "description": "Event Boss"
+    },
+    {
+      "profile_id": "304",
+      "description": "Pet - Repair Drone"
+    },
+    {
+      "profile_id": "305",
+      "description": "Lodestar Prototype"
+    },
+    {
+      "profile_id": "306",
+      "description": "Offensive Support Grenades"
+    },
+    {
+      "profile_id": "307",
+      "description": "Corsair"
+    },
+    {
+      "profile_id": "308",
+      "description": "Sunderer"
     }
   ],
-  "returned": 216
+  "returned": 226
 }

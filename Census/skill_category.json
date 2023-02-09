@@ -29897,7 +29897,2371 @@
       "image_set_id": "1",
       "image_id": "35",
       "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16726",
+      "skill_set_id": "1862",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16727",
+      "skill_set_id": "1862",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16728",
+      "skill_set_id": "1863",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16729",
+      "skill_set_id": "1863",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16730",
+      "skill_set_id": "1864",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16731",
+      "skill_set_id": "1864",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16732",
+      "skill_set_id": "1865",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Defense Slot"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16733",
+      "skill_set_id": "1866",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Performance Slot"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16734",
+      "skill_set_id": "1867",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility Slot"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16735",
+      "skill_set_id": "1868",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      }
+    },
+    {
+      "skill_category_id": "16736",
+      "skill_set_id": "1868",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      }
+    },
+    {
+      "skill_category_id": "16737",
+      "skill_set_id": "1868",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      }
+    },
+    {
+      "skill_category_id": "16738",
+      "skill_set_id": "1869",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16739",
+      "skill_set_id": "1870",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16740",
+      "skill_set_id": "1871",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16741",
+      "skill_set_id": "1869",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16742",
+      "skill_set_id": "1870",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16743",
+      "skill_set_id": "1871",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16744",
+      "skill_set_id": "1869",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16745",
+      "skill_set_id": "1870",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16746",
+      "skill_set_id": "1871",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16747",
+      "skill_set_id": "1872",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16748",
+      "skill_set_id": "1873",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16749",
+      "skill_set_id": "1874",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16750",
+      "skill_set_id": "1872",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16751",
+      "skill_set_id": "1873",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16752",
+      "skill_set_id": "1874",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16753",
+      "skill_set_id": "1872",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16754",
+      "skill_set_id": "1873",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16755",
+      "skill_set_id": "1874",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16756",
+      "skill_set_id": "1875",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      }
+    },
+    {
+      "skill_category_id": "16757",
+      "skill_set_id": "1876",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      }
+    },
+    {
+      "skill_category_id": "16758",
+      "skill_set_id": "1877",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      }
+    },
+    {
+      "skill_category_id": "16759",
+      "skill_set_id": "1878",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      }
+    },
+    {
+      "skill_category_id": "16760",
+      "skill_set_id": "1879",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      }
+    },
+    {
+      "skill_category_id": "16761",
+      "skill_set_id": "1875",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      }
+    },
+    {
+      "skill_category_id": "16762",
+      "skill_set_id": "1876",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      }
+    },
+    {
+      "skill_category_id": "16763",
+      "skill_set_id": "1877",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      }
+    },
+    {
+      "skill_category_id": "16764",
+      "skill_set_id": "1878",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      }
+    },
+    {
+      "skill_category_id": "16765",
+      "skill_set_id": "1879",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      }
+    },
+    {
+      "skill_category_id": "16766",
+      "skill_set_id": "1880",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16767",
+      "skill_set_id": "1880",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16768",
+      "skill_set_id": "1881",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility Slot"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16769",
+      "skill_set_id": "1882",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Defense Slot"
+      }
+    },
+    {
+      "skill_category_id": "16770",
+      "skill_set_id": "1883",
+      "skill_set_index": "3",
+      "skill_points": "0",
+      "name": {
+        "en": "Performance Slot"
+      }
+    },
+    {
+      "skill_category_id": "16771",
+      "skill_set_id": "1884",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Passive Systems"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16772",
+      "skill_set_id": "1885",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16773",
+      "skill_set_id": "1886",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16774",
+      "skill_set_id": "1887",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16775",
+      "skill_set_id": "1888",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16776",
+      "skill_set_id": "1889",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment for the Light Assault's tactical slot. Tactical items can be equipped on the loadout screen."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16777",
+      "skill_set_id": "1890",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment for the Light Assault's tactical slot. Tactical items can be equipped on the loadout screen."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16778",
+      "skill_set_id": "1891",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment for the Light Assault's tactical slot. Tactical items can be equipped on the loadout screen."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16779",
+      "skill_set_id": "1892",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment for the Light Assault's tactical slot. Tactical items can be equipped on the loadout screen."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16780",
+      "skill_set_id": "1893",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16781",
+      "skill_set_id": "1894",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16782",
+      "skill_set_id": "1895",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16783",
+      "skill_set_id": "1896",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16784",
+      "skill_set_id": "1897",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16785",
+      "skill_set_id": "1898",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16786",
+      "skill_set_id": "1899",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16787",
+      "skill_set_id": "1900",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16788",
+      "skill_set_id": "1901",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16789",
+      "skill_set_id": "1902",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16790",
+      "skill_set_id": "1903",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16791",
+      "skill_set_id": "1904",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16795",
+      "skill_set_id": "1908",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16796",
+      "skill_set_id": "1909",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16797",
+      "skill_set_id": "1910",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16798",
+      "skill_set_id": "1911",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16799",
+      "skill_set_id": "1912",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16800",
+      "skill_set_id": "1908",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16801",
+      "skill_set_id": "1909",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16802",
+      "skill_set_id": "1910",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16803",
+      "skill_set_id": "1911",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16804",
+      "skill_set_id": "1912",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16805",
+      "skill_set_id": "1915",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16806",
+      "skill_set_id": "1915",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16807",
+      "skill_set_id": "1916",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16808",
+      "skill_set_id": "1916",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16809",
+      "skill_set_id": "1914",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16810",
+      "skill_set_id": "1914",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16811",
+      "skill_set_id": "1913",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16812",
+      "skill_set_id": "1913",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16813",
+      "skill_set_id": "1917",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16814",
+      "skill_set_id": "1917",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16815",
+      "skill_set_id": "1919",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16816",
+      "skill_set_id": "1919",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16817",
+      "skill_set_id": "1920",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16818",
+      "skill_set_id": "1920",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16819",
+      "skill_set_id": "1918",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16820",
+      "skill_set_id": "1918",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16821",
+      "skill_set_id": "1921",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16822",
+      "skill_set_id": "1921",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16823",
+      "skill_set_id": "1922",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16824",
+      "skill_set_id": "1922",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16826",
+      "skill_set_id": "1923",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16827",
+      "skill_set_id": "1924",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16828",
+      "skill_set_id": "1924",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16829",
+      "skill_set_id": "1925",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16830",
+      "skill_set_id": "1925",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16831",
+      "skill_set_id": "1926",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16832",
+      "skill_set_id": "1926",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16833",
+      "skill_set_id": "1923",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16834",
+      "skill_set_id": "1927",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Utility Slot"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16835",
+      "skill_set_id": "1928",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Defense Slot"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16836",
+      "skill_set_id": "1930",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Passive Systems"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16837",
+      "skill_set_id": "1929",
+      "skill_set_index": "3",
+      "skill_points": "0",
+      "name": {
+        "en": "Performance Slot"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16838",
+      "skill_set_id": "1931",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16839",
+      "skill_set_id": "1932",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16840",
+      "skill_set_id": "1933",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16841",
+      "skill_set_id": "1934",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16842",
+      "skill_set_id": "1939",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16843",
+      "skill_set_id": "1940",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16844",
+      "skill_set_id": "1941",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16845",
+      "skill_set_id": "1942",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16846",
+      "skill_set_id": "1931",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16847",
+      "skill_set_id": "1932",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16848",
+      "skill_set_id": "1933",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16849",
+      "skill_set_id": "1934",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16850",
+      "skill_set_id": "1939",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16851",
+      "skill_set_id": "1940",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16852",
+      "skill_set_id": "1941",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16853",
+      "skill_set_id": "1942",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16854",
+      "skill_set_id": "1947",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16855",
+      "skill_set_id": "1948",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16856",
+      "skill_set_id": "1949",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16857",
+      "skill_set_id": "1950",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16858",
+      "skill_set_id": "1955",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16859",
+      "skill_set_id": "1956",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16860",
+      "skill_set_id": "1957",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16861",
+      "skill_set_id": "1958",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16862",
+      "skill_set_id": "1947",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16863",
+      "skill_set_id": "1948",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16864",
+      "skill_set_id": "1949",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16865",
+      "skill_set_id": "1950",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16866",
+      "skill_set_id": "1955",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16867",
+      "skill_set_id": "1956",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16868",
+      "skill_set_id": "1957",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16869",
+      "skill_set_id": "1958",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16870",
+      "skill_set_id": "1963",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16871",
+      "skill_set_id": "1964",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16872",
+      "skill_set_id": "1965",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16873",
+      "skill_set_id": "1965",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16874",
+      "skill_set_id": "1966",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16875",
+      "skill_set_id": "1966",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16876",
+      "skill_set_id": "1967",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16877",
+      "skill_set_id": "1967",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16878",
+      "skill_set_id": "1968",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16879",
+      "skill_set_id": "1968",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16880",
+      "skill_set_id": "1969",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16881",
+      "skill_set_id": "1969",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16882",
+      "skill_set_id": "1970",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16883",
+      "skill_set_id": "1970",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16884",
+      "skill_set_id": "1963",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16885",
+      "skill_set_id": "1964",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16886",
+      "skill_set_id": "1973",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16887",
+      "skill_set_id": "1973",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16888",
+      "skill_set_id": "1973",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16889",
+      "skill_set_id": "1974",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16890",
+      "skill_set_id": "1974",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16891",
+      "skill_set_id": "1974",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16892",
+      "skill_set_id": "1975",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16893",
+      "skill_set_id": "1975",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16894",
+      "skill_set_id": "1975",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16895",
+      "skill_set_id": "1976",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16896",
+      "skill_set_id": "1976",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16897",
+      "skill_set_id": "1976",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16898",
+      "skill_set_id": "1977",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16899",
+      "skill_set_id": "1977",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16900",
+      "skill_set_id": "1977",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16901",
+      "skill_set_id": "1978",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16902",
+      "skill_set_id": "1978",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16903",
+      "skill_set_id": "1978",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16904",
+      "skill_set_id": "1979",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16905",
+      "skill_set_id": "1979",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16906",
+      "skill_set_id": "1979",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16907",
+      "skill_set_id": "1980",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16908",
+      "skill_set_id": "1980",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16909",
+      "skill_set_id": "1980",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16910",
+      "skill_set_id": "1981",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Ammo"
+      },
+      "description": {
+        "en": "Ammo"
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16911",
+      "skill_set_id": "1981",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Barrel Attachments"
+      },
+      "description": {
+        "en": "Barrel Attachments"
+      },
+      "image_set_id": "772",
+      "image_id": "1848",
+      "image_path": "/files/ps2/images/static/1848.png"
+    },
+    {
+      "skill_category_id": "16912",
+      "skill_set_id": "1981",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Optics"
+      },
+      "description": {
+        "en": "Optics"
+      },
+      "image_set_id": "788",
+      "image_id": "1864",
+      "image_path": "/files/ps2/images/static/1864.png"
+    },
+    {
+      "skill_category_id": "16913",
+      "skill_set_id": "1982",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16914",
+      "skill_set_id": "1982",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16915",
+      "skill_set_id": "1982",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16916",
+      "skill_set_id": "1983",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16917",
+      "skill_set_id": "1983",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16918",
+      "skill_set_id": "1983",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16919",
+      "skill_set_id": "1984",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16920",
+      "skill_set_id": "1984",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16921",
+      "skill_set_id": "1984",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16922",
+      "skill_set_id": "1985",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Ammo"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16923",
+      "skill_set_id": "1985",
+      "skill_set_index": "2",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Utility"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16924",
+      "skill_set_id": "1985",
+      "skill_set_index": "1",
+      "skill_points": "0",
+      "name": {
+        "en": "Weapon Optics"
+      },
+      "image_set_id": "1",
+      "image_id": "35",
+      "image_path": "/files/ps2/images/static/35.png"
     }
   ],
-  "returned": 2249
+  "returned": 2444
 }

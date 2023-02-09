@@ -117,7 +117,8 @@
       "param2": "Addend",
       "param3": "Percent Addend",
       "param4": "Variable ID String",
-      "param5": "Is One Way Effect"
+      "param5": "Is One Way Effect",
+      "param6": "Resource Variable"
     },
     {
       "effect_type_id": "50",

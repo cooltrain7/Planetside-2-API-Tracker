@@ -1029,7 +1029,7 @@
     {
       "armor_info_id": "1076",
       "armor_facing_id": "6",
-      "armor_percent": "20",
+      "armor_percent": "30",
       "description": "Vehicle - ANT - All (Shield Armor Reduction)"
     },
     {
@@ -1437,20 +1437,20 @@
     {
       "armor_info_id": "1178",
       "armor_facing_id": "6",
-      "armor_percent": "32.5",
-      "description": "NSO: MAX: Time Bomb 2 (32.5% armor)"
+      "armor_percent": "31",
+      "description": "NSO: MAX: Time Bomb 2 (31% armor)"
     },
     {
       "armor_info_id": "1179",
       "armor_facing_id": "6",
-      "armor_percent": "37.5",
-      "description": "NSO: MAX: Time Bomb 3 (37.5% armor)"
+      "armor_percent": "36",
+      "description": "NSO: MAX: Time Bomb 3 (36% armor)"
     },
     {
       "armor_info_id": "1180",
       "armor_facing_id": "6",
       "armor_percent": "40",
-      "description": "NSO: MAX: Time Bomb 4 (40% armor)"
+      "description": "NSO: MAX: Time Bomb 4 (38% armor)"
     },
     {
       "armor_info_id": "1181",
@@ -1503,20 +1503,20 @@
     {
       "armor_info_id": "1189",
       "armor_facing_id": "6",
-      "armor_percent": "48.75",
-      "description": "NSO: MAX: Time Bomb 2 (48.75% ABLATION MESH armor)"
+      "armor_percent": "46.5",
+      "description": "NSO: MAX: Time Bomb 2 (46.5% ABLATION MESH armor)"
     },
     {
       "armor_info_id": "1190",
       "armor_facing_id": "6",
-      "armor_percent": "56.25",
-      "description": "NSO: MAX: Time Bomb 3 (56.25% ABLATION MESH armor)"
+      "armor_percent": "54",
+      "description": "NSO: MAX: Time Bomb 3 (54% ABLATION MESH armor)"
     },
     {
       "armor_info_id": "1191",
       "armor_facing_id": "6",
-      "armor_percent": "60",
-      "description": "NSO: MAX: Time Bomb 4 (60% ABLATION MESH armor)"
+      "armor_percent": "57",
+      "description": "NSO: MAX: Time Bomb 4 (57% ABLATION MESH armor)"
     },
     {
       "armor_info_id": "1192",
@@ -1607,7 +1607,115 @@
       "armor_facing_id": "6",
       "armor_amount": "99999",
       "description": "tutorial2 - super armor"
+    },
+    {
+      "armor_info_id": "1210",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Chimera - Front"
+    },
+    {
+      "armor_info_id": "1211",
+      "armor_facing_id": "1",
+      "armor_percent": "-15",
+      "description": "Chimera - Right"
+    },
+    {
+      "armor_info_id": "1212",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Chimera - Top"
+    },
+    {
+      "armor_info_id": "1213",
+      "armor_facing_id": "3",
+      "armor_percent": "-50",
+      "description": "Chimera - Rear"
+    },
+    {
+      "armor_info_id": "1214",
+      "armor_facing_id": "4",
+      "armor_percent": "-15",
+      "description": "Chimera - Left"
+    },
+    {
+      "armor_info_id": "1215",
+      "armor_facing_id": "5",
+      "armor_percent": "-100",
+      "description": "Chimera - Bottom"
+    },
+    {
+      "armor_info_id": "1216",
+      "armor_facing_id": "5",
+      "armor_percent": "10",
+      "description": "Vehicle - Chimera - Mineguard 1"
+    },
+    {
+      "armor_info_id": "1217",
+      "armor_facing_id": "5",
+      "armor_percent": "20",
+      "description": "Vehicle - Chimera - Mineguard 2"
+    },
+    {
+      "armor_info_id": "1218",
+      "armor_facing_id": "5",
+      "armor_percent": "30",
+      "description": "Vehicle - Chimera - Mineguard 3"
+    },
+    {
+      "armor_info_id": "1219",
+      "armor_facing_id": "5",
+      "armor_percent": "40",
+      "description": "Vehicle - Chimera - Mineguard 4"
+    },
+    {
+      "armor_info_id": "1220",
+      "armor_facing_id": "2",
+      "armor_percent": "10",
+      "description": "Vehicle - Dervish - Defense - Top Armor 1"
+    },
+    {
+      "armor_info_id": "1221",
+      "armor_facing_id": "2",
+      "armor_percent": "12.5",
+      "description": "Vehicle - Dervish - Defense - Top Armor 2"
+    },
+    {
+      "armor_info_id": "1222",
+      "armor_facing_id": "2",
+      "armor_percent": "14",
+      "description": "Vehicle - Dervish - Defense - Top Armor 3"
+    },
+    {
+      "armor_info_id": "1223",
+      "armor_facing_id": "2",
+      "armor_percent": "15",
+      "description": "Vehicle - Dervish - Defense - Top Armor 4"
+    },
+    {
+      "armor_info_id": "1224",
+      "armor_facing_id": "6",
+      "armor_percent": "40",
+      "description": "NSO: MAX: Time Bomb 5 (40% armor)"
+    },
+    {
+      "armor_info_id": "1225",
+      "armor_facing_id": "6",
+      "armor_percent": "60",
+      "description": "NSO: MAX: Time Bomb 5 (60% ABLATION MESH armor)"
+    },
+    {
+      "armor_info_id": "1227",
+      "armor_facing_id": "6",
+      "armor_percent": "-20",
+      "description": "Loadout Implant: Berserker (All)"
+    },
+    {
+      "armor_info_id": "1229",
+      "armor_facing_id": "6",
+      "armor_percent": "-15",
+      "description": "Vehicle - Magrider - Weapon - Perihelion (Armor Debuff)"
     }
   ],
-  "returned": 268
+  "returned": 286
 }

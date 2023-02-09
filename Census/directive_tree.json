@@ -662,9 +662,241 @@
         "en": "Valentine's Day 2021"
       },
       "description": {
-        "en": "Feb. 9 - Feb. 14"
+        "en": "Feb. 8 - Feb. 14"
+      }
+    },
+    {
+      "directive_tree_id": "95",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Javelin"
+      },
+      "image_set_id": "806819",
+      "image_id": "93911",
+      "image_path": "/files/ps2/images/static/93911.png"
+    },
+    {
+      "directive_tree_id": "96",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Dervish"
+      },
+      "image_set_id": "806714",
+      "image_id": "93608",
+      "image_path": "/files/ps2/images/static/93608.png"
+    },
+    {
+      "directive_tree_id": "97",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Chimera"
+      },
+      "image_set_id": "806713",
+      "image_id": "93609",
+      "image_path": "/files/ps2/images/static/93609.png"
+    },
+    {
+      "directive_tree_id": "98",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Summer Fun 2021"
+      },
+      "description": {
+        "en": "Available through August 25"
+      }
+    },
+    {
+      "directive_tree_id": "100",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween VIII"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "101",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Auraximas 2021"
+      },
+      "description": {
+        "en": "Dec. 1 - Jan. 9"
+      }
+    },
+    {
+      "directive_tree_id": "102",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional V"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "103",
+      "directive_tree_category_id": "17",
+      "name": {
+        "en": "Oshur Dog Tags"
+      },
+      "image_set_id": "14448",
+      "image_id": "78104",
+      "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+      "directive_tree_id": "104",
+      "directive_tree_category_id": "5",
+      "name": {
+        "en": "Conquest - Oshur"
+      },
+      "image_set_id": "14163",
+      "image_id": "79586",
+      "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+      "directive_tree_id": "105",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Valentine's Day 2022"
+      },
+      "description": {
+        "en": "Feb. 8 - Feb. 14"
+      }
+    },
+    {
+      "directive_tree_id": "106",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Black Market"
+      },
+      "image_set_id": "802639",
+      "image_id": "84293",
+      "image_path": "/files/ps2/images/static/84293.png"
+    },
+    {
+      "directive_tree_id": "107",
+      "directive_tree_category_id": "17",
+      "name": {
+        "en": "Gone Fishing"
+      },
+      "description": {
+        "en": "Reel in some big fish from the waters of Auraxis."
+      },
+      "image_set_id": "802639",
+      "image_id": "84293",
+      "image_path": "/files/ps2/images/static/84293.png"
+    },
+    {
+      "directive_tree_id": "109",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional VI"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "110",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Summer Fun 2022 - Beach Head"
+      },
+      "description": {
+        "en": "Available through June 29"
+      }
+    },
+    {
+      "directive_tree_id": "111",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Summer Fun 2022 - Wave Breaker"
+      },
+      "description": {
+        "en": "Available through July 27"
+      }
+    },
+    {
+      "directive_tree_id": "112",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Summer Fun 2022 - Sullen Swells"
+      },
+      "description": {
+        "en": "Available through August 17"
+      }
+    },
+    {
+      "directive_tree_id": "113",
+      "directive_tree_category_id": "4",
+      "name": {
+        "en": "Corsair"
+      },
+      "image_set_id": "807221",
+      "image_id": "95008",
+      "image_path": "/files/ps2/images/static/95008.png"
+    },
+    {
+      "directive_tree_id": "114",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Subterfuge"
+      },
+      "description": {
+        "en": "Available through December 4"
+      }
+    },
+    {
+      "directive_tree_id": "115",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional VII"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "116",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween 2022"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "117",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Auraximas 2022"
+      },
+      "description": {
+        "en": "Available through January 1"
+      }
+    },
+    {
+      "directive_tree_id": "118",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Valentine's Day 2023"
+      },
+      "description": {
+        "en": "Feb. 8 - Feb. 14"
       }
     }
   ],
-  "returned": 66
+  "returned": 88
 }

@@ -2471,7 +2471,615 @@
       "name": {
         "en": "The Shattered Warpgate"
       }
+    },
+    {
+      "region_id": "18263",
+      "zone_id": "344",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Mirror Bay Watchtower"
+      }
+    },
+    {
+      "region_id": "18264",
+      "zone_id": "344",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Astira Hydroelectric"
+      }
+    },
+    {
+      "region_id": "18265",
+      "zone_id": "344",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Pommel Gardens"
+      }
+    },
+    {
+      "region_id": "18266",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Centri Import Hub"
+      }
+    },
+    {
+      "region_id": "18267",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Binusilan Interlink"
+      }
+    },
+    {
+      "region_id": "18268",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Ligalai Station"
+      }
+    },
+    {
+      "region_id": "18269",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Outpost Kalis"
+      }
+    },
+    {
+      "region_id": "18270",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seaside Bluffs"
+      }
+    },
+    {
+      "region_id": "18271",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Viridian Genetics Lab"
+      }
+    },
+    {
+      "region_id": "18272",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Viridian Decontamination"
+      }
+    },
+    {
+      "region_id": "18273",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Centri Mining Operation"
+      }
+    },
+    {
+      "region_id": "18274",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Mirror Bay Checkpoint"
+      }
+    },
+    {
+      "region_id": "18275",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Pilay Interlink"
+      }
+    },
+    {
+      "region_id": "18276",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Gildad Cliffs"
+      }
+    },
+    {
+      "region_id": "18277",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Lamplight Security"
+      }
+    },
+    {
+      "region_id": "18278",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Hopeswell Beachhead"
+      }
+    },
+    {
+      "region_id": "18279",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Wavecrest Beachhead"
+      }
+    },
+    {
+      "region_id": "18280",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Anat Interlink"
+      }
+    },
+    {
+      "region_id": "18281",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Sage R&D Labs"
+      }
+    },
+    {
+      "region_id": "18282",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Tannae Power"
+      }
+    },
+    {
+      "region_id": "18283",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Hunter's Ravine"
+      }
+    },
+    {
+      "region_id": "18284",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "K&H Tech Station"
+      }
+    },
+    {
+      "region_id": "18285",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "High Ridge Security"
+      }
+    },
+    {
+      "region_id": "18286",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Dekat Interlink"
+      }
+    },
+    {
+      "region_id": "18287",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Astira Solar Station"
+      }
+    },
+    {
+      "region_id": "18288",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Southpeak Meadows"
+      }
+    },
+    {
+      "region_id": "18289",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Emerald Research Co."
+      }
+    },
+    {
+      "region_id": "18290",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Remnant Cove"
+      }
+    },
+    {
+      "region_id": "18291",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Viridian East Terrace"
+      }
+    },
+    {
+      "region_id": "18292",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "South Viridian Beachhead"
+      }
+    },
+    {
+      "region_id": "18293",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Terran Genetics Inc."
+      }
+    },
+    {
+      "region_id": "18294",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Sibo Interlink"
+      }
+    },
+    {
+      "region_id": "18295",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Wellerman Watch"
+      }
+    },
+    {
+      "region_id": "18296",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Palaso Supply Depot"
+      }
+    },
+    {
+      "region_id": "18297",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Fort Arceo"
+      }
+    },
+    {
+      "region_id": "18298",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Eagle Outpost"
+      }
+    },
+    {
+      "region_id": "18299",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Meridian Listening Post"
+      }
+    },
+    {
+      "region_id": "18300",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Imbanon Interlink"
+      }
+    },
+    {
+      "region_id": "18301",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Nascent Shipping and Storage"
+      }
+    },
+    {
+      "region_id": "18302",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Emerald Arboretum"
+      }
+    },
+    {
+      "region_id": "18303",
+      "zone_id": "344",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Oshur Northeast Flotilla"
+      }
+    },
+    {
+      "region_id": "18304",
+      "zone_id": "344",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Oshur Northwest Flotilla"
+      }
+    },
+    {
+      "region_id": "18305",
+      "zone_id": "344",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Oshur South Flotilla"
+      }
+    },
+    {
+      "region_id": "18307",
+      "zone_id": "344",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Sirinan Trident"
+      }
+    },
+    {
+      "region_id": "18308",
+      "zone_id": "344",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Bago Trident"
+      }
+    },
+    {
+      "region_id": "18309",
+      "zone_id": "344",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Anlabban Trident"
+      }
+    },
+    {
+      "region_id": "18328",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Oshur: Inner: NW: Waterbase 01"
+      }
+    },
+    {
+      "region_id": "18329",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost J5"
+      }
+    },
+    {
+      "region_id": "18330",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost K10"
+      }
+    },
+    {
+      "region_id": "18331",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost K12"
+      }
+    },
+    {
+      "region_id": "18343",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Veridad Pass"
+      }
+    },
+    {
+      "region_id": "18344",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Solstice Pass"
+      }
+    },
+    {
+      "region_id": "18346",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Wakerift Beachhead"
+      }
+    },
+    {
+      "region_id": "18347",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Oshur Vast Expanse"
+      }
+    },
+    {
+      "region_id": "18351",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost L5"
+      }
+    },
+    {
+      "region_id": "18352",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost M6"
+      }
+    },
+    {
+      "region_id": "18353",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost M9"
+      }
+    },
+    {
+      "region_id": "18354",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost J13"
+      }
+    },
+    {
+      "region_id": "18356",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost E12"
+      }
+    },
+    {
+      "region_id": "18357",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost C7"
+      }
+    },
+    {
+      "region_id": "18358",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost E5"
+      }
+    },
+    {
+      "region_id": "18359",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost G4"
+      }
+    },
+    {
+      "region_id": "18360",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost I11 - Stones"
+      }
+    },
+    {
+      "region_id": "18361",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost G11 - Reef"
+      }
+    },
+    {
+      "region_id": "18362",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost H10 - Debris"
+      }
+    },
+    {
+      "region_id": "18363",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost G8 - Pipeline"
+      }
+    },
+    {
+      "region_id": "18364",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost D8 - Collapse"
+      }
+    },
+    {
+      "region_id": "18365",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost G6 - Trenches"
+      }
+    },
+    {
+      "region_id": "18366",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost J7 - Garden"
+      }
+    },
+    {
+      "region_id": "18367",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost L8 - Cliffdive"
+      }
+    },
+    {
+      "region_id": "18368",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Seapost J8 - Delve"
+      }
+    },
+    {
+      "region_id": "18369",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Bathala Garden"
+      }
+    },
+    {
+      "region_id": "18370",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "HMS Technologies"
+      }
+    },
+    {
+      "region_id": "18371",
+      "zone_id": "96",
+      "initial_faction_id": "2",
+      "name": {
+        "en": "Player Spawn"
+      }
+    },
+    {
+      "region_id": "18372",
+      "zone_id": "97",
+      "initial_faction_id": "3",
+      "name": {
+        "en": "Player Spawn"
+      }
+    },
+    {
+      "region_id": "18373",
+      "zone_id": "98",
+      "initial_faction_id": "1",
+      "name": {
+        "en": "Player Spawn"
+      }
     }
   ],
-  "returned": 309
+  "returned": 385
 }

@@ -229,15 +229,15 @@
         "en": "ANT"
       },
       "description": {
-        "en": "ANT Prototype Description"
+        "en": "The ANT is a construction vehicle capable of siphoning Cortium from nodes found on the planet's surface, and can convert the stored energy into field equipment."
       },
       "type_id": "5",
       "type_name": "Four Wheeled Ground Vehicle",
       "cost": "0",
       "cost_resource_id": "4",
       "image_set_id": "802789",
-      "image_id": "84726",
-      "image_path": "/files/ps2/images/static/84726.png"
+      "image_id": "95284",
+      "image_path": "/files/ps2/images/static/95284.png"
     },
     {
       "vehicle_id": "100",
@@ -578,8 +578,8 @@
       "cost": "0",
       "cost_resource_id": "4",
       "image_set_id": "802789",
-      "image_id": "84726",
-      "image_path": "/files/ps2/images/static/84726.png"
+      "image_id": "95284",
+      "image_path": "/files/ps2/images/static/95284.png"
     },
     {
       "vehicle_id": "2040",
@@ -591,7 +591,7 @@
       },
       "type_id": "1",
       "type_name": "Light Aircraft",
-      "cost": "250",
+      "cost": "0",
       "cost_resource_id": "4",
       "image_set_id": "14268",
       "image_id": "79698",
@@ -797,10 +797,106 @@
       "type_name": "Light Aircraft",
       "cost": "0",
       "cost_resource_id": "4",
-      "image_set_id": "93",
-      "image_id": "3981",
-      "image_path": "/files/ps2/images/static/3981.png"
+      "image_set_id": "806712",
+      "image_id": "93595",
+      "image_path": "/files/ps2/images/static/93595.png"
+    },
+    {
+      "vehicle_id": "2137",
+      "name": {
+        "en": "Chimera"
+      },
+      "description": {
+        "en": "The Chimera sports wheels instead of treads, which increases maneuverability through rough terrain. Up to four additional rumble seat passengers may be carried, complementing the driver-operated main cannon, and forward-facing secondary turret."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "806711",
+      "image_id": "93592",
+      "image_path": "/files/ps2/images/static/93592.png"
+    },
+    {
+      "vehicle_id": "2139",
+      "name": {
+        "en": "Deliverer Prototype"
+      },
+      "description": {
+        "en": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "100",
+      "image_id": "4002",
+      "image_path": "/files/ps2/images/static/4002.png"
+    },
+    {
+      "vehicle_id": "2140",
+      "name": {
+        "en": "Lodestar Prototype"
+      },
+      "description": {
+        "en": "This prototype Galaxy configuration can deploy as an advanced mobile station."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "92",
+      "image_id": "3978",
+      "image_path": "/files/ps2/images/static/3978.png"
+    },
+    {
+      "vehicle_id": "2141",
+      "name": {
+        "en": "Wasp Prototype"
+      },
+      "description": {
+        "en": "The Valkyrie is a six person aircraft used for close air support and transportation. It is crewed by a pilot and a forward gunner with room for four passengers that are able to use their personal equipment while in flight."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "14268",
+      "image_id": "79698",
+      "image_path": "/files/ps2/images/static/79698.png"
+    },
+    {
+      "vehicle_id": "2142",
+      "name": {
+        "en": "Corsair"
+      },
+      "description": {
+        "en": "The Corsair assault craft has two gunner turrets, and can transport a total of 8 soldiers. The last 5 seats in the vehicle are fitted with a catapult system that launches personnel safely into battle."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "807216",
+      "image_id": "94995",
+      "image_path": "/files/ps2/images/static/94995.png"
+    },
+    {
+      "vehicle_id": "2144",
+      "name": {
+        "en": "Derelict Fleet Carrier"
+      },
+      "description": {
+        "en": "The Bastion is a multi-purpose airship with multiple weapon systems, soldier respawn capabilities and fighter launch pads."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "450",
+      "cost_resource_id": "4",
+      "image_set_id": "804395",
+      "image_id": "92694",
+      "image_path": "/files/ps2/images/static/92694.png"
     }
   ],
-  "returned": 53
+  "returned": 59
 }

@@ -12682,7 +12682,7 @@
         "en": "Universal: Tactical Equipment"
       },
       "description": {
-        "en": "Unlock Certifications that apply to all non-MAX classes"
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
       },
       "image_set_id": "1563",
       "image_id": "2706",
@@ -12694,7 +12694,7 @@
         "en": "Universal: Tactical Equipment"
       },
       "description": {
-        "en": "Unlock Certifications that apply to all non-MAX classes"
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
       },
       "image_set_id": "1563",
       "image_id": "2706",
@@ -12706,7 +12706,7 @@
         "en": "Universal: Tactical Equipment"
       },
       "description": {
-        "en": "Unlock Certifications that apply to all non-MAX classes"
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
       },
       "image_set_id": "1563",
       "image_id": "2706",
@@ -12718,7 +12718,7 @@
         "en": "Universal: Tactical Equipment"
       },
       "description": {
-        "en": "Unlock Certifications that apply to all non-MAX classes"
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
       },
       "image_set_id": "1563",
       "image_id": "2706",
@@ -12737,7 +12737,1271 @@
       "image_set_id": "2079",
       "image_id": "3798",
       "image_path": "/files/ps2/images/static/3798.png"
+    },
+    {
+      "skill_set_id": "1862",
+      "required_item_id": "6010044",
+      "name": {
+        "en": "PRIMARY WEAPON: Salamander"
+      },
+      "description": {
+        "en": "The Salamander fires energized particles that effectively damage all targets, especially at close range."
+      },
+      "image_set_id": "2028",
+      "image_id": "3723",
+      "image_path": "/files/ps2/images/static/3723.png"
+    },
+    {
+      "skill_set_id": "1863",
+      "required_item_id": "6010076",
+      "name": {
+        "en": "PRIMARY WEAPON: Fan Rifle"
+      },
+      "description": {
+        "en": "This weapon utilizes the latest in particle dispersion technology to fire a fan of three projectiles on a horizontal trajectory. Each particle projection packs less firepower than the average machine gun, but the fire pattern makes it effective against groups of infantry."
+      },
+      "image_set_id": "806850",
+      "image_id": "94003",
+      "image_path": "/files/ps2/images/static/94003.png"
+    },
+    {
+      "skill_set_id": "1864",
+      "required_item_id": "6008733",
+      "name": {
+        "en": "PRIMARY WEAPON: NEST Launcher"
+      },
+      "description": {
+        "en": "The Nemesis Evaluation Seeking and Tracking system in these micro-missiles are fired in bursts and after traveling several meters can divert course mid-flight to home in on medium or larger sized vehicles they fly nearby. The payload in these projectiles are suited for general purpose anti-vehicle combat. NSO use only."
+      },
+      "image_set_id": "806851",
+      "image_id": "94006",
+      "image_path": "/files/ps2/images/static/94006.png"
+    },
+    {
+      "skill_set_id": "1865",
+      "name": {
+        "en": "Dervish:  Defense Slot"
+      },
+      "description": {
+        "en": "Unlock defense slot Certifications to increase the Dervish's survivability on the field. Defense slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2172",
+      "image_id": "4023",
+      "image_path": "/files/ps2/images/static/4023.png"
+    },
+    {
+      "skill_set_id": "1866",
+      "name": {
+        "en": "Dervish:  Performance Slot"
+      },
+      "description": {
+        "en": "Unlock mobility boosting Certifications for the Dervish's performance slot. Performance slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2175",
+      "image_id": "4026",
+      "image_path": "/files/ps2/images/static/4026.png"
+    },
+    {
+      "skill_set_id": "1867",
+      "name": {
+        "en": "Dervish:  Utility Slot"
+      },
+      "description": {
+        "en": "Unlock various gadgets for the Dervish's Utility slot. Utility slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2176",
+      "image_id": "4027",
+      "image_path": "/files/ps2/images/static/4027.png"
+    },
+    {
+      "skill_set_id": "1868",
+      "required_item_id": "6009957",
+      "name": {
+        "en": "PRIMARY WEAPON: CPT-135mm"
+      },
+      "image_set_id": "134",
+      "image_id": "319",
+      "image_path": "/files/ps2/images/static/319.png"
+    },
+    {
+      "skill_set_id": "1869",
+      "required_item_id": "6009860",
+      "name": {
+        "en": "DV-22 Raycaster"
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_set_id": "1870",
+      "required_item_id": "6009927",
+      "name": {
+        "en": "DV-XE"
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_set_id": "1871",
+      "required_item_id": "6009928",
+      "name": {
+        "en": "DV-21 Lotus"
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_set_id": "1872",
+      "required_item_id": "6009861",
+      "name": {
+        "en": "DV-22T Lightweaver"
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_set_id": "1873",
+      "required_item_id": "6009991",
+      "name": {
+        "en": "DV-LAT Pixie"
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_set_id": "1874",
+      "required_item_id": "6009992",
+      "name": {
+        "en": "DV-XAT"
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_set_id": "1875",
+      "required_item_id": "6010678",
+      "name": {
+        "en": "PRIMARY WEAPON: CPT-Venom"
+      },
+      "image_set_id": "134",
+      "image_id": "319",
+      "image_path": "/files/ps2/images/static/319.png"
+    },
+    {
+      "skill_set_id": "1876",
+      "required_item_id": "6010679",
+      "name": {
+        "en": "PRIMARY WEAPON: CPT-Satyr"
+      },
+      "image_set_id": "134",
+      "image_id": "319",
+      "image_path": "/files/ps2/images/static/319.png"
+    },
+    {
+      "skill_set_id": "1877",
+      "required_item_id": "6010715",
+      "name": {
+        "en": "SECONDARY WEAPON: CST-20mm HCG"
+      },
+      "image_set_id": "134",
+      "image_id": "319",
+      "image_path": "/files/ps2/images/static/319.png"
+    },
+    {
+      "skill_set_id": "1878",
+      "required_item_id": "6010716",
+      "name": {
+        "en": "SECONDARY WEAPON: CST-Particle Projector"
+      },
+      "image_set_id": "134",
+      "image_id": "319",
+      "image_path": "/files/ps2/images/static/319.png"
+    },
+    {
+      "skill_set_id": "1879",
+      "required_item_id": "6010717",
+      "name": {
+        "en": "SECONDARY WEAPON: CST-MBSR"
+      },
+      "image_set_id": "134",
+      "image_id": "319",
+      "image_path": "/files/ps2/images/static/319.png"
+    },
+    {
+      "skill_set_id": "1880",
+      "required_item_id": "6010078",
+      "name": {
+        "en": "PRIMARY WEAPON: Particle Projection Rifle"
+      },
+      "description": {
+        "en": "This first-generation particle-projector cannon charges up to fire a burst of short range highly concentrated particles to damage armored targets. NSO use only."
+      },
+      "image_set_id": "806852",
+      "image_id": "94009",
+      "image_path": "/files/ps2/images/static/94009.png"
+    },
+    {
+      "skill_set_id": "1881",
+      "name": {
+        "en": "Chimera:  Utility Slot"
+      },
+      "description": {
+        "en": "Unlock defense slot Certifications to increase the Chimera's survivability on the field. Defense slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2172",
+      "image_id": "4023",
+      "image_path": "/files/ps2/images/static/4023.png"
+    },
+    {
+      "skill_set_id": "1882",
+      "name": {
+        "en": "Chimera:  Defense Slot"
+      },
+      "description": {
+        "en": "Unlock defense slot Certifications to increase the Chimera's survivability on the field. Defense slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2172",
+      "image_id": "4023",
+      "image_path": "/files/ps2/images/static/4023.png"
+    },
+    {
+      "skill_set_id": "1883",
+      "name": {
+        "en": "Chimera:  Performance Slot"
+      },
+      "description": {
+        "en": "Unlock mobility boosting Certifications for the Chimera's performance slot. Performance slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2175",
+      "image_id": "4026",
+      "image_path": "/files/ps2/images/static/4026.png"
+    },
+    {
+      "skill_set_id": "1885",
+      "name": {
+        "en": "Infiltrator: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1886",
+      "name": {
+        "en": "Infiltrator: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1887",
+      "name": {
+        "en": "Infiltrator: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1888",
+      "name": {
+        "en": "Infiltrator: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1889",
+      "name": {
+        "en": "Light Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1890",
+      "name": {
+        "en": "Light Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1891",
+      "name": {
+        "en": "Light Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1892",
+      "name": {
+        "en": "Light Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1893",
+      "name": {
+        "en": "Combat Medic: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1894",
+      "name": {
+        "en": "Combat Medic: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1895",
+      "name": {
+        "en": "Combat Medic: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1896",
+      "name": {
+        "en": "Combat Medic: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1897",
+      "name": {
+        "en": "Engineer: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1898",
+      "name": {
+        "en": "Engineer: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1899",
+      "name": {
+        "en": "Engineer: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1900",
+      "name": {
+        "en": "Engineer: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1901",
+      "name": {
+        "en": "Heavy Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1902",
+      "name": {
+        "en": "Heavy Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1903",
+      "name": {
+        "en": "Heavy Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1904",
+      "name": {
+        "en": "Heavy Assault: Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "1563",
+      "image_id": "2706",
+      "image_path": "/files/ps2/images/static/2706.png"
+    },
+    {
+      "skill_set_id": "1908",
+      "required_item_id": "6011888",
+      "name": {
+        "en": "GUNNER WEAPON: V-42 Pariah"
+      },
+      "description": {
+        "en": "The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1909",
+      "required_item_id": "6011880",
+      "name": {
+        "en": "GUNNER WEAPON: V-42 Pariah-A"
+      },
+      "description": {
+        "en": "The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1910",
+      "required_item_id": "6011884",
+      "name": {
+        "en": "GUNNER WEAPON: V-42 Pariah-H"
+      },
+      "description": {
+        "en": "The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1911",
+      "required_item_id": "6011876",
+      "name": {
+        "en": "GUNNER WEAPON: V-42 Pariah-S"
+      },
+      "description": {
+        "en": "The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1912",
+      "required_item_id": "6011888",
+      "name": {
+        "en": "GUNNER WEAPON: V-42 Pariah-S"
+      },
+      "description": {
+        "en": "The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1913",
+      "required_item_id": "6011872",
+      "name": {
+        "en": "GUNNER WEAPON: N30 Trawler-S"
+      },
+      "description": {
+        "en": "The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1914",
+      "required_item_id": "6011889",
+      "name": {
+        "en": "GUNNER WEAPON: N30 Trawler"
+      },
+      "description": {
+        "en": "The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1915",
+      "required_item_id": "6011881",
+      "name": {
+        "en": "GUNNER WEAPON: N30 Trawler-A"
+      },
+      "description": {
+        "en": "The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1916",
+      "required_item_id": "6011885",
+      "name": {
+        "en": "GUNNER WEAPON: N30 Trawler-H"
+      },
+      "description": {
+        "en": "The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1917",
+      "required_item_id": "6011873",
+      "name": {
+        "en": "GUNNER WEAPON: N30 Trawler-S"
+      },
+      "description": {
+        "en": "The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1918",
+      "required_item_id": "6011887",
+      "name": {
+        "en": "GUNNER WEAPON: M18 Palisade"
+      },
+      "description": {
+        "en": "The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1919",
+      "required_item_id": "6011879",
+      "name": {
+        "en": "GUNNER WEAPON: M18 Palisade-A"
+      },
+      "description": {
+        "en": "The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1920",
+      "required_item_id": "6011883",
+      "name": {
+        "en": "GUNNER WEAPON: M18 Palisade-H"
+      },
+      "description": {
+        "en": "The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1921",
+      "required_item_id": "6011874",
+      "name": {
+        "en": "GUNNER WEAPON: M18 Palisade-S"
+      },
+      "description": {
+        "en": "The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1922",
+      "required_item_id": "6011875",
+      "name": {
+        "en": "GUNNER WEAPON: M18 Palisade-S"
+      },
+      "description": {
+        "en": "The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1923",
+      "required_item_id": "6011882",
+      "name": {
+        "en": "GUNNER WEAPON: A2-20 HCG"
+      },
+      "description": {
+        "en": "The all-rounder 20mm heavy chain gun is capable of dispatching armor, air, and infantry alike. NSO use only."
+      },
+      "image_set_id": "806727",
+      "image_id": "93654",
+      "image_path": "/files/ps2/images/static/93654.png"
+    },
+    {
+      "skill_set_id": "1924",
+      "required_item_id": "6011886",
+      "name": {
+        "en": "GUNNER WEAPON: H2-20 HCG"
+      },
+      "description": {
+        "en": "The all-rounder 20mm heavy chain gun is capable of dispatching armor, air, and infantry alike. NSO use only."
+      },
+      "image_set_id": "806727",
+      "image_id": "93654",
+      "image_path": "/files/ps2/images/static/93654.png"
+    },
+    {
+      "skill_set_id": "1925",
+      "required_item_id": "6011869",
+      "name": {
+        "en": "GUNNER WEAPON: S2-20 HCG"
+      },
+      "description": {
+        "en": "The all-rounder 20mm heavy chain gun is capable of dispatching armor, air, and infantry alike. NSO use only."
+      },
+      "image_set_id": "806727",
+      "image_id": "93654",
+      "image_path": "/files/ps2/images/static/93654.png"
+    },
+    {
+      "skill_set_id": "1926",
+      "required_item_id": "6011870",
+      "name": {
+        "en": "GUNNER WEAPON: S2-20 HCG"
+      },
+      "description": {
+        "en": "The all-rounder 20mm heavy chain gun is capable of dispatching armor, air, and infantry alike. NSO use only."
+      },
+      "image_set_id": "806727",
+      "image_id": "93654",
+      "image_path": "/files/ps2/images/static/93654.png"
+    },
+    {
+      "skill_set_id": "1927",
+      "name": {
+        "en": "Corsair: Utility Slot"
+      },
+      "description": {
+        "en": "Unlock various gadgets for the Corsair's Utility slot. Utility slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2176",
+      "image_id": "4027",
+      "image_path": "/files/ps2/images/static/4027.png"
+    },
+    {
+      "skill_set_id": "1928",
+      "name": {
+        "en": "Corsair: Defense Slot"
+      },
+      "description": {
+        "en": "Unlock defense slot Certifications to increase the Corsair survivability. Defense slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2172",
+      "image_id": "4023",
+      "image_path": "/files/ps2/images/static/4023.png"
+    },
+    {
+      "skill_set_id": "1929",
+      "name": {
+        "en": "Corsair: Performance Slot"
+      },
+      "description": {
+        "en": "Unlock mobility boosting Certifications for the Corsair's performance slot. Performance slot items can be equipped on the loadout screen."
+      },
+      "image_set_id": "2175",
+      "image_id": "4026",
+      "image_path": "/files/ps2/images/static/4026.png"
+    },
+    {
+      "skill_set_id": "1930",
+      "name": {
+        "en": "Corsair: Passive Systems"
+      },
+      "description": {
+        "en": "Unlock passive, always-on Certifications for the Corsair."
+      },
+      "image_set_id": "2174",
+      "image_id": "4025",
+      "image_path": "/files/ps2/images/static/4025.png"
+    },
+    {
+      "skill_set_id": "1931",
+      "required_item_id": "6013335",
+      "name": {
+        "en": "FRONT WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1932",
+      "required_item_id": "6013335",
+      "name": {
+        "en": "FRONT WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1933",
+      "required_item_id": "6013335",
+      "name": {
+        "en": "FRONT WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1934",
+      "required_item_id": "6013335",
+      "name": {
+        "en": "FRONT WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1939",
+      "required_item_id": "6013336",
+      "name": {
+        "en": "REAR WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1940",
+      "required_item_id": "6013336",
+      "name": {
+        "en": "REAR WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1941",
+      "required_item_id": "6013336",
+      "name": {
+        "en": "REAR WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1942",
+      "required_item_id": "6013336",
+      "name": {
+        "en": "REAR WEAPON: M20 Basilisk"
+      },
+      "description": {
+        "en": "The Basilisk is a 20mm heavy machine gun that effectively damages all targets, especially at close range. All factions can use this weapon."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1947",
+      "required_item_id": "6013339",
+      "name": {
+        "en": "FRONT WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1948",
+      "required_item_id": "6013339",
+      "name": {
+        "en": "FRONT WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1949",
+      "required_item_id": "6013339",
+      "name": {
+        "en": "FRONT WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1950",
+      "required_item_id": "6013339",
+      "name": {
+        "en": "FRONT WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1955",
+      "required_item_id": "6013340",
+      "name": {
+        "en": "REAR WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1956",
+      "required_item_id": "6013340",
+      "name": {
+        "en": "REAR WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1957",
+      "required_item_id": "6013340",
+      "name": {
+        "en": "REAR WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1958",
+      "required_item_id": "6013340",
+      "name": {
+        "en": "REAR WEAPON:  M60-G Bulldog"
+      },
+      "description": {
+        "en": "The M60 Bulldog fires high explosive 60mm rounds with a large blast radius effective against infantry.  Direct hits provides some damage to armor. All factions can use this weapon."
+      },
+      "image_set_id": "660",
+      "image_id": "1535",
+      "image_path": "/files/ps2/images/static/1535.png"
+    },
+    {
+      "skill_set_id": "1963",
+      "required_item_id": "6013616",
+      "name": {
+        "en": "GUNNER WEAPON: M18 Palisade-C"
+      },
+      "description": {
+        "en": "The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1964",
+      "required_item_id": "6013617",
+      "name": {
+        "en": "GUNNER WEAPON: M18 Palisade-C"
+      },
+      "description": {
+        "en": "The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1965",
+      "required_item_id": "6013623",
+      "name": {
+        "en": "GUNNER WEAPON: N30 Trawler-C"
+      },
+      "description": {
+        "en": "The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only."
+      },
+      "image_set_id": "807134",
+      "image_id": "94781",
+      "image_path": "/files/ps2/images/static/94781.png"
+    },
+    {
+      "skill_set_id": "1966",
+      "required_item_id": "6013624",
+      "name": {
+        "en": "GUNNER WEAPON: N30 Trawler-C"
+      },
+      "description": {
+        "en": "The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only."
+      },
+      "image_set_id": "807134",
+      "image_id": "94781",
+      "image_path": "/files/ps2/images/static/94781.png"
+    },
+    {
+      "skill_set_id": "1967",
+      "required_item_id": "6013625",
+      "name": {
+        "en": "GUNNER WEAPON: C2-20 HCG"
+      },
+      "description": {
+        "en": "The all-rounder 20mm heavy chain gun is capable of dispatching armor, air, and infantry alike. NSO use only."
+      },
+      "image_set_id": "806727",
+      "image_id": "93654",
+      "image_path": "/files/ps2/images/static/93654.png"
+    },
+    {
+      "skill_set_id": "1968",
+      "required_item_id": "6013626",
+      "name": {
+        "en": "GUNNER WEAPON: C2-20 HCG"
+      },
+      "description": {
+        "en": "The all-rounder 20mm heavy chain gun is capable of dispatching armor, air, and infantry alike. NSO use only."
+      },
+      "image_set_id": "806727",
+      "image_id": "93654",
+      "image_path": "/files/ps2/images/static/93654.png"
+    },
+    {
+      "skill_set_id": "1969",
+      "required_item_id": "6013627",
+      "name": {
+        "en": "GUNNER WEAPON: V-42 Pariah-C"
+      },
+      "description": {
+        "en": "The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1970",
+      "required_item_id": "6013628",
+      "name": {
+        "en": "GUNNER WEAPON: V-42 Pariah-C"
+      },
+      "description": {
+        "en": "The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only."
+      },
+      "image_set_id": "629",
+      "image_id": "1529",
+      "image_path": "/files/ps2/images/static/1529.png"
+    },
+    {
+      "skill_set_id": "1971",
+      "required_item_id": "6013893",
+      "image_set_id": "807267",
+      "image_id": "95147",
+      "image_path": "/files/ps2/images/static/95147.png"
+    },
+    {
+      "skill_set_id": "1973",
+      "required_item_id": "6013945",
+      "name": {
+        "en": "PRIMARY WEAPON: JGX11"
+      },
+      "description": {
+        "en": "A more mobile version of the Vanguard's JGX12, the JGX11 turns the Lightning into a powerful artillery platform. NC use only."
+      },
+      "image_set_id": "807320",
+      "image_id": "95302",
+      "image_path": "/files/ps2/images/static/95302.png"
+    },
+    {
+      "skill_set_id": "1974",
+      "required_item_id": "6013946",
+      "name": {
+        "en": "PRIMARY WEAPON: L2-100 Kingsnake"
+      },
+      "description": {
+        "en": "A smaller version of the Prowler's Kingsnake, this dual-barrel cannon releases barrage of armor-piercing shots down range. TR use only."
+      },
+      "image_set_id": "807319",
+      "image_id": "95299",
+      "image_path": "/files/ps2/images/static/95299.png"
+    },
+    {
+      "skill_set_id": "1975",
+      "required_item_id": "6013947",
+      "name": {
+        "en": "PRIMARY WEAPON: Perihelion L-VXC"
+      },
+      "description": {
+        "en": "A more compact version of the Magrider's Perihelion, the L-VXC can charge up to three anti-armor protectiles with a flat trajectory. VS use only."
+      },
+      "image_set_id": "807322",
+      "image_id": "95308",
+      "image_path": "/files/ps2/images/static/95308.png"
+    },
+    {
+      "skill_set_id": "1976",
+      "required_item_id": "6013948",
+      "name": {
+        "en": "PRIMARY WEAPON: Larion LPPC"
+      },
+      "description": {
+        "en": "This Light Particle Projection Cannon fires a bolt that can pierce multiple armored targets in a single shot, without the traditional arcing trajectory of most ballistics. NSO use only."
+      },
+      "image_set_id": "807321",
+      "image_id": "95305",
+      "image_path": "/files/ps2/images/static/95305.png"
+    },
+    {
+      "skill_set_id": "1977",
+      "required_item_id": "6013929",
+      "name": {
+        "en": "PRIMARY WEAPON: JGX12"
+      },
+      "description": {
+        "en": "Repurposed excavation equipment has transformed the JGX12 into a military-grade artillery cannon. The high-yield payload inflicts damage to heavy armor, even without a direct hit. NC use only."
+      },
+      "image_set_id": "807316",
+      "image_id": "95290",
+      "image_path": "/files/ps2/images/static/95290.png"
+    },
+    {
+      "skill_set_id": "1978",
+      "required_item_id": "6013930",
+      "name": {
+        "en": "PRIMARY WEAPON: P4-120 Kingsnake"
+      },
+      "description": {
+        "en": "The pinnacle of Terran engineering, the Kingsnake's quad-barrel cannon releases an oppressive barrage of armor-piercing shots. TR use only."
+      },
+      "image_set_id": "807317",
+      "image_id": "95293",
+      "image_path": "/files/ps2/images/static/95293.png"
+    },
+    {
+      "skill_set_id": "1979",
+      "required_item_id": "6013931",
+      "name": {
+        "en": "PRIMARY WEAPON: Perihelion VXC"
+      },
+      "description": {
+        "en": "The prototype Perihelion VXC fires an energized anti-armor crescent with a flat trajectory, slicing through infantry and allowing for precision over even the furthest distances. VS use only."
+      },
+      "image_set_id": "807318",
+      "image_id": "95296",
+      "image_path": "/files/ps2/images/static/95296.png"
+    },
+    {
+      "skill_set_id": "1980",
+      "required_item_id": "6013932",
+      "name": {
+        "en": "PRIMARY WEAPON: Larion PPC"
+      },
+      "description": {
+        "en": "The lightweight Larion PPC is a particle projection cannon that can rip through multiple armored targets with a single bolt, without having to deal with trajectory calculations of traditional ballistics. NSO use only."
+      },
+      "image_set_id": "807315",
+      "image_id": "95287",
+      "image_path": "/files/ps2/images/static/95287.png"
+    },
+    {
+      "skill_set_id": "1981",
+      "required_item_id": "6014263",
+      "name": {
+        "en": "NS-30 \"Gungnir\" Vandal"
+      },
+      "description": {
+        "en": "Thanks to its lightweight frame and stabilized barrel, the NS-30 \"Gungnir\" Vandal scout rifle features accurate fire and superior mobility while aimed, making it a common choice for aggressive, mid-range infiltration."
+      },
+      "image_set_id": "807380",
+      "image_id": "95469",
+      "image_path": "/files/ps2/images/static/95469.png"
+    },
+    {
+      "skill_set_id": "1982",
+      "required_item_id": "6014316",
+      "name": {
+        "en": "PRIMARY WEAPON:  150mm Titan AP \"Fafnir\""
+      },
+      "description": {
+        "en": "The Titan-150 AP is loaded with fast moving armor piercing rounds that are stronger against armored targets but inflict almost no explosive damage. NC use only."
+      },
+      "image_set_id": "807397",
+      "image_id": "95516",
+      "image_path": "/files/ps2/images/static/95516.png"
+    },
+    {
+      "skill_set_id": "1983",
+      "required_item_id": "6014317",
+      "name": {
+        "en": "PRIMARY WEAPON:  P2-120 AP \"Fafnir\""
+      },
+      "description": {
+        "en": "The P2-120 AP is loaded with fast-moving armor piercing rounds that are stronger against armored targets, but have less explosive yield than other projectiles. TR use only."
+      },
+      "image_set_id": "807396",
+      "image_id": "95513",
+      "image_path": "/files/ps2/images/static/95513.png"
+    },
+    {
+      "skill_set_id": "1984",
+      "required_item_id": "6014318",
+      "name": {
+        "en": "PRIMARY WEAPON:  Supernova FPC \"Fafnir\""
+      },
+      "description": {
+        "en": "The Supernova FPC is charged with fast-moving armor-piercing plasma that is more effective against armored targets and inflicts less explosive damage. VS use only."
+      },
+      "image_set_id": "807395",
+      "image_id": "95510",
+      "image_path": "/files/ps2/images/static/95510.png"
+    },
+    {
+      "skill_set_id": "1985",
+      "required_item_id": "6014319",
+      "name": {
+        "en": "PRIMARY WEAPON: CPT-150 \"Fafnir\""
+      },
+      "image_set_id": "807394",
+      "image_id": "95507",
+      "image_path": "/files/ps2/images/static/95507.png"
     }
   ],
-  "returned": 976
+  "returned": 1079
 }

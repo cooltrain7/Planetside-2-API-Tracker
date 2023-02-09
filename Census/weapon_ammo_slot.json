@@ -127,7 +127,8 @@
       "weapon_slot_index": "1",
       "clip_size": "1",
       "capacity": "4",
-      "refill_ammo_rate": "1"
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "11",
@@ -135,7 +136,7 @@
       "clip_size": "1",
       "capacity": "2",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "11",
@@ -143,7 +144,7 @@
       "clip_size": "1",
       "capacity": "2",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "12",
@@ -162,9 +163,9 @@
     {
       "weapon_id": "15",
       "weapon_slot_index": "0",
-      "clip_size": "8",
-      "capacity": "56",
-      "refill_ammo_rate": "8"
+      "clip_size": "6",
+      "capacity": "54",
+      "refill_ammo_rate": "6"
     },
     {
       "weapon_id": "16",
@@ -454,13 +455,6 @@
       "refill_ammo_rate": "1"
     },
     {
-      "weapon_id": "79",
-      "weapon_slot_index": "1",
-      "clip_size": "1",
-      "capacity": "2",
-      "refill_ammo_rate": "1"
-    },
-    {
       "weapon_id": "80",
       "weapon_slot_index": "0",
       "clip_size": "1",
@@ -475,22 +469,8 @@
       "refill_ammo_rate": "1"
     },
     {
-      "weapon_id": "81",
-      "weapon_slot_index": "1",
-      "clip_size": "1",
-      "capacity": "2",
-      "refill_ammo_rate": "1"
-    },
-    {
       "weapon_id": "82",
       "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "2",
-      "refill_ammo_rate": "1"
-    },
-    {
-      "weapon_id": "82",
-      "weapon_slot_index": "1",
       "clip_size": "1",
       "capacity": "2",
       "refill_ammo_rate": "1"
@@ -503,22 +483,8 @@
       "refill_ammo_rate": "1"
     },
     {
-      "weapon_id": "83",
-      "weapon_slot_index": "1",
-      "clip_size": "1",
-      "capacity": "3",
-      "refill_ammo_rate": "1"
-    },
-    {
       "weapon_id": "84",
       "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "4",
-      "refill_ammo_rate": "1"
-    },
-    {
-      "weapon_id": "84",
-      "weapon_slot_index": "1",
       "clip_size": "1",
       "capacity": "4",
       "refill_ammo_rate": "1"
@@ -648,6 +614,22 @@
       "refill_ammo_rate": "1"
     },
     {
+      "weapon_id": "103",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "103",
+      "weapon_slot_index": "5",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
       "weapon_id": "105",
       "weapon_slot_index": "0",
       "clip_size": "65",
@@ -657,9 +639,9 @@
     {
       "weapon_id": "106",
       "weapon_slot_index": "0",
-      "clip_size": "8",
-      "capacity": "56",
-      "refill_ammo_rate": "8"
+      "clip_size": "10",
+      "capacity": "70",
+      "refill_ammo_rate": "10"
     },
     {
       "weapon_id": "106",
@@ -678,9 +660,7 @@
     {
       "weapon_id": "108",
       "weapon_slot_index": "0",
-      "clip_size": "65",
-      "capacity": "260",
-      "refill_ammo_rate": "50"
+      "clip_size": "45"
     },
     {
       "weapon_id": "109",
@@ -697,11 +677,25 @@
       "refill_ammo_rate": "40"
     },
     {
+      "weapon_id": "110",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
       "weapon_id": "111",
       "weapon_slot_index": "0",
-      "clip_size": "30",
-      "capacity": "210",
-      "refill_ammo_rate": "30"
+      "clip_size": "27"
+    },
+    {
+      "weapon_id": "111",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "112",
@@ -718,39 +712,68 @@
       "refill_ammo_rate": "1"
     },
     {
+      "weapon_id": "112",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "112",
+      "weapon_slot_index": "5",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
       "weapon_id": "113",
       "weapon_slot_index": "0",
-      "clip_size": "30",
-      "capacity": "210",
-      "refill_ammo_rate": "30"
+      "clip_size": "27"
     },
     {
       "weapon_id": "113",
       "weapon_slot_index": "1",
       "clip_size": "1",
       "capacity": "4",
-      "refill_ammo_rate": "1"
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "113",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "113",
+      "weapon_slot_index": "5",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "114",
       "weapon_slot_index": "0",
       "clip_size": "150",
-      "capacity": "450",
+      "capacity": "600",
       "refill_ammo_rate": "50"
     },
     {
       "weapon_id": "116",
       "weapon_slot_index": "0",
       "clip_size": "10",
-      "capacity": "50",
+      "capacity": "60",
       "refill_ammo_rate": "10"
     },
     {
       "weapon_id": "117",
       "weapon_slot_index": "0",
-      "clip_size": "8",
-      "capacity": "56",
-      "refill_ammo_rate": "6"
+      "clip_size": "7"
     },
     {
       "weapon_id": "118",
@@ -762,9 +785,7 @@
     {
       "weapon_id": "119",
       "weapon_slot_index": "0",
-      "clip_size": "35",
-      "capacity": "210",
-      "refill_ammo_rate": "35"
+      "clip_size": "25"
     },
     {
       "weapon_id": "120",
@@ -776,9 +797,7 @@
     {
       "weapon_id": "121",
       "weapon_slot_index": "0",
-      "clip_size": "15",
-      "capacity": "90",
-      "refill_ammo_rate": "15"
+      "clip_size": "16"
     },
     {
       "weapon_id": "122",
@@ -799,15 +818,13 @@
       "weapon_id": "124",
       "weapon_slot_index": "0",
       "clip_size": "5",
-      "capacity": "40",
+      "capacity": "60",
       "refill_ammo_rate": "5"
     },
     {
       "weapon_id": "125",
       "weapon_slot_index": "0",
-      "clip_size": "5",
-      "capacity": "40",
-      "refill_ammo_rate": "5"
+      "clip_size": "4"
     },
     {
       "weapon_id": "126",
@@ -819,16 +836,14 @@
     {
       "weapon_id": "127",
       "weapon_slot_index": "0",
-      "clip_size": "22",
-      "capacity": "132",
-      "refill_ammo_rate": "22"
+      "clip_size": "25",
+      "capacity": "150",
+      "refill_ammo_rate": "25"
     },
     {
       "weapon_id": "128",
       "weapon_slot_index": "0",
-      "clip_size": "20",
-      "capacity": "120",
-      "refill_ammo_rate": "20"
+      "clip_size": "18"
     },
     {
       "weapon_id": "201",
@@ -908,23 +923,23 @@
     {
       "weapon_id": "310",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "311",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "312",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "313",
@@ -1097,23 +1112,23 @@
     {
       "weapon_id": "356",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "357",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "358",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "359",
@@ -1870,44 +1885,44 @@
     {
       "weapon_id": "498",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "499",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "500",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "501",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "502",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "503",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "504",
@@ -2101,23 +2116,23 @@
     {
       "weapon_id": "571",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "572",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "573",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "574",
@@ -2452,21 +2467,21 @@
       "weapon_id": "675",
       "weapon_slot_index": "0",
       "clip_size": "30",
-      "capacity": "300",
+      "capacity": "480",
       "refill_ammo_rate": "60"
     },
     {
       "weapon_id": "676",
       "weapon_slot_index": "0",
       "clip_size": "30",
-      "capacity": "300",
+      "capacity": "480",
       "refill_ammo_rate": "60"
     },
     {
       "weapon_id": "677",
       "weapon_slot_index": "0",
       "clip_size": "30",
-      "capacity": "300",
+      "capacity": "480",
       "refill_ammo_rate": "60"
     },
     {
@@ -2493,44 +2508,44 @@
     {
       "weapon_id": "681",
       "weapon_slot_index": "0",
-      "clip_size": "60",
-      "capacity": "450",
-      "refill_ammo_rate": "100"
+      "clip_size": "90",
+      "capacity": "720",
+      "refill_ammo_rate": "180"
     },
     {
       "weapon_id": "682",
       "weapon_slot_index": "0",
-      "clip_size": "60",
-      "capacity": "450",
-      "refill_ammo_rate": "100"
+      "clip_size": "90",
+      "capacity": "720",
+      "refill_ammo_rate": "180"
     },
     {
       "weapon_id": "683",
       "weapon_slot_index": "0",
-      "clip_size": "60",
-      "capacity": "450",
-      "refill_ammo_rate": "100"
+      "clip_size": "90",
+      "capacity": "720",
+      "refill_ammo_rate": "180"
     },
     {
       "weapon_id": "684",
       "weapon_slot_index": "0",
-      "clip_size": "10",
-      "capacity": "100",
-      "refill_ammo_rate": "20"
+      "clip_size": "8",
+      "capacity": "200",
+      "refill_ammo_rate": "16"
     },
     {
       "weapon_id": "685",
       "weapon_slot_index": "0",
-      "clip_size": "10",
-      "capacity": "100",
-      "refill_ammo_rate": "20"
+      "clip_size": "8",
+      "capacity": "200",
+      "refill_ammo_rate": "16"
     },
     {
       "weapon_id": "686",
       "weapon_slot_index": "0",
-      "clip_size": "10",
-      "capacity": "100",
-      "refill_ammo_rate": "20"
+      "clip_size": "8",
+      "capacity": "200",
+      "refill_ammo_rate": "16"
     },
     {
       "weapon_id": "687",
@@ -2668,7 +2683,7 @@
       "weapon_id": "7104",
       "weapon_slot_index": "2",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -2676,7 +2691,7 @@
       "weapon_id": "7104",
       "weapon_slot_index": "3",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -2698,7 +2713,7 @@
       "weapon_id": "7108",
       "weapon_slot_index": "2",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -2706,7 +2721,7 @@
       "weapon_id": "7108",
       "weapon_slot_index": "3",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -2758,7 +2773,7 @@
       "weapon_id": "7125",
       "weapon_slot_index": "2",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -2766,7 +2781,7 @@
       "weapon_id": "7125",
       "weapon_slot_index": "3",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -2878,7 +2893,7 @@
       "weapon_id": "7129",
       "weapon_slot_index": "2",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -2886,7 +2901,7 @@
       "weapon_id": "7129",
       "weapon_slot_index": "3",
       "clip_size": "1",
-      "capacity": "2",
+      "capacity": "3",
       "refill_ammo_rate": "1",
       "refill_ammo_delay_ms": "5000"
     },
@@ -3683,6 +3698,14 @@
       "refill_ammo_rate": "24"
     },
     {
+      "weapon_id": "7358",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
       "weapon_id": "7365",
       "weapon_slot_index": "0",
       "clip_size": "24",
@@ -4170,7 +4193,7 @@
       "clip_size": "1",
       "capacity": "3",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "24008",
@@ -4178,7 +4201,7 @@
       "clip_size": "1",
       "capacity": "3",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "25000",
@@ -4235,7 +4258,7 @@
       "clip_size": "1",
       "capacity": "3",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "25008",
@@ -4243,7 +4266,7 @@
       "clip_size": "1",
       "capacity": "3",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "26000",
@@ -4300,7 +4323,7 @@
       "clip_size": "1",
       "capacity": "3",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "26008",
@@ -4308,7 +4331,7 @@
       "clip_size": "1",
       "capacity": "3",
       "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "27000",
@@ -4643,9 +4666,9 @@
     {
       "weapon_id": "40000",
       "weapon_slot_index": "0",
-      "clip_size": "8",
-      "capacity": "56",
-      "refill_ammo_rate": "8"
+      "clip_size": "6",
+      "capacity": "54",
+      "refill_ammo_rate": "6"
     },
     {
       "weapon_id": "40001",
@@ -4664,9 +4687,9 @@
     {
       "weapon_id": "41000",
       "weapon_slot_index": "0",
-      "clip_size": "8",
-      "capacity": "56",
-      "refill_ammo_rate": "8"
+      "clip_size": "6",
+      "capacity": "54",
+      "refill_ammo_rate": "6"
     },
     {
       "weapon_id": "41001",
@@ -4690,11 +4713,43 @@
       "refill_ammo_rate": "35"
     },
     {
+      "weapon_id": "42000",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "42000",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
       "weapon_id": "42001",
       "weapon_slot_index": "0",
       "clip_size": "35",
       "capacity": "210",
       "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "42001",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "42001",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "42002",
@@ -4746,6 +4801,22 @@
       "clip_size": "35",
       "capacity": "210",
       "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "70010",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "70010",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "70011",
@@ -4837,6 +4908,22 @@
       "clip_size": "35",
       "capacity": "210",
       "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "70030",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "70030",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "70031",
@@ -4977,6 +5064,14 @@
       "refill_ammo_rate": "30"
     },
     {
+      "weapon_id": "77821",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
       "weapon_id": "77822",
       "weapon_slot_index": "0",
       "clip_size": "1",
@@ -5004,11 +5099,43 @@
       "refill_ammo_rate": "35"
     },
     {
+      "weapon_id": "77827",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "77827",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
       "weapon_id": "77828",
       "weapon_slot_index": "0",
       "clip_size": "35",
       "capacity": "210",
       "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "77828",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "77828",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "77829",
@@ -5018,11 +5145,43 @@
       "refill_ammo_rate": "35"
     },
     {
+      "weapon_id": "77829",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "77829",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
       "weapon_id": "77830",
       "weapon_slot_index": "0",
       "clip_size": "35",
       "capacity": "210",
       "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "77830",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "77830",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "77831",
@@ -5421,23 +5580,23 @@
     {
       "weapon_id": "77900",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "77901",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "77902",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "77903",
@@ -5526,8 +5685,8 @@
     {
       "weapon_id": "77915",
       "weapon_slot_index": "0",
-      "clip_size": "0",
-      "capacity": "0"
+      "clip_size": "999",
+      "capacity": "9999"
     },
     {
       "weapon_id": "77916",
@@ -5712,7 +5871,7 @@
       "weapon_id": "77956",
       "weapon_slot_index": "0",
       "clip_size": "4",
-      "capacity": "36",
+      "capacity": "44",
       "refill_ammo_rate": "4",
       "refill_ammo_delay_ms": "2500"
     },
@@ -6088,20 +6247,20 @@
     {
       "weapon_id": "78028",
       "weapon_slot_index": "0",
-      "clip_size": "0",
-      "capacity": "0"
+      "clip_size": "999",
+      "capacity": "9999"
     },
     {
       "weapon_id": "78029",
       "weapon_slot_index": "0",
-      "clip_size": "0",
-      "capacity": "0"
+      "clip_size": "999",
+      "capacity": "9999"
     },
     {
       "weapon_id": "78030",
       "weapon_slot_index": "0",
-      "clip_size": "0",
-      "capacity": "0"
+      "clip_size": "999",
+      "capacity": "9999"
     },
     {
       "weapon_id": "78031",
@@ -6451,12 +6610,6 @@
       "refill_ammo_rate": "30"
     },
     {
-      "weapon_id": "78099",
-      "weapon_slot_index": "0",
-      "clip_size": "0",
-      "capacity": "0"
-    },
-    {
       "weapon_id": "78108",
       "weapon_slot_index": "0",
       "clip_size": "8",
@@ -6553,6 +6706,22 @@
       "clip_size": "35",
       "capacity": "210",
       "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "78130",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78130",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "78131",
@@ -6695,6 +6864,13 @@
       "refill_ammo_rate": "30"
     },
     {
+      "weapon_id": "78157",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1"
+    },
+    {
       "weapon_id": "78158",
       "weapon_slot_index": "0",
       "clip_size": "30",
@@ -6714,6 +6890,14 @@
       "clip_size": "24",
       "capacity": "240",
       "refill_ammo_rate": "24"
+    },
+    {
+      "weapon_id": "78160",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "78161",
@@ -6780,9 +6964,9 @@
     {
       "weapon_id": "78171",
       "weapon_slot_index": "0",
-      "clip_size": "8",
-      "capacity": "96",
-      "refill_ammo_rate": "8"
+      "clip_size": "10",
+      "capacity": "110",
+      "refill_ammo_rate": "10"
     },
     {
       "weapon_id": "78172",
@@ -6942,9 +7126,9 @@
     {
       "weapon_id": "78228",
       "weapon_slot_index": "0",
-      "clip_size": "3",
-      "capacity": "36",
-      "refill_ammo_rate": "6"
+      "clip_size": "4",
+      "capacity": "32",
+      "refill_ammo_rate": "4"
     },
     {
       "weapon_id": "78229",
@@ -7016,9 +7200,9 @@
     {
       "weapon_id": "78247",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "78248",
@@ -7079,16 +7263,16 @@
     {
       "weapon_id": "78259",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "78260",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "78261",
@@ -7225,9 +7409,9 @@
     {
       "weapon_id": "78280",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "500",
-      "refill_ammo_rate": "50"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "78281",
@@ -7292,9 +7476,9 @@
     {
       "weapon_id": "78290",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "750",
-      "refill_ammo_rate": "80"
+      "clip_size": "60",
+      "capacity": "600",
+      "refill_ammo_rate": "120"
     },
     {
       "weapon_id": "78291",
@@ -7318,8 +7502,8 @@
     {
       "weapon_id": "78294",
       "weapon_slot_index": "0",
-      "clip_size": "0",
-      "capacity": "0"
+      "clip_size": "999",
+      "capacity": "9999"
     },
     {
       "weapon_id": "78295",
@@ -7485,7 +7669,7 @@
       "weapon_id": "78327",
       "weapon_slot_index": "0",
       "clip_size": "30",
-      "capacity": "300",
+      "capacity": "480",
       "refill_ammo_rate": "60"
     },
     {
@@ -7505,16 +7689,16 @@
     {
       "weapon_id": "78330",
       "weapon_slot_index": "0",
-      "clip_size": "10",
-      "capacity": "100",
-      "refill_ammo_rate": "20"
+      "clip_size": "8",
+      "capacity": "200",
+      "refill_ammo_rate": "16"
     },
     {
       "weapon_id": "78331",
       "weapon_slot_index": "0",
-      "clip_size": "60",
-      "capacity": "450",
-      "refill_ammo_rate": "100"
+      "clip_size": "90",
+      "capacity": "720",
+      "refill_ammo_rate": "180"
     },
     {
       "weapon_id": "78333",
@@ -7660,8 +7844,8 @@
       "weapon_id": "78355",
       "weapon_slot_index": "0",
       "clip_size": "4",
-      "capacity": "36",
-      "refill_ammo_rate": "3",
+      "capacity": "44",
+      "refill_ammo_rate": "4",
       "refill_ammo_delay_ms": "2500"
     },
     {
@@ -7728,6 +7912,12 @@
       "clip_size": "30",
       "capacity": "300",
       "refill_ammo_rate": "90"
+    },
+    {
+      "weapon_id": "78366",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
     },
     {
       "weapon_id": "78367",
@@ -7888,6 +8078,22 @@
       "refill_ammo_rate": "35"
     },
     {
+      "weapon_id": "78404",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78404",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
       "weapon_id": "78409",
       "weapon_slot_index": "0"
     },
@@ -7900,14 +8106,15 @@
     },
     {
       "weapon_id": "78411",
-      "weapon_slot_index": "0"
+      "weapon_slot_index": "0",
+      "clip_size": "7"
     },
     {
       "weapon_id": "78412",
       "weapon_slot_index": "0",
       "clip_size": "12",
-      "capacity": "120",
-      "refill_ammo_rate": "24"
+      "capacity": "96",
+      "refill_ammo_rate": "20"
     },
     {
       "weapon_id": "78413",
@@ -8100,6 +8307,22 @@
       "refill_ammo_rate": "10"
     },
     {
+      "weapon_id": "78449",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78449",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
       "weapon_id": "78450",
       "weapon_slot_index": "0",
       "clip_size": "25",
@@ -8111,7 +8334,8 @@
       "weapon_slot_index": "1",
       "clip_size": "1",
       "capacity": "2",
-      "refill_ammo_rate": "5000"
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
     },
     {
       "weapon_id": "78451",
@@ -8422,13 +8646,6 @@
       "refill_ammo_rate": "6"
     },
     {
-      "weapon_id": "78503",
-      "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "2",
-      "refill_ammo_rate": "1"
-    },
-    {
       "weapon_id": "78504",
       "weapon_slot_index": "0",
       "clip_size": "0",
@@ -8455,26 +8672,6 @@
       "capacity": "1"
     },
     {
-      "weapon_id": "78510",
-      "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "1"
-    },
-    {
-      "weapon_id": "78511",
-      "weapon_slot_index": "0",
-      "clip_size": "99",
-      "capacity": "999",
-      "refill_ammo_rate": "99"
-    },
-    {
-      "weapon_id": "78514",
-      "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "2",
-      "refill_ammo_rate": "1"
-    },
-    {
       "weapon_id": "78516",
       "weapon_slot_index": "0",
       "clip_size": "4",
@@ -8496,19 +8693,6 @@
       "refill_ammo_rate": "8"
     },
     {
-      "weapon_id": "78519",
-      "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "1"
-    },
-    {
-      "weapon_id": "78520",
-      "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "2",
-      "refill_ammo_rate": "1"
-    },
-    {
       "weapon_id": "78522",
       "weapon_slot_index": "0",
       "clip_size": "1",
@@ -8521,6 +8705,22 @@
       "clip_size": "35",
       "capacity": "210",
       "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "78523",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78523",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "78524",
@@ -8544,6 +8744,22 @@
       "refill_ammo_rate": "35"
     },
     {
+      "weapon_id": "78527",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78527",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
       "weapon_id": "78528",
       "weapon_slot_index": "0",
       "clip_size": "55",
@@ -8558,25 +8774,11 @@
       "refill_ammo_rate": "12"
     },
     {
-      "weapon_id": "78530",
-      "weapon_slot_index": "0",
-      "clip_size": "1",
-      "capacity": "2",
-      "refill_ammo_rate": "1",
-      "refill_ammo_delay_ms": "5000"
-    },
-    {
       "weapon_id": "78531",
       "weapon_slot_index": "0",
       "clip_size": "1",
       "capacity": "1",
       "refill_ammo_rate": "1"
-    },
-    {
-      "weapon_id": "78532",
-      "weapon_slot_index": "0",
-      "clip_size": "0",
-      "capacity": "0"
     },
     {
       "weapon_id": "78533",
@@ -8599,16 +8801,16 @@
     {
       "weapon_id": "78537",
       "weapon_slot_index": "0",
-      "clip_size": "100",
+      "clip_size": "80",
       "capacity": "800",
-      "refill_ammo_rate": "200"
+      "refill_ammo_rate": "160"
     },
     {
       "weapon_id": "78539",
       "weapon_slot_index": "0",
-      "clip_size": "25",
-      "capacity": "200",
-      "refill_ammo_rate": "25"
+      "clip_size": "30",
+      "capacity": "210",
+      "refill_ammo_rate": "30"
     },
     {
       "weapon_id": "78541",
@@ -8620,9 +8822,32 @@
     {
       "weapon_id": "78542",
       "weapon_slot_index": "0",
-      "clip_size": "25",
-      "capacity": "200",
-      "refill_ammo_rate": "25"
+      "clip_size": "30",
+      "capacity": "210",
+      "refill_ammo_rate": "30"
+    },
+    {
+      "weapon_id": "78542",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78542",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78542",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
     },
     {
       "weapon_id": "78543",
@@ -8653,6 +8878,29 @@
       "refill_ammo_rate": "25"
     },
     {
+      "weapon_id": "78546",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78546",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78546",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
       "weapon_id": "78547",
       "weapon_slot_index": "0",
       "clip_size": "40",
@@ -8662,23 +8910,23 @@
     {
       "weapon_id": "78548",
       "weapon_slot_index": "0",
-      "clip_size": "20",
-      "capacity": "200",
-      "refill_ammo_rate": "20"
+      "clip_size": "22",
+      "capacity": "220",
+      "refill_ammo_rate": "22"
     },
     {
       "weapon_id": "78549",
       "weapon_slot_index": "0",
       "clip_size": "30",
-      "capacity": "180",
+      "capacity": "210",
       "refill_ammo_rate": "30"
     },
     {
       "weapon_id": "78550",
       "weapon_slot_index": "0",
-      "clip_size": "100",
-      "capacity": "300",
-      "refill_ammo_rate": "100"
+      "clip_size": "80",
+      "capacity": "240",
+      "refill_ammo_rate": "80"
     },
     {
       "weapon_id": "78551",
@@ -8699,7 +8947,7 @@
       "weapon_slot_index": "0",
       "clip_size": "12",
       "capacity": "84",
-      "refill_ammo_rate": "7"
+      "refill_ammo_rate": "12"
     },
     {
       "weapon_id": "78554",
@@ -8707,6 +8955,13 @@
       "clip_size": "20",
       "capacity": "60",
       "refill_ammo_rate": "20"
+    },
+    {
+      "weapon_id": "78555",
+      "weapon_slot_index": "0",
+      "clip_size": "9",
+      "capacity": "81",
+      "refill_ammo_rate": "9"
     },
     {
       "weapon_id": "78556",
@@ -8742,9 +8997,9 @@
     {
       "weapon_id": "78560",
       "weapon_slot_index": "0",
-      "clip_size": "8",
-      "capacity": "56",
-      "refill_ammo_rate": "8"
+      "clip_size": "6",
+      "capacity": "54",
+      "refill_ammo_rate": "6"
     },
     {
       "weapon_id": "78561",
@@ -8756,38 +9011,1359 @@
     {
       "weapon_id": "78562",
       "weapon_slot_index": "0",
-      "clip_size": "60",
-      "capacity": "300",
-      "refill_ammo_rate": "120"
+      "clip_size": "24",
+      "capacity": "288",
+      "refill_ammo_rate": "64"
     },
     {
-      "weapon_id": "78563",
+      "weapon_id": "78564",
       "weapon_slot_index": "0",
-      "clip_size": "30",
-      "capacity": "120",
+      "clip_size": "1",
+      "capacity": "50",
+      "refill_ammo_rate": "50"
+    },
+    {
+      "weapon_id": "78576",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "300",
       "refill_ammo_rate": "60"
     },
     {
-      "weapon_id": "78567",
+      "weapon_id": "78577",
       "weapon_slot_index": "0",
-      "clip_size": "24",
-      "capacity": "240",
+      "clip_size": "20",
+      "capacity": "120",
+      "refill_ammo_rate": "20"
+    },
+    {
+      "weapon_id": "78578",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "150",
+      "refill_ammo_rate": "25"
+    },
+    {
+      "weapon_id": "78579",
+      "weapon_slot_index": "0",
+      "clip_size": "20",
+      "capacity": "120",
+      "refill_ammo_rate": "20"
+    },
+    {
+      "weapon_id": "78579",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78579",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78581",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "12",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78583",
+      "weapon_slot_index": "0",
+      "clip_size": "81",
+      "capacity": "486",
+      "refill_ammo_rate": "81"
+    },
+    {
+      "weapon_id": "78586",
+      "weapon_slot_index": "0",
+      "clip_size": "2",
+      "capacity": "20",
+      "refill_ammo_rate": "4"
+    },
+    {
+      "weapon_id": "78588",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
+    },
+    {
+      "weapon_id": "78589",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "200",
+      "refill_ammo_rate": "25"
+    },
+    {
+      "weapon_id": "78589",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78590",
+      "weapon_slot_index": "0",
+      "clip_size": "10",
+      "capacity": "70",
+      "refill_ammo_rate": "10"
+    },
+    {
+      "weapon_id": "78591",
+      "weapon_slot_index": "0",
+      "clip_size": "12",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78592",
+      "weapon_slot_index": "0",
+      "clip_size": "10",
+      "capacity": "70",
+      "refill_ammo_rate": "10"
+    },
+    {
+      "weapon_id": "78593",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "40",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78595",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78596",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "36",
+      "refill_ammo_rate": "7"
+    },
+    {
+      "weapon_id": "78597",
+      "weapon_slot_index": "0",
+      "clip_size": "8",
+      "capacity": "100",
+      "refill_ammo_rate": "16"
+    },
+    {
+      "weapon_id": "78598",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "750",
+      "refill_ammo_rate": "150"
+    },
+    {
+      "weapon_id": "78599",
+      "weapon_slot_index": "0",
+      "clip_size": "8",
+      "capacity": "120",
       "refill_ammo_rate": "24"
     },
     {
-      "weapon_id": "78568",
+      "weapon_id": "78600",
       "weapon_slot_index": "0",
-      "clip_size": "24",
-      "capacity": "240",
-      "refill_ammo_rate": "24"
+      "clip_size": "4",
+      "capacity": "80",
+      "refill_ammo_rate": "16"
     },
     {
-      "weapon_id": "78570",
+      "weapon_id": "78602",
+      "weapon_slot_index": "0"
+    },
+    {
+      "weapon_id": "78606",
       "weapon_slot_index": "0",
-      "clip_size": "22",
-      "capacity": "286",
-      "refill_ammo_rate": "22"
+      "clip_size": "40",
+      "capacity": "520",
+      "refill_ammo_rate": "160"
+    },
+    {
+      "weapon_id": "78607",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "100",
+      "refill_ammo_rate": "20"
+    },
+    {
+      "weapon_id": "78608",
+      "weapon_slot_index": "0",
+      "clip_size": "7"
+    },
+    {
+      "weapon_id": "78609",
+      "weapon_slot_index": "0",
+      "clip_size": "12",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78610",
+      "weapon_slot_index": "0",
+      "clip_size": "26",
+      "capacity": "234",
+      "refill_ammo_rate": "26"
+    },
+    {
+      "weapon_id": "78610",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78610",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78610",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78610",
+      "weapon_slot_index": "5",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78611",
+      "weapon_slot_index": "0",
+      "clip_size": "30",
+      "capacity": "210",
+      "refill_ammo_rate": "30"
+    },
+    {
+      "weapon_id": "78611",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78612",
+      "weapon_slot_index": "0",
+      "clip_size": "66",
+      "capacity": "726",
+      "refill_ammo_rate": "66"
+    },
+    {
+      "weapon_id": "78613",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "250",
+      "refill_ammo_rate": "50"
+    },
+    {
+      "weapon_id": "78614",
+      "weapon_slot_index": "0",
+      "clip_size": "8",
+      "capacity": "72",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78615",
+      "weapon_slot_index": "0",
+      "clip_size": "4",
+      "capacity": "60",
+      "refill_ammo_rate": "4"
+    },
+    {
+      "weapon_id": "78616",
+      "weapon_slot_index": "0",
+      "clip_size": "20",
+      "capacity": "120",
+      "refill_ammo_rate": "20"
+    },
+    {
+      "weapon_id": "78616",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78616",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78616",
+      "weapon_slot_index": "6",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78617",
+      "weapon_slot_index": "0",
+      "clip_size": "10",
+      "capacity": "80",
+      "refill_ammo_rate": "10"
+    },
+    {
+      "weapon_id": "78618",
+      "weapon_slot_index": "0",
+      "clip_size": "3"
+    },
+    {
+      "weapon_id": "78619",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "0"
+    },
+    {
+      "weapon_id": "78620",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "30",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78621",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "30",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78622",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "30",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78623",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "30",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78624",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "30",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78625",
+      "weapon_slot_index": "0",
+      "clip_size": "60",
+      "capacity": "780",
+      "refill_ammo_rate": "120"
+    },
+    {
+      "weapon_id": "78626",
+      "weapon_slot_index": "0",
+      "clip_size": "60",
+      "capacity": "780",
+      "refill_ammo_rate": "120"
+    },
+    {
+      "weapon_id": "78627",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "750",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78628",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "750",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78629",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "750",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78630",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "750",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78631",
+      "weapon_slot_index": "0",
+      "clip_size": "75",
+      "capacity": "750",
+      "refill_ammo_rate": "150"
+    },
+    {
+      "weapon_id": "78632",
+      "weapon_slot_index": "0",
+      "clip_size": "75",
+      "capacity": "750",
+      "refill_ammo_rate": "150"
+    },
+    {
+      "weapon_id": "78633",
+      "weapon_slot_index": "0",
+      "clip_size": "75",
+      "capacity": "750",
+      "refill_ammo_rate": "150"
+    },
+    {
+      "weapon_id": "78634",
+      "weapon_slot_index": "0",
+      "clip_size": "75",
+      "capacity": "750",
+      "refill_ammo_rate": "150"
+    },
+    {
+      "weapon_id": "78635",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78636",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78637",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78638",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78639",
+      "weapon_slot_index": "0",
+      "clip_size": "4",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78640",
+      "weapon_slot_index": "0",
+      "clip_size": "4",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78641",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "120",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78642",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "120",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78643",
+      "weapon_slot_index": "0",
+      "clip_size": "0",
+      "capacity": "0"
+    },
+    {
+      "weapon_id": "78644",
+      "weapon_slot_index": "0",
+      "clip_size": "40",
+      "capacity": "40",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78645",
+      "weapon_slot_index": "0",
+      "clip_size": "40",
+      "capacity": "40",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78646",
+      "weapon_slot_index": "0",
+      "clip_size": "28",
+      "capacity": "196",
+      "refill_ammo_rate": "28"
+    },
+    {
+      "weapon_id": "78647",
+      "weapon_slot_index": "0",
+      "clip_size": "28",
+      "capacity": "196",
+      "refill_ammo_rate": "28"
+    },
+    {
+      "weapon_id": "78648",
+      "weapon_slot_index": "0",
+      "clip_size": "30",
+      "capacity": "180",
+      "refill_ammo_rate": "30"
+    },
+    {
+      "weapon_id": "78649",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "45",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78650",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "42",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78656",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
+    },
+    {
+      "weapon_id": "78657",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "250",
+      "refill_ammo_rate": "50"
+    },
+    {
+      "weapon_id": "78658",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "250",
+      "refill_ammo_rate": "50"
+    },
+    {
+      "weapon_id": "78659",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "250",
+      "refill_ammo_rate": "50"
+    },
+    {
+      "weapon_id": "78660",
+      "weapon_slot_index": "0",
+      "clip_size": "80",
+      "capacity": "240",
+      "refill_ammo_rate": "80"
+    },
+    {
+      "weapon_id": "78661",
+      "weapon_slot_index": "0",
+      "clip_size": "2",
+      "capacity": "22",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78662",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "12",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78663",
+      "weapon_slot_index": "0",
+      "clip_size": "0",
+      "capacity": "0"
+    },
+    {
+      "weapon_id": "78664",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "9",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78667",
+      "weapon_slot_index": "0",
+      "clip_size": "0",
+      "capacity": "0"
+    },
+    {
+      "weapon_id": "78668",
+      "weapon_slot_index": "0",
+      "clip_size": "40",
+      "capacity": "40",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78669",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78670",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78671",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78672",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78673",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "250",
+      "refill_ammo_rate": "75"
+    },
+    {
+      "weapon_id": "78674",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "250",
+      "refill_ammo_rate": "75"
+    },
+    {
+      "weapon_id": "78675",
+      "weapon_slot_index": "0",
+      "clip_size": "100",
+      "capacity": "900",
+      "refill_ammo_rate": "200"
+    },
+    {
+      "weapon_id": "78676",
+      "weapon_slot_index": "0",
+      "clip_size": "100",
+      "capacity": "900",
+      "refill_ammo_rate": "200"
+    },
+    {
+      "weapon_id": "78677",
+      "weapon_slot_index": "0",
+      "clip_size": "65",
+      "capacity": "650",
+      "refill_ammo_rate": "130"
+    },
+    {
+      "weapon_id": "78678",
+      "weapon_slot_index": "0",
+      "clip_size": "65",
+      "capacity": "650",
+      "refill_ammo_rate": "130"
+    },
+    {
+      "weapon_id": "78679",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78680",
+      "weapon_slot_index": "0",
+      "clip_size": "100",
+      "capacity": "900",
+      "refill_ammo_rate": "200"
+    },
+    {
+      "weapon_id": "78682",
+      "weapon_slot_index": "0",
+      "clip_size": "65",
+      "capacity": "650",
+      "refill_ammo_rate": "130"
+    },
+    {
+      "weapon_id": "78683",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "250",
+      "refill_ammo_rate": "75"
+    },
+    {
+      "weapon_id": "78684",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78685",
+      "weapon_slot_index": "0",
+      "clip_size": "100",
+      "capacity": "900",
+      "refill_ammo_rate": "200"
+    },
+    {
+      "weapon_id": "78686",
+      "weapon_slot_index": "0",
+      "clip_size": "65",
+      "capacity": "650",
+      "refill_ammo_rate": "130"
+    },
+    {
+      "weapon_id": "78687",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "250",
+      "refill_ammo_rate": "75"
+    },
+    {
+      "weapon_id": "78688",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78689",
+      "weapon_slot_index": "0",
+      "clip_size": "100",
+      "capacity": "900",
+      "refill_ammo_rate": "200"
+    },
+    {
+      "weapon_id": "78690",
+      "weapon_slot_index": "0",
+      "clip_size": "65",
+      "capacity": "650",
+      "refill_ammo_rate": "130"
+    },
+    {
+      "weapon_id": "78691",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "250",
+      "refill_ammo_rate": "75"
+    },
+    {
+      "weapon_id": "78692",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78693",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78694",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78695",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "42",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78697",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
+    },
+    {
+      "weapon_id": "78698",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78699",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78700",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "48",
+      "refill_ammo_rate": "6",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78701",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
+    },
+    {
+      "weapon_id": "78702",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "200",
+      "refill_ammo_rate": "25"
+    },
+    {
+      "weapon_id": "78702",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78703",
+      "weapon_slot_index": "0",
+      "clip_size": "0",
+      "capacity": "0",
+      "refill_ammo_rate": "0"
+    },
+    {
+      "weapon_id": "78704",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78705",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78706",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78707",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78708",
+      "weapon_slot_index": "0",
+      "clip_size": "4",
+      "capacity": "36",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78709",
+      "weapon_slot_index": "0",
+      "clip_size": "8",
+      "capacity": "56",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78710",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "42",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78711",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "42",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78712",
+      "weapon_slot_index": "0",
+      "clip_size": "30",
+      "capacity": "210",
+      "refill_ammo_rate": "30"
+    },
+    {
+      "weapon_id": "78712",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78712",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78712",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78713",
+      "weapon_slot_index": "0",
+      "clip_size": "40",
+      "capacity": "240",
+      "refill_ammo_rate": "40"
+    },
+    {
+      "weapon_id": "78713",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78713",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78713",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78715",
+      "weapon_slot_index": "0",
+      "clip_size": "30",
+      "capacity": "180",
+      "refill_ammo_rate": "30"
+    },
+    {
+      "weapon_id": "78715",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "4",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78715",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78715",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78716",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "120",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78717",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "120",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78718",
+      "weapon_slot_index": "0",
+      "clip_size": "100",
+      "capacity": "900",
+      "refill_ammo_rate": "200"
+    },
+    {
+      "weapon_id": "78719",
+      "weapon_slot_index": "0",
+      "clip_size": "100",
+      "capacity": "900",
+      "refill_ammo_rate": "200"
+    },
+    {
+      "weapon_id": "78720",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "250",
+      "refill_ammo_rate": "75"
+    },
+    {
+      "weapon_id": "78721",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "250",
+      "refill_ammo_rate": "75"
+    },
+    {
+      "weapon_id": "78722",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78723",
+      "weapon_slot_index": "0",
+      "clip_size": "50",
+      "capacity": "500",
+      "refill_ammo_rate": "100"
+    },
+    {
+      "weapon_id": "78724",
+      "weapon_slot_index": "0",
+      "clip_size": "65",
+      "capacity": "650",
+      "refill_ammo_rate": "130"
+    },
+    {
+      "weapon_id": "78725",
+      "weapon_slot_index": "0",
+      "clip_size": "65",
+      "capacity": "650",
+      "refill_ammo_rate": "130"
+    },
+    {
+      "weapon_id": "78731",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "45",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78732",
+      "weapon_slot_index": "0",
+      "clip_size": "30",
+      "capacity": "180",
+      "refill_ammo_rate": "30"
+    },
+    {
+      "weapon_id": "78733",
+      "weapon_slot_index": "0",
+      "clip_size": "12",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78734",
+      "weapon_slot_index": "0",
+      "clip_size": "30",
+      "capacity": "240",
+      "refill_ammo_rate": "30"
+    },
+    {
+      "weapon_id": "78736",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "200",
+      "refill_ammo_rate": "25"
+    },
+    {
+      "weapon_id": "78736",
+      "weapon_slot_index": "1",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78737",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "35",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78738",
+      "weapon_slot_index": "0",
+      "clip_size": "4",
+      "capacity": "96",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78740",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "40",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78741",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "60",
+      "refill_ammo_rate": "12"
+    },
+    {
+      "weapon_id": "78742",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "60",
+      "refill_ammo_rate": "9"
+    },
+    {
+      "weapon_id": "78743",
+      "weapon_slot_index": "0",
+      "clip_size": "2",
+      "capacity": "80",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78744",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "36",
+      "refill_ammo_rate": "7"
+    },
+    {
+      "weapon_id": "78745",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "40",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78746",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "40",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78747",
+      "weapon_slot_index": "0",
+      "clip_size": "5",
+      "capacity": "40",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78748",
+      "weapon_slot_index": "0",
+      "clip_size": "10",
+      "capacity": "70",
+      "refill_ammo_rate": "10"
+    },
+    {
+      "weapon_id": "78749",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "30",
+      "refill_ammo_rate": "3",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78750",
+      "weapon_slot_index": "0"
+    },
+    {
+      "weapon_id": "78752",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "60",
+      "refill_ammo_rate": "9"
+    },
+    {
+      "weapon_id": "78753",
+      "weapon_slot_index": "0",
+      "clip_size": "10",
+      "capacity": "10"
+    },
+    {
+      "weapon_id": "78755",
+      "weapon_slot_index": "0",
+      "clip_size": "15",
+      "capacity": "90",
+      "refill_ammo_rate": "15"
+    },
+    {
+      "weapon_id": "78756",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
+    },
+    {
+      "weapon_id": "78757",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "16",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78758",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "35",
+      "refill_ammo_rate": "7"
+    },
+    {
+      "weapon_id": "78759",
+      "weapon_slot_index": "0",
+      "clip_size": "2",
+      "capacity": "46",
+      "refill_ammo_rate": "10"
+    },
+    {
+      "weapon_id": "78760",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "40",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78761",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "40",
+      "refill_ammo_rate": "8"
+    },
+    {
+      "weapon_id": "78763",
+      "weapon_slot_index": "0"
+    },
+    {
+      "weapon_id": "78764",
+      "weapon_slot_index": "0",
+      "clip_size": "35",
+      "capacity": "210",
+      "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "78764",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78764",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78765",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
+    },
+    {
+      "weapon_id": "78766",
+      "weapon_slot_index": "0",
+      "clip_size": "35",
+      "capacity": "210",
+      "refill_ammo_rate": "35"
+    },
+    {
+      "weapon_id": "78766",
+      "weapon_slot_index": "2",
+      "clip_size": "1",
+      "capacity": "2",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78766",
+      "weapon_slot_index": "3",
+      "clip_size": "1",
+      "capacity": "3",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "5000"
+    },
+    {
+      "weapon_id": "78767",
+      "weapon_slot_index": "0",
+      "clip_size": "55",
+      "capacity": "275",
+      "refill_ammo_rate": "55"
+    },
+    {
+      "weapon_id": "78768",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78769",
+      "weapon_slot_index": "0",
+      "clip_size": "25",
+      "capacity": "150",
+      "refill_ammo_rate": "25"
+    },
+    {
+      "weapon_id": "78770",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
     }
   ],
-  "returned": 1257
+  "returned": 1477
 }

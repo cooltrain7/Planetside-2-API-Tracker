@@ -872,7 +872,376 @@
       },
       "type": "9",
       "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "211",
+      "name": {
+        "en": "Amerish Conquest"
+      },
+      "description": {
+        "en": "Control territory to lock Amerish"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "212",
+      "name": {
+        "en": "Esamir Conquest"
+      },
+      "description": {
+        "en": "Control territory to lock Esamir"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "213",
+      "name": {
+        "en": "Hossin Conquest"
+      },
+      "description": {
+        "en": "Control territory to lock Hossin"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "214",
+      "name": {
+        "en": "Indar Conquest"
+      },
+      "description": {
+        "en": "Control territory to lock Indar"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "215",
+      "name": {
+        "en": "Koltyr Conquest"
+      },
+      "description": {
+        "en": "Control territory to lock Koltyr"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "216",
+      "name": {
+        "en": "PAYLOAD"
+      },
+      "description": {
+        "en": "Escort your Payload Drone to its destination before enemies do the same."
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "217",
+      "name": {
+        "en": "PAYLOAD"
+      },
+      "description": {
+        "en": "Escort your Payload Drone to its destination before enemies do the same."
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "218",
+      "name": {
+        "en": "PAYLOAD"
+      },
+      "description": {
+        "en": "Escort your Payload Drone to its destination before enemies do the same."
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "219",
+      "name": {
+        "en": "PAYLOAD"
+      },
+      "description": {
+        "en": "Escort your Payload Drone to its destination before enemies do the same."
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "220",
+      "name": {
+        "en": "PAYLOAD"
+      },
+      "description": {
+        "en": "Escort your Payload Drone to its destination before enemies do the same."
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "221",
+      "name": {
+        "en": "PAYLOAD"
+      },
+      "description": {
+        "en": "Escort your Payload Drone to its destination before enemies do the same."
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "222",
+      "name": {
+        "en": "Oshur Liberation"
+      },
+      "description": {
+        "en": "Control territory to lock Oshur"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "223",
+      "name": {
+        "en": "Oshur Superiority"
+      },
+      "description": {
+        "en": "Control territory to lock Oshur"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "224",
+      "name": {
+        "en": "Oshur Enlightenment"
+      },
+      "description": {
+        "en": "Control territory to lock Oshur"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "225",
+      "name": {
+        "en": "Aerial Anomalies"
+      },
+      "description": {
+        "en": "Take readings of aerial anomalies"
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "226",
+      "name": {
+        "en": "Oshur Conquest"
+      },
+      "description": {
+        "en": "Control territory to lock Oshur"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "227",
+      "name": {
+        "en": "OUTFIT WARS"
+      },
+      "description": {
+        "en": "Control the most territory to conquer the continent"
+      },
+      "type": "9"
+    },
+    {
+      "metagame_event_id": "228",
+      "name": {
+        "en": "Aerial Anomalies"
+      },
+      "description": {
+        "en": "Take readings of aerial anomalies"
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "229",
+      "name": {
+        "en": "Aerial Anomalies"
+      },
+      "description": {
+        "en": "Take readings of aerial anomalies"
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "230",
+      "name": {
+        "en": "Aerial Anomalies"
+      },
+      "description": {
+        "en": "Take readings of aerial anomalies"
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "231",
+      "name": {
+        "en": "Aerial Anomalies"
+      },
+      "description": {
+        "en": "Take readings of aerial anomalies"
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "232",
+      "name": {
+        "en": "Aerial Anomalies"
+      },
+      "description": {
+        "en": "Take readings of aerial anomalies"
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "233",
+      "name": {
+        "en": "Maximum Pressure"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6"
+    },
+    {
+      "metagame_event_id": "234",
+      "name": {
+        "en": "OUTFIT WARS (pre-match)"
+      },
+      "description": {
+        "en": "Prepare for the Outfit War!"
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "235",
+      "name": {
+        "en": "OUTFIT WARS"
+      },
+      "description": {
+        "en": "Active Relics Changing"
+      },
+      "type": "10"
+    },
+    {
+      "metagame_event_id": "236",
+      "name": {
+        "en": "Sudden Death"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6"
+    },
+    {
+      "metagame_event_id": "237",
+      "name": {
+        "en": "Sudden Death"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6"
+    },
+    {
+      "metagame_event_id": "238",
+      "name": {
+        "en": "Sudden Death"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6"
+    },
+    {
+      "metagame_event_id": "239",
+      "name": {
+        "en": "Sudden Death"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6"
+    },
+    {
+      "metagame_event_id": "240",
+      "name": {
+        "en": "Sudden Death"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6"
+    },
+    {
+      "metagame_event_id": "241",
+      "name": {
+        "en": "Sudden Death"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6"
+    },
+    {
+      "metagame_event_id": "242",
+      "name": {
+        "en": "Forgotten Fleet Carrier"
+      },
+      "description": {
+        "en": "Aircraft are free during this event."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "243",
+      "name": {
+        "en": "Forgotten Fleet Carrier"
+      },
+      "description": {
+        "en": "Aircraft are free during this event."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "244",
+      "name": {
+        "en": "Forgotten Fleet Carrier"
+      },
+      "description": {
+        "en": "Aircraft are free during this event."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "245",
+      "name": {
+        "en": "Forgotten Fleet Carrier"
+      },
+      "description": {
+        "en": "Aircraft are free during this event."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "246",
+      "name": {
+        "en": "Forgotten Fleet Carrier"
+      },
+      "description": {
+        "en": "Aircraft are free during this event."
+      },
+      "type": "4"
     }
   ],
-  "returned": 83
+  "returned": 119
 }

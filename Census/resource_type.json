@@ -1,6 +1,10 @@
 {
   "resource_type_list": [
     {
+      "resource_type_id": "1",
+      "description": "Health"
+    },
+    {
       "resource_type_id": "7",
       "description": "Fuel"
     },
@@ -53,12 +57,8 @@
       "description": "NSO: MAX: Time Bomb"
     },
     {
-      "resource_type_id": "139",
-      "description": "Esamir.Storm.VehicleOverload"
-    },
-    {
-      "resource_type_id": "145",
-      "description": "Storm Shield"
+      "resource_type_id": "154",
+      "description": "Thrust"
     }
   ],
   "returned": 15

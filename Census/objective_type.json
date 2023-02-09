@@ -15,6 +15,12 @@
       "param2": "Area ID"
     },
     {
+      "objective_type_id": "10",
+      "description": "Token Count",
+      "param1": "Token ID",
+      "param2": "Required Count"
+    },
+    {
       "objective_type_id": "12",
       "description": "Total Kill Count",
       "param1": "Kill Count",
@@ -173,6 +179,14 @@
       "param8": "XP Classification"
     },
     {
+      "objective_type_id": "70",
+      "description": "Xp Earned - track raw or total experience gained",
+      "param1": "Xp Amount",
+      "param2": "Track Total Xp",
+      "param3": "Include (0) or Exclude (1) xp by classification",
+      "param4": "Experience Classification Id"
+    },
+    {
       "objective_type_id": "74",
       "description": "Add Friends",
       "param1": "Friend Count"
@@ -220,5 +234,5 @@
       "param5": "Zone ID"
     }
   ],
-  "returned": 26
+  "returned": 28
 }

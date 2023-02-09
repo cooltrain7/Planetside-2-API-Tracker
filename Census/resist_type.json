@@ -14,15 +14,15 @@
     },
     {
       "resist_type_id": "4",
-      "description": "Heavy Machine Guns (Vehicle 20mms)"
+      "description": "Heavy Machine Guns"
     },
     {
       "resist_type_id": "5",
-      "description": "Heavy Anti-Armor (100mm+ Cannons, Guided RPGs)"
+      "description": "Heavy Anti-Armor"
     },
     {
       "resist_type_id": "6",
-      "description": "Explosive (Hand Grenades)"
+      "description": "Common Explosive"
     },
     {
       "resist_type_id": "7",
@@ -30,15 +30,19 @@
     },
     {
       "resist_type_id": "8",
-      "description": "Aircraft Machine Gun (Soft Point)"
+      "description": "Aircraft Machine Gun"
     },
     {
       "resist_type_id": "12",
       "description": "Flak Explosive Blast"
     },
     {
+      "resist_type_id": "20",
+      "description": "Sniper Rifles"
+    },
+    {
       "resist_type_id": "22",
-      "description": "Anti-Aircraft Machine Gun (Walker)"
+      "description": "Anti-Aircraft Machine Gun"
     },
     {
       "resist_type_id": "23",
@@ -46,11 +50,11 @@
     },
     {
       "resist_type_id": "28",
-      "description": "Armor Piercing Chain Guns (Tank Buster, Shedder)"
+      "description": "AP Gatling"
     },
     {
       "resist_type_id": "34",
-      "description": "Default Rocket Launchers"
+      "description": "Infantry Rocket Launchers"
     },
     {
       "resist_type_id": "40",
@@ -58,16 +62,24 @@
     },
     {
       "resist_type_id": "45",
-      "description": "Whale Hunter I (Slow Firing)"
+      "description": "A2A Missile"
     },
     {
       "resist_type_id": "46",
       "description": "Core Explosion / Glaive"
     },
     {
+      "resist_type_id": "47",
+      "description": "Orbital Strike"
+    },
+    {
       "resist_type_id": "64",
       "description": "Burning"
+    },
+    {
+      "resist_type_id": "68",
+      "description": "Infantry Lock-on"
     }
   ],
-  "returned": 17
+  "returned": 20
 }

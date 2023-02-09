@@ -76,7 +76,18 @@
       "description": {
         "en": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
       }
+    },
+    {
+      "zone_id": "344",
+      "code": "Oshur",
+      "hex_size": "100",
+      "name": {
+        "en": "Oshur"
+      },
+      "description": {
+        "en": "Oshur's sandy archipelago and sparkling blue waters provide opportunities for engagement by land, sea, and air."
+      }
     }
   ],
-  "returned": 7
+  "returned": 8
 }

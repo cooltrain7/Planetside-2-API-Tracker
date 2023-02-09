@@ -47,7 +47,13 @@
       "name": {
         "en": "Codex"
       }
+    },
+    {
+      "directive_tree_category_id": "17",
+      "name": {
+        "en": "Collections"
+      }
     }
   ],
-  "returned": 8
+  "returned": 9
 }

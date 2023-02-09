@@ -3,11 +3,6 @@
     {
       "zone_id": "2",
       "facility_id_a": "201",
-      "facility_id_b": "209"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "201",
       "facility_id_b": "5300",
       "description": "Indar - SO2.WasteTreatment to LO1.CampConnery"
     },
@@ -16,16 +11,6 @@
       "facility_id_a": "203",
       "facility_id_b": "204",
       "description": "Indar - SO4.Saurva.Overflow to SO5.HeliosSolar"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "203",
-      "facility_id_b": "3810"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "203",
-      "facility_id_b": "3820"
     },
     {
       "zone_id": "2",
@@ -193,6 +178,12 @@
     {
       "zone_id": "2",
       "facility_id_a": "229",
+      "facility_id_b": "230",
+      "description": "Indar - Snake Ravine Lookout to Xenotech Labs"
+    },
+    {
+      "zone_id": "2",
+      "facility_id_a": "229",
       "facility_id_b": "6100",
       "description": "Indar - SO30.SnakeRavine to LO7.CrossroadsWatchtower"
     },
@@ -315,6 +306,12 @@
     },
     {
       "zone_id": "2",
+      "facility_id_a": "3230",
+      "facility_id_b": "3220",
+      "description": "Indar - Dahaka Southern Post to Dahaka Pump Station"
+    },
+    {
+      "zone_id": "2",
       "facility_id_a": "3400",
       "facility_id_b": "3410",
       "description": "Indar - Peris to Peris.West.Barracks"
@@ -372,11 +369,6 @@
     },
     {
       "zone_id": "2",
-      "facility_id_a": "3620",
-      "facility_id_b": "3630"
-    },
-    {
-      "zone_id": "2",
       "facility_id_a": "3801",
       "facility_id_b": "203",
       "description": "Indar - Saurva to SO4.SaurvaOverflowDepot"
@@ -392,6 +384,11 @@
       "facility_id_a": "3801",
       "facility_id_b": "3820",
       "description": "Indar - Saurva to Saurva.SSat"
+    },
+    {
+      "zone_id": "2",
+      "facility_id_a": "3810",
+      "facility_id_b": "203"
     },
     {
       "zone_id": "2",
@@ -421,11 +418,6 @@
       "zone_id": "2",
       "facility_id_a": "4010",
       "facility_id_b": "4030"
-    },
-    {
-      "zone_id": "2",
-      "facility_id_a": "4020",
-      "facility_id_b": "4010"
     },
     {
       "zone_id": "2",
@@ -497,6 +489,12 @@
       "facility_id_a": "5200",
       "facility_id_b": "209",
       "description": "Indar - LO4.J908 to SO10.CraterFiringRange"
+    },
+    {
+      "zone_id": "2",
+      "facility_id_a": "5200",
+      "facility_id_b": "219",
+      "description": "Indar - J908 Impact Site to Ceres Hydroponics"
     },
     {
       "zone_id": "2",
@@ -1311,12 +1309,7 @@
     },
     {
       "zone_id": "4",
-      "facility_id_a": "302010",
-      "facility_id_b": "302020"
-    },
-    {
-      "zone_id": "4",
-      "facility_id_a": "302030",
+      "facility_id_a": "302020",
       "facility_id_b": "302010"
     },
     {
@@ -1336,11 +1329,6 @@
       "facility_id_a": "303000",
       "facility_id_b": "303030",
       "description": "Hossin - Bitol to Bitol.East"
-    },
-    {
-      "zone_id": "4",
-      "facility_id_a": "303010",
-      "facility_id_b": "303020"
     },
     {
       "zone_id": "4",
@@ -1376,11 +1364,6 @@
       "zone_id": "4",
       "facility_id_a": "304020",
       "facility_id_b": "304000"
-    },
-    {
-      "zone_id": "4",
-      "facility_id_a": "304020",
-      "facility_id_b": "304030"
     },
     {
       "zone_id": "4",
@@ -1561,16 +1544,6 @@
     },
     {
       "zone_id": "6",
-      "facility_id_a": "209001",
-      "facility_id_b": "209002"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "209003",
-      "facility_id_b": "209001"
-    },
-    {
-      "zone_id": "6",
       "facility_id_a": "210000",
       "facility_id_b": "210001",
       "description": "Amerish - Wokuk to Wokuk.West"
@@ -1616,16 +1589,6 @@
       "facility_id_a": "212000",
       "facility_id_b": "212003",
       "description": "Amerish - Xelas to Xelas.South"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212001",
-      "facility_id_b": "212003"
-    },
-    {
-      "zone_id": "6",
-      "facility_id_a": "212002",
-      "facility_id_b": "212001"
     },
     {
       "zone_id": "6",
@@ -2199,6 +2162,11 @@
     },
     {
       "zone_id": "8",
+      "facility_id_a": "244000",
+      "facility_id_b": "260010"
+    },
+    {
+      "zone_id": "8",
       "facility_id_a": "244100",
       "facility_id_b": "248000",
       "description": "Esamir - SO16.EchoValley to LO4.SaerroListening"
@@ -2391,6 +2359,11 @@
     {
       "zone_id": "8",
       "facility_id_a": "400134",
+      "facility_id_b": "237000"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400134",
       "facility_id_b": "239000"
     },
     {
@@ -2462,6 +2435,11 @@
       "zone_id": "8",
       "facility_id_a": "400327",
       "facility_id_b": "260010"
+    },
+    {
+      "zone_id": "8",
+      "facility_id_a": "400328",
+      "facility_id_b": "400317"
     },
     {
       "zone_id": "10",
@@ -2672,6 +2650,16 @@
     },
     {
       "zone_id": "309",
+      "facility_id_a": "400098",
+      "facility_id_b": "400036"
+    },
+    {
+      "zone_id": "309",
+      "facility_id_a": "400099",
+      "facility_id_b": "400109"
+    },
+    {
+      "zone_id": "309",
       "facility_id_a": "400036",
       "facility_id_b": "400087"
     },
@@ -2764,16 +2752,6 @@
       "zone_id": "309",
       "facility_id_a": "400097",
       "facility_id_b": "400083"
-    },
-    {
-      "zone_id": "309",
-      "facility_id_a": "400098",
-      "facility_id_b": "400036"
-    },
-    {
-      "zone_id": "309",
-      "facility_id_a": "400099",
-      "facility_id_b": "400109"
     },
     {
       "zone_id": "309",
@@ -2939,7 +2917,512 @@
       "zone_id": "338",
       "facility_id_a": "400293",
       "facility_id_b": "400292"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400329",
+      "facility_id_b": "400331"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400329",
+      "facility_id_b": "400339"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400329",
+      "facility_id_b": "400340"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400329",
+      "facility_id_b": "400407"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400330",
+      "facility_id_b": "400407"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400332",
+      "facility_id_b": "400333"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400332",
+      "facility_id_b": "400407"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400333",
+      "facility_id_b": "400336"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400334",
+      "facility_id_b": "400333"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400334",
+      "facility_id_b": "400416"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400335",
+      "facility_id_b": "400333"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400335",
+      "facility_id_b": "400351"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400336",
+      "facility_id_b": "400348"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400337",
+      "facility_id_b": "400338"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400337",
+      "facility_id_b": "400340"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400338",
+      "facility_id_b": "400391"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400339",
+      "facility_id_b": "400341"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400339",
+      "facility_id_b": "400412"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400341",
+      "facility_id_b": "400358"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400341",
+      "facility_id_b": "400392"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400342",
+      "facility_id_b": "400331"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400342",
+      "facility_id_b": "400343"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400342",
+      "facility_id_b": "400346"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400345",
+      "facility_id_b": "400343"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400345",
+      "facility_id_b": "400346"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400346",
+      "facility_id_b": "400331"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400346",
+      "facility_id_b": "400344"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400347",
+      "facility_id_b": "400404"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400347",
+      "facility_id_b": "400416"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400348",
+      "facility_id_b": "400349"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400348",
+      "facility_id_b": "400404"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400349",
+      "facility_id_b": "400350"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400350",
+      "facility_id_b": "400351"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400351",
+      "facility_id_b": "400352"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400352",
+      "facility_id_b": "400405"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400353",
+      "facility_id_b": "400354"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400353",
+      "facility_id_b": "400392"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400353",
+      "facility_id_b": "400405"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400354",
+      "facility_id_b": "400355"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400355",
+      "facility_id_b": "400356"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400356",
+      "facility_id_b": "400368"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400356",
+      "facility_id_b": "400392"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400357",
+      "facility_id_b": "400358"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400357",
+      "facility_id_b": "400359"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400359",
+      "facility_id_b": "400360"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400360",
+      "facility_id_b": "400361"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400361",
+      "facility_id_b": "400344"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400361",
+      "facility_id_b": "400390"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400362",
+      "facility_id_b": "400363"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400363",
+      "facility_id_b": "400364"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400364",
+      "facility_id_b": "400343"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400365",
+      "facility_id_b": "400364"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400366",
+      "facility_id_b": "400367"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400367",
+      "facility_id_b": "400347"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400368",
+      "facility_id_b": "400358"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400369",
+      "facility_id_b": "400347"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400369",
+      "facility_id_b": "400367"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400370",
+      "facility_id_b": "400362"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400370",
+      "facility_id_b": "400426"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400371",
+      "facility_id_b": "400354"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400371",
+      "facility_id_b": "400405"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400390",
+      "facility_id_b": "400362"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400391",
+      "facility_id_b": "400358"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400409",
+      "facility_id_b": "400357"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400409",
+      "facility_id_b": "400359"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400409",
+      "facility_id_b": "400373"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400410",
+      "facility_id_b": "400344"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400410",
+      "facility_id_b": "400361"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400410",
+      "facility_id_b": "400373"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400411",
+      "facility_id_b": "400329"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400411",
+      "facility_id_b": "400331"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400411",
+      "facility_id_b": "400373"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400412",
+      "facility_id_b": "400353"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400412",
+      "facility_id_b": "400374"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400413",
+      "facility_id_b": "400335"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400413",
+      "facility_id_b": "400351"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400413",
+      "facility_id_b": "400374"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400414",
+      "facility_id_b": "400332"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400414",
+      "facility_id_b": "400374"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400414",
+      "facility_id_b": "400407"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400415",
+      "facility_id_b": "400330"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400415",
+      "facility_id_b": "400334"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400415",
+      "facility_id_b": "400372"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400416",
+      "facility_id_b": "400372"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400416",
+      "facility_id_b": "400404"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400417",
+      "facility_id_b": "400343"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400417",
+      "facility_id_b": "400365"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400417",
+      "facility_id_b": "400372"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400418",
+      "facility_id_b": "400364"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400418",
+      "facility_id_b": "400365"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400421",
+      "facility_id_b": "400350"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400421",
+      "facility_id_b": "400351"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400424",
+      "facility_id_b": "400357"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400424",
+      "facility_id_b": "400359"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400426",
+      "facility_id_b": "400361"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400426",
+      "facility_id_b": "400362"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400427",
+      "facility_id_b": "400329"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400427",
+      "facility_id_b": "400331"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400427",
+      "facility_id_b": "400407"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400428",
+      "facility_id_b": "400365"
+    },
+    {
+      "zone_id": "344",
+      "facility_id_a": "400428",
+      "facility_id_b": "400366"
     }
   ],
-  "returned": 526
+  "returned": 622
 }
