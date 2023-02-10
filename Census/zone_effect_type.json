@@ -71,6 +71,7 @@
       "param2": "IsOneWayEffect",
       "param3": "Addend",
       "param4": "PcntAddend",
+      "param5": "Resource Variable",
       "string1": "ResourceVariableId"
     },
     {
@@ -144,18 +145,9 @@
       "param1": "FireGroupId"
     },
     {
-      "zone_effect_type_id": "25",
-      "description": "Spawn Npc",
-      "param1": "NpcDefinitionId",
-      "param2": "NpcHeading",
-      "param3": "0 at source, 1 at target, 2 near source, 3 drop",
-      "param4": "NpcDisposition",
-      "param5": "MaxCount"
-    },
-    {
       "zone_effect_type_id": "26",
       "description": "Modify Vehicle Stat",
-      "param1": "Type Definition ID",
+      "param1": "Info ID (see tooltip)",
       "param3": "Addend",
       "param4": "PcntAddend",
       "param5": "SetDirectly",
@@ -205,6 +197,13 @@
     {
       "zone_effect_type_id": "37",
       "description": "Play Composite Effect"
+    },
+    {
+      "zone_effect_type_id": "38",
+      "description": "Play World Effect",
+      "param1": "Composite Effect",
+      "param2": "DurationSec",
+      "param3": "RadiusMax"
     },
     {
       "zone_effect_type_id": "39",
@@ -396,14 +395,19 @@
       "string1": "ScriptFileName.Function"
     },
     {
-      "zone_effect_type_id": "452",
-      "description": "Show a data-driven notification on the HUD",
-      "param1": "Type",
-      "param2": "Image Set",
-      "param3": "String1",
-      "param4": "String2",
-      "param5": "Show Until Hidden"
+      "zone_effect_type_id": "460",
+      "description": "Makes request to dismount from seat.",
+      "param1": "Impulse"
+    },
+    {
+      "zone_effect_type_id": "463",
+      "description": "Modify a character's replicated value",
+      "param1": "Value Type",
+      "param2": "Operation",
+      "param3": "One Way",
+      "param4": "Operand",
+      "string1": "Value Name"
     }
   ],
-  "returned": 55
+  "returned": 56
 }

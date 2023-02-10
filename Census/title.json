@@ -2159,7 +2159,217 @@
       "name": {
         "en": "Scavenger"
       }
+    },
+    {
+      "title_id": "413",
+      "name": {
+        "en": "Flamerider"
+      }
+    },
+    {
+      "title_id": "414",
+      "name": {
+        "en": "Demon Hunter"
+      }
+    },
+    {
+      "title_id": "415",
+      "name": {
+        "en": "Terrifying"
+      }
+    },
+    {
+      "title_id": "416",
+      "name": {
+        "en": "Plunderer"
+      }
+    },
+    {
+      "title_id": "417",
+      "name": {
+        "en": "Fleet Admiral"
+      }
+    },
+    {
+      "title_id": "418",
+      "name": {
+        "en": "Quartermaster"
+      }
+    },
+    {
+      "title_id": "419",
+      "name": {
+        "en": "Deckhand"
+      }
+    },
+    {
+      "title_id": "420",
+      "name": {
+        "en": "Considerate"
+      }
+    },
+    {
+      "title_id": "421",
+      "name": {
+        "en": "Festive"
+      }
+    },
+    {
+      "title_id": "422",
+      "name": {
+        "en": "Illustrious"
+      }
+    },
+    {
+      "title_id": "423",
+      "name": {
+        "en": "Effectual"
+      }
+    },
+    {
+      "title_id": "424",
+      "name": {
+        "en": "Vigorous"
+      }
+    },
+    {
+      "title_id": "425",
+      "name": {
+        "en": "Intrepid"
+      }
+    },
+    {
+      "title_id": "427",
+      "name": {
+        "en": "Lovestruck"
+      }
+    },
+    {
+      "title_id": "428",
+      "name": {
+        "en": "Druid"
+      }
+    },
+    {
+      "title_id": "429",
+      "name": {
+        "en": "Tricky"
+      }
+    },
+    {
+      "title_id": "430",
+      "name": {
+        "en": "Enthusiast"
+      }
+    },
+    {
+      "title_id": "431",
+      "name": {
+        "en": "Navigator"
+      }
+    },
+    {
+      "title_id": "432",
+      "name": {
+        "en": "Liberator"
+      }
+    },
+    {
+      "title_id": "433",
+      "name": {
+        "en": "Traitor"
+      }
+    },
+    {
+      "title_id": "434",
+      "name": {
+        "en": "Doctor"
+      }
+    },
+    {
+      "title_id": "435",
+      "name": {
+        "en": "Guardian"
+      }
+    },
+    {
+      "title_id": "436",
+      "name": {
+        "en": "Operative"
+      }
+    },
+    {
+      "title_id": "437",
+      "name": {
+        "en": "Wicked"
+      }
+    },
+    {
+      "title_id": "438",
+      "name": {
+        "en": "Arbiter"
+      }
+    },
+    {
+      "title_id": "439",
+      "name": {
+        "en": "Unshackled"
+      }
+    },
+    {
+      "title_id": "440",
+      "name": {
+        "en": "Judicator"
+      }
+    },
+    {
+      "title_id": "441",
+      "name": {
+        "en": "Scion"
+      }
+    },
+    {
+      "title_id": "442",
+      "name": {
+        "en": "Eternal"
+      }
+    },
+    {
+      "title_id": "443",
+      "name": {
+        "en": "Record Breaker"
+      }
+    },
+    {
+      "title_id": "444",
+      "name": {
+        "en": "Kindly"
+      }
+    },
+    {
+      "title_id": "445",
+      "name": {
+        "en": "Joyous"
+      }
+    },
+    {
+      "title_id": "446",
+      "name": {
+        "en": "Sleigher"
+      }
+    },
+    {
+      "title_id": "447",
+      "name": {
+        "en": "Completionist"
+      }
+    },
+    {
+      "title_id": "448",
+      "name": {
+        "en": "Huggable"
+      }
     }
   ],
-  "returned": 360
+  "returned": 395
 }

@@ -150,7 +150,7 @@
     {
       "resist_info_id": "24",
       "resist_type_id": "4",
-      "resist_percent": "87",
+      "resist_percent": "80",
       "multiplier_when_headshot": "1",
       "description": "Sunderer - Tier 1 AV"
     },
@@ -213,7 +213,7 @@
     {
       "resist_info_id": "34",
       "resist_type_id": "4",
-      "resist_percent": "87",
+      "resist_percent": "80",
       "multiplier_when_headshot": "1",
       "description": "Lightning - Tier 1 AV"
     },
@@ -269,7 +269,7 @@
     {
       "resist_info_id": "44",
       "resist_type_id": "4",
-      "resist_percent": "87",
+      "resist_percent": "80",
       "multiplier_when_headshot": "1",
       "description": "Magrider - Tier 1 AV"
     },
@@ -332,7 +332,7 @@
     {
       "resist_info_id": "54",
       "resist_type_id": "4",
-      "resist_percent": "87",
+      "resist_percent": "80",
       "multiplier_when_headshot": "1",
       "description": "Vanguard - Tier 1 AV"
     },
@@ -395,7 +395,7 @@
     {
       "resist_info_id": "64",
       "resist_type_id": "4",
-      "resist_percent": "87",
+      "resist_percent": "80",
       "multiplier_when_headshot": "1",
       "description": "Prowler - Tier 1 AV"
     },
@@ -458,7 +458,7 @@
     {
       "resist_info_id": "74",
       "resist_type_id": "4",
-      "resist_percent": "75",
+      "resist_percent": "70",
       "multiplier_when_headshot": "1",
       "description": "Scythe - Tier 1 AV"
     },
@@ -521,7 +521,7 @@
     {
       "resist_info_id": "84",
       "resist_type_id": "4",
-      "resist_percent": "75",
+      "resist_percent": "70",
       "multiplier_when_headshot": "1",
       "description": "Reaver - Tier 1 AV"
     },
@@ -584,7 +584,7 @@
     {
       "resist_info_id": "94",
       "resist_type_id": "4",
-      "resist_percent": "75",
+      "resist_percent": "70",
       "multiplier_when_headshot": "1",
       "description": "Mosquito - Tier 1 AV"
     },
@@ -944,7 +944,7 @@
       "resist_type_id": "20",
       "resist_percent": "75",
       "multiplier_when_headshot": "1",
-      "description": "MAX - Personal Defense - Snipers NC"
+      "description": "MAX - Sniper Rifles"
     },
     {
       "resist_info_id": "164",
@@ -965,7 +965,7 @@
       "resist_type_id": "20",
       "resist_percent": "80",
       "multiplier_when_headshot": "1",
-      "description": "Flash - Personal Defense - Snipers NC"
+      "description": "Flash - Sniper Rifles"
     },
     {
       "resist_info_id": "167",
@@ -986,7 +986,7 @@
       "resist_type_id": "20",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "Sunderer - Personal Defense - Snipers NC"
+      "description": "Sunderer - Sniper Rifles"
     },
     {
       "resist_info_id": "170",
@@ -1007,7 +1007,7 @@
       "resist_type_id": "20",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "Magrider - Personal Defense - Snipers NC"
+      "description": "Magrider - Sniper Rifles"
     },
     {
       "resist_info_id": "176",
@@ -1028,7 +1028,7 @@
       "resist_type_id": "20",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "Vanguard - Personal Defense - Snipers NC"
+      "description": "Vanguard - Sniper Rifles"
     },
     {
       "resist_info_id": "179",
@@ -1049,7 +1049,7 @@
       "resist_type_id": "20",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "Prowler - Personal Defense - Snipers NC"
+      "description": "Prowler - Sniper Rifles"
     },
     {
       "resist_info_id": "182",
@@ -1070,7 +1070,7 @@
       "resist_type_id": "20",
       "resist_percent": "90",
       "multiplier_when_headshot": "1",
-      "description": "Scythe - Personal Defense - Snipers NC"
+      "description": "Scythe - Sniper Rifles"
     },
     {
       "resist_info_id": "185",
@@ -1091,7 +1091,7 @@
       "resist_type_id": "20",
       "resist_percent": "90",
       "multiplier_when_headshot": "1",
-      "description": "Reaver - Personal Defense - Snipers NC"
+      "description": "Reaver - Sniper Rifles"
     },
     {
       "resist_info_id": "188",
@@ -1112,7 +1112,7 @@
       "resist_type_id": "20",
       "resist_percent": "90",
       "multiplier_when_headshot": "1",
-      "description": "Mosquito - Personal Defense - Snipers NC"
+      "description": "Mosquito - Sniper Rifles"
     },
     {
       "resist_info_id": "191",
@@ -1133,7 +1133,7 @@
       "resist_type_id": "20",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "Liberator - Personal Defense - Snipers NC"
+      "description": "Liberator - Sniper Rifles"
     },
     {
       "resist_info_id": "194",
@@ -1154,7 +1154,7 @@
       "resist_type_id": "20",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "Galaxy - Personal Defense - Snipers NC"
+      "description": "Galaxy - Sniper Rifles"
     },
     {
       "resist_info_id": "197",
@@ -1175,7 +1175,7 @@
       "resist_type_id": "20",
       "resist_percent": "90",
       "multiplier_when_headshot": "1",
-      "description": "Drop Pod - Personal Defense - Snipers NC"
+      "description": "Drop Pod - Sniper Rifles"
     },
     {
       "resist_info_id": "200",
@@ -1271,21 +1271,21 @@
     {
       "resist_info_id": "234",
       "resist_type_id": "15",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Sniper TR"
     },
     {
       "resist_info_id": "235",
       "resist_type_id": "20",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Sniper NC"
     },
     {
       "resist_info_id": "236",
       "resist_type_id": "21",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Sniper VS"
     },
@@ -1427,7 +1427,7 @@
       "resist_type_id": "20",
       "resist_percent": "80",
       "multiplier_when_headshot": "1",
-      "description": "MANA Engineer Turret - Personal Defense  - Snipers NC"
+      "description": "MANA Engineer Turret - Sniper Rifles"
     },
     {
       "resist_info_id": "257",
@@ -2078,7 +2078,7 @@
       "resist_type_id": "20",
       "resist_percent": "80",
       "multiplier_when_headshot": "1",
-      "description": "Harasser - Personal Defense - Snipers NC"
+      "description": "Harasser - Sniper Rifles"
     },
     {
       "resist_info_id": "358",
@@ -2093,13 +2093,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Harasser - Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "360",
-      "resist_type_id": "19",
-      "resist_percent": "80",
-      "multiplier_when_headshot": "1",
-      "description": "Harasser - Flak (Projectile)"
     },
     {
       "resist_info_id": "361",
@@ -2437,35 +2430,28 @@
     {
       "resist_info_id": "539",
       "resist_type_id": "4",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Heavy Machine Guns (Vehicle 20mms)"
     },
     {
       "resist_info_id": "541",
       "resist_type_id": "8",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Aircraft Machine Gun"
     },
     {
-      "resist_info_id": "543",
-      "resist_type_id": "19",
-      "resist_percent": "25",
-      "multiplier_when_headshot": "1",
-      "description": "Infiltrator: Nano-Armor Cloak Tier 1: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "544",
       "resist_type_id": "22",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Anti-Aircraft Machine Gun"
     },
     {
       "resist_info_id": "552",
       "resist_type_id": "35",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Vehicle Shotgun (Canister)"
     },
@@ -2484,13 +2470,6 @@
       "description": "Infiltrator: Nano-Armor Cloak Tier 2: Aircraft Machine Gun"
     },
     {
-      "resist_info_id": "559",
-      "resist_type_id": "19",
-      "resist_percent": "35",
-      "multiplier_when_headshot": "1",
-      "description": "Infiltrator: Nano-Armor Cloak Tier 2: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "560",
       "resist_type_id": "22",
       "resist_percent": "35",
@@ -2507,7 +2486,7 @@
     {
       "resist_info_id": "569",
       "resist_type_id": "28",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Armor Piercing Chain Guns"
     },
@@ -3116,7 +3095,7 @@
     {
       "resist_info_id": "777",
       "resist_type_id": "2",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Personal Defense"
     },
@@ -3294,104 +3273,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Phalanx - Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "854",
-      "resist_type_id": "19",
-      "resist_percent": "75",
-      "multiplier_when_headshot": "1",
-      "description": "MAX - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "855",
-      "resist_type_id": "19",
-      "resist_percent": "60",
-      "multiplier_when_headshot": "1",
-      "description": "Flash - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "856",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Sunderer - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "858",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Magrider - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "859",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Vanguard - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "860",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Prowler - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "861",
-      "resist_type_id": "19",
-      "resist_percent": "75",
-      "multiplier_when_headshot": "1",
-      "description": "Scythe - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "862",
-      "resist_type_id": "19",
-      "resist_percent": "75",
-      "multiplier_when_headshot": "1",
-      "description": "Reaver - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "863",
-      "resist_type_id": "19",
-      "resist_percent": "75",
-      "multiplier_when_headshot": "1",
-      "description": "Mosquito - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "864",
-      "resist_type_id": "19",
-      "resist_percent": "90",
-      "multiplier_when_headshot": "1",
-      "description": "Liberator - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "865",
-      "resist_type_id": "19",
-      "resist_percent": "90",
-      "multiplier_when_headshot": "1",
-      "description": "Galaxy - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "866",
-      "resist_type_id": "19",
-      "resist_percent": "0",
-      "multiplier_when_headshot": "1",
-      "description": "Drop Pod - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "867",
-      "resist_type_id": "19",
-      "resist_percent": "60",
-      "multiplier_when_headshot": "1",
-      "description": "MANA Engineer Turret - Flak (Projectile)"
-    },
-    {
-      "resist_info_id": "868",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Phalanx - Flak (Projectile)"
     },
     {
       "resist_info_id": "900",
@@ -5958,13 +5839,6 @@
       "description": "VS: MAX: Ability 02: Zealot Overdrive 01: Rocket Pod Rockets"
     },
     {
-      "resist_info_id": "1651",
-      "resist_type_id": "19",
-      "resist_percent": "-8.5",
-      "multiplier_when_headshot": "1",
-      "description": "VS: MAX: Ability 02: Zealot Overdrive 01: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "1652",
       "resist_type_id": "20",
       "resist_percent": "-8.5",
@@ -6089,13 +5963,6 @@
       "resist_percent": "-13",
       "multiplier_when_headshot": "1",
       "description": "VS: MAX: Ability 02: Zealot Overdrive 02: Rocket Pod Rockets"
-    },
-    {
-      "resist_info_id": "1670",
-      "resist_type_id": "19",
-      "resist_percent": "-8",
-      "multiplier_when_headshot": "1",
-      "description": "VS: MAX: Ability 02: Zealot Overdrive 02: Flak (Projectile)"
     },
     {
       "resist_info_id": "1671",
@@ -6224,13 +6091,6 @@
       "description": "VS: MAX: Ability 02: Zealot Overdrive 03: Rocket Pod Rockets"
     },
     {
-      "resist_info_id": "1689",
-      "resist_type_id": "19",
-      "resist_percent": "-7.5",
-      "multiplier_when_headshot": "1",
-      "description": "VS: MAX: Ability 02: Zealot Overdrive 03: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "1690",
       "resist_type_id": "20",
       "resist_percent": "-7.5",
@@ -6357,13 +6217,6 @@
       "description": "VS: MAX: Ability 02: Zealot Overdrive 04: Rocket Pod Rockets"
     },
     {
-      "resist_info_id": "1708",
-      "resist_type_id": "19",
-      "resist_percent": "-7",
-      "multiplier_when_headshot": "1",
-      "description": "VS: MAX: Ability 02: Zealot Overdrive 04: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "1709",
       "resist_type_id": "20",
       "resist_percent": "-7",
@@ -6488,13 +6341,6 @@
       "resist_percent": "-10",
       "multiplier_when_headshot": "1",
       "description": "VS: MAX: Ability 02: Zealot Overdrive 05: Rocket Pod Rockets"
-    },
-    {
-      "resist_info_id": "1727",
-      "resist_type_id": "19",
-      "resist_percent": "-6.5",
-      "multiplier_when_headshot": "1",
-      "description": "VS: MAX: Ability 02: Zealot Overdrive 05: Flak (Projectile)"
     },
     {
       "resist_info_id": "1728",
@@ -7892,13 +7738,6 @@
       "description": "Nanoweave 1: Resist 15(Snipers TR)"
     },
     {
-      "resist_info_id": "1933",
-      "resist_type_id": "19",
-      "resist_percent": "7.5",
-      "multiplier_when_headshot": "0",
-      "description": "Nanoweave 1: Resist 19(Flak Projectile)"
-    },
-    {
       "resist_info_id": "1934",
       "resist_type_id": "20",
       "resist_percent": "7.5",
@@ -7946,13 +7785,6 @@
       "resist_percent": "10",
       "multiplier_when_headshot": "0",
       "description": "Nanoweave 2: Resist 15(Snipers TR)"
-    },
-    {
-      "resist_info_id": "1943",
-      "resist_type_id": "19",
-      "resist_percent": "10",
-      "multiplier_when_headshot": "0",
-      "description": "Nanoweave 2: Resist 19(Flak Projectile)"
     },
     {
       "resist_info_id": "1944",
@@ -8004,13 +7836,6 @@
       "description": "Nanoweave 3: Resist 15(Snipers TR)"
     },
     {
-      "resist_info_id": "1953",
-      "resist_type_id": "19",
-      "resist_percent": "12.5",
-      "multiplier_when_headshot": "0",
-      "description": "Nanoweave 3: Resist 19(Flak Projectile)"
-    },
-    {
       "resist_info_id": "1954",
       "resist_type_id": "20",
       "resist_percent": "12.5",
@@ -8060,13 +7885,6 @@
       "description": "Nanoweave 4: Resist 15(Snipers TR)"
     },
     {
-      "resist_info_id": "1963",
-      "resist_type_id": "19",
-      "resist_percent": "15",
-      "multiplier_when_headshot": "0",
-      "description": "Nanoweave 4: Resist 19(Flak Projectile)"
-    },
-    {
       "resist_info_id": "1964",
       "resist_type_id": "20",
       "resist_percent": "15",
@@ -8114,13 +7932,6 @@
       "resist_percent": "20",
       "multiplier_when_headshot": "0",
       "description": "Nanoweave 5: Resist 15(Snipers TR)"
-    },
-    {
-      "resist_info_id": "1973",
-      "resist_type_id": "19",
-      "resist_percent": "20",
-      "multiplier_when_headshot": "0",
-      "description": "Nanoweave 5: Resist 19(Flak Projectile)"
     },
     {
       "resist_info_id": "1974",
@@ -8455,47 +8266,6 @@
       "resist_type_id": "22",
       "resist_percent": "40",
       "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Resist 22 AA Machine Gun"
-    },
-    {
-      "resist_info_id": "2032",
-      "resist_type_id": "19",
-      "resist_percent": "40",
-      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 Flak Projectile"
-    },
-    {
-      "resist_info_id": "2033",
-      "resist_type_id": "19",
-      "resist_percent": "32.5",
-      "multiplier_when_headshot": "0",
-      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 1"
-    },
-    {
-      "resist_info_id": "2034",
-      "resist_type_id": "19",
-      "resist_percent": "30",
-      "multiplier_when_headshot": "0",
-      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 2"
-    },
-    {
-      "resist_info_id": "2035",
-      "resist_type_id": "19",
-      "resist_percent": "27.5",
-      "multiplier_when_headshot": "0",
-      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 3"
-    },
-    {
-      "resist_info_id": "2036",
-      "resist_type_id": "19",
-      "resist_percent": "25",
-      "multiplier_when_headshot": "0",
-      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 4"
-    },
-    {
-      "resist_info_id": "2037",
-      "resist_type_id": "19",
-      "resist_percent": "20",
-      "multiplier_when_headshot": "0",
-      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 5"
     },
     {
       "resist_info_id": "2038",
@@ -8875,7 +8645,7 @@
     {
       "resist_info_id": "2107",
       "resist_type_id": "7",
-      "resist_percent": "-65",
+      "resist_percent": "-80",
       "description": "Valkyrie - Tank Shell"
     },
     {
@@ -8900,7 +8670,7 @@
       "resist_info_id": "2111",
       "resist_type_id": "20",
       "resist_percent": "80",
-      "description": "Valkyrie - Personal Defense - Snipers NC"
+      "description": "Valkyrie - Sniper Rifles"
     },
     {
       "resist_info_id": "2112",
@@ -8931,12 +8701,6 @@
       "resist_type_id": "12",
       "resist_percent": "-100",
       "description": "Valkyrie - Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "2117",
-      "resist_type_id": "19",
-      "resist_percent": "75",
-      "description": "Valkyrie - Flak (Projectile)"
     },
     {
       "resist_info_id": "2118",
@@ -9690,12 +9454,6 @@
       "description": "Spitfire Auto-Turret - Rocket Pods"
     },
     {
-      "resist_info_id": "2238",
-      "resist_type_id": "19",
-      "resist_percent": "50",
-      "description": "Spitfire Auto-Turret - Flak Projectile"
-    },
-    {
       "resist_info_id": "2239",
       "resist_type_id": "20",
       "resist_percent": "25",
@@ -9880,7 +9638,7 @@
     {
       "resist_info_id": "2289",
       "resist_type_id": "40",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: Anti Materiel Rifle"
     },
     {
@@ -10160,7 +9918,7 @@
     {
       "resist_info_id": "2335",
       "resist_type_id": "4",
-      "resist_percent": "87",
+      "resist_percent": "80",
       "multiplier_when_headshot": "1",
       "description": "ANT - Tier 1 AV"
     },
@@ -10211,7 +9969,7 @@
       "resist_type_id": "20",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "ANT - Personal Defense - Snipers NC"
+      "description": "ANT - Sniper Rifles"
     },
     {
       "resist_info_id": "2343",
@@ -10275,13 +10033,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "ANT - Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "2352",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "ANT - Flak (Projectile)"
     },
     {
       "resist_info_id": "2353",
@@ -10491,7 +10242,7 @@
     {
       "resist_info_id": "2382",
       "resist_type_id": "41",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "multiplier_when_headshot": "1",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: VS ES AV"
     },
@@ -11310,13 +11061,6 @@
       "description": "Deployed Phalanx AV: Flak (Explosion)"
     },
     {
-      "resist_info_id": "2503",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Deployed Phalanx AV: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "2504",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -11572,13 +11316,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Deployed AA Phalanx: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "2541",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Deployed AA Phalanx: Flak (Projectile)"
     },
     {
       "resist_info_id": "2542",
@@ -11838,13 +11575,6 @@
       "description": "Deployed AI Phalanx: Flak (Explosion)"
     },
     {
-      "resist_info_id": "2579",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Deployed AI Phalanx: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "2580",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -12100,13 +11830,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Rampart Wall: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "2617",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Rampart Wall: Flak (Projectile)"
     },
     {
       "resist_info_id": "2618",
@@ -12372,13 +12095,6 @@
       "description": "Deployed Repair Module: Flak (Explosion)"
     },
     {
-      "resist_info_id": "2693",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Deployed Repair Module: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "2694",
       "resist_type_id": "9",
       "resist_percent": "-20",
@@ -12634,13 +12350,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Sunderer Garage: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "2731",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Sunderer Garage: Flak (Projectile)"
     },
     {
       "resist_info_id": "2732",
@@ -12900,13 +12609,6 @@
       "description": "Deployed Bunker 001: Flak (Explosion)"
     },
     {
-      "resist_info_id": "2769",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Deployed Bunker 001: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "2770",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -13164,13 +12866,6 @@
       "description": "VP Chassis: Flak (Explosion)"
     },
     {
-      "resist_info_id": "2807",
-      "resist_type_id": "19",
-      "resist_percent": "80",
-      "multiplier_when_headshot": "1",
-      "description": "VP Chassis: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "2808",
       "resist_type_id": "9",
       "resist_percent": "95",
@@ -13426,13 +13121,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Deployed Blast Shield: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "2845",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Deployed Blast Shield: Flak (Projectile)"
     },
     {
       "resist_info_id": "2846",
@@ -13734,13 +13422,6 @@
       "description": "Construction Light: Rocket Pods - ESF, Valk Missiles Direct Damage"
     },
     {
-      "resist_info_id": "2889",
-      "resist_type_id": "19",
-      "resist_percent": "-20",
-      "multiplier_when_headshot": "1",
-      "description": "Construction Light: Flak (Projectile) - Direct Flak Damage"
-    },
-    {
       "resist_info_id": "2890",
       "resist_type_id": "20",
       "resist_percent": "0",
@@ -13998,23 +13679,16 @@
       "description": "Construction Medium: Rocket Pods - ESF, Valk Missiles Direct Damage"
     },
     {
-      "resist_info_id": "2927",
-      "resist_type_id": "19",
-      "resist_percent": "65",
-      "multiplier_when_headshot": "1",
-      "description": "Construction Medium: Flak (Projectile) - Direct Flak Damage"
-    },
-    {
       "resist_info_id": "2928",
       "resist_type_id": "20",
-      "resist_percent": "50",
+      "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction Medium: Personal Defense - Snipers NC - (TR/NC Sniper Rifles)"
     },
     {
       "resist_info_id": "2929",
       "resist_type_id": "21",
-      "resist_percent": "50",
+      "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction Medium: Personal Defense - Snipers VS (VS Sniper Rifles)"
     },
@@ -14262,13 +13936,6 @@
       "description": "Construction Heavy: Rocket Pods - ESF, Valk Missiles Direct Damage"
     },
     {
-      "resist_info_id": "2965",
-      "resist_type_id": "19",
-      "resist_percent": "75",
-      "multiplier_when_headshot": "1",
-      "description": "Construction Heavy: Flak (Projectile) - Direct Flak Damage"
-    },
-    {
       "resist_info_id": "2966",
       "resist_type_id": "20",
       "resist_percent": "100",
@@ -14482,13 +14149,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Core 001_Core: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "2997",
-      "resist_type_id": "19",
-      "resist_percent": "0",
-      "multiplier_when_headshot": "1",
-      "description": "Core 001_Core: Flak (Projectile)"
     },
     {
       "resist_info_id": "2998",
@@ -14748,13 +14408,6 @@
       "description": "Core 001_Shield: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3035",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Core 001_Shield: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3036",
       "resist_type_id": "9",
       "resist_percent": "50",
@@ -15005,12 +14658,6 @@
       "description": "Deployed Rampart Wall: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3073",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "description": "Deployed Rampart Wall: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3074",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -15231,12 +14878,6 @@
       "resist_type_id": "12",
       "resist_percent": "100",
       "description": "Deployed Sunderer Garage: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "3111",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "description": "Deployed Sunderer Garage: Flak (Projectile)"
     },
     {
       "resist_info_id": "3112",
@@ -15496,13 +15137,6 @@
       "description": "Shared Module: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3267",
-      "resist_type_id": "19",
-      "resist_percent": "80",
-      "multiplier_when_headshot": "1",
-      "description": "Shared Module: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3268",
       "resist_type_id": "9",
       "resist_percent": "-100",
@@ -15758,13 +15392,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Projectile Shield Module: Shield: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "3343",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Projectile Shield Module: Shield: Flak (Projectile)"
     },
     {
       "resist_info_id": "3344",
@@ -16024,13 +15651,6 @@
       "description": "VP Chassis: Flak (Explosion) (R3 Invul )"
     },
     {
-      "resist_info_id": "3381",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "VP Chassis: Flak (Projectile) (R3 Invul )"
-    },
-    {
       "resist_info_id": "3382",
       "resist_type_id": "9",
       "resist_percent": "100",
@@ -16288,13 +15908,6 @@
       "description": "Structure Shield Module: Shield: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3419",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Structure Shield Module: Shield: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3420",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -16550,13 +16163,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: Silo: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "3457",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Silo: Flak (Projectile)"
     },
     {
       "resist_info_id": "3458",
@@ -16853,7 +16459,7 @@
     {
       "resist_info_id": "3503",
       "resist_type_id": "44",
-      "resist_percent": "25",
+      "resist_percent": "35",
       "description": "Infiltrator: Nano-Armor Cloak Tier 1: MAX HMG "
     },
     {
@@ -17941,13 +17547,6 @@
       "description": "Structure Shield Module: CBS: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3682",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Structure Shield Module: CBS: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3683",
       "resist_type_id": "9",
       "resist_percent": "-30",
@@ -18217,13 +17816,6 @@
       "description": "Construction: Faction Banner: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3722",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Faction Banner: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3723",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -18485,13 +18077,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: Reinforcement Module: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "3761",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Reinforcement Module: Flak (Projectile)"
     },
     {
       "resist_info_id": "3762",
@@ -18757,13 +18342,6 @@
       "description": "Construction: Blast Wall: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3800",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Blast Wall: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3801",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -19025,13 +18603,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: Infantry Tower: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "3839",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Infantry Tower: Flak (Projectile)"
     },
     {
       "resist_info_id": "3840",
@@ -19297,13 +18868,6 @@
       "description": "Construction: Vehicle Ramp: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3878",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Vehicle Ramp: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3879",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -19567,13 +19131,6 @@
       "description": "Construction: Lumifiber Rampart Wall: Flak (Explosion)"
     },
     {
-      "resist_info_id": "3917",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Lumifiber Rampart Wall: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "3918",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -19835,13 +19392,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: Alarm Module: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "3956",
-      "resist_type_id": "19",
-      "resist_percent": "80",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Alarm Module: Flak (Projectile)"
     },
     {
       "resist_info_id": "3957",
@@ -20149,13 +19699,6 @@
       "description": "Construction: Repair Immune: Rocket Pods"
     },
     {
-      "resist_info_id": "4001",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Repair Immune: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "4002",
       "resist_type_id": "20",
       "resist_percent": "100",
@@ -20382,13 +19925,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: Deployed ION Turret: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "4035",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Deployed ION Turret: Flak (Projectile)"
     },
     {
       "resist_info_id": "4036",
@@ -20649,7 +20185,7 @@
     {
       "resist_info_id": "4084",
       "resist_type_id": "2",
-      "resist_percent": "90",
+      "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: SpawnTube: Personal Defense"
     },
@@ -20756,13 +20292,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: VehiclePad: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "4113",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: VehiclePad: Flak (Projectile)"
     },
     {
       "resist_info_id": "4114",
@@ -21028,13 +20557,6 @@
       "description": "Construction: PillBox: Flak (Explosion)"
     },
     {
-      "resist_info_id": "4152",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: PillBox: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "4153",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -21296,13 +20818,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: AmmoTower: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "4191",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: AmmoTower: Flak (Projectile)"
     },
     {
       "resist_info_id": "4192",
@@ -21568,13 +21083,6 @@
       "description": "Construction: GateWall: Flak (Explosion)"
     },
     {
-      "resist_info_id": "4230",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: GateWall: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "4231",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -21836,13 +21344,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: AirPad: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "4269",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: AirPad: Flak (Projectile)"
     },
     {
       "resist_info_id": "4270",
@@ -22134,13 +21635,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: Orbital Strike Gen: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "4347",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Orbital Strike Gen: Flak (Projectile)"
     },
     {
       "resist_info_id": "4348",
@@ -22673,13 +22167,6 @@
       "description": "Construction: Cortium Module: Flak (Explosion)"
     },
     {
-      "resist_info_id": "4431",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Cortium Module: Flak (Projectile)"
-    },
-    {
       "resist_info_id": "4432",
       "resist_type_id": "9",
       "resist_percent": "0",
@@ -22941,13 +22428,6 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Construction: Premium Cortium Module: Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "4470",
-      "resist_type_id": "19",
-      "resist_percent": "100",
-      "multiplier_when_headshot": "1",
-      "description": "Construction: Premium Cortium Module: Flak (Projectile)"
     },
     {
       "resist_info_id": "4471",
@@ -23297,10 +22777,10 @@
     },
     {
       "resist_info_id": "4522",
-      "resist_type_id": "2",
+      "resist_type_id": "20",
       "resist_percent": "20",
       "multiplier_when_headshot": "0",
-      "description": "Common: Suit: Nanoweave: Small Arms"
+      "description": "Common: Suit: Nanoweave: Sniper Rifles"
     },
     {
       "resist_info_id": "4523",
@@ -24297,7 +23777,7 @@
       "resist_type_id": "2",
       "resist_percent": "20",
       "multiplier_when_headshot": "0",
-      "description": "Loadout Implant: Experimental Stims (Stoneskin)"
+      "description": "Loadout Implant: Fortify (Small Arms)"
     },
     {
       "resist_info_id": "4712",
@@ -24954,7 +24434,7 @@
     {
       "resist_info_id": "4987",
       "resist_type_id": "4",
-      "resist_percent": "87",
+      "resist_percent": "80",
       "multiplier_when_headshot": "1",
       "description": "Colossus - Tier 1 AV"
     },
@@ -27459,7 +26939,7 @@
     {
       "resist_info_id": "5520",
       "resist_type_id": "2",
-      "resist_percent": "75",
+      "resist_percent": "85",
       "multiplier_when_headshot": "1",
       "description": "Dervish - Personal Defense Weapons"
     },
@@ -27487,79 +26967,30 @@
     {
       "resist_info_id": "5524",
       "resist_type_id": "7",
-      "resist_percent": "-425",
+      "resist_percent": "-250",
       "multiplier_when_headshot": "1",
       "description": "Dervish - Tank Shell"
     },
     {
       "resist_info_id": "5525",
       "resist_type_id": "8",
-      "resist_percent": "50",
+      "resist_percent": "75",
       "multiplier_when_headshot": "1",
       "description": "Dervish - Aircraft Machine Gun"
     },
     {
-      "resist_info_id": "5526",
-      "resist_type_id": "24",
-      "resist_percent": "-70",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Lancer AV"
-    },
-    {
-      "resist_info_id": "5527",
-      "resist_type_id": "15",
-      "resist_percent": "90",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Snipers TR"
-    },
-    {
-      "resist_info_id": "5528",
-      "resist_type_id": "20",
-      "resist_percent": "90",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Snipers NC"
-    },
-    {
-      "resist_info_id": "5529",
-      "resist_type_id": "21",
-      "resist_percent": "90",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Snipers VS"
-    },
-    {
       "resist_info_id": "5530",
       "resist_type_id": "23",
-      "resist_percent": "-100",
+      "resist_percent": "-50",
       "multiplier_when_headshot": "1",
-      "description": "Dervish - Air to Ground"
-    },
-    {
-      "resist_info_id": "5531",
-      "resist_type_id": "26",
-      "resist_percent": "-295",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Phoenix AV"
-    },
-    {
-      "resist_info_id": "5532",
-      "resist_type_id": "25",
-      "resist_percent": "-75",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Tier 2 AV - Liberator"
+      "description": "Dervish - Air to Ground Warhead"
     },
     {
       "resist_info_id": "5533",
       "resist_type_id": "12",
-      "resist_percent": "-180",
+      "resist_percent": "-125",
       "multiplier_when_headshot": "1",
-      "description": "Scythe - Flak (Explosion)"
-    },
-    {
-      "resist_info_id": "5534",
-      "resist_type_id": "19",
-      "resist_percent": "75",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Flak (Projectiles)"
+      "description": "Dervish - Flak (Explosion)"
     },
     {
       "resist_info_id": "5535",
@@ -27576,16 +27007,9 @@
       "description": "Dervish - Heavy Explosive"
     },
     {
-      "resist_info_id": "5537",
-      "resist_type_id": "33",
-      "resist_percent": "15",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Mass Drivers"
-    },
-    {
       "resist_info_id": "5538",
       "resist_type_id": "28",
-      "resist_percent": "50",
+      "resist_percent": "70",
       "multiplier_when_headshot": "1",
       "description": "Dervish - Armor Piercing Chain Guns"
     },
@@ -27614,34 +27038,6 @@
       "description": "Dervish - Suspension Collision"
     },
     {
-      "resist_info_id": "5542",
-      "resist_type_id": "18",
-      "resist_percent": "40",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Rocket Pods"
-    },
-    {
-      "resist_info_id": "5543",
-      "resist_type_id": "27",
-      "resist_percent": "-69",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Armor Piercing Shells"
-    },
-    {
-      "resist_info_id": "5544",
-      "resist_type_id": "35",
-      "resist_percent": "75",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Vehicle Shotgun (Canister)"
-    },
-    {
-      "resist_info_id": "5545",
-      "resist_type_id": "36",
-      "resist_percent": "-25",
-      "multiplier_when_headshot": "1",
-      "description": "Dervish - Vehicle Grenades (Anti-Light Armor)"
-    },
-    {
       "resist_info_id": "5546",
       "resist_type_id": "17",
       "resist_percent": "85",
@@ -27652,33 +27048,33 @@
     {
       "resist_info_id": "5547",
       "resist_type_id": "22",
-      "resist_percent": "50",
+      "resist_percent": "60",
       "multiplier_when_headshot": "1",
       "description": "Dervish - Anti-Aircraft Machine Gun"
     },
     {
       "resist_info_id": "5548",
       "resist_type_id": "34",
-      "resist_percent": "-225",
+      "resist_percent": "-100",
       "multiplier_when_headshot": "1",
-      "description": "Dervish - Default Rocket Launcher"
+      "description": "Dervish - Infantry Rocket Launchers"
     },
     {
       "resist_info_id": "5549",
       "resist_type_id": "40",
       "resist_percent": "-25",
-      "description": "Dervish - Anit Material Rifle"
+      "description": "Dervish - Anti-Material Rifle"
     },
     {
       "resist_info_id": "5550",
       "resist_type_id": "45",
       "resist_percent": "-25",
-      "description": "Dervish - Whale Hunter I"
+      "description": "Dervish - A2A Missile"
     },
     {
       "resist_info_id": "5551",
       "resist_type_id": "47",
-      "resist_percent": "87",
+      "resist_percent": "85",
       "description": "Dervish - Orbital Strike"
     },
     {
@@ -28445,7 +27841,2840 @@
       "resist_percent": "67",
       "multiplier_when_headshot": "1",
       "description": "Depolyable Buoy - Burning"
+    },
+    {
+      "resist_info_id": "5685",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Melee"
+    },
+    {
+      "resist_info_id": "5686",
+      "resist_type_id": "2",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Personal Defense"
+    },
+    {
+      "resist_info_id": "5687",
+      "resist_type_id": "4",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "5688",
+      "resist_type_id": "5",
+      "resist_percent": "-20",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Tier 3 AV"
+    },
+    {
+      "resist_info_id": "5689",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Grenades"
+    },
+    {
+      "resist_info_id": "5690",
+      "resist_type_id": "7",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Tank Shell"
+    },
+    {
+      "resist_info_id": "5691",
+      "resist_type_id": "8",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5692",
+      "resist_type_id": "12",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Flak (Explosion)"
+    },
+    {
+      "resist_info_id": "5694",
+      "resist_type_id": "9",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "5695",
+      "resist_type_id": "11",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - C4 (Boomer)"
+    },
+    {
+      "resist_info_id": "5696",
+      "resist_type_id": "28",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Armor Piercing Chain Guns"
+    },
+    {
+      "resist_info_id": "5697",
+      "resist_type_id": "13",
+      "resist_percent": "96",
+      "resist_amount": "150",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Dynamic Collisions"
+    },
+    {
+      "resist_info_id": "5698",
+      "resist_type_id": "14",
+      "resist_percent": "99",
+      "resist_amount": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Static Collisions"
+    },
+    {
+      "resist_info_id": "5699",
+      "resist_type_id": "16",
+      "resist_percent": "50",
+      "resist_amount": "8000",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Suspension Collisions"
+    },
+    {
+      "resist_info_id": "5700",
+      "resist_type_id": "17",
+      "resist_percent": "55",
+      "resist_amount": "6000",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Falling Collisions"
+    },
+    {
+      "resist_info_id": "5701",
+      "resist_type_id": "22",
+      "resist_percent": "85",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Anti-Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5702",
+      "resist_type_id": "34",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Default Rocket Launcher"
+    },
+    {
+      "resist_info_id": "5703",
+      "resist_type_id": "23",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Air to Ground"
+    },
+    {
+      "resist_info_id": "5704",
+      "resist_type_id": "40",
+      "resist_percent": "40",
+      "description": "Chimera - Anti Materiel Rifle"
+    },
+    {
+      "resist_info_id": "5705",
+      "resist_type_id": "45",
+      "resist_percent": "20",
+      "description": "Chimera - Whale Hunter I"
+    },
+    {
+      "resist_info_id": "5706",
+      "resist_type_id": "47",
+      "resist_percent": "79",
+      "description": "Chimera - Orbital Strike"
+    },
+    {
+      "resist_info_id": "5707",
+      "resist_type_id": "64",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Burning"
+    },
+    {
+      "resist_info_id": "5708",
+      "resist_type_id": "23",
+      "resist_percent": "10",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 1 - Air to Ground Warhead"
+    },
+    {
+      "resist_info_id": "5709",
+      "resist_type_id": "11",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 1 - C4"
+    },
+    {
+      "resist_info_id": "5710",
+      "resist_type_id": "34",
+      "resist_percent": "10",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 1 - Launchers"
+    },
+    {
+      "resist_info_id": "5711",
+      "resist_type_id": "23",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 2 - Air to Ground Warhead"
+    },
+    {
+      "resist_info_id": "5712",
+      "resist_type_id": "11",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 2 - C4"
+    },
+    {
+      "resist_info_id": "5713",
+      "resist_type_id": "34",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 2 - Launchers"
+    },
+    {
+      "resist_info_id": "5714",
+      "resist_type_id": "23",
+      "resist_percent": "18",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 3 - Air to Ground Warhead"
+    },
+    {
+      "resist_info_id": "5715",
+      "resist_type_id": "11",
+      "resist_percent": "36",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 3 - C4"
+    },
+    {
+      "resist_info_id": "5716",
+      "resist_type_id": "34",
+      "resist_percent": "18",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 3 - Launchers"
+    },
+    {
+      "resist_info_id": "5717",
+      "resist_type_id": "23",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 4 - Air to Ground Warhead"
+    },
+    {
+      "resist_info_id": "5718",
+      "resist_type_id": "11",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 4 - C4"
+    },
+    {
+      "resist_info_id": "5719",
+      "resist_type_id": "34",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 4 - Launchers"
+    },
+    {
+      "resist_info_id": "5720",
+      "resist_type_id": "9",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Chimera - Mineguard 1"
+    },
+    {
+      "resist_info_id": "5721",
+      "resist_type_id": "9",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Chimera - Mineguard 2"
+    },
+    {
+      "resist_info_id": "5722",
+      "resist_type_id": "9",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Chimera - Mineguard 3"
+    },
+    {
+      "resist_info_id": "5723",
+      "resist_type_id": "9",
+      "resist_percent": "125",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Chimera - Mineguard 4"
+    },
+    {
+      "resist_info_id": "5724",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "description": "Chimera Rumble Shield - Melee"
+    },
+    {
+      "resist_info_id": "5725",
+      "resist_type_id": "2",
+      "resist_percent": "100",
+      "description": "Chimera Rumble Shield - Small Arms"
+    },
+    {
+      "resist_info_id": "5726",
+      "resist_type_id": "4",
+      "resist_percent": "75",
+      "description": "Chimera Rumble Shield - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "5727",
+      "resist_type_id": "5",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Anti-Vehicle Cannons"
+    },
+    {
+      "resist_info_id": "5728",
+      "resist_type_id": "6",
+      "resist_percent": "50",
+      "description": "Chimera Rumble Shield - Standard Explosive Blast"
+    },
+    {
+      "resist_info_id": "5729",
+      "resist_type_id": "7",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Tank Shell"
+    },
+    {
+      "resist_info_id": "5730",
+      "resist_type_id": "8",
+      "resist_percent": "85",
+      "description": "Chimera Rumble Shield - Soft Point (Aircraft Nose)"
+    },
+    {
+      "resist_info_id": "5731",
+      "resist_type_id": "9",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "5732",
+      "resist_type_id": "11",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Heavy Explosive Blast (C4)"
+    },
+    {
+      "resist_info_id": "5733",
+      "resist_type_id": "12",
+      "resist_percent": "100",
+      "description": "Chimera Rumble Shield - Flak Burst"
+    },
+    {
+      "resist_info_id": "5734",
+      "resist_type_id": "22",
+      "resist_percent": "85",
+      "description": "Chimera Rumble Shield - AA MG (Walker)"
+    },
+    {
+      "resist_info_id": "5735",
+      "resist_type_id": "23",
+      "resist_percent": "75",
+      "description": "Chimera Rumble Shield - Air to Ground Warhead"
+    },
+    {
+      "resist_info_id": "5736",
+      "resist_type_id": "28",
+      "resist_percent": "75",
+      "description": "Chimera Rumble Shield - AP MG (Vulcan)"
+    },
+    {
+      "resist_info_id": "5737",
+      "resist_type_id": "34",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Default Rocket Launchers"
+    },
+    {
+      "resist_info_id": "5738",
+      "resist_type_id": "40",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Anti-Materiel Rifle"
+    },
+    {
+      "resist_info_id": "5739",
+      "resist_type_id": "45",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - AA Missile (Whale Hunter)"
+    },
+    {
+      "resist_info_id": "5740",
+      "resist_type_id": "46",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Core Explosion / Glaive"
+    },
+    {
+      "resist_info_id": "5741",
+      "resist_type_id": "47",
+      "resist_percent": "58",
+      "description": "Chimera Rumble Shield - Orbital Strike"
+    },
+    {
+      "resist_info_id": "5742",
+      "resist_type_id": "49",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Fast Siege"
+    },
+    {
+      "resist_info_id": "5743",
+      "resist_type_id": "64",
+      "resist_percent": "50",
+      "description": "Chimera Rumble Shield - Burning"
+    },
+    {
+      "resist_info_id": "5744",
+      "resist_type_id": "2",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Disable: Nanoweave: Small Arms"
+    },
+    {
+      "resist_info_id": "5745",
+      "resist_type_id": "4",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Disable: Nanoweave: HMG"
+    },
+    {
+      "resist_info_id": "5746",
+      "resist_type_id": "28",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Disable: Nanoweave: AVMG"
+    },
+    {
+      "resist_info_id": "5747",
+      "resist_type_id": "8",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Disable: Nanoweave: SPMG"
+    },
+    {
+      "resist_info_id": "5748",
+      "resist_type_id": "40",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Disable: Nanoweave: Anti-Materiel Rifle"
+    },
+    {
+      "resist_info_id": "5749",
+      "resist_type_id": "22",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Disable: Nanoweave: Walker"
+    },
+    {
+      "resist_info_id": "5750",
+      "resist_type_id": "34",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Tutorial2 - Launcher Target - Infantry Rocket Launcher"
+    },
+    {
+      "resist_info_id": "5751",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Tutorial2 - Launcher Target - Common Explosive"
+    },
+    {
+      "resist_info_id": "5752",
+      "resist_type_id": "64",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Cold Heart: No Burn Damage"
+    },
+    {
+      "resist_info_id": "5753",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "description": "Event Boss - Melee"
+    },
+    {
+      "resist_info_id": "5754",
+      "resist_type_id": "2",
+      "resist_percent": "100",
+      "description": "Event Boss - Small Arms"
+    },
+    {
+      "resist_info_id": "5755",
+      "resist_type_id": "4",
+      "resist_percent": "100",
+      "description": "Event Boss - Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "5756",
+      "resist_type_id": "5",
+      "resist_percent": "100",
+      "description": "Event Boss - Heavy Anti-Armor"
+    },
+    {
+      "resist_info_id": "5757",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "description": "Event Boss - Common Explosive"
+    },
+    {
+      "resist_info_id": "5758",
+      "resist_type_id": "7",
+      "resist_percent": "100",
+      "description": "Event Boss - Tank Shell"
+    },
+    {
+      "resist_info_id": "5759",
+      "resist_type_id": "8",
+      "resist_percent": "100",
+      "description": "Event Boss - Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5760",
+      "resist_type_id": "9",
+      "resist_percent": "100",
+      "description": "Event Boss - Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "5761",
+      "resist_type_id": "11",
+      "resist_percent": "100",
+      "description": "Event Boss - Heavy Explosive"
+    },
+    {
+      "resist_info_id": "5762",
+      "resist_type_id": "12",
+      "resist_percent": "100",
+      "description": "Event Boss - Flak Explosive Blast"
+    },
+    {
+      "resist_info_id": "5763",
+      "resist_type_id": "13",
+      "resist_percent": "100",
+      "description": "Event Boss - Dynamic Collision (DO NOT CHANGE)"
+    },
+    {
+      "resist_info_id": "5764",
+      "resist_type_id": "14",
+      "resist_percent": "100",
+      "description": "Event Boss - Static Collision (DO NOT CHANGE)"
+    },
+    {
+      "resist_info_id": "5765",
+      "resist_type_id": "16",
+      "resist_percent": "100",
+      "description": "Event Boss - Suspension Collision (DO NOT CHANGE)"
+    },
+    {
+      "resist_info_id": "5766",
+      "resist_type_id": "17",
+      "resist_percent": "100",
+      "description": "Event Boss - Falling Collision (DO NOT CHANGE)"
+    },
+    {
+      "resist_info_id": "5767",
+      "resist_type_id": "22",
+      "resist_percent": "100",
+      "description": "Event Boss - Anti-Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5768",
+      "resist_type_id": "23",
+      "resist_percent": "100",
+      "description": "Event Boss - Air to Ground Warhead"
+    },
+    {
+      "resist_info_id": "5769",
+      "resist_type_id": "28",
+      "resist_percent": "100",
+      "description": "Event Boss - Armor Piercing Chainguns"
+    },
+    {
+      "resist_info_id": "5770",
+      "resist_type_id": "34",
+      "resist_percent": "100",
+      "description": "Event Boss - Infantry Rocket Launchers"
+    },
+    {
+      "resist_info_id": "5771",
+      "resist_type_id": "40",
+      "resist_percent": "100",
+      "description": "Event Boss - Anti-Materiel Rifle"
+    },
+    {
+      "resist_info_id": "5772",
+      "resist_type_id": "45",
+      "resist_percent": "100",
+      "description": "Event Boss - A2A Missile"
+    },
+    {
+      "resist_info_id": "5773",
+      "resist_type_id": "46",
+      "resist_percent": "100",
+      "description": "Event Boss - Core Explosion / Glaive"
+    },
+    {
+      "resist_info_id": "5774",
+      "resist_type_id": "47",
+      "resist_percent": "100",
+      "description": "Event Boss - Orbital Strike"
+    },
+    {
+      "resist_info_id": "5775",
+      "resist_type_id": "49",
+      "resist_percent": "100",
+      "description": "Event Boss - Fast Siege"
+    },
+    {
+      "resist_info_id": "5776",
+      "resist_type_id": "62",
+      "resist_percent": "100",
+      "description": "Event Boss - Colossus - Overheat Damage"
+    },
+    {
+      "resist_info_id": "5777",
+      "resist_type_id": "63",
+      "resist_percent": "100",
+      "description": "Event Boss - Esamir.Storm.LightningBolt"
+    },
+    {
+      "resist_info_id": "5778",
+      "resist_type_id": "64",
+      "resist_percent": "100",
+      "description": "Event Boss - Burning"
+    },
+    {
+      "resist_info_id": "5779",
+      "resist_type_id": "14",
+      "resist_percent": "30",
+      "description": "Hermes Cloak  - 30% Static Collision"
+    },
+    {
+      "resist_info_id": "5780",
+      "resist_type_id": "14",
+      "resist_percent": "100",
+      "description": "Hermes Cloak  - 100% Static Collision"
+    },
+    {
+      "resist_info_id": "5781",
+      "resist_type_id": "2",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Small Arms"
+    },
+    {
+      "resist_info_id": "5782",
+      "resist_type_id": "5",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Light Anti-Vehicle"
+    },
+    {
+      "resist_info_id": "5783",
+      "resist_type_id": "6",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Standard Blast"
+    },
+    {
+      "resist_info_id": "5784",
+      "resist_type_id": "7",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Tank Shell"
+    },
+    {
+      "resist_info_id": "5785",
+      "resist_type_id": "9",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Tank-Mine"
+    },
+    {
+      "resist_info_id": "5786",
+      "resist_type_id": "11",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - C4"
+    },
+    {
+      "resist_info_id": "5787",
+      "resist_type_id": "28",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - APMG"
+    },
+    {
+      "resist_info_id": "5788",
+      "resist_type_id": "4",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - HMG"
+    },
+    {
+      "resist_info_id": "5789",
+      "resist_type_id": "23",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Air to Ground"
+    },
+    {
+      "resist_info_id": "5790",
+      "resist_type_id": "34",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Rocket Launchers"
+    },
+    {
+      "resist_info_id": "5791",
+      "resist_type_id": "22",
+      "resist_percent": "25",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Resist 22 Walker (temp)"
+    },
+    {
+      "resist_info_id": "5792",
+      "resist_type_id": "8",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5793",
+      "resist_type_id": "1",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Melee"
+    },
+    {
+      "resist_info_id": "5794",
+      "resist_type_id": "40",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Anti-Material Rifle"
+    },
+    {
+      "resist_info_id": "5795",
+      "resist_type_id": "64",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Burning"
+    },
+    {
+      "resist_info_id": "5797",
+      "resist_type_id": "20",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability 02: Resist Shield - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5798",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "WarAsset Bastion - Melee"
+    },
+    {
+      "resist_info_id": "5799",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "War Asset: Generator: Melee"
+    },
+    {
+      "resist_info_id": "5800",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Bastion - Melee"
+    },
+    {
+      "resist_info_id": "5801",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Tank Trap - Melee"
+    },
+    {
+      "resist_info_id": "5802",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "Hardlight Canopy Shield - Melee"
+    },
+    {
+      "resist_info_id": "5803",
+      "resist_type_id": "66",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Hardlight Canopy Generator - Melee"
+    },
+    {
+      "resist_info_id": "5804",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "Colossus Shield - Melee"
+    },
+    {
+      "resist_info_id": "5805",
+      "resist_type_id": "66",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Lightning Arrester  - Melee"
+    },
+    {
+      "resist_info_id": "5806",
+      "resist_type_id": "66",
+      "resist_percent": "0",
+      "resist_amount": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Strange Glowing Plant - Melee"
+    },
+    {
+      "resist_info_id": "5807",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "resist_amount": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Strange Glowing Mineral - Melee"
+    },
+    {
+      "resist_info_id": "5808",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Cortium Bomb - Melee"
+    },
+    {
+      "resist_info_id": "5809",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Dervish - Melee"
+    },
+    {
+      "resist_info_id": "5810",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Attackable SCU - Melee"
+    },
+    {
+      "resist_info_id": "5811",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Campaign: Invulnerable: Melee"
+    },
+    {
+      "resist_info_id": "5812",
+      "resist_type_id": "66",
+      "resist_percent": "50",
+      "description": "Shield Door Control Panel - Melee"
+    },
+    {
+      "resist_info_id": "5813",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Containment Site Gate Shield Weakpoint - Melee"
+    },
+    {
+      "resist_info_id": "5814",
+      "resist_type_id": "66",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Depolyable Buoy - Melee"
+    },
+    {
+      "resist_info_id": "5815",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Melee"
+    },
+    {
+      "resist_info_id": "5816",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "Chimera Rumble Shield - Melee"
+    },
+    {
+      "resist_info_id": "5817",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "Event Boss - Melee"
+    },
+    {
+      "resist_info_id": "5818",
+      "resist_type_id": "66",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - Melee"
+    },
+    {
+      "resist_info_id": "5819",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Deployed ION Turret: Melee"
+    },
+    {
+      "resist_info_id": "5820",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: SpawnTube: Melee"
+    },
+    {
+      "resist_info_id": "5821",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: VehiclePad: Melee"
+    },
+    {
+      "resist_info_id": "5822",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: PillBox: Melee"
+    },
+    {
+      "resist_info_id": "5823",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: AmmoTower: Melee"
+    },
+    {
+      "resist_info_id": "5824",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: GateWall: Melee"
+    },
+    {
+      "resist_info_id": "5825",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: AirPad: Melee"
+    },
+    {
+      "resist_info_id": "5826",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Orbital Strike Gen: Melee"
+    },
+    {
+      "resist_info_id": "5827",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Hardlight Cover - Melee"
+    },
+    {
+      "resist_info_id": "5828",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Cortium Module: Melee"
+    },
+    {
+      "resist_info_id": "5829",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Premium Cortium Module: Melee"
+    },
+    {
+      "resist_info_id": "5830",
+      "resist_type_id": "66",
+      "resist_percent": "20",
+      "description": "Headstrong - Melee (20% resist)"
+    },
+    {
+      "resist_info_id": "5831",
+      "resist_type_id": "66",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability 02: Resist Shield - Melee"
+    },
+    {
+      "resist_info_id": "5832",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Bastion Melee"
+    },
+    {
+      "resist_info_id": "5833",
+      "resist_type_id": "66",
+      "resist_percent": "75",
+      "description": "Snowman Soldier - Melee"
+    },
+    {
+      "resist_info_id": "5834",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Deployed Artillery: Melee"
+    },
+    {
+      "resist_info_id": "5835",
+      "resist_type_id": "66",
+      "resist_percent": "0",
+      "description": "Summer Holiday Vehicle Kill Directive Effect"
+    },
+    {
+      "resist_info_id": "5836",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Tempest - Melee"
+    },
+    {
+      "resist_info_id": "5837",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Javelin - Melee"
+    },
+    {
+      "resist_info_id": "5838",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Colossus - Melee"
+    },
+    {
+      "resist_info_id": "5839",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Core 001_Core: Melee"
+    },
+    {
+      "resist_info_id": "5840",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Core 001_Shield: Melee"
+    },
+    {
+      "resist_info_id": "5841",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "Deployed Rampart Wall: Melee"
+    },
+    {
+      "resist_info_id": "5842",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "Deployed Sunderer Garage: Melee"
+    },
+    {
+      "resist_info_id": "5843",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Shared Module: Melee"
+    },
+    {
+      "resist_info_id": "5844",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Projectile Shield Module: Shield: Melee"
+    },
+    {
+      "resist_info_id": "5845",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "VP Chassis: Melee (R3 Invul )"
+    },
+    {
+      "resist_info_id": "5846",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Structure Shield Module: Shield: Melee"
+    },
+    {
+      "resist_info_id": "5847",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Silo: Melee"
+    },
+    {
+      "resist_info_id": "5848",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Structure Shield Module: CBS: Melee"
+    },
+    {
+      "resist_info_id": "5849",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Faction Banner: Melee"
+    },
+    {
+      "resist_info_id": "5850",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Reinforcement Module: Melee"
+    },
+    {
+      "resist_info_id": "5851",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Blast Wall: Melee"
+    },
+    {
+      "resist_info_id": "5852",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tower: Melee"
+    },
+    {
+      "resist_info_id": "5853",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Vehicle Ramp: Melee"
+    },
+    {
+      "resist_info_id": "5854",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Lumifiber Rampart Wall: Melee"
+    },
+    {
+      "resist_info_id": "5855",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Alarm Module: Melee"
+    },
+    {
+      "resist_info_id": "5856",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Repair Immune: Melee"
+    },
+    {
+      "resist_info_id": "5857",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "description": "Valkyrie - Melee"
+    },
+    {
+      "resist_info_id": "5858",
+      "resist_type_id": "66",
+      "resist_percent": "0",
+      "description": "Holiday Roadkill Directive"
+    },
+    {
+      "resist_info_id": "5859",
+      "resist_type_id": "66",
+      "resist_percent": "25",
+      "description": "Spitfire Auto-Turret - Melee"
+    },
+    {
+      "resist_info_id": "5860",
+      "resist_type_id": "66",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Melee"
+    },
+    {
+      "resist_info_id": "5861",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "ANT - Melee"
+    },
+    {
+      "resist_info_id": "5862",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Phalanx AV: Melee"
+    },
+    {
+      "resist_info_id": "5863",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed AA Phalanx: Melee"
+    },
+    {
+      "resist_info_id": "5864",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed AI Phalanx: Melee"
+    },
+    {
+      "resist_info_id": "5865",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Rampart Wall: Melee"
+    },
+    {
+      "resist_info_id": "5866",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Repair Module: Melee"
+    },
+    {
+      "resist_info_id": "5867",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer Garage: Melee"
+    },
+    {
+      "resist_info_id": "5868",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Bunker 001: Melee"
+    },
+    {
+      "resist_info_id": "5869",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "VP Chassis: Melee"
+    },
+    {
+      "resist_info_id": "5870",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Blast Shield: Melee"
+    },
+    {
+      "resist_info_id": "5871",
+      "resist_type_id": "66",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Construction Light: Melee"
+    },
+    {
+      "resist_info_id": "5872",
+      "resist_type_id": "66",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Under Construction Medium: Melee"
+    },
+    {
+      "resist_info_id": "5873",
+      "resist_type_id": "66",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Under Construction Heavy: Melee"
+    },
+    {
+      "resist_info_id": "5874",
+      "resist_type_id": "66",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "MANA Engineer Turret - Melee"
+    },
+    {
+      "resist_info_id": "5875",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Phalanx - Melee"
+    },
+    {
+      "resist_info_id": "5876",
+      "resist_type_id": "66",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "No resist"
+    },
+    {
+      "resist_info_id": "5877",
+      "resist_type_id": "66",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Melee"
+    },
+    {
+      "resist_info_id": "5878",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Flash - Melee"
+    },
+    {
+      "resist_info_id": "5879",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Melee"
+    },
+    {
+      "resist_info_id": "5880",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Lightning - Melee"
+    },
+    {
+      "resist_info_id": "5881",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Magrider - Melee"
+    },
+    {
+      "resist_info_id": "5882",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Vanguard - Melee"
+    },
+    {
+      "resist_info_id": "5883",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Prowler - Melee"
+    },
+    {
+      "resist_info_id": "5884",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Scythe - Melee"
+    },
+    {
+      "resist_info_id": "5885",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Reaver - Melee"
+    },
+    {
+      "resist_info_id": "5886",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Mosquito - Melee"
+    },
+    {
+      "resist_info_id": "5887",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Liberator - Melee"
+    },
+    {
+      "resist_info_id": "5888",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Galaxy - Melee"
+    },
+    {
+      "resist_info_id": "5889",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Drop Pod - Melee"
+    },
+    {
+      "resist_info_id": "5890",
+      "resist_type_id": "66",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Harasser - Melee"
+    },
+    {
+      "resist_info_id": "5891",
+      "resist_type_id": "66",
+      "resist_percent": "99",
+      "multiplier_when_headshot": "1",
+      "description": "Facility: Terminals - Melee"
+    },
+    {
+      "resist_info_id": "5892",
+      "resist_type_id": "20",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Javelin - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5893",
+      "resist_type_id": "20",
+      "resist_percent": "85",
+      "multiplier_when_headshot": "1",
+      "description": "Dervish - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5894",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5895",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "description": "Colossus - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5896",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Bastion - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5897",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Bastion Component - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5898",
+      "resist_type_id": "20",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "NSO MAX - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5899",
+      "resist_type_id": "20",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Hardlight Canopy Generator - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5900",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "description": "Hardlight Canopy Shield - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5901",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "War Asset: Generator - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5902",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "War Asset: Generator Shield - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5903",
+      "resist_type_id": "20",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "WarAsset: ANVIL Vehicle Dispenser - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5904",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Cortium Bomb - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5905",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Lightning - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5906",
+      "resist_type_id": "64",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Burning"
+    },
+    {
+      "resist_info_id": "5907",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Melee"
+    },
+    {
+      "resist_info_id": "5908",
+      "resist_type_id": "2",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Personal Defense"
+    },
+    {
+      "resist_info_id": "5909",
+      "resist_type_id": "3",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Tier 2 AV"
+    },
+    {
+      "resist_info_id": "5910",
+      "resist_type_id": "4",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "5911",
+      "resist_type_id": "5",
+      "resist_percent": "-20",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Tier 3 AV"
+    },
+    {
+      "resist_info_id": "5912",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Grenades"
+    },
+    {
+      "resist_info_id": "5913",
+      "resist_type_id": "7",
+      "resist_percent": "-20",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Tank Shell"
+    },
+    {
+      "resist_info_id": "5914",
+      "resist_type_id": "8",
+      "resist_percent": "95",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5915",
+      "resist_type_id": "24",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Lancer AV"
+    },
+    {
+      "resist_info_id": "5916",
+      "resist_type_id": "15",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Personal Defense - Snipers TR"
+    },
+    {
+      "resist_info_id": "5917",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5918",
+      "resist_type_id": "21",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Personal Defense - Snipers VS"
+    },
+    {
+      "resist_info_id": "5919",
+      "resist_type_id": "26",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Phoenix AV"
+    },
+    {
+      "resist_info_id": "5920",
+      "resist_type_id": "25",
+      "resist_percent": "60",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Tier 2 AV - Liberator"
+    },
+    {
+      "resist_info_id": "5921",
+      "resist_type_id": "12",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Flak (Explosion)"
+    },
+    {
+      "resist_info_id": "5923",
+      "resist_type_id": "9",
+      "resist_percent": "-75",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "5924",
+      "resist_type_id": "11",
+      "resist_percent": "-40",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - C4 (Boomer)"
+    },
+    {
+      "resist_info_id": "5925",
+      "resist_type_id": "33",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Mass Drivers"
+    },
+    {
+      "resist_info_id": "5926",
+      "resist_type_id": "28",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Armor Piercing Chain Guns"
+    },
+    {
+      "resist_info_id": "5927",
+      "resist_type_id": "13",
+      "resist_percent": "96",
+      "resist_amount": "250",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Dynamic Collisions"
+    },
+    {
+      "resist_info_id": "5928",
+      "resist_type_id": "14",
+      "resist_percent": "99",
+      "resist_amount": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Static Collisions"
+    },
+    {
+      "resist_info_id": "5929",
+      "resist_type_id": "16",
+      "resist_percent": "30",
+      "resist_amount": "10000",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Suspension Collisions"
+    },
+    {
+      "resist_info_id": "5930",
+      "resist_type_id": "18",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Rocket Pods"
+    },
+    {
+      "resist_info_id": "5931",
+      "resist_type_id": "27",
+      "resist_percent": "28",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Armor Piercing Shell"
+    },
+    {
+      "resist_info_id": "5932",
+      "resist_type_id": "35",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Vehicle Shotgun (Canister)"
+    },
+    {
+      "resist_info_id": "5933",
+      "resist_type_id": "36",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Vehicle Grenades (Anti-Light Armor)"
+    },
+    {
+      "resist_info_id": "5934",
+      "resist_type_id": "17",
+      "resist_percent": "60",
+      "resist_amount": "7000",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Falling Collisions"
+    },
+    {
+      "resist_info_id": "5935",
+      "resist_type_id": "22",
+      "resist_percent": "85",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Anti-Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5936",
+      "resist_type_id": "29",
+      "resist_percent": "34",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - VS Vortex AV"
+    },
+    {
+      "resist_info_id": "5937",
+      "resist_type_id": "30",
+      "resist_percent": "-60",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - VS Vortex AV: C2"
+    },
+    {
+      "resist_info_id": "5938",
+      "resist_type_id": "31",
+      "resist_percent": "-150",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - VS Vortex AV: C3"
+    },
+    {
+      "resist_info_id": "5939",
+      "resist_type_id": "34",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Default Rocket Launcher"
+    },
+    {
+      "resist_info_id": "5940",
+      "resist_type_id": "23",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Air to Ground"
+    },
+    {
+      "resist_info_id": "5941",
+      "resist_type_id": "37",
+      "resist_percent": "65",
+      "description": "Sunderer - Liberator Cannon"
+    },
+    {
+      "resist_info_id": "5942",
+      "resist_type_id": "38",
+      "resist_percent": "-65",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Striker"
+    },
+    {
+      "resist_info_id": "5943",
+      "resist_type_id": "40",
+      "resist_percent": "40",
+      "description": "Sunderer - Anti Materiel Rifle"
+    },
+    {
+      "resist_info_id": "5944",
+      "resist_type_id": "41",
+      "resist_percent": "45",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - VS ES AV"
+    },
+    {
+      "resist_info_id": "5945",
+      "resist_type_id": "42",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - NC ES AV"
+    },
+    {
+      "resist_info_id": "5946",
+      "resist_type_id": "43",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - TR ES AV"
+    },
+    {
+      "resist_info_id": "5947",
+      "resist_type_id": "44",
+      "resist_percent": "75",
+      "description": "Sunderer - MAX HMG"
+    },
+    {
+      "resist_info_id": "5948",
+      "resist_type_id": "45",
+      "resist_percent": "20",
+      "description": "Sunderer - Whale Hunter I"
+    },
+    {
+      "resist_info_id": "5949",
+      "resist_type_id": "47",
+      "resist_percent": "83",
+      "description": "Sunderer - Orbital Strike"
+    },
+    {
+      "resist_info_id": "5950",
+      "resist_type_id": "64",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Burning"
+    },
+    {
+      "resist_info_id": "5951",
+      "resist_type_id": "47",
+      "resist_percent": "83",
+      "description": "Corsair - Orbital Strike"
+    },
+    {
+      "resist_info_id": "5952",
+      "resist_type_id": "44",
+      "resist_percent": "75",
+      "description": "Corsair - MAX HMG"
+    },
+    {
+      "resist_info_id": "5953",
+      "resist_type_id": "43",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - TR ES AV"
+    },
+    {
+      "resist_info_id": "5954",
+      "resist_type_id": "42",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - NC ES AV"
+    },
+    {
+      "resist_info_id": "5955",
+      "resist_type_id": "41",
+      "resist_percent": "45",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - VS ES AV"
+    },
+    {
+      "resist_info_id": "5956",
+      "resist_type_id": "40",
+      "resist_percent": "40",
+      "description": "Corsair - Anti Materiel Rifle"
+    },
+    {
+      "resist_info_id": "5957",
+      "resist_type_id": "38",
+      "resist_percent": "-65",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Striker"
+    },
+    {
+      "resist_info_id": "5958",
+      "resist_type_id": "37",
+      "resist_percent": "65",
+      "description": "Corsair - Liberator Cannon"
+    },
+    {
+      "resist_info_id": "5959",
+      "resist_type_id": "23",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Air to Ground"
+    },
+    {
+      "resist_info_id": "5960",
+      "resist_type_id": "34",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Default Rocket Launcher"
+    },
+    {
+      "resist_info_id": "5961",
+      "resist_type_id": "31",
+      "resist_percent": "-150",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - VS Vortex AV: C3"
+    },
+    {
+      "resist_info_id": "5962",
+      "resist_type_id": "30",
+      "resist_percent": "-60",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - VS Vortex AV: C2"
+    },
+    {
+      "resist_info_id": "5963",
+      "resist_type_id": "29",
+      "resist_percent": "34",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - VS Vortex AV"
+    },
+    {
+      "resist_info_id": "5964",
+      "resist_type_id": "22",
+      "resist_percent": "85",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Anti-Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5965",
+      "resist_type_id": "17",
+      "resist_percent": "60",
+      "resist_amount": "7000",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Falling Collisions"
+    },
+    {
+      "resist_info_id": "5966",
+      "resist_type_id": "36",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Vehicle Grenades (Anti-Light Armor)"
+    },
+    {
+      "resist_info_id": "5967",
+      "resist_type_id": "35",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Vehicle Shotgun (Canister)"
+    },
+    {
+      "resist_info_id": "5968",
+      "resist_type_id": "27",
+      "resist_percent": "28",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Armor Piercing Shell"
+    },
+    {
+      "resist_info_id": "5969",
+      "resist_type_id": "18",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Rocket Pods"
+    },
+    {
+      "resist_info_id": "5970",
+      "resist_type_id": "16",
+      "resist_percent": "30",
+      "resist_amount": "10000",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Suspension Collisions"
+    },
+    {
+      "resist_info_id": "5971",
+      "resist_type_id": "14",
+      "resist_percent": "99",
+      "resist_amount": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Static Collisions"
+    },
+    {
+      "resist_info_id": "5972",
+      "resist_type_id": "13",
+      "resist_percent": "96",
+      "resist_amount": "250",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Dynamic Collisions"
+    },
+    {
+      "resist_info_id": "5973",
+      "resist_type_id": "28",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Armor Piercing Chain Guns"
+    },
+    {
+      "resist_info_id": "5974",
+      "resist_type_id": "33",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Mass Drivers"
+    },
+    {
+      "resist_info_id": "5975",
+      "resist_type_id": "11",
+      "resist_percent": "-40",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - C4 (Boomer)"
+    },
+    {
+      "resist_info_id": "5976",
+      "resist_type_id": "9",
+      "resist_percent": "-75",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "5978",
+      "resist_type_id": "12",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Flak (Explosion)"
+    },
+    {
+      "resist_info_id": "5979",
+      "resist_type_id": "25",
+      "resist_percent": "60",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Tier 2 AV - Liberator"
+    },
+    {
+      "resist_info_id": "5980",
+      "resist_type_id": "26",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Phoenix AV"
+    },
+    {
+      "resist_info_id": "5981",
+      "resist_type_id": "21",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Personal Defense - Snipers VS"
+    },
+    {
+      "resist_info_id": "5982",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5983",
+      "resist_type_id": "15",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Personal Defense - Snipers TR"
+    },
+    {
+      "resist_info_id": "5984",
+      "resist_type_id": "24",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Lancer AV"
+    },
+    {
+      "resist_info_id": "5985",
+      "resist_type_id": "8",
+      "resist_percent": "95",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "5986",
+      "resist_type_id": "7",
+      "resist_percent": "-20",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Tank Shell"
+    },
+    {
+      "resist_info_id": "5987",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Grenades"
+    },
+    {
+      "resist_info_id": "5988",
+      "resist_type_id": "5",
+      "resist_percent": "-20",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Tier 3 AV"
+    },
+    {
+      "resist_info_id": "5989",
+      "resist_type_id": "4",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "5990",
+      "resist_type_id": "3",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Tier 2 AV"
+    },
+    {
+      "resist_info_id": "5991",
+      "resist_type_id": "2",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Personal Defense"
+    },
+    {
+      "resist_info_id": "5992",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Melee"
+    },
+    {
+      "resist_info_id": "5993",
+      "resist_type_id": "45",
+      "resist_percent": "20",
+      "description": "Corsair - Whale Hunter I"
+    },
+    {
+      "resist_info_id": "5994",
+      "resist_type_id": "67",
+      "resist_percent": "100",
+      "description": "Event: Anomaly: TempestBurn"
+    },
+    {
+      "resist_info_id": "5995",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "description": "Hardlight Cover - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5996",
+      "resist_type_id": "14",
+      "resist_percent": "30",
+      "description": "Underwater Thrusters - 30% Static Collision"
+    },
+    {
+      "resist_info_id": "5997",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: SpawnTube: Sniper Rifles"
+    },
+    {
+      "resist_info_id": "5998",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "description": "WarAsset Bastion - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "5999",
+      "resist_type_id": "68",
+      "resist_percent": "-25",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Alarm Module: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6000",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Repair Immune: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6001",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Deployed ION Turret: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6002",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tower: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6003",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Vehicle Ramp: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6004",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Lumifiber Rampart Wall: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6005",
+      "resist_type_id": "68",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: SpawnTube: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6006",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: GateWall: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6007",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: AirPad: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6008",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Orbital Strike Gen: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6009",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: VehiclePad: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6010",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: PillBox: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6011",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: AmmoTower: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6012",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "description": "Deployed Sunderer Garage: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6013",
+      "resist_type_id": "68",
+      "resist_percent": "-25",
+      "multiplier_when_headshot": "1",
+      "description": "Shared Module: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6014",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Projectile Shield Module: Shield: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6015",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Core 001_Core: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6016",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Core 001_Shield: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6017",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "description": "Deployed Rampart Wall: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6018",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "VP Core: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6019",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Faction Banner: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6020",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Reinforcement Module: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6021",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Blast Wall: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6022",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Structure Shield Module: Shield: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6023",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Silo: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6024",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Structure Shield Module: CBS: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6025",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Cortium Module: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6026",
+      "resist_type_id": "68",
+      "resist_percent": "-125",
+      "multiplier_when_headshot": "1",
+      "description": "Dervish - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6027",
+      "resist_type_id": "68",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Attackable SCU - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6028",
+      "resist_type_id": "68",
+      "resist_percent": "-50",
+      "description": "Shield Door Control Panel - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6029",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "resist_amount": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Strange Glowing Plant - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6030",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "resist_amount": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Strange Glowing Mineral - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6031",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Cortium Bomb - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6032",
+      "resist_type_id": "68",
+      "resist_percent": "-25",
+      "multiplier_when_headshot": "1",
+      "description": "Containment Site Gate Shield Weakpoint - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6033",
+      "resist_type_id": "68",
+      "resist_percent": "100",
+      "description": "Event Boss - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6034",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6035",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6036",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Depolyable Buoy - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6037",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6038",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "description": "Chimera Rumble Shield - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6039",
+      "resist_type_id": "68",
+      "resist_percent": "-65",
+      "multiplier_when_headshot": "1",
+      "description": "Javelin - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6040",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Colossus - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6041",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Premium Cortium Module: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6042",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Deployed Artillery: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6043",
+      "resist_type_id": "68",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Tempest - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6044",
+      "resist_type_id": "68",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "War Asset: Generator: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6045",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Hardlight Canopy Generator - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6046",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "description": "Colossus Shield - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6047",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Lightning Arrester - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6048",
+      "resist_type_id": "68",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Bastion Component - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6049",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Tank Trap - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6050",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "description": "Hardlight Canopy Shield - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6051",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Lightning - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6052",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Magrider - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6053",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Vanguard - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6054",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6055",
+      "resist_type_id": "68",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Flash - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6056",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6057",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Prowler - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6058",
+      "resist_type_id": "68",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Liberator - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6059",
+      "resist_type_id": "68",
+      "resist_percent": "-40",
+      "multiplier_when_headshot": "1",
+      "description": "Galaxy - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6060",
+      "resist_type_id": "68",
+      "resist_percent": "-150",
+      "multiplier_when_headshot": "1",
+      "description": "Drop Pod - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6061",
+      "resist_type_id": "68",
+      "resist_percent": "-150",
+      "multiplier_when_headshot": "1",
+      "description": "Scythe - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6062",
+      "resist_type_id": "68",
+      "resist_percent": "-130",
+      "multiplier_when_headshot": "1",
+      "description": "Reaver - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6063",
+      "resist_type_id": "68",
+      "resist_percent": "-130",
+      "multiplier_when_headshot": "1",
+      "description": "Mosquito - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6064",
+      "resist_type_id": "68",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Light Aircraft - Composite Armor Rank 4 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6065",
+      "resist_type_id": "68",
+      "resist_percent": "7",
+      "multiplier_when_headshot": "1",
+      "description": "Liberator - Composite Armor Rank 1 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6066",
+      "resist_type_id": "68",
+      "resist_percent": "8",
+      "multiplier_when_headshot": "1",
+      "description": "Liberator - Composite Armor Rank 2 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6067",
+      "resist_type_id": "68",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "1",
+      "description": "Light Aircraft - Composite Armor Rank 1 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6068",
+      "resist_type_id": "68",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Light Aircraft - Composite Armor Rank 2 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6069",
+      "resist_type_id": "68",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Light Aircraft - Composite Armor Rank 3 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6070",
+      "resist_type_id": "68",
+      "resist_percent": "9",
+      "multiplier_when_headshot": "1",
+      "description": "Liberator - Composite Armor Rank 3 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6071",
+      "resist_type_id": "68",
+      "resist_percent": "8",
+      "multiplier_when_headshot": "1",
+      "description": "Galaxy - Composite Armor Rank 3 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6072",
+      "resist_type_id": "68",
+      "resist_percent": "10",
+      "multiplier_when_headshot": "1",
+      "description": "Galaxy - Composite Armor Rank 4 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6073",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Harasser - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6074",
+      "resist_type_id": "68",
+      "resist_percent": "10",
+      "multiplier_when_headshot": "1",
+      "description": "Liberator - Composite Armor Rank 4 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6075",
+      "resist_type_id": "68",
+      "resist_percent": "4",
+      "multiplier_when_headshot": "1",
+      "description": "Galaxy - Composite Armor Rank 1 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6076",
+      "resist_type_id": "68",
+      "resist_percent": "6",
+      "multiplier_when_headshot": "1",
+      "description": "Galaxy - Composite Armor Rank 2 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6077",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "MANA Engineer Turret - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6078",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed AI Phalanx: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6079",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Rampart Wall: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6080",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Repair Module: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6081",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "ANT - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6082",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Phalanx AV: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6083",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed AA Phalanx: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6084",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer Garage: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6085",
+      "resist_type_id": "68",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Construction Light: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6086",
+      "resist_type_id": "68",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Under Construction Medium: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6087",
+      "resist_type_id": "68",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Under Construction Heavy: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6088",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Bunker 001: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6089",
+      "resist_type_id": "68",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "VP Chassis: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6090",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Blast Shield: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6091",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Phalanx - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6092",
+      "resist_type_id": "68",
+      "resist_percent": "-45",
+      "description": "Valkyrie - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6093",
+      "resist_type_id": "68",
+      "resist_percent": "12",
+      "description": "Valkyrie - Composite Armor Rank 4 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6094",
+      "resist_type_id": "68",
+      "resist_percent": "0",
+      "description": "Spitfire Auto-Turret - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6095",
+      "resist_type_id": "68",
+      "resist_percent": "3",
+      "description": "Valkyrie - Composite Armor Rank 1 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6096",
+      "resist_type_id": "68",
+      "resist_percent": "6",
+      "description": "Valkyrie - Composite Armor Rank 2 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6097",
+      "resist_type_id": "68",
+      "resist_percent": "9",
+      "description": "Valkyrie - Composite Armor Rank 3 - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6099",
+      "resist_type_id": "68",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Flak Armor (2022): Infantry Lock-ons"
+    },
+    {
+      "resist_info_id": "6100",
+      "resist_type_id": "34",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Common: MAX Flak Armor (2022):  Infantry Lock-on"
+    },
+    {
+      "resist_info_id": "6101",
+      "resist_type_id": "68",
+      "resist_percent": "10",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 1 - Infantry Lock-on"
+    },
+    {
+      "resist_info_id": "6102",
+      "resist_type_id": "68",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 2 - Infantry Lock-on"
+    },
+    {
+      "resist_info_id": "6103",
+      "resist_type_id": "68",
+      "resist_percent": "18",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 3 - Infantry Lock-on"
+    },
+    {
+      "resist_info_id": "6104",
+      "resist_type_id": "68",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Shared - Flanker Armor 4 - Infantry Lock-on"
+    },
+    {
+      "resist_info_id": "6106",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Tank Trap - Snipe Rifle Defense"
     }
   ],
-  "returned": 4154
+  "returned": 4483
 }

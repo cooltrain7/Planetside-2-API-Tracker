@@ -491,7 +491,61 @@
       "name": {
         "en": "Colossus Rear Left Weapon"
       }
+    },
+    {
+      "item_category_id": "216",
+      "name": {
+        "en": "Javelin Primary Weapon"
+      }
+    },
+    {
+      "item_category_id": "217",
+      "name": {
+        "en": "Chimera Primary Weapons"
+      }
+    },
+    {
+      "item_category_id": "218",
+      "name": {
+        "en": "Chimera Secondary Weapons"
+      }
+    },
+    {
+      "item_category_id": "219",
+      "name": {
+        "en": "Heavy Crossbow"
+      }
+    },
+    {
+      "item_category_id": "220",
+      "name": {
+        "en": "Amphibious Rifle"
+      }
+    },
+    {
+      "item_category_id": "221",
+      "name": {
+        "en": "Corsair Front Turret"
+      }
+    },
+    {
+      "item_category_id": "222",
+      "name": {
+        "en": "Corsair Rear Turret"
+      }
+    },
+    {
+      "item_category_id": "223",
+      "name": {
+        "en": "Amphibious Sidearm"
+      }
+    },
+    {
+      "item_category_id": "224",
+      "name": {
+        "en": "Anti-Materiel Rifle"
+      }
     }
   ],
-  "returned": 82
+  "returned": 91
 }

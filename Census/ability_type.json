@@ -34,9 +34,6 @@
       "param1": "Check Target Requirement Periodically"
     },
     {
-      "ability_type_id": "18"
-    },
-    {
       "ability_type_id": "19"
     },
     {
@@ -51,5 +48,5 @@
       "description": "MountedVehicleMaintainOnGuid"
     }
   ],
-  "returned": 15
+  "returned": 14
 }

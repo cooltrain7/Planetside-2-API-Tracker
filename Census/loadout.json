@@ -107,7 +107,43 @@
       "profile_id": "23",
       "faction_id": "1",
       "code_name": "VS MAX"
+    },
+    {
+      "loadout_id": "28",
+      "profile_id": "190",
+      "faction_id": "4",
+      "code_name": "NSO Infiltrator"
+    },
+    {
+      "loadout_id": "29",
+      "profile_id": "191",
+      "faction_id": "4",
+      "code_name": "NSO Light Assault"
+    },
+    {
+      "loadout_id": "30",
+      "profile_id": "192",
+      "faction_id": "4",
+      "code_name": "NSO Medic"
+    },
+    {
+      "loadout_id": "31",
+      "profile_id": "193",
+      "faction_id": "4",
+      "code_name": "NSO Engineer"
+    },
+    {
+      "loadout_id": "32",
+      "profile_id": "194",
+      "faction_id": "4",
+      "code_name": "NSO Heavy Assault"
+    },
+    {
+      "loadout_id": "45",
+      "profile_id": "252",
+      "faction_id": "4",
+      "code_name": "NSO MAX"
     }
   ],
-  "returned": 18
+  "returned": 24
 }

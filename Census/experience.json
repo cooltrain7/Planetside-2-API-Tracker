@@ -5923,7 +5923,2587 @@
       "experience_id": "1549",
       "description": "Containment Site - Gate Shield Gen - Repair",
       "xp": "5"
+    },
+    {
+      "experience_id": "1552",
+      "description": "War Asset: Basic - Kill ",
+      "xp": "150"
+    },
+    {
+      "experience_id": "1553",
+      "description": "War Asset: Standard - Kill ",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1554",
+      "description": "War Asset: Valulable - Kill ",
+      "xp": "600"
+    },
+    {
+      "experience_id": "1555",
+      "description": "War Asset: Epic - Kill ",
+      "xp": "900"
+    },
+    {
+      "experience_id": "1556",
+      "description": "Chain Expl Assist: Chimera",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1557",
+      "description": "Chimera Damage (Infantry vs Vehicle)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1558",
+      "description": "Chimera Kill by Bastion Gunner",
+      "xp": "750"
+    },
+    {
+      "experience_id": "1559",
+      "description": "Chimera Kill by Chimera Gunner",
+      "xp": "750"
+    },
+    {
+      "experience_id": "1560",
+      "description": "Kill Assist - Chimera",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1561",
+      "description": "Spot Kill - Chimera",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1562",
+      "description": "Squad Repair - Chimera",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1563",
+      "description": "Squad Spot Kill - Chimera",
+      "xp": "30"
+    },
+    {
+      "experience_id": "1564",
+      "description": "Tank Hunter Bonus - Chimera Kill",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1565",
+      "description": "Vehicle Destruction - Chimera",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1570",
+      "description": "Vehicle Ram Kill - Chimera",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1571",
+      "description": "Vehicle Repair - Chimera",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1572",
+      "description": "Player Kill by Chimera Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1573",
+      "description": "Flash Kill by Chimera Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1574",
+      "description": "Magrider Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1575",
+      "description": "Mosquito Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1576",
+      "description": "Prowler Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1577",
+      "description": "Reaver Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1578",
+      "description": "Scythe Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1579",
+      "description": "Sunderer Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1580",
+      "description": "Vanguard Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1581",
+      "description": "Galaxy Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1582",
+      "description": "Harasser Kill by Chimera Gunner",
+      "xp": "225"
+    },
+    {
+      "experience_id": "1583",
+      "description": "R Drone Kill by Chimera Gunner",
+      "xp": "19"
+    },
+    {
+      "experience_id": "1584",
+      "description": "Snowman Kill by Chimera Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1585",
+      "description": "Valkyrie Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1586",
+      "description": "Pumpkin Kill by Chimera Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1587",
+      "description": "ANT Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1588",
+      "description": "Bastion Component Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1594",
+      "description": "Vehicle Destruction - Dervish",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1595",
+      "description": "Dogfighter Bonus - Dervish Kill",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1596",
+      "description": "Dervish Damage",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1597",
+      "description": "Player Kill by Flash Gunner",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1598",
+      "description": "Flash Kill by Flash Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1599",
+      "description": "Sunderer Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1600",
+      "description": "Lightning Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1601",
+      "description": "Magrider Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1602",
+      "description": "Vanguard Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1603",
+      "description": "Prowler Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1604",
+      "description": "Scythe Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1605",
+      "description": "Reaver Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1606",
+      "description": "Mosquito Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1607",
+      "description": "Liberator Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1608",
+      "description": "Galaxy Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1609",
+      "description": "Harasser Kill by Flash Gunne",
+      "xp": "225"
+    },
+    {
+      "experience_id": "1610",
+      "description": "Snowman Kill by Flash Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1611",
+      "description": "R Drone Kill by Flash Gunner",
+      "xp": "19"
+    },
+    {
+      "experience_id": "1612",
+      "description": "Valkyrie Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1613",
+      "description": "Pumpkin Kill by Flash Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1614",
+      "description": "Javelin Kill by Flash Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1615",
+      "description": "Bastion Component Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1616",
+      "description": "Player Kill by Javelin Gunner",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1617",
+      "description": "Flash Kill by Javelin Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1618",
+      "description": "Sunderer Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1619",
+      "description": "Lightning Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1620",
+      "description": "Magrider Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1621",
+      "description": "Vanguard Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1622",
+      "description": "Prowler Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1623",
+      "description": "Scythe Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1624",
+      "description": "Reaver Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1625",
+      "description": "Mosquito Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1626",
+      "description": "Liberator Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1627",
+      "description": "Galaxy Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1628",
+      "description": "Harasser Kill by Javelin Gunne",
+      "xp": "225"
+    },
+    {
+      "experience_id": "1629",
+      "description": "Snowman Kill by Javelin Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1630",
+      "description": "R Drone Kill by Javelin Gunner",
+      "xp": "19"
+    },
+    {
+      "experience_id": "1631",
+      "description": "Valkyrie Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1632",
+      "description": "Pumpkin Kill by Javelin Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1633",
+      "description": "Javelin Kill by Javelin Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1634",
+      "description": "Bastion Component Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1635",
+      "description": "Vehicle Destruction - Dervish",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1636",
+      "description": "Kill Assist - Dervish",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1637",
+      "description": "Vehicle Ram Kill - Dervish",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1638",
+      "description": "Vehicle Repair - Dervish",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1639",
+      "description": "Squad Repair - Dervish",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1640",
+      "description": "Dervish Kill by Sunderer Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1641",
+      "description": "Dervish Kill by Vanguard Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1642",
+      "description": "Dervish Kill by Prowler Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1643",
+      "description": "Dervish Kill by Liberator Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1644",
+      "description": "Dervish Kill by Galaxy Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1645",
+      "description": "Spot Kill - Dervish",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1646",
+      "description": "Squad Spot Kill - Dervish",
+      "xp": "30"
+    },
+    {
+      "experience_id": "1647",
+      "description": "Dervish Damage",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1648",
+      "description": "Dervish Kill by Harasser Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1649",
+      "description": "Dogfighter Bonus - Dervish Kill",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1654",
+      "description": "Dervish Kill by Valkyrie Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1655",
+      "description": "Chain Expl Assist: Dervish",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1656",
+      "description": "Dervish Kill by ANT Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1657",
+      "description": "Vehicle Destruction - Dervish HIVE XP (Source)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1658",
+      "description": "Vehicle Destruction - Dervish HIVE XP (Target)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1659",
+      "description": "Vehicle Repair - Dervish HIVE XP (Source)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "1660",
+      "description": "Kill Assist - Dervish HIVE XP (Source)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1661",
+      "description": "Vehicle Repair - Dervish HIVE XP (Target)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "1662",
+      "description": "Kill Assist - Dervish HIVE XP (Target)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1663",
+      "description": "Dervish Kill by Sunderer Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1664",
+      "description": "Dervish Kill by Sunderer Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1665",
+      "description": "Dervish Kill by Vanguard Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1666",
+      "description": "Dervish Kill by Prowler Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1667",
+      "description": "Dervish Kill by Vanguard Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1668",
+      "description": "Dervish Kill by Prowler Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1669",
+      "description": "Dervish Kill by Liberator Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1670",
+      "description": "Dervish Kill by Galaxy Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1671",
+      "description": "Dervish Kill by Liberator Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1672",
+      "description": "Dervish Kill by Galaxy Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1673",
+      "description": "Dervish Damage HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1674",
+      "description": "Dervish Damage HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1675",
+      "description": "Dervish Kill by Harasser Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1676",
+      "description": "Dervish Kill by Harasser Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1677",
+      "description": "Vehicle Gunner Kill Share - Dervish HIVE XP (Source)",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1678",
+      "description": "Vehicle Gunner Kill Share - Dervish HIVE XP (Target)",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1679",
+      "description": "Vehicle Gunner Kill Assist Share - Dervish HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1680",
+      "description": "Vehicle Gunner Kill Assist Share - Dervish HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1681",
+      "description": "Vehicle Passenger Kill Share - Dervish HIVE XP (Source)",
+      "xp": "8"
+    },
+    {
+      "experience_id": "1682",
+      "description": "Vehicle Passenger Kill Share - Dervish HIVE XP (Target)",
+      "xp": "8"
+    },
+    {
+      "experience_id": "1683",
+      "description": "Vehicle Driver Kill Assist Share - Dervish HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1684",
+      "description": "Vehicle Driver Kill Assist Share - Dervish HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1685",
+      "description": "Dervish Kill by Valkyrie Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1686",
+      "description": "Dervish Kill by Valkyrie Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1687",
+      "description": "Dervish Kill by ANT Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1688",
+      "description": "Dervish Kill by ANT Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1689",
+      "description": "Dervish Kill by Colossus Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1690",
+      "description": "Dervish Kill by Bastion Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1691",
+      "description": "Dervish Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1692",
+      "description": "Dervish Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1693",
+      "description": "Dervish Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1694",
+      "description": "Scythe Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1695",
+      "description": "ANT Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1696",
+      "description": "Bastion Component Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1697",
+      "description": "Dervish Kill by Dervish Gunner",
+      "xp": "750"
+    },
+    {
+      "experience_id": "1698",
+      "description": "Dervish Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1699",
+      "description": "Flash Kill by Dervish Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1700",
+      "description": "Galaxy Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1701",
+      "description": "Harasser Kill by Dervish Gunner",
+      "xp": "225"
+    },
+    {
+      "experience_id": "1702",
+      "description": "Magrider Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1703",
+      "description": "Mosquito Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1704",
+      "description": "Player Kill by Dervish Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1705",
+      "description": "Prowler Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1706",
+      "description": "Pumpkin Kill by Dervish Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1707",
+      "description": "R Drone Kill by Dervish Gunner",
+      "xp": "19"
+    },
+    {
+      "experience_id": "1708",
+      "description": "Reaver Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1709",
+      "description": "Snowman Kill by Dervish Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1710",
+      "description": "Sunderer Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1711",
+      "description": "Valkyrie Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1712",
+      "description": "Vanguard Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1725",
+      "description": "Harasser Kill by Dervish Gunne",
+      "xp": "225"
+    },
+    {
+      "experience_id": "1732",
+      "description": "Chimera Kill by Prowler Gunner",
+      "xp": "750"
+    },
+    {
+      "experience_id": "1733",
+      "description": "Chimera Kill by Magrider Gunner",
+      "xp": "750"
+    },
+    {
+      "experience_id": "1734",
+      "description": "Chimera Kill by Vanguard Gunner",
+      "xp": "750"
+    },
+    {
+      "experience_id": "1735",
+      "description": "Lightning Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1737",
+      "description": "Deliverer Prototype (Campaign II) Spawn Bonus",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1738",
+      "description": "Vehicle Destruction - Prototype Sunderer",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1739",
+      "description": "Vehicle Ram Kill - Prototype Sunderer",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1740",
+      "description": "Vehicle Repair - Prototype Sunderer",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1741",
+      "description": "Kill Assist - Prototype Sunderer",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1743",
+      "description": "Squad Repair - Prototype Sunderer",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1744",
+      "description": "Prototype Sunderer Kill by Sunderer Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1745",
+      "description": "Prototype Sunderer Kill by Magrider Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1746",
+      "description": "Prototype Sunderer Kill by Vanguard Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1747",
+      "description": "Prototype Sunderer Kill by Prowler Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1748",
+      "description": "Prototype Sunderer Kill by Lib Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1749",
+      "description": "Prototype Sunderer Kill by Galaxy Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1750",
+      "description": "Spot Kill - Prototype Sunderer",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1751",
+      "description": "Squad Spot Kill - Prototype Sunderer",
+      "xp": "30"
+    },
+    {
+      "experience_id": "1752",
+      "description": "Prototype Sunderer Damage (Infantry vs Vehicle)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1753",
+      "description": "Prototype Sunderer Kill by Harasser Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1758",
+      "description": "Prototype Sunderer Kill by Valkyrie Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1759",
+      "description": "Chain Expl Assist: Prototype Sunderer",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1760",
+      "description": "Bounty Kill Cashed In (Prototype Sunderer)",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1761",
+      "description": "Prototype Sunderer Kill by ANT Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1762",
+      "description": "Vehicle Destruction - Prototype Sunderer HIVE XP (Source)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1763",
+      "description": "Vehicle Destruction - Prototype Sunderer HIVE XP (Target)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1764",
+      "description": "Vehicle Repair - Prototype Sunderer HIVE XP (Source)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "1765",
+      "description": "Kill Assist - Prototype Sunderer HIVE XP (Source)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1766",
+      "description": "Vehicle Repair - Prototype Sunderer HIVE XP (Target)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "1767",
+      "description": "Kill Assist - Prototype Sunderer HIVE XP (Target)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "1770",
+      "description": "Prototype Sunderer Kill by Prototype Sunderer Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1771",
+      "description": "Prototype Sunderer Kill by Magrider Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1772",
+      "description": "Prototype Sunderer Kill by Prototype Sunderer Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1773",
+      "description": "Prototype Sunderer Kill by Magrider Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1774",
+      "description": "Prototype Sunderer Kill by Vanguard Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1775",
+      "description": "Prototype Sunderer Kill by Prowler Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1776",
+      "description": "Prototype Sunderer Kill by Vanguard Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1777",
+      "description": "Prototype Sunderer Kill by Prowler Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1778",
+      "description": "Prototype Sunderer Kill by Lib Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1779",
+      "description": "Prototype Sunderer Kill by Galaxy Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1780",
+      "description": "Prototype Sunderer Kill by Lib Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1781",
+      "description": "Prototype Sunderer Kill by Galaxy Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1784",
+      "description": "Prototype Sunderer Kill by Harasser Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1785",
+      "description": "Prototype Sunderer Kill by Harasser Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1786",
+      "description": "Vehicle Gunner Kill Share - Prototype Sunderer HIVE XP (Source)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1787",
+      "description": "Vehicle Gunner Kill Share - Prototype Sunderer HIVE XP (Target)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1788",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Sunderer HIVE XP (Source)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1789",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Sunderer HIVE XP (Target)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1790",
+      "description": "Vehicle Passenger Kill Share - Prototype Sunderer HIVE XP (Source)",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1791",
+      "description": "Vehicle Passenger Kill Share - Prototype Sunderer HIVE XP (Target)",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1792",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Sunderer HIVE XP (Source)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1793",
+      "description": "Prototype Sunderer Kill by Valkyrie Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1794",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Sunderer HIVE XP (Target)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1795",
+      "description": "Prototype Sunderer Kill by Valkyrie Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1796",
+      "description": "Prototype Sunderer Kill by ANT Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1797",
+      "description": "Prototype Sunderer Kill by ANT Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1798",
+      "description": "Prototype Sunderer Kill by Colossus Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1799",
+      "description": "Prototype Sunderer Kill by Bastion Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1800",
+      "description": "Prototype Sunderer Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1801",
+      "description": "Prototype Sunderer Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1802",
+      "description": "Prototype Sunderer Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1803",
+      "description": "Prototype Sunderer Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1804",
+      "description": "Vehicle Destruction - Prototype Galaxy",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1805",
+      "description": "Vehicle Ram Kill - Prototype Galaxy",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1806",
+      "description": "Vehicle Repair - Prototype Galaxy",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1807",
+      "description": "Kill Assist - Prototype Galaxy",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1809",
+      "description": "Squad Repair - Prototype Galaxy",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1810",
+      "description": "Prototype Galaxy Kill by Sunderer Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1811",
+      "description": "Prototype Galaxy Kill by Magrider Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1812",
+      "description": "Prototype Galaxy Kill by Vanguard Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1813",
+      "description": "Prototype Galaxy Kill by Prowler Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1814",
+      "description": "Prototype Galaxy Kill by Liberator Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1815",
+      "description": "Prototype Galaxy Kill by Galaxy Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1816",
+      "description": "Spot Kill - Prototype Galaxy",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1817",
+      "description": "Squad Spot Kill - Prototype Galaxy",
+      "xp": "30"
+    },
+    {
+      "experience_id": "1818",
+      "description": "Prototype Galaxy Damage",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1819",
+      "description": "Prototype Galaxy Kill by Harasser Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1824",
+      "description": "Prototype Galaxy Kill by Valkyrie Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1825",
+      "description": "Chain Expl Assist: Prototype Galaxy",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1826",
+      "description": "Prototype Galaxy Kill by ANT Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1827",
+      "description": "Vehicle Destruction - Prototype Galaxy HIVE XP (Source)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1828",
+      "description": "Vehicle Repair - Prototype Galaxy HIVE XP (Source)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "1829",
+      "description": "Vehicle Destruction - Prototype Galaxy HIVE XP (Target)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1830",
+      "description": "Vehicle Repair - Prototype Galaxy HIVE XP (Target)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "1831",
+      "description": "Kill Assist - Prototype Galaxy HIVE XP (Source)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1832",
+      "description": "Kill Assist - Prototype Galaxy HIVE XP (Target)",
+      "xp": "80"
+    },
+    {
+      "experience_id": "1835",
+      "description": "Prototype Galaxy Kill by Sunderer Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1836",
+      "description": "Prototype Galaxy Kill by Sunderer Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1837",
+      "description": "Prototype Galaxy Kill by Magrider Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1838",
+      "description": "Prototype Galaxy Kill by Vanguard Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1839",
+      "description": "Prototype Galaxy Kill by Prowler Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1840",
+      "description": "Prototype Galaxy Kill by Magrider Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1841",
+      "description": "Prototype Galaxy Kill by Vanguard Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1842",
+      "description": "Prototype Galaxy Kill by Prowler Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1843",
+      "description": "Prototype Galaxy Kill by Liberator Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1844",
+      "description": "Prototype Galaxy Kill by Liberator Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1845",
+      "description": "Prototype Galaxy Kill by Prototype Galaxy Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1846",
+      "description": "Prototype Galaxy Damage HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1847",
+      "description": "Prototype Galaxy Kill by Prototype Galaxy Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1848",
+      "description": "Prototype Galaxy Damage HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1849",
+      "description": "Prototype Galaxy Kill by Harasser Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1850",
+      "description": "Prototype Galaxy Kill by Harasser Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1851",
+      "description": "Vehicle Gunner Kill Share - Prototype Galaxy HIVE XP (Source)",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1852",
+      "description": "Vehicle Gunner Kill Share - Prototype Galaxy HIVE XP (Target)",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1853",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Galaxy HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1854",
+      "description": "Vehicle Passenger Kill Share - Prototype Galaxy HIVE XP (Source)",
+      "xp": "8"
+    },
+    {
+      "experience_id": "1855",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Galaxy HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1856",
+      "description": "Vehicle Passenger Kill Share - Prototype Galaxy HIVE XP (Target)",
+      "xp": "8"
+    },
+    {
+      "experience_id": "1857",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Galaxy HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1858",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Galaxy HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1859",
+      "description": "Prototype Galaxy Kill by Valkyrie Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1860",
+      "description": "Prototype Galaxy Kill by Valkyrie Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1861",
+      "description": "Prototype Galaxy Kill by ANT Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1862",
+      "description": "Prototype Galaxy Kill by ANT Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1863",
+      "description": "Prototype Galaxy Kill by Colossus Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1864",
+      "description": "Prototype Galaxy Kill by Bastion Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1865",
+      "description": "Prototype Galaxy Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1866",
+      "description": "Prototype Galaxy Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1867",
+      "description": "Prototype Galaxy Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1868",
+      "description": "Prototype Galaxy Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1869",
+      "description": "Vehicle Destruction - Prototype Valkyrie",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1870",
+      "description": "Vehicle Ram Kill - Prototype Valkyrie",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1871",
+      "description": "Vehicle Repair - Prototype Valkyrie",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1872",
+      "description": "Kill Assist - Prototype Valkyrie",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1873",
+      "description": "Squad Repair - Prototype Valkyrie",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1874",
+      "description": "Spot Kill - Prototype Valkyrie",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1875",
+      "description": "Squad Spot Kill - Prototype Valkyrie",
+      "xp": "30"
+    },
+    {
+      "experience_id": "1876",
+      "description": "Prototype Valkyrie Damage",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1877",
+      "description": "Prototype Valkyrie Kill by Sunderer Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1878",
+      "description": "Prototype Valkyrie Kill by Magrider Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1879",
+      "description": "Prototype Valkyrie Kill by Vanguard Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1880",
+      "description": "Prototype Valkyrie Kill by Prowler Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1881",
+      "description": "Prototype Valkyrie Kill by Liberator Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1882",
+      "description": "Prototype Valkyrie Kill by Galaxy Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1887",
+      "description": "Prototype Valkyrie Kill by Valkyrie Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1888",
+      "description": "Chain Expl Assist: Prototype Valkyrie",
+      "xp": "400"
+    },
+    {
+      "experience_id": "1889",
+      "description": "Prototype Valkyrie Kill by Harasser Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1890",
+      "description": "Prototype Valkyrie Kill by ANT Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1891",
+      "description": "Prototype Valkyrie Kill by Sunderer Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1892",
+      "description": "Prototype Valkyrie Kill by Magrider Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1893",
+      "description": "Prototype Valkyrie Kill by Vanguard Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1894",
+      "description": "Prototype Valkyrie Kill by Prowler Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1895",
+      "description": "Prototype Valkyrie Kill by Liberator Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1896",
+      "description": "Prototype Valkyrie Kill by Galaxy Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1897",
+      "description": "Vehicle Gunner Kill Share - Prototype Valkyrie HIVE XP (Source)",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1898",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Valkyrie HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1899",
+      "description": "Vehicle Passenger Kill Share - Prototype Valkyrie HIVE XP (Source)",
+      "xp": "8"
+    },
+    {
+      "experience_id": "1900",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Valkyrie HIVE XP (Source)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1901",
+      "description": "Prototype Valkyrie Kill by Sunderer Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1902",
+      "description": "Prototype Valkyrie Kill by Magrider Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1903",
+      "description": "Prototype Valkyrie Kill by Vanguard Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1904",
+      "description": "Prototype Valkyrie Kill by Prowler Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1905",
+      "description": "Prototype Valkyrie Kill by Liberator Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1906",
+      "description": "Prototype Valkyrie Kill by Galaxy Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1907",
+      "description": "Vehicle Gunner Kill Share - Prototype Valkyrie HIVE XP (Target)",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1908",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Valkyrie HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1909",
+      "description": "Vehicle Passenger Kill Share - Prototype Valkyrie HIVE XP (Target)",
+      "xp": "8"
+    },
+    {
+      "experience_id": "1910",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Valkyrie HIVE XP (Target)",
+      "xp": "4"
+    },
+    {
+      "experience_id": "1911",
+      "description": "Prototype Valkyrie Kill by Prototype Valkyrie Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1912",
+      "description": "Prototype Valkyrie Kill by Harasser Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1913",
+      "description": "Prototype Valkyrie Kill by Prototype Valkyrie Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1914",
+      "description": "Prototype Valkyrie Kill by Harasser Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1915",
+      "description": "Prototype Valkyrie Kill by ANT Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1916",
+      "description": "Prototype Valkyrie Kill by ANT Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "1917",
+      "description": "Prototype Valkyrie Kill by Colossus Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1918",
+      "description": "Prototype Valkyrie Kill by Bastion Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1919",
+      "description": "Prototype Valkyrie Kill by Chimera Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1920",
+      "description": "Prototype Valkyrie Kill by Flash Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1921",
+      "description": "Prototype Valkyrie Kill by Javelin Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1922",
+      "description": "Prototype Valkyrie Kill by Dervish Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "1923",
+      "description": "Lodestar Damage",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1924",
+      "description": "Wasp Damage",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1925",
+      "description": "Havoc Mine Max Assist ",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1926",
+      "description": "Havoc Mine Direct Kill",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1927",
+      "description": "Havoc Mine Assist Flash",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1930",
+      "description": "Havoc Mine Assist Magrider",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1931",
+      "description": "Havoc Mine Assist Mosquito",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1932",
+      "description": "Havoc Mine Assist Prowler",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1933",
+      "description": "Havoc Mine Assist Reaver",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1934",
+      "description": "Havoc Mine Assist Scythe",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1935",
+      "description": "Havoc Mine Assist Sunderer",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1936",
+      "description": "Havoc Mine Assist Vanguard",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1937",
+      "description": "Havoc Mine Assist Phalanx",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1938",
+      "description": "Havoc Mine Assist Engineer Turret",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1939",
+      "description": "Havoc Mine Assist Galaxy",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1940",
+      "description": "Havoc Mine Assist Liberator",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1941",
+      "description": "Havoc Mine Assist Lightning",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1942",
+      "description": "Havoc Mine Assist Harasser",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1943",
+      "description": "Havoc Mine Assist ANT",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1944",
+      "description": "Havoc Mine Assist Colossus ",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1945",
+      "description": "Havoc Mine Assist Javelin",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1946",
+      "description": "Havoc Mine Assist Chimera",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1947",
+      "description": "Havoc Mine Assist Dervish",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1948",
+      "description": "Havoc Mine Assist Deliverer",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1949",
+      "description": "Havoc Mine Assist Lodestar",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1950",
+      "description": "Havoc Mine Assist Wasp",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1951",
+      "description": "Flashbang Mine Squad Assist",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1952",
+      "description": "Flashbang Mine Assist",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1953",
+      "description": "EMP Mine Assist",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1954",
+      "description": "EMP Mine Squad Assist",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1955",
+      "description": "Havoc Mine Assist Valkyrie",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1956",
+      "description": "Flashbang Assist (Quick-Det)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1957",
+      "description": "Flashbang Squad Assist (Quick-Det)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1958",
+      "description": "Timed EMP Grenade Assist",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1959",
+      "description": "Timed EMP Grenade Squad Assist",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1960",
+      "description": "Havoc Grenade Max Assist ",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1961",
+      "description": "Havoc Grenade Assist ANT",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1962",
+      "description": "Havoc Grenade Assist Chimera",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1963",
+      "description": "Havoc Grenade Assist Colossus ",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1964",
+      "description": "Havoc Grenade Assist Deliverer",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1965",
+      "description": "Havoc Grenade Assist Dervish",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1966",
+      "description": "Havoc Grenade Assist Engineer Turret",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1967",
+      "description": "Havoc Grenade Assist Flash",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1968",
+      "description": "Havoc Grenade Assist Galaxy",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1969",
+      "description": "Havoc Grenade Assist Harasser",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1970",
+      "description": "Havoc Grenade Assist Javelin",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1971",
+      "description": "Havoc Grenade Assist Liberator",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1972",
+      "description": "Havoc Grenade Assist Lightning",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1973",
+      "description": "Havoc Grenade Assist Lodestar",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1974",
+      "description": "Havoc Grenade Assist Magrider",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1975",
+      "description": "Havoc Grenade Assist Mosquito",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1976",
+      "description": "Havoc Grenade Assist Phalanx",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1977",
+      "description": "Havoc Grenade Assist Prowler",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1978",
+      "description": "Havoc Grenade Assist Reaver",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1979",
+      "description": "Havoc Grenade Assist Scythe",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1980",
+      "description": "Havoc Grenade Assist Sunderer",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1981",
+      "description": "Havoc Grenade Assist Valkyrie",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1982",
+      "description": "Havoc Grenade Assist Vanguard",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1983",
+      "description": "Havoc Grenade Assist Wasp",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1984",
+      "description": "Concussion Mine Assist",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1985",
+      "description": "Concussion Mine Squad Assist",
+      "xp": "75"
+    },
+    {
+      "experience_id": "1988",
+      "description": "ANT Spawn Bonus",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1989",
+      "description": "Vehicle Destruction - Corsair",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1990",
+      "description": "Vehicle Ram Kill - Corsair",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1991",
+      "description": "Vehicle Repair - Corsair",
+      "xp": "5"
+    },
+    {
+      "experience_id": "1992",
+      "description": "Kill Assist - Corsair",
+      "xp": "500"
+    },
+    {
+      "experience_id": "1994",
+      "description": "Squad Repair - Corsair",
+      "xp": "10"
+    },
+    {
+      "experience_id": "1995",
+      "description": "Corsair Kill by Sunderer Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1996",
+      "description": "Corsair Kill by Vanguard Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1997",
+      "description": "Corsair Kill by Prowler Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1998",
+      "description": "Corsair Kill by Lib Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "1999",
+      "description": "Corsair Kill by Galaxy Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2000",
+      "description": "Spot Kill - Corsair",
+      "xp": "20"
+    },
+    {
+      "experience_id": "2001",
+      "description": "Squad Spot Kill - Corsair",
+      "xp": "30"
+    },
+    {
+      "experience_id": "2002",
+      "description": "Corsair Damage (Infantry vs Vehicle)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2003",
+      "description": "Corsair Kill by Harasser Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2004",
+      "description": "Tank Hunter Bonus - Corsair Kill",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2009",
+      "description": "Corsair Kill by Valkyrie Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2010",
+      "description": "Chain Expl Assist: Corsair",
+      "xp": "500"
+    },
+    {
+      "experience_id": "2011",
+      "description": "Corsair Kill by ANT Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2012",
+      "description": "Vehicle Destruction - Corsair HIVE XP (Source)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2013",
+      "description": "Vehicle Repair - Corsair HIVE XP (Source)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "2014",
+      "description": "Vehicle Destruction - Corsair HIVE XP (Target)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2015",
+      "description": "Vehicle Repair - Corsair HIVE XP (Target)",
+      "xp": "1"
+    },
+    {
+      "experience_id": "2016",
+      "description": "Kill Assist - Corsair HIVE XP (Source)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2017",
+      "description": "Kill Assist - Corsair HIVE XP (Target)",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2020",
+      "description": "Corsair Kill by Sunderer Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2021",
+      "description": "Corsair Kill by Sunderer Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2022",
+      "description": "Corsair Kill by Vanguard Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2023",
+      "description": "Corsair Kill by Prowler Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2024",
+      "description": "Corsair Kill by Vanguard Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2025",
+      "description": "Corsair Kill by Prowler Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2026",
+      "description": "Corsair Kill by Lib Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2027",
+      "description": "Corsair Kill by Galaxy Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2028",
+      "description": "Corsair Kill by Lib Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2029",
+      "description": "Corsair Kill by Galaxy Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2032",
+      "description": "Corsair Kill by Harasser Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2033",
+      "description": "Corsair Kill by Harasser Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2034",
+      "description": "Vehicle Gunner Kill Share - Corsair HIVE XP (Source)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2035",
+      "description": "Vehicle Gunner Kill Share - Corsair HIVE XP (Target)",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2036",
+      "description": "Vehicle Gunner Kill Assist Share - Corsair HIVE XP (Source)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "2037",
+      "description": "Vehicle Gunner Kill Assist Share - Corsair HIVE XP (Target)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "2038",
+      "description": "Vehicle Passenger Kill Share - Corsair HIVE XP (Source)",
+      "xp": "10"
+    },
+    {
+      "experience_id": "2039",
+      "description": "Vehicle Driver Kill Assist Share - Corsair HIVE XP (Source)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "2040",
+      "description": "Vehicle Passenger Kill Share - Corsair HIVE XP (Target)",
+      "xp": "10"
+    },
+    {
+      "experience_id": "2041",
+      "description": "Vehicle Driver Kill Assist Share - Corsair HIVE XP (Target)",
+      "xp": "5"
+    },
+    {
+      "experience_id": "2042",
+      "description": "Corsair Kill by Valkyrie Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2043",
+      "description": "Corsair Kill by Valkyrie Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2044",
+      "description": "Corsair Kill by ANT Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2045",
+      "description": "Corsair Kill by ANT Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2046",
+      "description": "Corsair Kill by Colossus Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2047",
+      "description": "Corsair Kill by Bastion Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2048",
+      "description": "Corsair Kill by Chimera Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2049",
+      "description": "Corsair Kill by Flash Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2050",
+      "description": "Corsair Kill by Javelin Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2051",
+      "description": "Corsair Kill by Dervish Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2052",
+      "description": "Havoc Mine Assist Corsair",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2053",
+      "description": "Havoc Grenade Assist Corsair",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2054",
+      "description": "Bastion Component Kill by Corsair Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2055",
+      "description": "Corsair Kill by Corsair Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2056",
+      "description": "Corsair Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2057",
+      "description": "Corsair Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2058",
+      "description": "Dervish Kill by Corsair Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "2059",
+      "description": "Dervish Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2060",
+      "description": "Dervish Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2061",
+      "description": "Flash Kill by Corsair Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2062",
+      "description": "Flash Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "15"
+    },
+    {
+      "experience_id": "2063",
+      "description": "Flash Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "15"
+    },
+    {
+      "experience_id": "2064",
+      "description": "Galaxy Kill by Corsair Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "2065",
+      "description": "Galaxy Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2066",
+      "description": "Galaxy Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2067",
+      "description": "Javelin Kill by Corsair Gunner",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2068",
+      "description": "Magrider Kill by Corsair Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2069",
+      "description": "Magrider Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2070",
+      "description": "Magrider Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2071",
+      "description": "Mosquito Kill by Corsair Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "2072",
+      "description": "Mosquito Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2073",
+      "description": "Mosquito Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2074",
+      "description": "Player Kill by Corsair Gunner",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2075",
+      "description": "Player Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "20"
+    },
+    {
+      "experience_id": "2076",
+      "description": "Player Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "20"
+    },
+    {
+      "experience_id": "2077",
+      "description": "Prowler Kill by Corsair Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2078",
+      "description": "Prowler Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2079",
+      "description": "Prowler Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2080",
+      "description": "Pumpkin Kill by Corsair Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "2081",
+      "description": "Recon Drone Kill by Corsair Gunner",
+      "xp": "19"
+    },
+    {
+      "experience_id": "2082",
+      "description": "Reaver Kill by Corsair Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "2083",
+      "description": "Reaver Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2084",
+      "description": "Reaver Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2085",
+      "description": "Scythe Kill by Corsair Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "2086",
+      "description": "Scythe Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2087",
+      "description": "Scythe Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2088",
+      "description": "Snowman Kill by Corsair Gunner",
+      "xp": "250"
+    },
+    {
+      "experience_id": "2089",
+      "description": "Sunderer Kill by Corsair Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2090",
+      "description": "Sunderer Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2091",
+      "description": "Sunderer Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2092",
+      "description": "Valkyrie Kill by Corsair Gunner",
+      "xp": "300"
+    },
+    {
+      "experience_id": "2093",
+      "description": "Valkyrie Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2094",
+      "description": "Valkyrie Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "60"
+    },
+    {
+      "experience_id": "2095",
+      "description": "Vanguard Kill by Corsair Gunner",
+      "xp": "375"
+    },
+    {
+      "experience_id": "2096",
+      "description": "Vanguard Kill by Corsair Gunner HIVE XP (Source)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2097",
+      "description": "Vanguard Kill by Corsair Gunner HIVE XP (Target)",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2098",
+      "description": "Tempest Harvest",
+      "xp": "6"
+    },
+    {
+      "experience_id": "2099",
+      "description": "Tempest Deposit",
+      "xp": "7"
+    },
+    {
+      "experience_id": "2101",
+      "description": "Corrosion Assist",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2103",
+      "description": "Corrosion Assist ANT",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2104",
+      "description": "Corrosion Assist Chimera",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2105",
+      "description": "Corrosion Assist Colossus ",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2106",
+      "description": "Corrosion Assist Corsair",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2107",
+      "description": "Corrosion Assist Deliverer",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2108",
+      "description": "Corrosion Assist Dervish",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2109",
+      "description": "Corrosion Assist Engineer Turret",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2110",
+      "description": "Corrosion Assist Flash",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2111",
+      "description": "Corrosion Assist Galaxy",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2112",
+      "description": "Corrosion Assist Harasser",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2113",
+      "description": "Corrosion Assist Javelin",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2114",
+      "description": "Corrosion Assist Liberator",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2115",
+      "description": "Corrosion Assist Lightning",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2116",
+      "description": "Corrosion Assist Lodestar",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2117",
+      "description": "Corrosion Assist Magrider",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2118",
+      "description": "Corrosion Assist Mosquito",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2119",
+      "description": "Corrosion Assist Phalanx",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2120",
+      "description": "Corrosion Assist Prowler",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2121",
+      "description": "Corrosion Assist Reaver",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2122",
+      "description": "Corrosion Assist Scythe",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2123",
+      "description": "Corrosion Assist Sunderer",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2124",
+      "description": "Corrosion Assist Valkyrie",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2125",
+      "description": "Corrosion Assist Vanguard",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2126",
+      "description": "Corrosion Assist Wasp",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2127",
+      "description": "Corrosion Max Assist ",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2132",
+      "description": "Ctf Defend Podium",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2133",
+      "description": "Ctf Flag Captured",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2134",
+      "description": "Ctf Flag Returned",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2135",
+      "description": "Ctf Flag Repo Hack",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2136",
+      "description": "Ctf Defend Repo",
+      "xp": "100"
+    },
+    {
+      "experience_id": "2139",
+      "description": "Hack Overload - Generic",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2140",
+      "description": "Counter Hack Overload - Generic",
+      "xp": "50"
     }
   ],
-  "returned": 1185
+  "returned": 1701
 }

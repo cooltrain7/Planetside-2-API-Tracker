@@ -43,7 +43,31 @@
     {
       "facility_type_id": "11",
       "description": "Containment Site"
+    },
+    {
+      "facility_type_id": "12",
+      "description": "Trident Relay"
+    },
+    {
+      "facility_type_id": "13",
+      "description": "Seapost"
+    },
+    {
+      "facility_type_id": "14",
+      "description": "Large CTF Outpost"
+    },
+    {
+      "facility_type_id": "15",
+      "description": "Small CTF Outpost"
+    },
+    {
+      "facility_type_id": "16",
+      "description": "Amp Station CTF"
+    },
+    {
+      "facility_type_id": "17",
+      "description": "Construction Outpost CTF"
     }
   ],
-  "returned": 11
+  "returned": 17
 }
