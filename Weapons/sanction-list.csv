@@ -48,12 +48,12 @@
 16012,AI MAX (Right),0,NCM1 Scattercannon,2,max
 17024,AI MAX (Right),0,Nebula VM20,1,max
 17012,AI MAX (Right),0,Quasar VM1,1,max
-6011526,Amphibious Rifle,,UBR-100 Frogman,,infantry
-6011527,Amphibious Rifle,,UBR-150 Sea Lion,,infantry
-6011528,Amphibious Rifle,,UBR-300 Swordfish,,infantry
-6013842,Amphibious Rifle,,UBR-300 Swordfish-P,,infantry
-6013833,Amphibious Sidearm,,"UBP-1 ""Steel"" Starfish",,infantry
-6011538,Amphibious Sidearm,,UBP-1 Starfish,,infantry
+6011526,Amphibious Rifle,0,UBR-100 Frogman,,infantry
+6011527,Amphibious Rifle,0,UBR-150 Sea Lion,,infantry
+6011528,Amphibious Rifle,0,UBR-300 Swordfish,,infantry
+6013842,Amphibious Rifle,0,UBR-300 Swordfish-P,,infantry
+6013833,Amphibious Sidearm,0,"UBP-1 ""Steel"" Starfish",,infantry
+6011538,Amphibious Sidearm,0,UBP-1 Starfish,,infantry
 6004869,ANT Harvesting Tool,1,WLT-ARX Mining Laser,1,none
 6004870,ANT Harvesting Tool,1,WLT-ARX Mining Laser,2,none
 6004871,ANT Harvesting Tool,1,WLT-ARX Mining Laser,3,none
@@ -66,7 +66,7 @@
 803424,ANT Harvesting Tool,1,WLT-Mandible Mining Laser,2,none
 803425,ANT Harvesting Tool,1,WLT-Mandible Mining Laser,3,none
 6005436,ANT Harvesting Tool,1,WLT-Mandible Mining Laser,4,none
-6011882,ANT Top Turret,1,A2-20 HCG,,gunner
+6011882,ANT Top Turret,1,A2-20 HCG,4,gunner
 803485,ANT Top Turret,1,G30 Walker,1,gunner
 803486,ANT Top Turret,1,G30 Walker,2,gunner
 803487,ANT Top Turret,1,G30 Walker,3,gunner
@@ -79,7 +79,7 @@
 803483,ANT Top Turret,1,M12 Kobalt,2,gunner
 803484,ANT Top Turret,1,M12 Kobalt,3,gunner
 6005432,ANT Top Turret,1,M12 Kobalt,4,gunner
-6011879,ANT Top Turret,1,M18 Palisade-A,,gunner
+6011879,ANT Top Turret,1,M18 Palisade-A,3,gunner
 803501,ANT Top Turret,1,M20 Basilisk,1,gunner
 803502,ANT Top Turret,1,M20 Basilisk,2,gunner
 803503,ANT Top Turret,1,M20 Basilisk,3,gunner
@@ -96,8 +96,8 @@
 803495,ANT Top Turret,1,M60-G Bulldog,2,gunner
 803496,ANT Top Turret,1,M60-G Bulldog,3,gunner
 6005433,ANT Top Turret,1,M60-G Bulldog,4,gunner
-6011881,ANT Top Turret,1,N30 Trawler-A,,gunner
-6011880,ANT Top Turret,1,V42 Pariah-A,,gunner
+6011881,ANT Top Turret,1,N30 Trawler-A,2,gunner
+6011880,ANT Top Turret,1,V42 Pariah-A,1,gunner
 6005541,ANT Top Turret,1,WLT-Weaver Mining Turret,0,none
 6005542,ANT Top Turret,1,WLT-Weaver Mining Turret,0,none
 6005543,ANT Top Turret,1,WLT-Weaver Mining Turret,0,none
@@ -106,11 +106,11 @@
 803498,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,2,none
 803499,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,3,none
 6005434,ANT Top Turret,1,WLT-Yellowjacket Mining Laser,4,none
-6013464,Anti-Materiel Rifle,0,DAGR-81,,infantry
-6013463,Anti-Materiel Rifle,0,LA60 Masthead,,infantry
-6013466,Anti-Materiel Rifle,0,NE-36 Linecutter,,infantry
+6013464,Anti-Materiel Rifle,0,DAGR-81,0,infantry
+6013463,Anti-Materiel Rifle,0,LA60 Masthead,0,infantry
+6013466,Anti-Materiel Rifle,0,NE-36 Linecutter,0,infantry
 6004992,Anti-Materiel Rifle,0,NS-AM8 Shortbow,0,infantry
-6013465,Anti-Materiel Rifle,0,VX4-3 Slicer,,infantry
+6013465,Anti-Materiel Rifle,0,VX4-3 Slicer,0,infantry
 6004294,Anti-Materiel Rifle,0,AM7-XOXO,0,infantry-explosive
 6002943,Anti-Materiel Rifle,0,NS-AM7 AE/NC Archer,0,infantry-explosive
 6002930,Anti-Materiel Rifle,0,NS-AM7 AE/TR Archer,0,infantry-explosive
@@ -119,12 +119,12 @@
 802910,Anti-Materiel Rifle,0,NS-AM7B Archer,0,infantry-explosive
 802921,Anti-Materiel Rifle,0,NS-AM7G Archer,0,infantry-explosive
 6008496,Anti-Materiel Rifle,0,PSA-01 Hammerhead AMR,0,infantry-explosive
-6013480,Assault Rifle,0,"""Apex"" NC1 Gauss Rifle",,infantry
-6013476,Assault Rifle,0,"""Apex"" Pulsar VS1",,infantry
-6013477,Assault Rifle,0,"""Apex"" T1 Cycler",,infantry
-6009864,Assault Rifle,0,AR-100,0,infantry
-6011252,Assault Rifle,,AR-ARX Maxwell,,infantry
-6009892,Assault Rifle,0,AR-N203,0,infantry
+6013480,Assault Rifle,0,"""Apex"" NC1 Gauss Rifle",2,infantry
+6013476,Assault Rifle,0,"""Apex"" Pulsar VS1",1,infantry
+6013477,Assault Rifle,0,"""Apex"" T1 Cycler",3,infantry
+6009864,Assault Rifle,0,AR-100,4,infantry
+6011252,Assault Rifle,0,AR-ARX Maxwell,4,infantry
+6009892,Assault Rifle,0,AR-N203,4,infantry
 7103,Assault Rifle,0,Carnage AR,2,infantry
 7149,Assault Rifle,0,CME,1,infantry
 7152,Assault Rifle,0,Corvus VA55,1,infantry
@@ -149,7 +149,7 @@
 6002874,Assault Rifle,0,TAR-AE,3,infantry
 7153,Assault Rifle,0,Terminus VX-9,1,infantry
 6006188,Assault Rifle,0,VE-A Lacerta,1,infantry
-6009891,Assault Rifle,0,AR-101,0,infantry-explosive
+6009891,Assault Rifle,0,AR-101,4,infantry-explosive
 7151,Assault Rifle,0,Equinox VE2,1,infantry-explosive
 7102,Assault Rifle,0,Gauss Rifle S,2,infantry-explosive
 7104,Assault Rifle,0,NC9 A-Tross,2,infantry-explosive
@@ -251,25 +251,14 @@
 6009041,Bastion Weapon System,0,Bastion Battery,,none
 6009042,Bastion Weapon System,0,Bastion Battery,,none
 6009043,Bastion Weapon System,0,Bastion Battery,,none
-1989,Battle Rifle,0,DMR-99,3,infantry
-1984,Battle Rifle,0,GD Guardian,2,infantry
-6004216,Battle Rifle,0,MG-HBR1 Dragoon,3,infantry
-6004209,Battle Rifle,0,MGR-M1 Bishop,2,infantry
-6005970,Battle Rifle,0,NSX-A Sesshin,0,infantry
-1994,Battle Rifle,0,Revenant,1,infantry
-6004214,Battle Rifle,0,VE-LR Obelisk,1,infantry
-25008,Battle Rifle,0,AMR-66,3,infantry-explosive
-26008,Battle Rifle,0,Eidolon VE33,1,infantry-explosive
-6009101,Battle Rifle,0,NS-30 Tranquility,0,infantry-explosive
-24008,Battle Rifle,0,Warden,2,infantry-explosive
 1869,Carbine,0,19A Fortuna,2,infantry
 3,Carbine,0,AF-19 Mercenary,2,infantry
 7171,Carbine,0,AF-20 Rogue,2,infantry
 7174,Carbine,0,AF-4A Bandit,2,infantry
 6003947,Carbine,0,AF-4A Bandit AE,2,infantry
-6009893,Carbine,0,CB-100,,infantry
-6011251,Carbine,,CB-ARX Newton,,infantry
-6009894,Carbine,0,CB-X75,,infantry
+6009893,Carbine,0,CB-100,4,infantry
+6011251,Carbine,0,CB-ARX Newton,4,infantry
+6009894,Carbine,0,CB-X75,4,infantry
 1919,Carbine,0,Eclipse VE3A,1,infantry
 7169,Carbine,0,GD-7F,2,infantry
 7194,Carbine,0,HC1 Cougar,3,infantry
@@ -293,7 +282,7 @@
 7215,Carbine,0,Zenith VX-5,1,infantry
 6003967,Carbine,0,Zenith VX-5AE,1,infantry
 7170,Carbine,0,AC-X11,2,infantry-explosive
-6009895,Carbine,0,CB-200,,infantry-explosive
+6009895,Carbine,0,CB-200,4,infantry-explosive
 7172,Carbine,0,NC2 Gauss Compact,2,infantry-explosive
 6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry-explosive
 75005,Carbine,0,NS-11C,,infantry-explosive
@@ -304,14 +293,14 @@
 7213,Carbine,0,Prominence VE4,1,infantry-explosive
 7211,Carbine,0,Pulsar C,1,infantry-explosive
 7192,Carbine,0,TRAC-5 S,3,infantry-explosive
-6014319,Chimera Primary Weapon,1,"CT-150 ""Fafnir"" Cyclops",4,armor
-6010679,Chimera Primary Weapons,,CT-102 Satyr,,armor
-6009957,Chimera Primary Weapons,,CT-135,,armor
-6010678,Chimera Primary Weapons,,CT-150 Cyclops,,armor
+6010679,Chimera Primary Weapons,1,CT-102 Satyr,4,armor
+6009957,Chimera Primary Weapons,1,CT-135,4,armor
+6014319,Chimera Primary Weapons,1,"CT-150 ""Fafnir"" Cyclops",4,armor
+6010678,Chimera Primary Weapons,1,CT-150 Cyclops,4,armor
 6013932,Chimera Primary Weapons,1,Larion PPC,4,armor
-6010715,Chimera Secondary Weapons,,CT2-20 HCG,,gunner
-6010717,Chimera Secondary Weapons,,CT2-8M Siren,,gunner
-6010716,Chimera Secondary Weapons,,CT2-XP,,gunner
+6010715,Chimera Secondary Weapons,1,CT2-20 HCG,4,gunner
+6010717,Chimera Secondary Weapons,1,CT2-8M Siren,4,gunner
+6010716,Chimera Secondary Weapons,1,CT2-XP,4,gunner
 6009235,Colossus Front Left Weapon,1,M12 Goblin SP,3,none
 6009239,Colossus Front Left Weapon,1,M12 Goblin SP,2,none
 6009243,Colossus Front Left Weapon,1,M12 Goblin SP,1,none
@@ -380,20 +369,20 @@
 6009260,Colossus Rear Right Weapon,1,M60 Pug,2,none
 6009264,Colossus Rear Right Weapon,1,M60 Pug,1,none
 6009268,Colossus Rear Right Weapon,1,M60 Pug,4,none
-6013625,Corsair Front Gunner,,C2-20 HCG,,gunner
-6013341,Corsair Front Gunner,,Dingo ML-6,,gunner
-6013616,Corsair Front Gunner,,M18 Palisade-C,,gunner
-6013335,Corsair Front Gunner,,M20 Basilisk,,gunner
-6013336,Corsair Front Gunner,,M20 Basilisk,,gunner
-6013339,Corsair Front Gunner,,M60-G Bulldog,,gunner
-6013623,Corsair Front Gunner,,N30 Trawler-C,,gunner
-6013627,Corsair Front Gunner,,V42 Pariah-C,,gunner
-6013626,Corsair Top Gunner,,C2-20 HCG,,gunner
-6013342,Corsair Top Gunner,,Dingo ML-6,,gunner
-6013617,Corsair Top Gunner,,M18 Palisade-C,,gunner
-6013340,Corsair Top Gunner,,M60-G Bulldog,,gunner
-6013624,Corsair Top Gunner,,N30 Trawler-C,,gunner
-6013628,Corsair Top Gunner,,V42 Pariah-C,,gunner
+6013625,Corsair Front Gunner,1,C2-20 HCG,4,gunner
+6013341,Corsair Front Gunner,1,Dingo ML-6,0,gunner
+6013616,Corsair Front Gunner,1,M18 Palisade-C,3,gunner
+6013335,Corsair Front Gunner,1,M20 Basilisk,0,gunner
+6013336,Corsair Front Gunner,1,M20 Basilisk,0,gunner
+6013339,Corsair Front Gunner,1,M60-G Bulldog,0,gunner
+6013623,Corsair Front Gunner,1,N30 Trawler-C,2,gunner
+6013627,Corsair Front Gunner,1,V42 Pariah-C,1,gunner
+6013626,Corsair Top Gunner,1,C2-20 HCG,4,gunner
+6013342,Corsair Top Gunner,1,Dingo ML-6,0,gunner
+6013617,Corsair Top Gunner,1,M18 Palisade-C,3,gunner
+6013340,Corsair Top Gunner,1,M60-G Bulldog,0,gunner
+6013624,Corsair Top Gunner,1,N30 Trawler-C,2,gunner
+6013628,Corsair Top Gunner,1,V42 Pariah-C,1,gunner
 2310,Crossbow,0,Blackheart,,infantry-explosive
 2309,Crossbow,0,Heartstring,,infantry-explosive
 2308,Crossbow,0,Hunter QCX,,infantry-explosive
@@ -412,13 +401,13 @@
 6009782,Explosive,0,C-4 Present,0,none
 429,Explosive,0,Claymore,3,none
 804701,Explosive,0,Command Uplink Device,,none
-6011878,Explosive,0,Concussion Mine,,none
-6011923,Explosive,0,EMP Mine,,none
+6011878,Explosive,0,Concussion Mine,3,none
+6011923,Explosive,0,EMP Mine,2,none
 6005243,Explosive,0,F.U.S.E. (Anti-Infantry),4,none
 6009995,Explosive,,F.U.S.E. (Anti-Infantry),,none
-6011915,Explosive,0,Flashbang Mine,,none
-6011924,Explosive,0,Havoc Mine,,none
-6010115,Explosive,0,Outdated Network Terminal,,none
+6011915,Explosive,0,Flashbang Mine,1,none
+6011924,Explosive,0,Havoc Mine,4,none
+6010115,Explosive,0,Outdated Network Terminal,0,none
 1045,Explosive,0,Proximity Mine,1,none
 6005422,Explosive,0,Proximity Mine,4,none
 6005963,Explosive,0,Proximity Mine,4,none
@@ -489,7 +478,7 @@
 5508,Galaxy Top Weapon,1,M20 Drake,3,none
 6005476,Galaxy Top Weapon,1,M20 Drake,4,none
 1095,Grenade,0,Anti-Vehicle Grenade,0,none
-6011863,Grenade,0,Cleansing Grenade,,none
+6011863,Grenade,0,Cleansing Grenade,0,none
 1096,Grenade,0,Concussion Grenade,0,none
 6009524,Grenade,0,Condensate Grenade,0,none
 6050,Grenade,0,Decoy Grenade,0,none
@@ -499,8 +488,8 @@
 44505,Grenade,0,Frag Grenade,0,none
 44605,Grenade,0,Frag Grenade,3,none
 6005182,Grenade,0,Frag Grenade,0,none
-6011943,Grenade,0,Havoc Grenade,,none
-6011871,Grenade,0,Impulse Grenade,,none
+6011943,Grenade,0,Havoc Grenade,0,none
+6011871,Grenade,0,Impulse Grenade,0,none
 6009583,Grenade,0,Infernal Grenade,0,none
 6009459,Grenade,0,Lightning Grenade,0,none
 884,Grenade,0,Nanite Revive Grenade,0,none
@@ -517,7 +506,7 @@
 881,Grenade,0,Sticky Grenade,3,none
 882,Grenade,0,Sticky Grenade,1,none
 6005328,Grenade,0,Sticky Grenade,4,none
-6011945,Grenade,0,Timed EMP Grenade,,none
+6011945,Grenade,0,Timed EMP Grenade,0,none
 6004742,Grenade,0,Water Balloon,0,none
 6004743,Grenade,0,Water Balloon,0,none
 6004744,Grenade,0,Water Balloon,0,none
@@ -538,7 +527,7 @@
 6110,Harasser Top Gunner,1,G40-F Ranger,2,gunner
 6111,Harasser Top Gunner,1,G40-F Ranger,3,gunner
 6005381,Harasser Top Gunner,1,G40-F Ranger,4,gunner
-6011886,Harasser Top Gunner,1,H2-20 HCG,,gunner
+6011886,Harasser Top Gunner,1,H2-20 HCG,4,gunner
 6006397,Harasser Top Gunner,1,Halberd-H SE,1,gunner
 6006401,Harasser Top Gunner,1,Halberd-H SE,3,gunner
 6006402,Harasser Top Gunner,1,Halberd-H SE,2,gunner
@@ -547,7 +536,7 @@
 6101,Harasser Top Gunner,1,M12 Kobalt-H,2,gunner
 6102,Harasser Top Gunner,1,M12 Kobalt-H,3,gunner
 6005383,Harasser Top Gunner,1,M12 Kobalt-H,4,gunner
-6011883,Harasser Top Gunner,1,M18 Palisade-H,,gunner
+6011883,Harasser Top Gunner,1,M18 Palisade-H,3,gunner
 6103,Harasser Top Gunner,1,M20 Basilisk-H,1,gunner
 6104,Harasser Top Gunner,1,M20 Basilisk-H,2,gunner
 6105,Harasser Top Gunner,1,M20 Basilisk-H,3,gunner
@@ -562,22 +551,22 @@
 6005384,Harasser Top Gunner,1,M60-G Bulldog-H,4,gunner
 802900,Harasser Top Gunner,1,M96 Mjolnir-H,2,gunner
 802875,Harasser Top Gunner,1,MR11 Gatekeeper-H,3,gunner
-6011885,Harasser Top Gunner,1,N30 Trawler-H,,gunner
+6011885,Harasser Top Gunner,1,N30 Trawler-H,2,gunner
 6122,Harasser Top Gunner,1,P525 Marauder-H,3,gunner
 6125,Harasser Top Gunner,1,Proton II PPA-H,1,gunner
 6126,Harasser Top Gunner,1,Saron HRB-H,1,gunner
-6011884,Harasser Top Gunner,1,V42 Pariah-H,,gunner
-6011442,Heavy Crossbow,,Demon Seeker HLX,,infantry-explosive
-6011432,Heavy Crossbow,,Seeker HLX,,infantry-explosive
-6011831,Heavy Crossbow,0,Seraphim HLX,,infantry-explosive
-6011140,Heavy Weapon,,D11 Detonator,,max
-6011064,Heavy Weapon,,D7 Hummingbird,,max
+6011884,Harasser Top Gunner,1,V42 Pariah-H,1,gunner
+6011442,Heavy Crossbow,0,Demon Seeker HLX,0,infantry-explosive
+6011432,Heavy Crossbow,0,Seeker HLX,0,infantry-explosive
+6011831,Heavy Crossbow,0,Seraphim HLX,0,infantry-explosive
+6011140,Heavy Weapon,0,D11 Detonator,4,max
+6011064,Heavy Weapon,0,D7 Hummingbird,4,max
 6008686,Heavy Weapon,0,Grenade Printer,4,max
-6011412,Heavy Weapon,,Mega Soldier Soaker (Ballistic Blue),,meme
-6011418,Heavy Weapon,,Mega Soldier Soaker (Electric Sky),,meme
-6011409,Heavy Weapon,,Mega Soldier Soaker (Imperial Purple),,meme
-6011415,Heavy Weapon,,Mega Soldier Soaker (Riot Red),,meme
-6011389,Heavy Weapon,,Mega Soldier Soaker XP100,,meme
+6011412,Heavy Weapon,0,Mega Soldier Soaker (Ballistic Blue),,meme
+6011418,Heavy Weapon,0,Mega Soldier Soaker (Electric Sky),,meme
+6011409,Heavy Weapon,0,Mega Soldier Soaker (Imperial Purple),,meme
+6011415,Heavy Weapon,0,Mega Soldier Soaker (Riot Red),,meme
+6011389,Heavy Weapon,0,Mega Soldier Soaker XP100,,meme
 7540,Heavy Weapon,0,Lasher X2,1,none
 803732,Heavy Weapon,0,Lasher X2 AE,1,none
 6004144,Heavy Weapon,0,Lasher X2-P,1,none
@@ -586,15 +575,16 @@
 6004174,Heavy Weapon,0,NC05-P Jackhammer,2,none
 6006332,Heavy Weapon,0,NS-03 Thumper,0,none
 6009426,Heavy Weapon,0,NS-03 Thumper SE,0,none
-6012324,Heavy Weapon,0,SPRK-33's Stomper,,none
+6012324,Heavy Weapon,0,SPRK-33's Stomper,0,none
 7533,Heavy Weapon,0,T7 Mini-Chaingun,3,none
 803779,Heavy Weapon,0,T7 Mini-Chaingun AE,3,none
 6004168,Heavy Weapon,0,T7-P Mini-Chaingun,3,none
-6011152,Hybrid Rifle,,NSX Kuwa,,infantry-explosive
-6005967,Hybrid Rifle,0,NSX-A Kuwa,0,infantry-explosive
+6011152,Hybrid Rifle,0,NSX Kuwa,0,infantry-explosive
+6005967,Hybrid Rifle,0,NSX-A Kuwa,4,infantry-explosive
 804846,Infantry Abilities,0,Cert Fountain,0,
 6009460,Infantry Abilities,0,Metal Detector,0,
 6004560,Infantry Abilities,0,Meteorite,,
+6013328,Infantry Abilities,0,NS NanoCaster,0,
 6005102,Infantry Abilities,0,Pumpking Slayer,,
 310,Infantry Abilities,0,Stealth Test,2,
 6009595,Infantry Abilities,,Trick or Treat!,,
@@ -748,7 +738,7 @@
 6005644,Infantry Abilities,0,Infantry Tower,4,none
 6009093,Infantry Abilities,0,Infradine,,none
 6002553,Infantry Abilities,0,IPC Targeting Dart,0,none
-6011430,Infantry Abilities,,Jack Johnson and Tom O'Leary,,none
+6011430,Infantry Abilities,0,Jack Johnson and Tom O'Leary,0,none
 6009047,Infantry Abilities,0,Javelin XS-1,0,none
 6011574,Infantry Abilities,,Jump Booster 1,,none
 6011712,Infantry Abilities,,Jump Booster 1,,none
@@ -906,10 +896,10 @@
 486,Infantry Abilities,0,Recon Detection Device 6,2,none
 487,Infantry Abilities,0,Recon Detection Device 6,3,none
 6005174,Infantry Abilities,0,Recon Detection Device 6,0,none
-804974,Infantry Abilities,0,Reinforcements Module,2,none
-804975,Infantry Abilities,0,Reinforcements Module,3,none
-804976,Infantry Abilities,0,Reinforcements Module,1,none
-6005654,Infantry Abilities,0,Reinforcements Module,4,none
+804974,Infantry Abilities,0,Reconnaissance Module,2,none
+804975,Infantry Abilities,0,Reconnaissance Module,3,none
+804976,Infantry Abilities,0,Reconnaissance Module,1,none
+6005654,Infantry Abilities,0,Reconnaissance Module,4,none
 6011576,Infantry Abilities,,Repair Drone 1,,none
 6011593,Infantry Abilities,,Repair Drone 2,,none
 6011594,Infantry Abilities,,Repair Drone 3,,none
@@ -1001,38 +991,39 @@
 803592,Infantry Abilities,0,Xiphos Anti-Personnel Tower,3,none
 803593,Infantry Abilities,0,Xiphos Anti-Personnel Tower,1,none
 6005624,Infantry Abilities,0,Xiphos Anti-Personnel Tower,4,none
-6011792,Infantry Gear,,Diver Propulsion Device 1,,none
-6011793,Infantry Gear,,Diver Propulsion Device 2,,none
-6011794,Infantry Gear,,Diver Propulsion Device 3,,none
-6011795,Infantry Gear,,Diver Propulsion Device 4,,none
-6011796,Infantry Gear,,Diver Propulsion Device 5,,none
+6011792,Infantry Gear,0,Diver Propulsion Device 1,0,none
+6011793,Infantry Gear,0,Diver Propulsion Device 2,0,none
+6011794,Infantry Gear,0,Diver Propulsion Device 3,0,none
+6011795,Infantry Gear,0,Diver Propulsion Device 4,0,none
+6011796,Infantry Gear,0,Diver Propulsion Device 5,0,none
 554,Infantry Weapons,1,MANA Anti-Personnel Turret,1,none
 555,Infantry Weapons,1,MANA Anti-Personnel Turret,2,none
 556,Infantry Weapons,1,MANA Anti-Personnel Turret,3,none
 557,Infantry Weapons,1,MANA Anti-Personnel Turret,0,none
 6005423,Infantry Weapons,1,MANA Anti-Personnel Turret,4,none
 503,Infantry Weapons,1,MANA Anti-Vehicle Turret,0,none
-6010044,Javelin Primary Weapon,,JVN-30 Salamander,,none
-6010078,Javelin Primary Weapon,,JVN-50 Celeste,,none
-6010076,Javelin Primary Weapon,,JVN-X3 Hydra,,none
+6010044,Javelin Primary Weapon,1,JVN-30 Salamander,0,none
+6010078,Javelin Primary Weapon,1,JVN-50 Celeste,0,none
+6008733,Javelin Primary Weapon,1,JVN-MM N.E.S.T.,0,none
+6010076,Javelin Primary Weapon,1,JVN-X3 Hydra,0,none
 6008651,Knife,0,Ancient Psykinetic Blade,0,none
-6011053,Knife,,Ancient Psykinetic Blade,,none
+6011053,Knife,0,Ancient Psykinetic Blade,0,none
 800625,Knife,0,Auraxium Chainblade,3,none
 800626,Knife,0,Auraxium Force-Blade,1,none
 800624,Knife,0,Auraxium Mag-Cutter,2,none
 802025,Knife,0,Auraxium Slasher,0,none
-6011454,Knife,,Bonecleaver,,none
+6011454,Knife,0,Bonecleaver,2,none
 271,Knife,0,Carver,2,none
 6005453,Knife,0,Carver AE,2,none
 13,Knife,0,Chainblade,3,none
 802317,Knife,0,Damascus Edge,1,none
 6008687,Knife,0,Defector Claws,4,none
-6011457,Knife,,Doomsayer,,none
-6011456,Knife,,Eviscerator,,none
+6011457,Knife,0,Doomsayer,1,none
+6011456,Knife,0,Eviscerator,3,none
 6009854,Knife,0,Excursion Kukri,0,none
 6006080,Knife,0,Fatestealer,0,none
 19,Knife,0,Force-Blade,1,none
-6011455,Knife,,Guillotine,,none
+6011455,Knife,0,Guillotine,4,none
 802316,Knife,0,Hardlight Dagger,2,none
 802315,Knife,0,Hexedge,3,none
 802584,Knife,0,Icikill,0,none
@@ -1052,11 +1043,11 @@
 6009600,Knife,0,NS Firebug,0,none
 802902,Knife,0,NS Harrower,0,none
 6009463,Knife,0,NS Icebreaker,0,none
-6009515,Knife,0,NS Icebreaker,0,none
-6009516,Knife,0,NS Icebreaker,0,none
-6009517,Knife,0,NS Icebreaker,0,none
-6009518,Knife,0,NS Icebreaker,0,none
-6012441,Knife,0,NS SQU-34K,,none
+6009515,Knife,0,NS Icebreaker,1,none
+6009516,Knife,0,NS Icebreaker,2,none
+6009517,Knife,0,NS Icebreaker,3,none
+6009518,Knife,0,NS Icebreaker,4,none
+6012441,Knife,0,NS SQU-34K,0,none
 802904,Knife,0,NS Victory,0,none
 6006067,Knife,0,NS-A Commando,0,none
 6005664,Knife,0,NS-G Commando,0,none
@@ -1069,9 +1060,9 @@
 6014268,Knife,0,Stormbringer,0,none
 6014446,Knife,0,Sweet Tooth,0,none
 801969,Knife,0,The Slasher,0,none
-6011556,Knife,,The Swashbuckler,,none
+6011556,Knife,0,The Swashbuckler,0,none
 6014527,Knife,0,Trench Shovel,0,none
-6011914,Knife,0,Wyrdwood Shillelagh,,none
+6011914,Knife,0,Wyrdwood Shillelagh,0,none
 5209,Liberator Belly Weapon,1,AP30 Shredder,3,gunner
 5210,Liberator Belly Weapon,1,AP30 Shredder,2,gunner
 5211,Liberator Belly Weapon,1,AP30 Shredder,1,gunner
@@ -1151,10 +1142,10 @@
 3107,Lightning Primary Weapon,1,Skyguard,2,armor
 3108,Lightning Primary Weapon,1,Skyguard,3,armor
 6005303,Lightning Primary Weapon,1,Skyguard,4,armor
-6011563,LMG,,"""Treasured"" LA-1 Anchor",,infantry
-6011564,LMG,,"""Treasured"" MSW-R",,infantry
-6011562,LMG,,"""Treasured"" Orion VS54",,infantry
-6011565,LMG,,"""Treasured"" XMG-100",,infantry
+6011563,LMG,0,"""Treasured"" LA-1 Anchor",2,infantry
+6011564,LMG,0,"""Treasured"" MSW-R",3,infantry
+6011562,LMG,0,"""Treasured"" Orion VS54",1,infantry
+6011565,LMG,0,"""Treasured"" XMG-100",4,infantry
 1894,LMG,0,Betelgeuse 54-A,1,infantry
 7232,LMG,0,EM1,2,infantry
 7235,LMG,0,EM6,2,infantry
@@ -1197,10 +1188,10 @@
 6004118,LMG,0,VE-H Maw,1,infantry
 6005332,LMG,0,VE-H Maw AE,1,infantry
 7274,LMG,0,VX29 Polaris,1,infantry
-6009899,LMG,0,XMG-100,,infantry
-6009900,LMG,0,XMG-155,,infantry
-6009901,LMG,0,XMG-200,,infantry
-6011254,LMG,,XMG-ARX Galilei,,infantry
+6009899,LMG,0,XMG-100,4,infantry
+6009900,LMG,0,XMG-155,4,infantry
+6009901,LMG,0,XMG-200,4,infantry
+6011254,LMG,0,XMG-ARX Galilei,4,infantry
 802897,Magrider Gunner Weapon,1,Aphelion VEX-4,1,gunner
 3441,Magrider Gunner Weapon,1,E540 Halberd,1,gunner
 3403,Magrider Gunner Weapon,1,G30 Walker,1,gunner
@@ -1210,7 +1201,7 @@
 3402,Magrider Gunner Weapon,1,M20 Basilisk,1,gunner
 3404,Magrider Gunner Weapon,1,Proton II PPA,1,gunner
 3442,Magrider Gunner Weapon,1,Saron HRB,1,gunner
-6011888,Magrider Gunner Weapon,1,V42 Pariah,,gunner
+6011888,Magrider Gunner Weapon,1,V42 Pariah,1,gunner
 6014236,Magrider Primary Weapon,1,Perihelion VXC,1,armor
 6014318,Magrider Primary Weapon,1,"Supernova ""Fafnir"" FPC",1,armor
 3460,Magrider Primary Weapon,1,Supernova FPC,1,armor
@@ -1249,7 +1240,7 @@
 803824,Pistol,0,NS-44 Commissioner AE,1,infantry
 803825,Pistol,0,NS-44 Commissioner AE,3,infantry
 803826,Pistol,0,NS-44 Commissioner AE,2,infantry
-6011555,Pistol,,NS-44AE Mutiny,,infantry
+6011555,Pistol,0,NS-44AE Mutiny,,infantry
 75172,Pistol,0,NS-44B Commissioner,,infantry
 75170,Pistol,0,NS-44G Commissioner,,infantry
 6002661,Pistol,0,"NS-44L ""Ravenous"" Blackhand",,infantry
@@ -1259,7 +1250,7 @@
 802782,Pistol,0,NS-44LG Blackhand,,infantry
 804960,Pistol,0,NS-44LP Blackhand,,infantry
 2001,Pistol,0,NS-44P Commissioner,,infantry
-6013893,Pistol,,"NS-45 ""Assassin"" Pilot",,infantry
+6013893,Pistol,0,"NS-45 ""Assassin"" Pilot",,infantry
 6003704,Pistol,0,"NS-45 ""Brass"" Pilot",,infantry
 6003665,Pistol,0,NS-45 Pilot,,infantry
 6009722,Pistol,0,NS-45P Pilot,,infantry
@@ -1270,7 +1261,7 @@
 804138,Pistol,0,NS-61 Emissary,,infantry
 804405,Pistol,0,NS-61B Emissary,,infantry
 804428,Pistol,0,NS-61G Emissary,,infantry
-6011154,Pistol,,NSX Yawara,,infantry
+6011154,Pistol,0,NSX Yawara,,infantry
 6005969,Pistol,0,NSX-A Yawara,,infantry
 7414,Pistol,0,Spiker,1,infantry
 7402,Pistol,0,T4 AMP,3,infantry
@@ -1282,10 +1273,10 @@
 7391,Pistol,0,TX1-FB Repeater,3,infantry
 6006091,Pistol,0,"TX2 ""Jackpot"" Emperor",3,infantry
 7400,Pistol,0,TX2 Emperor,3,infantry
-6009902,Pistol,0,U-100 Lastly,,infantry
-6009903,Pistol,0,U-150 Recall,,infantry
-6009904,Pistol,0,U-200 Harbinger,,infantry
-6011258,Pistol,,U-ARX Dirac,,infantry
+6009902,Pistol,0,U-100 Lastly,4,infantry
+6009903,Pistol,0,U-150 Recall,4,infantry
+6009904,Pistol,0,U-200 Harbinger,4,infantry
+6011258,Pistol,0,U-ARX Dirac,4,infantry
 6004995,Pistol,0,Ectoblaster,,meme
 75517,Pistol,0,NC Patriot Flare Gun,2,meme
 803007,Pistol,0,NC Triumph Flare Gun,2,meme
@@ -1305,7 +1296,7 @@
 4010,Prowler Gunner Weapon,1,G40-F Ranger,3,gunner
 6006398,Prowler Gunner Weapon,1,Halberd SE,3,gunner
 4001,Prowler Gunner Weapon,1,M12 Kobalt,3,gunner
-6011887,Prowler Gunner Weapon,1,M18 Palisade,,gunner
+6011887,Prowler Gunner Weapon,1,M18 Palisade,3,gunner
 4002,Prowler Gunner Weapon,1,M20 Basilisk,3,gunner
 802874,Prowler Gunner Weapon,1,MR11 Gatekeeper,3,gunner
 4007,Prowler Gunner Weapon,1,P525 Marauder,3,gunner
@@ -1332,9 +1323,9 @@
 33004,Rocket Launcher,0,Hawk GD-68,2,none
 268,Rocket Launcher,0,Lancer AE,1,none
 35002,Rocket Launcher,0,Lancer VS22,1,none
-6009905,Rocket Launcher,0,LAV-AG,0,none
-6009907,Rocket Launcher,0,LAV-LA,0,none
-6009906,Rocket Launcher,0,LAV-LG,0,none
+6009905,Rocket Launcher,0,LAV-AG,4,none
+6009907,Rocket Launcher,0,LAV-LA,4,none
+6009906,Rocket Launcher,0,LAV-LG,4,none
 34003,Rocket Launcher,0,M9 SKEP Launcher,3,none
 85,Rocket Launcher,0,ML-7,3,none
 33002,Rocket Launcher,0,NC15 Phoenix,2,none
@@ -1350,12 +1341,12 @@
 50560,Rocket Launcher,0,NS Decimator,0,none
 802300,Rocket Launcher,0,NS Decimator-B,0,none
 802299,Rocket Launcher,0,NS Decimator-G,0,none
-6010049,Rocket Launcher,0,NS Scorpion,,none
+6010049,Rocket Launcher,0,NS Scorpion,0,none
 6013979,Rocket Launcher,0,"NS-R3 ""Dawnstinger"" Swarm",0,none
 6002637,Rocket Launcher,0,"NS-R3 ""Ravenous"" Swarm",0,none
 802969,Rocket Launcher,0,NS-R3 Swarm,0,none
 804179,Rocket Launcher,0,NSX Masamune,0,none
-6011151,Rocket Launcher,,NSX Muramasa,,none
+6011151,Rocket Launcher,0,NSX Muramasa,0,none
 6005966,Rocket Launcher,0,NSX-A Muramasa,0,none
 266,Rocket Launcher,0,Phoenix AE,2,none
 86,Rocket Launcher,0,S1,1,none
@@ -1371,9 +1362,13 @@
 6009972,Scout Rifle,0,"Artemis ""Hazmat"" VX26",1,infantry
 7372,Scout Rifle,0,Artemis VX26,1,infantry
 6004010,Scout Rifle,0,Artemis VX26 AE,1,infantry
-6010045,Scout Rifle,,BAR-100,,infantry
-6010046,Scout Rifle,,BAR-A75,,infantry
+6010045,Scout Rifle,0,BAR-100,4,infantry
+6010046,Scout Rifle,0,BAR-A75,4,infantry
+1989,Scout Rifle,0,DMR-99,3,infantry
+1984,Scout Rifle,0,GD Guardian,2,infantry
 25007,Scout Rifle,0,HSR-1,3,infantry
+6004216,Scout Rifle,0,MG-HBR1 Dragoon,3,infantry
+6004209,Scout Rifle,0,MGR-M1 Bishop,2,infantry
 6014263,Scout Rifle,0,"NS-30 ""Gungnir"" Vandal",0,infantry
 2311,Scout Rifle,0,NS-30 Vandal,0,infantry
 2312,Scout Rifle,0,NS-30B Vandal,0,infantry
@@ -1381,14 +1376,21 @@
 6009974,Scout Rifle,0,"NSX ""Hazmat"" Tomoe",0,infantry
 6008654,Scout Rifle,0,"NSX ""Ivory"" Tomoe",0,infantry
 6008669,Scout Rifle,0,"NSX ""Networked"" Tomoe",0,infantry
-6011155,Scout Rifle,,NSX Sesshin,,infantry
+6011155,Scout Rifle,0,NSX Sesshin,0,infantry
 804252,Scout Rifle,0,NSX Tomoe,0,infantry
+6005970,Scout Rifle,0,NSX-A Sesshin,4,infantry
 26007,Scout Rifle,0,Nyx VX31,1,infantry
+1994,Scout Rifle,0,Revenant,1,infantry
 7365,Scout Rifle,0,SOAS-20,3,infantry
 6009971,Scout Rifle,0,"SOAS-20 ""Hazmat""",3,infantry
 6004009,Scout Rifle,0,SOAS-20 AE,3,infantry
-6010047,Scout Rifle,,BAR-200,,infantry-explosive
-6011257,Scout Rifle,,BAR-ARX Feynman,,infantry-explosive
+6004214,Scout Rifle,0,VE-LR Obelisk,1,infantry
+25008,Scout Rifle,0,AMR-66,3,infantry-explosive
+6010047,Scout Rifle,0,BAR-200,4,infantry-explosive
+6011257,Scout Rifle,0,BAR-ARX Feynman,4,infantry-explosive
+26008,Scout Rifle,0,Eidolon VE33,1,infantry-explosive
+6009101,Scout Rifle,0,NS-30 Tranquility,0,infantry-explosive
+24008,Scout Rifle,0,Warden,2,infantry-explosive
 4445,Scythe Nose Cannon,1,Antares LC,1,air
 4305,Scythe Nose Cannon,1,Light PPA,1,air
 4302,Scythe Nose Cannon,1,Saron Laser Cannon,1,air
@@ -1405,7 +1407,7 @@
 802322,Shotgun,0,NS Baron G5AE,,none
 1097,Shotgun,0,NS Baron G5B,,none
 1849,Shotgun,0,NS Baron G5G,,none
-6011234,Shotgun,,NS Viscount G6,,none
+6011234,Shotgun,0,NS Viscount G6,,none
 6005713,Shotgun,0,The Little Helper,,none
 40000,Shotgun,0,AF-57 Piston,2,shotgun
 30,Shotgun,0,AS16 NightHawk,3,shotgun
@@ -1414,16 +1416,16 @@
 39000,Shotgun,0,FA1 Barrage,3,shotgun
 40001,Shotgun,0,GD-66 Claw,2,shotgun
 1934,Shotgun,0,Havoc,3,shotgun
-6009908,Shotgun,0,HSG-400,,shotgun
+6009908,Shotgun,0,HSG-400,4,shotgun
 40002,Shotgun,0,LA39 Bruiser,2,shotgun
 128,Shotgun,0,Mauler S6,2,shotgun
 7423,Shotgun,0,NC12 Sweeper,2,shotgun
 129,Shotgun,0,Nova,1,shotgun
 41000,Shotgun,0,Pandora VX25,1,shotgun
 41001,Shotgun,0,Phobos VX86,1,shotgun
-6009910,Shotgun,0,SG-100,,shotgun
-6009909,Shotgun,0,SG-A25,,shotgun
-6011256,Shotgun,,SG-ARX Rutherford,,shotgun
+6009910,Shotgun,0,SG-100,4,shotgun
+6009909,Shotgun,0,SG-A25,4,shotgun
+6011256,Shotgun,0,SG-ARX Rutherford,4,shotgun
 39002,Shotgun,0,TAS-16 Blackjack,3,shotgun
 7441,Shotgun,0,Thanatos VE70,1,shotgun
 1884,Shotgun,0,The Brawler,2,shotgun
@@ -1446,22 +1448,22 @@
 6013051,SMG,0,NS-66 Bumblebee,,infantry
 6009203,SMG,0,NS-66 Punisher,,infantry
 6010117,SMG,0,NS-66 Punisher SE,,infantry
-6013894,SMG,,"NS-7 ""Assassin"" PDW",,infantry
+6013894,SMG,0,"NS-7 ""Assassin"" PDW",,infantry
 6009623,SMG,0,"NS-7 ""Endeavor"" PDW",,infantry
 7494,SMG,0,NS-7 PDW,,infantry
 7495,SMG,0,NS-7B PDW,,infantry
 7496,SMG,0,NS-7G PDW,,infantry
 6008660,SMG,0,"NSX ""Ivory"" Tengu",,infantry
 6008671,SMG,0,"NSX ""Networked"" Tengu",,infantry
-6011153,SMG,,NSX Kappa,,infantry
+6011153,SMG,0,NSX Kappa,,infantry
 804257,SMG,0,NSX Tengu,,infantry
 6005968,SMG,0,NSX-A Kappa,,infantry
 6006239,SMG,0,NSX-P Tengu,,infantry
 28001,SMG,0,PDW-16 Hailstorm,3,infantry
-6009896,SMG,0,PMG-100,,infantry
-6009897,SMG,0,PMG-200,,infantry
-6009898,SMG,0,PMG-3XB,,infantry
-6011253,SMG,,PMG-ARX Schrodinger,,infantry
+6009896,SMG,0,PMG-100,4,infantry
+6009897,SMG,0,PMG-200,4,infantry
+6009898,SMG,0,PMG-3XB,4,infantry
+6011253,SMG,0,PMG-ARX Schrodinger,4,infantry
 6004570,SMG,0,PS1-AV Suppressor,,infantry
 1944,SMG,0,Shuriken,3,infantry
 29001,SMG,0,Sirius SX12,1,infantry
@@ -1497,12 +1499,12 @@
 25004,Sniper Rifle,0,RAMS .50M,3,sniper
 6002745,Sniper Rifle,0,RAMS-AE .50M,3,sniper
 24001,Sniper Rifle,0,SAS-R,2,sniper
-6010510,Sniper Rifle,,SR-100,,sniper
+6010510,Sniper Rifle,0,SR-100,4,sniper
 6013978,Sniper Rifle,0,"SR-100 ""Dawnbreaker""",4,sniper
-6010512,Sniper Rifle,,SR-150,,sniper
+6010512,Sniper Rifle,0,SR-150,4,sniper
 25003,Sniper Rifle,0,SR-7,3,sniper
-6011255,Sniper Rifle,,SR-ARX Einstein,,sniper
-6010511,Sniper Rifle,,SR-L75,,sniper
+6011255,Sniper Rifle,0,SR-ARX Einstein,4,sniper
+6010511,Sniper Rifle,0,SR-L75,4,sniper
 1969,Sniper Rifle,0,The Moonshot,2,sniper
 7316,Sniper Rifle,0,TRAP-M1,3,sniper
 25001,Sniper Rifle,0,TSAR-42,3,sniper
@@ -1522,7 +1524,7 @@
 2801,Sunderer Front Gunner,1,M12 Kobalt,2,gunner
 2802,Sunderer Front Gunner,1,M12 Kobalt,3,gunner
 6005239,Sunderer Front Gunner,1,M12 Kobalt,4,gunner
-6011874,Sunderer Front Gunner,1,M18 Palisade-S,,gunner
+6011874,Sunderer Front Gunner,1,M18 Palisade-S,3,gunner
 2803,Sunderer Front Gunner,1,M20 Basilisk,1,gunner
 2804,Sunderer Front Gunner,1,M20 Basilisk,2,gunner
 2805,Sunderer Front Gunner,1,M20 Basilisk,3,gunner
@@ -1535,9 +1537,9 @@
 2833,Sunderer Front Gunner,1,M60-G Bulldog,2,gunner
 2834,Sunderer Front Gunner,1,M60-G Bulldog,3,gunner
 6005241,Sunderer Front Gunner,1,M60-G Bulldog,4,gunner
-6011872,Sunderer Front Gunner,1,N30 Trawler-S,,gunner
-6011869,Sunderer Front Gunner,1,S2-20 HCG,,gunner
-6011877,Sunderer Front Gunner,1,V42 Pariah-S,,gunner
+6011872,Sunderer Front Gunner,1,N30 Trawler-S,2,gunner
+6011869,Sunderer Front Gunner,1,S2-20 HCG,4,gunner
+6011877,Sunderer Front Gunner,1,V42 Pariah-S,1,gunner
 3083,Sunderer Rear Gunner,1,G30 Walker,1,gunner
 3084,Sunderer Rear Gunner,1,G30 Walker,2,gunner
 3085,Sunderer Rear Gunner,1,G30 Walker,3,gunner
@@ -1550,7 +1552,7 @@
 2807,Sunderer Rear Gunner,1,M12 Kobalt,2,gunner
 2808,Sunderer Rear Gunner,1,M12 Kobalt,3,gunner
 6005240,Sunderer Rear Gunner,1,M12 Kobalt,4,gunner
-6011875,Sunderer Rear Gunner,1,M18 Palisade-S,,gunner
+6011875,Sunderer Rear Gunner,1,M18 Palisade-S,3,gunner
 2809,Sunderer Rear Gunner,1,M20 Basilisk,1,gunner
 2810,Sunderer Rear Gunner,1,M20 Basilisk,2,gunner
 2811,Sunderer Rear Gunner,1,M20 Basilisk,3,gunner
@@ -1563,9 +1565,9 @@
 2836,Sunderer Rear Gunner,1,M60-G Bulldog,2,gunner
 2837,Sunderer Rear Gunner,1,M60-G Bulldog,3,gunner
 6005242,Sunderer Rear Gunner,1,M60-G Bulldog,4,gunner
-6011873,Sunderer Rear Gunner,1,N30 Trawler-S,,gunner
-6011870,Sunderer Rear Gunner,1,S2-20 HCG,,gunner
-6011876,Sunderer Rear Gunner,1,V42 Pariah-S,,gunner
+6011873,Sunderer Rear Gunner,1,N30 Trawler-S,2,gunner
+6011870,Sunderer Rear Gunner,1,S2-20 HCG,4,gunner
+6011876,Sunderer Rear Gunner,1,V42 Pariah-S,1,gunner
 6553,Valkyrie Nose Gunner,1,CAS 14-E,1,none
 6554,Valkyrie Nose Gunner,1,CAS 14-E,2,none
 6555,Valkyrie Nose Gunner,1,CAS 14-E,3,none
@@ -1595,19 +1597,18 @@
 3701,Vanguard Gunner Weapon,1,M12 Kobalt,2,gunner
 3702,Vanguard Gunner Weapon,1,M20 Basilisk,2,gunner
 802899,Vanguard Gunner Weapon,1,M96 Mjolnir,2,gunner
-6011889,Vanguard Gunner Weapon,1,N30 Trawler,,gunner
+6011889,Vanguard Gunner Weapon,1,N30 Trawler,2,gunner
 3756,Vanguard Primary Weapon,1,150mm Titan-R HEAT,2,armor
 6013929,Vanguard Primary Weapon,1,JGX12,2,armor
 6014316,Vanguard Primary Weapon,1,"Titan-150 ""Fafnir"" AP",2,armor
 3730,Vanguard Primary Weapon,1,Titan-150 AP,2,armor
 3700,Vanguard Primary Weapon,1,Titan-150 HEAT,2,armor
 3731,Vanguard Primary Weapon,1,Titan-150 HESH,2,armor
-6013591,Vehicle Abilities,,Catapult System,,none
-6013729,Vehicle Abilities,,Catapult System,,none
-6013730,Vehicle Abilities,,Catapult System,,none
-6013731,Vehicle Abilities,,Catapult System,,none
-6013732,Vehicle Abilities,,Catapult System,,none
-6008733,Vehicle Abilities,1,JVN-MM N.E.S.T.,0,none
+6013591,Vehicle Abilities,1,Catapult System,0,none
+6013729,Vehicle Abilities,1,Catapult System,0,none
+6013730,Vehicle Abilities,1,Catapult System,0,none
+6013731,Vehicle Abilities,1,Catapult System,0,none
+6013732,Vehicle Abilities,1,Catapult System,0,none
 728,Vehicle Weapons,1,,2,
 729,Vehicle Weapons,1,,3,
 731,Vehicle Weapons,1,,2,
