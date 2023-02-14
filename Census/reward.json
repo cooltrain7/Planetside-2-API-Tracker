@@ -2085,6 +2085,16 @@
       "param3": "1"
     },
     {
+      "reward_id": "6002",
+      "reward_type_id": "1",
+      "count_min": "1",
+      "count_max": "1",
+      "param1": "62249",
+      "param2": "0",
+      "param3": "0",
+      "param4": "50"
+    },
+    {
       "reward_id": "6216",
       "reward_type_id": "1",
       "count_min": "1",
@@ -4081,5 +4091,5 @@
       "param3": "0"
     }
   ],
-  "returned": 454
+  "returned": 455
 }

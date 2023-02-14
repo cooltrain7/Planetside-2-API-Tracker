@@ -77845,6 +77845,21 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+      "achievement_id": "92223",
+      "item_id": "100",
+      "objective_group_id": "17593",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Small Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending bases with your Outfit. Conquered facilities must have at least 10 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
+    },
+    {
       "achievement_id": "92224",
       "item_id": "6008686",
       "objective_group_id": "17588",
@@ -78003,6 +78018,51 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "92234",
+      "item_id": "300",
+      "objective_group_id": "17604",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Large Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending large bases with your Outfit. Conquered bases must have at least 20 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
+    },
+    {
+      "achievement_id": "92235",
+      "item_id": "150",
+      "objective_group_id": "17605",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Large Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending large bases with your Outfit. Conquered bases must have at least 20 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
+    },
+    {
+      "achievement_id": "92236",
+      "item_id": "50",
+      "objective_group_id": "17606",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Small Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending bases with your Outfit. Conquered facilities must have at least 10 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
     },
     {
       "achievement_id": "92345",
@@ -85269,6 +85329,19 @@
       "image_path": "/files/ps2/images/static/8326.png"
     },
     {
+      "achievement_id": "92820",
+      "item_id": "0",
+      "objective_group_id": "18714",
+      "reward_id": "6002",
+      "repeatable": "0",
+      "name": {
+        "en": "Title: Bushwhacker"
+      },
+      "description": {
+        "en": "Grants the \"Bushwhacker\" prefix title."
+      }
+    },
+    {
       "achievement_id": "92821",
       "item_id": "6009864",
       "objective_group_id": "18799",
@@ -88762,6 +88835,22 @@
       "image_set_id": "1566",
       "image_id": "3075",
       "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93045",
+      "item_id": "6010078",
+      "objective_group_id": "19137",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "JVN-50 Celeste"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     },
     {
       "achievement_id": "93046",
@@ -96827,6 +96916,51 @@
       "image_path": "/files/ps2/images/static/77759.png"
     },
     {
+      "achievement_id": "93550",
+      "item_id": "0",
+      "objective_group_id": "20230",
+      "repeatable": "0",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "achievement_id": "93551",
+      "item_id": "0",
+      "objective_group_id": "20231",
+      "repeatable": "0",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "achievement_id": "93552",
+      "item_id": "0",
+      "objective_group_id": "20232",
+      "repeatable": "0",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
       "achievement_id": "93554",
       "item_id": "6013950",
       "objective_group_id": "20273",
@@ -99319,5 +99453,5 @@
       "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 6223
+  "returned": 6232
 }

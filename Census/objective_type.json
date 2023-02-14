@@ -153,6 +153,17 @@
       "param9": "Reset On Spawn"
     },
     {
+      "objective_type_id": "38",
+      "description": "Damage Dealt",
+      "param1": "Damage Amount",
+      "param2": "Item",
+      "param3": "Item Classification",
+      "param4": "Resist Type",
+      "param5": "Friendly Fire",
+      "param6": "Headshots Only",
+      "param8": "Use Total Damage"
+    },
+    {
       "objective_type_id": "40",
       "description": "Item Count",
       "param1": "Item",
@@ -234,5 +245,5 @@
       "param5": "Zone ID"
     }
   ],
-  "returned": 28
+  "returned": 29
 }
