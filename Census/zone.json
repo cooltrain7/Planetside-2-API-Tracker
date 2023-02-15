@@ -9,7 +9,9 @@
       },
       "description": {
         "en": "The arid continent of Indar is home to multiple biomes, providing unique challenges for its combatants."
-      }
+      },
+      "geometry_id": "2",
+      "dynamic": "0"
     },
     {
       "zone_id": "4",
@@ -20,7 +22,9 @@
       },
       "description": {
         "en": "Hossin's dense mangrove and willow forests provide air cover along its many swamps and highlands."
-      }
+      },
+      "geometry_id": "4",
+      "dynamic": "0"
     },
     {
       "zone_id": "6",
@@ -31,7 +35,9 @@
       },
       "description": {
         "en": "Amerish's lush groves and rocky outcroppings provide ample cover between its rolling plains and mountain passes."
-      }
+      },
+      "geometry_id": "6",
+      "dynamic": "0"
     },
     {
       "zone_id": "8",
@@ -42,7 +48,62 @@
       },
       "description": {
         "en": "Esamir's expanses of frigid tundra and craggy mountains provide little cover from airborne threats."
-      }
+      },
+      "geometry_id": "8",
+      "dynamic": "0"
+    },
+    {
+      "zone_id": "10",
+      "code": "nexus",
+      "hex_size": "200",
+      "name": {
+        "en": "Nexus"
+      },
+      "description": {
+        "en": "The frigid battle island of Nexus is marked by icy corridors and steep elevation changes."
+      },
+      "geometry_id": "10",
+      "dynamic": "1"
+    },
+    {
+      "zone_id": "11",
+      "code": "Extinction",
+      "hex_size": "200",
+      "name": {
+        "en": "Extinction"
+      },
+      "geometry_id": "11",
+      "dynamic": "1"
+    },
+    {
+      "zone_id": "12",
+      "code": "Desolation",
+      "hex_size": "200",
+      "name": {
+        "en": "Desolation"
+      },
+      "geometry_id": "12",
+      "dynamic": "1"
+    },
+    {
+      "zone_id": "13",
+      "code": "Ascension",
+      "hex_size": "200",
+      "name": {
+        "en": "Ascension"
+      },
+      "geometry_id": "13",
+      "dynamic": "1"
+    },
+    {
+      "zone_id": "95",
+      "code": "VR Tutorial zone",
+      "hex_size": "335",
+      "name": {
+        "en": "VR Tutorial Zone"
+      },
+      "geometry_id": "95",
+      "dynamic": "1"
     },
     {
       "zone_id": "96",
@@ -53,7 +114,9 @@
       },
       "description": {
         "en": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
-      }
+      },
+      "geometry_id": "96",
+      "dynamic": "0"
     },
     {
       "zone_id": "97",
@@ -64,7 +127,9 @@
       },
       "description": {
         "en": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
-      }
+      },
+      "geometry_id": "97",
+      "dynamic": "0"
     },
     {
       "zone_id": "98",
@@ -75,7 +140,22 @@
       },
       "description": {
         "en": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
-      }
+      },
+      "geometry_id": "98",
+      "dynamic": "0"
+    },
+    {
+      "zone_id": "338",
+      "code": "Desolation",
+      "hex_size": "200",
+      "name": {
+        "en": "Desolation"
+      },
+      "description": {
+        "en": "Far from Auraxis, an asteroid belt hides ancient Vanu artifacts, providing more questions than answers."
+      },
+      "geometry_id": "361",
+      "dynamic": "1"
     },
     {
       "zone_id": "344",
@@ -86,8 +166,10 @@
       },
       "description": {
         "en": "Oshur's sandy archipelago and sparkling blue waters provide opportunities for engagement by land, sea, and air."
-      }
+      },
+      "geometry_id": "367",
+      "dynamic": "0"
     }
   ],
-  "returned": 8
+  "returned": 14
 }

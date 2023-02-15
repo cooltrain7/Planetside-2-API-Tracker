@@ -130861,7 +130861,178 @@
       "param2": "1",
       "param3": "-0.113",
       "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "768480",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117535",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "80280",
+      "param5": "1",
+      "string1": "FireMode.EffectGroup"
+    },
+    {
+      "zone_effect_id": "768481",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117535",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-5",
+      "string1": "FireGroup.ProjectileDamageFallOffStart"
+    },
+    {
+      "zone_effect_id": "768482",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117535",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-20",
+      "string1": "FireGroup.ProjectileDamageFallOffEnd"
+    },
+    {
+      "zone_effect_id": "768483",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117535",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-0.15",
+      "string1": "FireGroup.ProjectileSpeedMultiplier"
+    },
+    {
+      "zone_effect_id": "768484",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117535",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "0",
+      "param5": "1",
+      "string1": "FireMode.FireDetectRange"
+    },
+    {
+      "zone_effect_id": "768485",
+      "zone_effect_type_id": "58",
+      "ability_id": "1117535",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "param4": "0",
+      "string1": "BlockSpotOnDamageTaken"
+    },
+    {
+      "zone_effect_id": "768486",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117536",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "80281",
+      "param5": "1",
+      "string1": "FireMode.EffectGroup"
+    },
+    {
+      "zone_effect_id": "768487",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117536",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-5",
+      "string1": "FireGroup.ProjectileDamageFallOffStart"
+    },
+    {
+      "zone_effect_id": "768488",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117536",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-20",
+      "string1": "FireGroup.ProjectileDamageFallOffEnd"
+    },
+    {
+      "zone_effect_id": "768489",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117536",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-0.15",
+      "string1": "FireGroup.ProjectileSpeedMultiplier"
+    },
+    {
+      "zone_effect_id": "768490",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117536",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "0",
+      "param5": "1",
+      "string1": "FireMode.FireDetectRange"
+    },
+    {
+      "zone_effect_id": "768491",
+      "zone_effect_type_id": "58",
+      "ability_id": "1117536",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "param4": "0",
+      "string1": "BlockSpotOnDamageTaken"
+    },
+    {
+      "zone_effect_id": "768492",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117537",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "80282",
+      "param5": "1",
+      "string1": "FireMode.EffectGroup"
+    },
+    {
+      "zone_effect_id": "768493",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117537",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-5",
+      "string1": "FireGroup.ProjectileDamageFallOffStart"
+    },
+    {
+      "zone_effect_id": "768494",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117537",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-20",
+      "string1": "FireGroup.ProjectileDamageFallOffEnd"
+    },
+    {
+      "zone_effect_id": "768495",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117537",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-0.15",
+      "string1": "FireGroup.ProjectileSpeedMultiplier"
+    },
+    {
+      "zone_effect_id": "768496",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117537",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "0",
+      "param5": "1",
+      "string1": "FireMode.FireDetectRange"
+    },
+    {
+      "zone_effect_id": "768497",
+      "zone_effect_type_id": "58",
+      "ability_id": "1117537",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "param4": "0",
+      "string1": "BlockSpotOnDamageTaken"
     }
   ],
-  "returned": 13428
+  "returned": 13446
 }

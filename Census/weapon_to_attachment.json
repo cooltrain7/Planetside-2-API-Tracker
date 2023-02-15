@@ -57741,11 +57741,6 @@
       "item_id": "6009419"
     },
     {
-      "weapon_group_id": "4665",
-      "attachment_id": "82615",
-      "item_id": "6010633"
-    },
-    {
       "weapon_group_id": "4666",
       "attachment_id": "82415",
       "item_id": "6009326"
@@ -67279,6 +67274,11 @@
       "weapon_group_id": "77939",
       "attachment_id": "83906",
       "item_id": "6012023"
+    },
+    {
+      "weapon_group_id": "77940",
+      "attachment_id": "82615",
+      "item_id": "6010633"
     },
     {
       "weapon_group_id": "77943",
