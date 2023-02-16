@@ -1485,6 +1485,326 @@
       "xp": "300"
     },
     {
+      "experience_id": "373",
+      "description": "Vehicle Gunner Kill Share - Infantry",
+      "xp": "50"
+    },
+    {
+      "experience_id": "374",
+      "description": "Vehicle Gunner Kill Share - Flash",
+      "xp": "50"
+    },
+    {
+      "experience_id": "375",
+      "description": "Vehicle Gunner Kill Share - Engineer Turret",
+      "xp": "12"
+    },
+    {
+      "experience_id": "376",
+      "description": "Vehicle Gunner Kill Share - Phalanx",
+      "xp": "50"
+    },
+    {
+      "experience_id": "377",
+      "description": "Vehicle Gunner Kill Share - Drop Pod",
+      "xp": "10"
+    },
+    {
+      "experience_id": "378",
+      "description": "Vehicle Gunner Kill Share - Galaxy",
+      "xp": "200"
+    },
+    {
+      "experience_id": "379",
+      "description": "Vehicle Gunner Kill Share - Liberator",
+      "xp": "250"
+    },
+    {
+      "experience_id": "380",
+      "description": "Vehicle Gunner Kill Share - Lightning",
+      "xp": "200"
+    },
+    {
+      "experience_id": "381",
+      "description": "Vehicle Gunner Kill Share - Magrider",
+      "xp": "250"
+    },
+    {
+      "experience_id": "382",
+      "description": "Vehicle Gunner Kill Share - Mosquito",
+      "xp": "200"
+    },
+    {
+      "experience_id": "383",
+      "description": "Vehicle Gunner Kill Share - Prowler",
+      "xp": "250"
+    },
+    {
+      "experience_id": "384",
+      "description": "Vehicle Gunner Kill Share - Reaver",
+      "xp": "200"
+    },
+    {
+      "experience_id": "385",
+      "description": "Vehicle Gunner Kill Share - Scythe",
+      "xp": "200"
+    },
+    {
+      "experience_id": "386",
+      "description": "Vehicle Gunner Kill Share - Sunderer",
+      "xp": "250"
+    },
+    {
+      "experience_id": "387",
+      "description": "Vehicle Gunner Kill Share - Vanguard",
+      "xp": "250"
+    },
+    {
+      "experience_id": "388",
+      "description": "Vehicle Gunner Kill Share - Harasser",
+      "xp": "150"
+    },
+    {
+      "experience_id": "389",
+      "description": "Vehicle Gunner Kill Assist Share - Infantry",
+      "xp": "25"
+    },
+    {
+      "experience_id": "390",
+      "description": "Vehicle Gunner Kill Assist Share - Flash",
+      "xp": "2"
+    },
+    {
+      "experience_id": "391",
+      "description": "Vehicle Gunner Kill Assist Share - Engi Turret",
+      "xp": "1"
+    },
+    {
+      "experience_id": "392",
+      "description": "Vehicle Gunner Kill Assist Share - Phalanx",
+      "xp": "3"
+    },
+    {
+      "experience_id": "393",
+      "description": "Vehicle Gunner Kill Assist Share - Drop Pod",
+      "xp": "1"
+    },
+    {
+      "experience_id": "394",
+      "description": "Vehicle Gunner Kill Assist Share - Galaxy",
+      "xp": "20"
+    },
+    {
+      "experience_id": "395",
+      "description": "Vehicle Gunner Kill Assist Share - Liberator",
+      "xp": "25"
+    },
+    {
+      "experience_id": "396",
+      "description": "Vehicle Gunner Kill Assist Share - Lightning",
+      "xp": "20"
+    },
+    {
+      "experience_id": "397",
+      "description": "Vehicle Gunner Kill Assist Share - Magrider",
+      "xp": "25"
+    },
+    {
+      "experience_id": "398",
+      "description": "Vehicle Gunner Kill Assist Share - Mosquito",
+      "xp": "20"
+    },
+    {
+      "experience_id": "399",
+      "description": "Vehicle Gunner Kill Assist Share - Prowler",
+      "xp": "25"
+    },
+    {
+      "experience_id": "400",
+      "description": "Vehicle Gunner Kill Assist Share - Reaver",
+      "xp": "20"
+    },
+    {
+      "experience_id": "401",
+      "description": "Vehicle Gunner Kill Assist Share - Scythe",
+      "xp": "20"
+    },
+    {
+      "experience_id": "402",
+      "description": "Vehicle Gunner Kill Assist Share - Sunderer",
+      "xp": "25"
+    },
+    {
+      "experience_id": "403",
+      "description": "Vehicle Gunner Kill Assist Share - Vanguard",
+      "xp": "25"
+    },
+    {
+      "experience_id": "404",
+      "description": "Vehicle Gunner Kill Assist Share - Harasser",
+      "xp": "15"
+    },
+    {
+      "experience_id": "405",
+      "description": "Vehicle Passenger Kill Share - Infantry",
+      "xp": "10"
+    },
+    {
+      "experience_id": "406",
+      "description": "Vehicle Passenger Kill Share - Flash",
+      "xp": "3"
+    },
+    {
+      "experience_id": "407",
+      "description": "Vehicle Passenger Kill Share - Engineer Turret",
+      "xp": "3"
+    },
+    {
+      "experience_id": "408",
+      "description": "Vehicle Passenger Kill Share - Phalanx",
+      "xp": "10"
+    },
+    {
+      "experience_id": "409",
+      "description": "Vehicle Passenger Kill Share - Drop Pod",
+      "xp": "2"
+    },
+    {
+      "experience_id": "410",
+      "description": "Vehicle Passenger Kill Share - Galaxy",
+      "xp": "40"
+    },
+    {
+      "experience_id": "411",
+      "description": "Vehicle Passenger Kill Share - Liberator",
+      "xp": "50"
+    },
+    {
+      "experience_id": "412",
+      "description": "Vehicle Passenger Kill Share - Lightning",
+      "xp": "40"
+    },
+    {
+      "experience_id": "413",
+      "description": "Vehicle Passenger Kill Share - Magrider",
+      "xp": "50"
+    },
+    {
+      "experience_id": "414",
+      "description": "Vehicle Passenger Kill Share - Mosquito",
+      "xp": "40"
+    },
+    {
+      "experience_id": "415",
+      "description": "Vehicle Passenger Kill Share - Prowler",
+      "xp": "50"
+    },
+    {
+      "experience_id": "416",
+      "description": "Vehicle Passenger Kill Share - Reaver",
+      "xp": "40"
+    },
+    {
+      "experience_id": "417",
+      "description": "Vehicle Passenger Kill Share - Scythe",
+      "xp": "40"
+    },
+    {
+      "experience_id": "418",
+      "description": "Vehicle Passenger Kill Share - Sunderer",
+      "xp": "50"
+    },
+    {
+      "experience_id": "419",
+      "description": "Vehicle Passenger Kill Share - Vanguard",
+      "xp": "50"
+    },
+    {
+      "experience_id": "420",
+      "description": "Vehicle Passenger Kill Share - Harasser",
+      "xp": "30"
+    },
+    {
+      "experience_id": "421",
+      "description": "Vehicle Driver Kill Assist Share - Infantry",
+      "xp": "25"
+    },
+    {
+      "experience_id": "422",
+      "description": "Vehicle Driver Kill Assist Share - Flash",
+      "xp": "2"
+    },
+    {
+      "experience_id": "423",
+      "description": "Vehicle Driver Kill Assist Share - Engi Turret",
+      "xp": "1"
+    },
+    {
+      "experience_id": "424",
+      "description": "Vehicle Driver Kill Assist Share - Phalanx",
+      "xp": "3"
+    },
+    {
+      "experience_id": "425",
+      "description": "Vehicle Driver Kill Assist Share - Drop Pod",
+      "xp": "1"
+    },
+    {
+      "experience_id": "426",
+      "description": "Vehicle Driver Kill Assist Share - Galaxy",
+      "xp": "20"
+    },
+    {
+      "experience_id": "427",
+      "description": "Vehicle Driver Kill Assist Share - Liberator",
+      "xp": "25"
+    },
+    {
+      "experience_id": "428",
+      "description": "Vehicle Driver Kill Assist Share - Lightning",
+      "xp": "20"
+    },
+    {
+      "experience_id": "429",
+      "description": "Vehicle Driver Kill Assist Share - Magrider",
+      "xp": "25"
+    },
+    {
+      "experience_id": "430",
+      "description": "Vehicle Driver Kill Assist Share - Mosquito",
+      "xp": "20"
+    },
+    {
+      "experience_id": "431",
+      "description": "Vehicle Driver Kill Assist Share - Prowler",
+      "xp": "25"
+    },
+    {
+      "experience_id": "432",
+      "description": "Vehicle Driver Kill Assist Share - Reaver",
+      "xp": "20"
+    },
+    {
+      "experience_id": "433",
+      "description": "Vehicle Driver Kill Assist Share - Scythe",
+      "xp": "20"
+    },
+    {
+      "experience_id": "434",
+      "description": "Vehicle Driver Kill Assist Share - Sunderer",
+      "xp": "25"
+    },
+    {
+      "experience_id": "435",
+      "description": "Vehicle Driver Kill Assist Share - Vanguard",
+      "xp": "25"
+    },
+    {
+      "experience_id": "436",
+      "description": "Vehicle Driver Kill Assist Share - Harasser",
+      "xp": "15"
+    },
+    {
       "experience_id": "437",
       "description": "Shield Regen Tool Kill",
       "xp": "25"
@@ -1583,6 +1903,26 @@
       "experience_id": "515",
       "description": "Player Kill by Valkyrie Gunner",
       "xp": "75"
+    },
+    {
+      "experience_id": "516",
+      "description": "Vehicle Gunner Kill Share - Valkyrie",
+      "xp": "200"
+    },
+    {
+      "experience_id": "517",
+      "description": "Vehicle Gunner Kill Assist Share - Valkyrie",
+      "xp": "20"
+    },
+    {
+      "experience_id": "518",
+      "description": "Vehicle Passenger Kill Share - Valkyrie",
+      "xp": "40"
+    },
+    {
+      "experience_id": "519",
+      "description": "Vehicle Driver Kill Assist Share - Valkyrie",
+      "xp": "20"
     },
     {
       "experience_id": "520",
@@ -1910,6 +2250,26 @@
       "xp": "30"
     },
     {
+      "experience_id": "587",
+      "description": "Vehicle Gunner Kill Share - Spitfire Turret",
+      "xp": "12"
+    },
+    {
+      "experience_id": "588",
+      "description": "Vehicle Gunner Kill Assist Share - Spitfire Turret",
+      "xp": "1"
+    },
+    {
+      "experience_id": "589",
+      "description": "Vehicle Passenger Kill Share - Spitfire Turret",
+      "xp": "3"
+    },
+    {
+      "experience_id": "590",
+      "description": "Vehicle Driver Kill Assist Share - Engi Turret",
+      "xp": "1"
+    },
+    {
       "experience_id": "591",
       "description": "Kill Dummy NPC",
       "xp": "0"
@@ -2005,6 +2365,26 @@
       "xp": "100"
     },
     {
+      "experience_id": "611",
+      "description": "Gunner Kill Share - Construction - Med",
+      "xp": "75"
+    },
+    {
+      "experience_id": "612",
+      "description": "Gunner Kill Assist Share - Construction - Med",
+      "xp": "10"
+    },
+    {
+      "experience_id": "613",
+      "description": "Vehicle Passenger Kill Share - Construction - Med",
+      "xp": "20"
+    },
+    {
+      "experience_id": "614",
+      "description": "Driver Kill Aassist Share - Construction - Med",
+      "xp": "10"
+    },
+    {
       "experience_id": "615",
       "description": "Vehicle Ram Kill - Construction - Small",
       "xp": "150"
@@ -2038,6 +2418,26 @@
       "experience_id": "622",
       "description": "Squad Spot Kill - Construction - Small",
       "xp": "50"
+    },
+    {
+      "experience_id": "623",
+      "description": "Gunner Kill Share - Construction - Small",
+      "xp": "40"
+    },
+    {
+      "experience_id": "624",
+      "description": "Gunner Kill Assist Share - Construction - Small",
+      "xp": "5"
+    },
+    {
+      "experience_id": "625",
+      "description": "Vehicle Passenger Kill Share - Construction - Small",
+      "xp": "5"
+    },
+    {
+      "experience_id": "626",
+      "description": "Driver Kill Aassist Share - Construction - Small",
+      "xp": "5"
     },
     {
       "experience_id": "627",
@@ -2075,6 +2475,26 @@
       "xp": "150"
     },
     {
+      "experience_id": "635",
+      "description": "Gunner Kill Share - Construction - Large",
+      "xp": "100"
+    },
+    {
+      "experience_id": "636",
+      "description": "Gunner Kill Assist Share - Construction - Large",
+      "xp": "15"
+    },
+    {
+      "experience_id": "637",
+      "description": "Vehicle Passenger Kill Share - Construction - Large",
+      "xp": "25"
+    },
+    {
+      "experience_id": "638",
+      "description": "Driver Kill Aassist Share - Construction - Large",
+      "xp": "15"
+    },
+    {
       "experience_id": "639",
       "description": "Vehicle Ram Kill - Construction - Core",
       "xp": "350"
@@ -2108,6 +2528,26 @@
       "experience_id": "646",
       "description": "Squad Spot Kill - Construction - Core",
       "xp": "150"
+    },
+    {
+      "experience_id": "647",
+      "description": "Gunner Kill Share - Construction - Core",
+      "xp": "100"
+    },
+    {
+      "experience_id": "648",
+      "description": "Gunner Kill Assist Share - Construction - Core",
+      "xp": "15"
+    },
+    {
+      "experience_id": "649",
+      "description": "Vehicle Passenger Kill Share - Construction - Core",
+      "xp": "25"
+    },
+    {
+      "experience_id": "650",
+      "description": "Driver Kill Aassist Share - Construction - Core",
+      "xp": "15"
     },
     {
       "experience_id": "651",
@@ -2183,6 +2623,26 @@
       "experience_id": "666",
       "description": "ANT Kill by Harasser Gunner",
       "xp": "375"
+    },
+    {
+      "experience_id": "667",
+      "description": "Vehicle Gunner Kill Share - ANT",
+      "xp": "250"
+    },
+    {
+      "experience_id": "668",
+      "description": "Vehicle Gunner Kill Assist Share - ANT",
+      "xp": "25"
+    },
+    {
+      "experience_id": "669",
+      "description": "Vehicle Passenger Kill Share - ANT",
+      "xp": "50"
+    },
+    {
+      "experience_id": "670",
+      "description": "Vehicle Driver Kill Assist Share - ANT",
+      "xp": "25"
     },
     {
       "experience_id": "671",
@@ -5395,6 +5855,26 @@
       "xp": "10"
     },
     {
+      "experience_id": "1379",
+      "description": "Vehicle Gunner Kill Share - Hardlight Barrier",
+      "xp": "12"
+    },
+    {
+      "experience_id": "1380",
+      "description": "Vehicle Gunner Kill Assist Share - Hardlight Barrier",
+      "xp": "1"
+    },
+    {
+      "experience_id": "1381",
+      "description": "Vehicle Passenger Kill Share - Hardlight Barrier",
+      "xp": "3"
+    },
+    {
+      "experience_id": "1382",
+      "description": "Vehicle Driver Kill Assist Share - Hardlight Barrier",
+      "xp": "1"
+    },
+    {
       "experience_id": "1383",
       "description": "Destroy Hardlight Barrier HIVE XP (Source)",
       "xp": "5"
@@ -5625,6 +6105,26 @@
       "xp": "750"
     },
     {
+      "experience_id": "1476",
+      "description": "Vehicle Gunner Kill Share - Colossus",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1477",
+      "description": "Vehicle Gunner Kill Assist Share - Colossus",
+      "xp": "25"
+    },
+    {
+      "experience_id": "1478",
+      "description": "Vehicle Passenger Kill Share - Colossus",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1479",
+      "description": "Vehicle Driver Kill Assist Share - Colossus",
+      "xp": "25"
+    },
+    {
       "experience_id": "1480",
       "description": "Vehicle Destruction - Javelin",
       "xp": "100"
@@ -5693,6 +6193,26 @@
       "experience_id": "1494",
       "description": "Javelin Kill by Harasser Gunner",
       "xp": "75"
+    },
+    {
+      "experience_id": "1495",
+      "description": "Vehicle Gunner Kill Share - Javelin",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1496",
+      "description": "Vehicle Gunner Kill Assist Share - Javelin",
+      "xp": "2"
+    },
+    {
+      "experience_id": "1497",
+      "description": "Vehicle Passenger Kill Share - Javelin",
+      "xp": "3"
+    },
+    {
+      "experience_id": "1498",
+      "description": "Vehicle Driver Kill Assist Share - Javelin",
+      "xp": "2"
     },
     {
       "experience_id": "1499",
@@ -5808,6 +6328,26 @@
       "experience_id": "1521",
       "description": "Kill Assist - Bastion Component",
       "xp": "500"
+    },
+    {
+      "experience_id": "1522",
+      "description": "Vehicle Gunner Kill Share - Bastion Component",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1523",
+      "description": "Vehicle Gunner Kill Assist Share - Bastion Component",
+      "xp": "25"
+    },
+    {
+      "experience_id": "1524",
+      "description": "Vehicle Passenger Kill Share - Bastion Component",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1525",
+      "description": "Vehicle Driver Kill Assist Share - Bastion Component",
+      "xp": "25"
     },
     {
       "experience_id": "1526",
@@ -5993,6 +6533,26 @@
       "experience_id": "1565",
       "description": "Vehicle Destruction - Chimera",
       "xp": "500"
+    },
+    {
+      "experience_id": "1566",
+      "description": "Vehicle Driver Kill Assist Share - Chimera",
+      "xp": "25"
+    },
+    {
+      "experience_id": "1567",
+      "description": "Vehicle Gunner Kill Assist Share - Chimera",
+      "xp": "25"
+    },
+    {
+      "experience_id": "1568",
+      "description": "Vehicle Gunner Kill Share - Chimera",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1569",
+      "description": "Vehicle Passenger Kill Share - Chimera",
+      "xp": "50"
     },
     {
       "experience_id": "1570",
@@ -6368,6 +6928,26 @@
       "experience_id": "1649",
       "description": "Dogfighter Bonus - Dervish Kill",
       "xp": "100"
+    },
+    {
+      "experience_id": "1650",
+      "description": "Vehicle Gunner Kill Share - Dervish",
+      "xp": "200"
+    },
+    {
+      "experience_id": "1651",
+      "description": "Vehicle Gunner Kill Assist Share - Dervish",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1652",
+      "description": "Vehicle Passenger Kill Share - Dervish",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1653",
+      "description": "Vehicle Driver Kill Assist Share - Dervish",
+      "xp": "20"
     },
     {
       "experience_id": "1654",
@@ -6770,6 +7350,26 @@
       "xp": "375"
     },
     {
+      "experience_id": "1754",
+      "description": "Vehicle Gunner Kill Share - Prototype Sunderer",
+      "xp": "250"
+    },
+    {
+      "experience_id": "1755",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Sunderer",
+      "xp": "25"
+    },
+    {
+      "experience_id": "1756",
+      "description": "Vehicle Passenger Kill Share - Prototype Sunderer",
+      "xp": "50"
+    },
+    {
+      "experience_id": "1757",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Sunderer",
+      "xp": "25"
+    },
+    {
       "experience_id": "1758",
       "description": "Prototype Sunderer Kill by Valkyrie Gunner",
       "xp": "375"
@@ -7055,6 +7655,26 @@
       "xp": "300"
     },
     {
+      "experience_id": "1820",
+      "description": "Vehicle Gunner Kill Share - Prototype Galaxy",
+      "xp": "200"
+    },
+    {
+      "experience_id": "1821",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Galaxy",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1822",
+      "description": "Vehicle Passenger Kill Share - Prototype Galaxy",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1823",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Galaxy",
+      "xp": "20"
+    },
+    {
       "experience_id": "1824",
       "description": "Prototype Galaxy Kill by Valkyrie Gunner",
       "xp": "300"
@@ -7338,6 +7958,26 @@
       "experience_id": "1882",
       "description": "Prototype Valkyrie Kill by Galaxy Gunner",
       "xp": "300"
+    },
+    {
+      "experience_id": "1883",
+      "description": "Vehicle Gunner Kill Share - Prototype Valkyrie",
+      "xp": "200"
+    },
+    {
+      "experience_id": "1884",
+      "description": "Vehicle Gunner Kill Assist Share - Prototype Valkyrie",
+      "xp": "20"
+    },
+    {
+      "experience_id": "1885",
+      "description": "Vehicle Passenger Kill Share - Prototype Valkyrie",
+      "xp": "40"
+    },
+    {
+      "experience_id": "1886",
+      "description": "Vehicle Driver Kill Assist Share - Prototype Valkyrie",
+      "xp": "20"
     },
     {
       "experience_id": "1887",
@@ -7903,6 +8543,26 @@
       "experience_id": "2004",
       "description": "Tank Hunter Bonus - Corsair Kill",
       "xp": "100"
+    },
+    {
+      "experience_id": "2005",
+      "description": "Vehicle Gunner Kill Share - Corsair",
+      "xp": "250"
+    },
+    {
+      "experience_id": "2006",
+      "description": "Vehicle Gunner Kill Assist Share - Corsair",
+      "xp": "25"
+    },
+    {
+      "experience_id": "2007",
+      "description": "Vehicle Passenger Kill Share - Corsair",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2008",
+      "description": "Vehicle Driver Kill Assist Share - Corsair",
+      "xp": "25"
     },
     {
       "experience_id": "2009",
@@ -8505,5 +9165,5 @@
       "xp": "50"
     }
   ],
-  "returned": 1701
+  "returned": 1833
 }
