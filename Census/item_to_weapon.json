@@ -6462,7 +6462,43 @@
     {
       "item_id": "6014568",
       "weapon_id": "78770"
+    },
+    {
+      "item_id": "6014622",
+      "weapon_id": "78775"
+    },
+    {
+      "item_id": "6014623",
+      "weapon_id": "78776"
+    },
+    {
+      "item_id": "6014624",
+      "weapon_id": "78777"
+    },
+    {
+      "item_id": "6014625",
+      "weapon_id": "78778"
+    },
+    {
+      "item_id": "6014760",
+      "weapon_id": "78651"
+    },
+    {
+      "item_id": "6014761",
+      "weapon_id": "78651"
+    },
+    {
+      "item_id": "6014762",
+      "weapon_id": "78651"
+    },
+    {
+      "item_id": "6014763",
+      "weapon_id": "78651"
+    },
+    {
+      "item_id": "6014764",
+      "weapon_id": "78651"
     }
   ],
-  "returned": 1616
+  "returned": 1625
 }

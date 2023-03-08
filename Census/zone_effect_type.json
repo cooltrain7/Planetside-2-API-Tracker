@@ -145,6 +145,15 @@
       "param1": "FireGroupId"
     },
     {
+      "zone_effect_type_id": "25",
+      "description": "Spawn Npc",
+      "param1": "NpcDefinitionId",
+      "param2": "NpcHeading",
+      "param3": "0 at source, 1 at target, 2 near source, 3 drop",
+      "param4": "NpcDisposition",
+      "param5": "MaxCount"
+    },
+    {
       "zone_effect_type_id": "26",
       "description": "Modify Vehicle Stat",
       "param1": "Info ID (see tooltip)",
@@ -409,5 +418,5 @@
       "string1": "Value Name"
     }
   ],
-  "returned": 56
+  "returned": 57
 }

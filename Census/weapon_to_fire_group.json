@@ -5834,6 +5834,10 @@
       "fire_group_index": "0"
     },
     {
+      "weapon_id": "78651",
+      "fire_group_id": "80812"
+    },
+    {
       "weapon_id": "78656",
       "fire_group_id": "80814",
       "fire_group_index": "0"
@@ -6367,7 +6371,27 @@
       "weapon_id": "78770",
       "fire_group_id": "80948",
       "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78775",
+      "fire_group_id": "80954",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78776",
+      "fire_group_id": "80955",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78777",
+      "fire_group_id": "80956",
+      "fire_group_index": "0"
+    },
+    {
+      "weapon_id": "78778",
+      "fire_group_id": "80957",
+      "fire_group_index": "0"
     }
   ],
-  "returned": 1320
+  "returned": 1325
 }

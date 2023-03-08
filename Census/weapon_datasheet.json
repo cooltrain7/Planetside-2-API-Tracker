@@ -26323,7 +26323,99 @@
       "show_clip_size": "1",
       "show_fire_modes": "1",
       "show_range": "1"
+    },
+    {
+      "item_id": "6014622",
+      "damage": "167",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "2.25",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "100",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "3450",
+      "reload_ms_min": "2500",
+      "reload_ms_max": "7000",
+      "clip_size": "60",
+      "capacity": "300",
+      "range": {
+        "en": "Medium"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014623",
+      "damage": "143",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "3.25",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "86",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "4750",
+      "reload_ms_min": "2500",
+      "reload_ms_max": "7000",
+      "clip_size": "100",
+      "capacity": "500",
+      "range": {
+        "en": "Medium"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014624",
+      "damage": "125",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "2.25",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "70",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "5525",
+      "reload_ms_min": "2500",
+      "reload_ms_max": "7000",
+      "clip_size": "125",
+      "capacity": "375",
+      "range": {
+        "en": "Medium"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014625",
+      "damage": "150",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "2.5",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "100",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "5350",
+      "reload_ms_min": "1250",
+      "reload_ms_max": "3500",
+      "clip_size": "100",
+      "capacity": "300",
+      "range": {
+        "en": "Long"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
     }
   ],
-  "returned": 1255
+  "returned": 1259
 }

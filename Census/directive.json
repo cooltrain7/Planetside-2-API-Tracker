@@ -67169,7 +67169,263 @@
       "image_set_id": "13127",
       "image_id": "13555",
       "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "5275",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9394",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5276",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9395",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5277",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9396",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5278",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9397",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5279",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9398",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5280",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9399",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5281",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9400",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5282",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9401",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5283",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9402",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5284",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9403",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5285",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9404",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5286",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9405",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5287",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9406",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5288",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9407",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5289",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9408",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5290",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9409",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 4351
+  "returned": 4367
 }

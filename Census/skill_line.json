@@ -103588,7 +103588,7 @@
         "en": "Hermes Cloaking"
       },
       "description": {
-        "en": "Cloaks the infiltrator, increases sprint speed, and reduces falling damage. <font color=\"#dc9c36\">Expires at the end of the Campaign.</font>"
+        "en": "Cloaks the infiltrator, increases sprint speed, and reduces falling damage."
       },
       "image_set_id": "2113",
       "image_id": "3682",
@@ -103633,7 +103633,7 @@
         "en": "Repair Drone"
       },
       "description": {
-        "en": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within range passively recover health every second. <font color=\"#dc9c36\">Expires at the end of the Campaign.</font>"
+        "en": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within range passively recover health every second."
       },
       "image_set_id": "806641",
       "image_id": "93425",

@@ -1060,16 +1060,6 @@
       "string1": "FireMode.EffectGroup"
     },
     {
-      "zone_effect_id": "822",
-      "zone_effect_type_id": "8",
-      "ability_id": "874",
-      "param1": "-1",
-      "param2": "-1",
-      "param3": "26101",
-      "param5": "1",
-      "string1": "FireMode.EffectGroup"
-    },
-    {
       "zone_effect_id": "827",
       "zone_effect_type_id": "8",
       "ability_id": "875",
@@ -1924,33 +1914,6 @@
       "zone_effect_id": "1080",
       "zone_effect_type_id": "8",
       "ability_id": "880",
-      "param1": "-1",
-      "param2": "-1",
-      "param3": "-0.15",
-      "string1": "FireGroup.ProjectileSpeedMultiplier"
-    },
-    {
-      "zone_effect_id": "1081",
-      "zone_effect_type_id": "8",
-      "ability_id": "874",
-      "param1": "-1",
-      "param2": "-1",
-      "param3": "-5",
-      "string1": "FireGroup.ProjectileDamageFallOffStart"
-    },
-    {
-      "zone_effect_id": "1082",
-      "zone_effect_type_id": "8",
-      "ability_id": "874",
-      "param1": "-1",
-      "param2": "-1",
-      "param3": "-20",
-      "string1": "FireGroup.ProjectileDamageFallOffEnd"
-    },
-    {
-      "zone_effect_id": "1083",
-      "zone_effect_type_id": "8",
-      "ability_id": "874",
       "param1": "-1",
       "param2": "-1",
       "param3": "-0.15",
@@ -17574,16 +17537,6 @@
       "zone_effect_id": "6318",
       "zone_effect_type_id": "8",
       "ability_id": "880",
-      "param1": "-1",
-      "param2": "-1",
-      "param3": "0",
-      "param5": "1",
-      "string1": "FireMode.FireDetectRange"
-    },
-    {
-      "zone_effect_id": "6319",
-      "zone_effect_type_id": "8",
-      "ability_id": "874",
       "param1": "-1",
       "param2": "-1",
       "param3": "0",
@@ -61057,16 +61010,6 @@
       "zone_effect_id": "90080",
       "zone_effect_type_id": "58",
       "ability_id": "873",
-      "param1": "0",
-      "param2": "1",
-      "param3": "1",
-      "param4": "0",
-      "string1": "BlockSpotOnDamageTaken"
-    },
-    {
-      "zone_effect_id": "90081",
-      "zone_effect_type_id": "58",
-      "ability_id": "874",
       "param1": "0",
       "param2": "1",
       "param3": "1",
@@ -112071,7 +112014,7 @@
       "ability_id": "1116513",
       "param1": "-1",
       "param2": "-1",
-      "param3": "24100",
+      "param3": "80286",
       "param5": "1",
       "string1": "FireMode.EffectGroup"
     },
@@ -117387,6 +117330,99 @@
       "string1": "FireMode.HeadshotMultiplier"
     },
     {
+      "zone_effect_id": "766234",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116801",
+      "param1": "815"
+    },
+    {
+      "zone_effect_id": "766236",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116802",
+      "param1": "19"
+    },
+    {
+      "zone_effect_id": "766237",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116802",
+      "param1": "20"
+    },
+    {
+      "zone_effect_id": "766238",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116802",
+      "param1": "21"
+    },
+    {
+      "zone_effect_id": "766239",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116802",
+      "param1": "1"
+    },
+    {
+      "zone_effect_id": "766240",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116802",
+      "param1": "8"
+    },
+    {
+      "zone_effect_id": "766241",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116802",
+      "param1": "22"
+    },
+    {
+      "zone_effect_id": "766242",
+      "zone_effect_type_id": "23",
+      "ability_id": "1116802",
+      "param1": "3"
+    },
+    {
+      "zone_effect_id": "766243",
+      "zone_effect_type_id": "424",
+      "ability_id": "1116802",
+      "param1": "0.25",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766244",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116802",
+      "param1": "90"
+    },
+    {
+      "zone_effect_id": "766245",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116802",
+      "param2": "20",
+      "string1": "StatId.SprintSpeedModifier"
+    },
+    {
+      "zone_effect_id": "766246",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116802",
+      "param1": "35"
+    },
+    {
+      "zone_effect_id": "766247",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116802",
+      "param1": "5779",
+      "param2": "0"
+    },
+    {
       "zone_effect_id": "766257",
       "zone_effect_type_id": "8",
       "ability_id": "1116805",
@@ -117468,6 +117504,473 @@
       "string1": "FireMode.FirstPersonOffsetX"
     },
     {
+      "zone_effect_id": "766266",
+      "zone_effect_type_id": "25",
+      "ability_id": "1116807",
+      "param1": "54397",
+      "param2": "0",
+      "param3": "0",
+      "param4": "2",
+      "param5": "1",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766275",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116812",
+      "param1": "816"
+    },
+    {
+      "zone_effect_id": "766276",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116813",
+      "param1": "817"
+    },
+    {
+      "zone_effect_id": "766277",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116814",
+      "param1": "818"
+    },
+    {
+      "zone_effect_id": "766278",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116815",
+      "param1": "819"
+    },
+    {
+      "zone_effect_id": "766279",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116816",
+      "param1": "19"
+    },
+    {
+      "zone_effect_id": "766280",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116816",
+      "param1": "20"
+    },
+    {
+      "zone_effect_id": "766281",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116816",
+      "param1": "21"
+    },
+    {
+      "zone_effect_id": "766282",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116816",
+      "param1": "1"
+    },
+    {
+      "zone_effect_id": "766283",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116816",
+      "param1": "8"
+    },
+    {
+      "zone_effect_id": "766284",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116816",
+      "param1": "22"
+    },
+    {
+      "zone_effect_id": "766285",
+      "zone_effect_type_id": "23",
+      "ability_id": "1116816",
+      "param1": "3"
+    },
+    {
+      "zone_effect_id": "766286",
+      "zone_effect_type_id": "424",
+      "ability_id": "1116816",
+      "param1": "0.25",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766287",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116816",
+      "param1": "90"
+    },
+    {
+      "zone_effect_id": "766288",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116816",
+      "param2": "20",
+      "string1": "StatId.SprintSpeedModifier"
+    },
+    {
+      "zone_effect_id": "766289",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116816",
+      "param1": "35"
+    },
+    {
+      "zone_effect_id": "766290",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116816",
+      "param1": "5779",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766291",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116817",
+      "param1": "19"
+    },
+    {
+      "zone_effect_id": "766292",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116817",
+      "param1": "20"
+    },
+    {
+      "zone_effect_id": "766293",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116817",
+      "param1": "21"
+    },
+    {
+      "zone_effect_id": "766294",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116817",
+      "param1": "1"
+    },
+    {
+      "zone_effect_id": "766295",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116817",
+      "param1": "8"
+    },
+    {
+      "zone_effect_id": "766296",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116817",
+      "param1": "22"
+    },
+    {
+      "zone_effect_id": "766297",
+      "zone_effect_type_id": "23",
+      "ability_id": "1116817",
+      "param1": "3"
+    },
+    {
+      "zone_effect_id": "766298",
+      "zone_effect_type_id": "424",
+      "ability_id": "1116817",
+      "param1": "0.25",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766299",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116817",
+      "param1": "90"
+    },
+    {
+      "zone_effect_id": "766300",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116817",
+      "param2": "20",
+      "string1": "StatId.SprintSpeedModifier"
+    },
+    {
+      "zone_effect_id": "766301",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116817",
+      "param1": "35"
+    },
+    {
+      "zone_effect_id": "766302",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116817",
+      "param1": "5779",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766303",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116818",
+      "param1": "19"
+    },
+    {
+      "zone_effect_id": "766304",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116818",
+      "param1": "20"
+    },
+    {
+      "zone_effect_id": "766305",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116818",
+      "param1": "21"
+    },
+    {
+      "zone_effect_id": "766306",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116818",
+      "param1": "1"
+    },
+    {
+      "zone_effect_id": "766307",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116818",
+      "param1": "8"
+    },
+    {
+      "zone_effect_id": "766308",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116818",
+      "param1": "22"
+    },
+    {
+      "zone_effect_id": "766309",
+      "zone_effect_type_id": "23",
+      "ability_id": "1116818",
+      "param1": "3"
+    },
+    {
+      "zone_effect_id": "766310",
+      "zone_effect_type_id": "424",
+      "ability_id": "1116818",
+      "param1": "0.25",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766311",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116818",
+      "param1": "90"
+    },
+    {
+      "zone_effect_id": "766312",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116818",
+      "param2": "20",
+      "string1": "StatId.SprintSpeedModifier"
+    },
+    {
+      "zone_effect_id": "766313",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116818",
+      "param1": "35"
+    },
+    {
+      "zone_effect_id": "766314",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116818",
+      "param1": "5779",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766315",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116819",
+      "param1": "19"
+    },
+    {
+      "zone_effect_id": "766316",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116819",
+      "param1": "20"
+    },
+    {
+      "zone_effect_id": "766317",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116819",
+      "param1": "21"
+    },
+    {
+      "zone_effect_id": "766318",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116819",
+      "param1": "1"
+    },
+    {
+      "zone_effect_id": "766319",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116819",
+      "param1": "8"
+    },
+    {
+      "zone_effect_id": "766320",
+      "zone_effect_type_id": "22",
+      "ability_id": "1116819",
+      "param1": "22"
+    },
+    {
+      "zone_effect_id": "766321",
+      "zone_effect_type_id": "23",
+      "ability_id": "1116819",
+      "param1": "3"
+    },
+    {
+      "zone_effect_id": "766322",
+      "zone_effect_type_id": "424",
+      "ability_id": "1116819",
+      "param1": "0.25",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766323",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116819",
+      "param1": "90"
+    },
+    {
+      "zone_effect_id": "766324",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116819",
+      "param2": "25",
+      "string1": "StatId.SprintSpeedModifier"
+    },
+    {
+      "zone_effect_id": "766325",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116819",
+      "param1": "35"
+    },
+    {
+      "zone_effect_id": "766326",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116819",
+      "param1": "5779",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766339",
+      "zone_effect_type_id": "25",
+      "ability_id": "1116824",
+      "param1": "54398",
+      "param2": "0",
+      "param3": "0",
+      "param4": "2",
+      "param5": "1",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766340",
+      "zone_effect_type_id": "25",
+      "ability_id": "1116825",
+      "param1": "54399",
+      "param2": "0",
+      "param3": "0",
+      "param4": "2",
+      "param5": "1",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766341",
+      "zone_effect_type_id": "25",
+      "ability_id": "1116826",
+      "param1": "54400",
+      "param2": "0",
+      "param3": "0",
+      "param4": "2",
+      "param5": "1",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766342",
+      "zone_effect_type_id": "25",
+      "ability_id": "1116827",
+      "param1": "54401",
+      "param2": "0",
+      "param3": "0",
+      "param4": "2",
+      "param5": "1",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
       "zone_effect_id": "766349",
       "zone_effect_type_id": "26",
       "ability_id": "1116829",
@@ -117484,6 +117987,698 @@
       "param13": "0",
       "param14": "0",
       "string1": "VehicleInfo.MovingEffect"
+    },
+    {
+      "zone_effect_id": "766350",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5781",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766351",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5788",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766352",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5782",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766353",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5783",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766354",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5784",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766355",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5785",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766356",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5786",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766357",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116830",
+      "param1": "1",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766358",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116830",
+      "param1": "8",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766359",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116830",
+      "param1": "9",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766360",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5789"
+    },
+    {
+      "zone_effect_id": "766361",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5787",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766362",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116830",
+      "param1": "-1",
+      "param2": "0",
+      "param3": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766363",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5790",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766364",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5791",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766365",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5792",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766366",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5793",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766367",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5794",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766368",
+      "zone_effect_type_id": "37",
+      "ability_id": "1116830",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "766369",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116830",
+      "param1": "9",
+      "param2": "0.024",
+      "param3": "0.016",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766370",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116830",
+      "param1": "9",
+      "param2": "0.02304",
+      "param3": "0.0144",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766371",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116830",
+      "param1": "9",
+      "param2": "0.02144",
+      "param3": "0.0112",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766372",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116830",
+      "param1": "9",
+      "param2": "0.0192",
+      "param3": "0.0064",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766373",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116830",
+      "param1": "-0.85",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766374",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116830",
+      "param1": "-0.83",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766375",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116830",
+      "param1": "-0.8",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766376",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116830",
+      "param1": "-0.75",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766377",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116830",
+      "param1": "0.1625",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.SprintSpeedModifier"
+    },
+    {
+      "zone_effect_id": "766378",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116830",
+      "param1": "5795",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766379",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5781",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766380",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5788",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766381",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5782",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766382",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5783",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766383",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5784",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766384",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5785",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766385",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5786",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766386",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116831",
+      "param1": "1",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766387",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116831",
+      "param1": "8",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766388",
+      "zone_effect_type_id": "7",
+      "ability_id": "1116831",
+      "param1": "9",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766389",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5789"
+    },
+    {
+      "zone_effect_id": "766390",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5787",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766391",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116831",
+      "param1": "-1",
+      "param2": "0",
+      "param3": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766392",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5790",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766393",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5791",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766394",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5792",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766395",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5793",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766396",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5794",
+      "param2": "0"
+    },
+    {
+      "zone_effect_id": "766397",
+      "zone_effect_type_id": "37",
+      "ability_id": "1116831",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "766398",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116831",
+      "param1": "9",
+      "param2": "0.024",
+      "param3": "0.016",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766399",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116831",
+      "param1": "9",
+      "param2": "0.02304",
+      "param3": "0.0144",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766400",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116831",
+      "param1": "9",
+      "param2": "0.02144",
+      "param3": "0.0112",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766401",
+      "zone_effect_type_id": "62",
+      "ability_id": "1116831",
+      "param1": "9",
+      "param2": "0.0192",
+      "param3": "0.0064",
+      "param4": "1000",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766402",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116831",
+      "param1": "-0.85",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766403",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116831",
+      "param1": "-0.83",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766404",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116831",
+      "param1": "-0.8",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766405",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116831",
+      "param1": "-0.75",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.MaxMovementSpeed"
+    },
+    {
+      "zone_effect_id": "766406",
+      "zone_effect_type_id": "18",
+      "ability_id": "1116831",
+      "param1": "0.1625",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.SprintSpeedModifier"
+    },
+    {
+      "zone_effect_id": "766407",
+      "zone_effect_type_id": "33",
+      "ability_id": "1116831",
+      "param1": "5795",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "766409",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116833",
+      "param1": "822"
+    },
+    {
+      "zone_effect_id": "766410",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116834",
+      "param1": "823"
+    },
+    {
+      "zone_effect_id": "766411",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116835",
+      "param1": "824"
+    },
+    {
+      "zone_effect_id": "766412",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116836",
+      "param1": "825"
+    },
+    {
+      "zone_effect_id": "766413",
+      "zone_effect_type_id": "9",
+      "ability_id": "1116837",
+      "param1": "826"
     },
     {
       "zone_effect_id": "766424",
@@ -129536,6 +130731,101 @@
       "param14": "0"
     },
     {
+      "zone_effect_id": "768295",
+      "zone_effect_type_id": "37",
+      "ability_id": "1116802",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "768296",
+      "zone_effect_type_id": "37",
+      "ability_id": "1116816",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "768297",
+      "zone_effect_type_id": "37",
+      "ability_id": "1116817",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "768298",
+      "zone_effect_type_id": "37",
+      "ability_id": "1116818",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "768299",
+      "zone_effect_type_id": "37",
+      "ability_id": "1116819",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
       "zone_effect_id": "768300",
       "zone_effect_type_id": "37",
       "ability_id": "124",
@@ -131032,7 +132322,325 @@
       "param3": "1",
       "param4": "0",
       "string1": "BlockSpotOnDamageTaken"
+    },
+    {
+      "zone_effect_id": "768518",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117553",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "80283",
+      "param5": "1",
+      "string1": "FireMode.EffectGroup"
+    },
+    {
+      "zone_effect_id": "768519",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117553",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-5",
+      "string1": "FireGroup.ProjectileDamageFallOffStart"
+    },
+    {
+      "zone_effect_id": "768520",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117553",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-20",
+      "string1": "FireGroup.ProjectileDamageFallOffEnd"
+    },
+    {
+      "zone_effect_id": "768521",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117553",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-0.15",
+      "string1": "FireGroup.ProjectileSpeedMultiplier"
+    },
+    {
+      "zone_effect_id": "768522",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117553",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "0",
+      "param5": "1",
+      "string1": "FireMode.FireDetectRange"
+    },
+    {
+      "zone_effect_id": "768523",
+      "zone_effect_type_id": "58",
+      "ability_id": "1117553",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "param4": "0",
+      "string1": "BlockSpotOnDamageTaken"
+    },
+    {
+      "zone_effect_id": "768526",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117555",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "80284",
+      "param5": "1",
+      "string1": "FireMode.EffectGroup"
+    },
+    {
+      "zone_effect_id": "768527",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117555",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-5",
+      "string1": "FireGroup.ProjectileDamageFallOffStart"
+    },
+    {
+      "zone_effect_id": "768528",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117555",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-20",
+      "string1": "FireGroup.ProjectileDamageFallOffEnd"
+    },
+    {
+      "zone_effect_id": "768529",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117555",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-0.15",
+      "string1": "FireGroup.ProjectileSpeedMultiplier"
+    },
+    {
+      "zone_effect_id": "768530",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117555",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "0",
+      "param5": "1",
+      "string1": "FireMode.FireDetectRange"
+    },
+    {
+      "zone_effect_id": "768531",
+      "zone_effect_type_id": "58",
+      "ability_id": "1117555",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "param4": "0",
+      "string1": "BlockSpotOnDamageTaken"
+    },
+    {
+      "zone_effect_id": "768532",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117556",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "80285",
+      "param5": "1",
+      "string1": "FireMode.EffectGroup"
+    },
+    {
+      "zone_effect_id": "768533",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117556",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-5",
+      "string1": "FireGroup.ProjectileDamageFallOffStart"
+    },
+    {
+      "zone_effect_id": "768534",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117556",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-20",
+      "string1": "FireGroup.ProjectileDamageFallOffEnd"
+    },
+    {
+      "zone_effect_id": "768535",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117556",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-0.15",
+      "string1": "FireGroup.ProjectileSpeedMultiplier"
+    },
+    {
+      "zone_effect_id": "768536",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117556",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "0",
+      "param5": "1",
+      "string1": "FireMode.FireDetectRange"
+    },
+    {
+      "zone_effect_id": "768537",
+      "zone_effect_type_id": "58",
+      "ability_id": "1117556",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "param4": "0",
+      "string1": "BlockSpotOnDamageTaken"
+    },
+    {
+      "zone_effect_id": "768541",
+      "zone_effect_type_id": "4",
+      "ability_id": "1117559",
+      "param1": "75",
+      "param2": "14",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param12": "0"
+    },
+    {
+      "zone_effect_id": "768542",
+      "zone_effect_type_id": "9",
+      "ability_id": "1117560",
+      "param1": "870"
+    },
+    {
+      "zone_effect_id": "768543",
+      "zone_effect_type_id": "9",
+      "ability_id": "1117561",
+      "param1": "871"
+    },
+    {
+      "zone_effect_id": "768544",
+      "zone_effect_type_id": "9",
+      "ability_id": "1117562",
+      "param1": "872"
+    },
+    {
+      "zone_effect_id": "768545",
+      "zone_effect_type_id": "9",
+      "ability_id": "1117563",
+      "param1": "873"
+    },
+    {
+      "zone_effect_id": "768546",
+      "zone_effect_type_id": "9",
+      "ability_id": "1117564",
+      "param1": "874"
+    },
+    {
+      "zone_effect_id": "768557",
+      "zone_effect_type_id": "4",
+      "ability_id": "1117571",
+      "param1": "75",
+      "param2": "14",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param12": "0"
+    },
+    {
+      "zone_effect_id": "768558",
+      "zone_effect_type_id": "4",
+      "ability_id": "1117572",
+      "param1": "75",
+      "param2": "14",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param12": "0"
+    },
+    {
+      "zone_effect_id": "768559",
+      "zone_effect_type_id": "4",
+      "ability_id": "1117573",
+      "param1": "75",
+      "param2": "14",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param12": "0"
+    },
+    {
+      "zone_effect_id": "768560",
+      "zone_effect_type_id": "4",
+      "ability_id": "1117574",
+      "param1": "75",
+      "param2": "16",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param12": "0"
+    },
+    {
+      "zone_effect_id": "768562",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117575",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "80287",
+      "param5": "1",
+      "string1": "FireMode.EffectGroup"
+    },
+    {
+      "zone_effect_id": "768563",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117575",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-5",
+      "string1": "FireGroup.ProjectileDamageFallOffStart"
+    },
+    {
+      "zone_effect_id": "768564",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117575",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-20",
+      "string1": "FireGroup.ProjectileDamageFallOffEnd"
+    },
+    {
+      "zone_effect_id": "768565",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117575",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "-0.15",
+      "string1": "FireGroup.ProjectileSpeedMultiplier"
+    },
+    {
+      "zone_effect_id": "768566",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117575",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "0",
+      "param5": "1",
+      "string1": "FireMode.FireDetectRange"
+    },
+    {
+      "zone_effect_id": "768567",
+      "zone_effect_type_id": "58",
+      "ability_id": "1117575",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "param4": "0",
+      "string1": "BlockSpotOnDamageTaken"
     }
   ],
-  "returned": 13446
+  "returned": 13612
 }

@@ -99451,7 +99451,327 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93782",
+      "item_id": "6014622",
+      "objective_group_id": "20772",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8009",
+      "image_id": "8314",
+      "image_path": "/files/ps2/images/static/8314.png"
+    },
+    {
+      "achievement_id": "93783",
+      "item_id": "6014622",
+      "objective_group_id": "20773",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93784",
+      "item_id": "6014622",
+      "objective_group_id": "20774",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93785",
+      "item_id": "6014622",
+      "objective_group_id": "20775",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93786",
+      "item_id": "6014622",
+      "objective_group_id": "20776",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "VE-H \"Jackpot\" Maw"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93787",
+      "item_id": "6014623",
+      "objective_group_id": "20777",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8009",
+      "image_id": "8314",
+      "image_path": "/files/ps2/images/static/8314.png"
+    },
+    {
+      "achievement_id": "93788",
+      "item_id": "6014623",
+      "objective_group_id": "20778",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93789",
+      "item_id": "6014623",
+      "objective_group_id": "20779",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93790",
+      "item_id": "6014623",
+      "objective_group_id": "20780",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93791",
+      "item_id": "6014623",
+      "objective_group_id": "20781",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "MGR-L1 \"Jackpot\" Promise"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93792",
+      "item_id": "6014624",
+      "objective_group_id": "20782",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8009",
+      "image_id": "8314",
+      "image_path": "/files/ps2/images/static/8314.png"
+    },
+    {
+      "achievement_id": "93793",
+      "item_id": "6014624",
+      "objective_group_id": "20783",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93794",
+      "item_id": "6014624",
+      "objective_group_id": "20784",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93795",
+      "item_id": "6014624",
+      "objective_group_id": "20785",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93796",
+      "item_id": "6014624",
+      "objective_group_id": "20786",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "MG-H1 \"Jackpot\" Watchman"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93797",
+      "item_id": "6014625",
+      "objective_group_id": "20787",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8009",
+      "image_id": "8314",
+      "image_path": "/files/ps2/images/static/8314.png"
+    },
+    {
+      "achievement_id": "93798",
+      "item_id": "6014625",
+      "objective_group_id": "20788",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93799",
+      "item_id": "6014625",
+      "objective_group_id": "20789",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93800",
+      "item_id": "6014625",
+      "objective_group_id": "20790",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93801",
+      "item_id": "6014625",
+      "objective_group_id": "20791",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Jackpot\" XMG-155"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 6232
+  "returned": 6252
 }

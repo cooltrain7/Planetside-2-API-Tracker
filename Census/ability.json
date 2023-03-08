@@ -1942,11 +1942,6 @@
       "flag_toggle": "0"
     },
     {
-      "ability_id": "874",
-      "ability_type_id": "3",
-      "flag_toggle": "0"
-    },
-    {
       "ability_id": "875",
       "ability_type_id": "3",
       "radius_max": "0",
@@ -27493,6 +27488,20 @@
       "param1": "0"
     },
     {
+      "ability_id": "1116801",
+      "ability_type_id": "6",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116802",
+      "ability_type_id": "6",
+      "next_use_delay_msec": "500",
+      "resource_type_id": "35",
+      "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.030769231",
+      "flag_toggle": "1"
+    },
+    {
       "ability_id": "1116805",
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
@@ -27503,6 +27512,157 @@
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116807",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1116812",
+      "ability_type_id": "6",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116813",
+      "ability_type_id": "6",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116814",
+      "ability_type_id": "6",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116815",
+      "ability_type_id": "6",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116816",
+      "ability_type_id": "6",
+      "next_use_delay_msec": "500",
+      "resource_type_id": "35",
+      "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.028571429",
+      "flag_toggle": "1"
+    },
+    {
+      "ability_id": "1116817",
+      "ability_type_id": "6",
+      "next_use_delay_msec": "500",
+      "resource_type_id": "35",
+      "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.026666667",
+      "flag_toggle": "1"
+    },
+    {
+      "ability_id": "1116818",
+      "ability_type_id": "6",
+      "next_use_delay_msec": "500",
+      "resource_type_id": "35",
+      "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.025",
+      "flag_toggle": "1"
+    },
+    {
+      "ability_id": "1116819",
+      "ability_type_id": "6",
+      "next_use_delay_msec": "500",
+      "resource_type_id": "35",
+      "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.023529412",
+      "flag_toggle": "1"
+    },
+    {
+      "ability_id": "1116824",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1116825",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1116826",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1116827",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
     },
     {
       "ability_id": "1116829",
@@ -27522,6 +27682,49 @@
       "param12": "0",
       "param13": "0",
       "param14": "0"
+    },
+    {
+      "ability_id": "1116830",
+      "ability_type_id": "10",
+      "resource_type_id": "9",
+      "resource_first_cost": "10",
+      "resource_cost_per_msec": "0.032",
+      "radius_max": "6",
+      "flag_toggle": "1"
+    },
+    {
+      "ability_id": "1116831",
+      "ability_type_id": "10",
+      "resource_type_id": "9",
+      "resource_first_cost": "10",
+      "resource_cost_per_msec": "0.032",
+      "radius_max": "7",
+      "flag_toggle": "1"
+    },
+    {
+      "ability_id": "1116833",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116834",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116835",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116836",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1116837",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
     },
     {
       "ability_id": "1116842",
@@ -31197,7 +31400,141 @@
       "ability_id": "1117537",
       "ability_type_id": "3",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117553",
+      "ability_type_id": "3",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "0",
+      "string2": "0",
+      "string3": "0",
+      "string4": "0"
+    },
+    {
+      "ability_id": "1117555",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117556",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117559",
+      "ability_type_id": "7",
+      "resource_type_id": "38",
+      "resource_first_cost": "9999",
+      "resource_cost_per_msec": "0.916666667",
+      "distance_max": "14",
+      "radius_max": "14",
+      "flag_toggle": "1",
+      "param1": "0"
+    },
+    {
+      "ability_id": "1117560",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117561",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117562",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117563",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117564",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117571",
+      "ability_type_id": "7",
+      "resource_type_id": "38",
+      "resource_first_cost": "9999",
+      "resource_cost_per_msec": "0.942982456",
+      "distance_max": "14",
+      "radius_max": "14",
+      "flag_toggle": "1",
+      "param1": "0"
+    },
+    {
+      "ability_id": "1117572",
+      "ability_type_id": "7",
+      "resource_type_id": "38",
+      "resource_first_cost": "9999",
+      "resource_cost_per_msec": "0.972222222",
+      "distance_max": "14",
+      "radius_max": "14",
+      "flag_toggle": "1",
+      "param1": "0"
+    },
+    {
+      "ability_id": "1117573",
+      "ability_type_id": "7",
+      "resource_type_id": "38",
+      "resource_first_cost": "9999",
+      "resource_cost_per_msec": "1.004901961",
+      "distance_max": "14",
+      "radius_max": "14",
+      "flag_toggle": "1",
+      "param1": "0"
+    },
+    {
+      "ability_id": "1117574",
+      "ability_type_id": "7",
+      "resource_type_id": "38",
+      "resource_first_cost": "9999",
+      "resource_cost_per_msec": "1.041666667",
+      "distance_max": "16",
+      "radius_max": "16",
+      "flag_toggle": "1",
+      "param1": "0"
+    },
+    {
+      "ability_id": "1117575",
+      "ability_type_id": "3",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "0",
+      "string2": "0",
+      "string3": "0",
+      "string4": "0"
     }
   ],
-  "returned": 5169
+  "returned": 5204
 }
