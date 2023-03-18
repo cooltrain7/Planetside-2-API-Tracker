@@ -586,6 +586,11 @@
 6004560,Infantry Abilities,0,Meteorite,,
 6013328,Infantry Abilities,0,NS NanoCaster,0,
 6005102,Infantry Abilities,0,Pumpking Slayer,,
+6014760,Infantry Abilities,0,Repair Drone 1,4,
+6014761,Infantry Abilities,0,Repair Drone 2,4,
+6014762,Infantry Abilities,0,Repair Drone 3,4,
+6014763,Infantry Abilities,0,Repair Drone 4,4,
+6014764,Infantry Abilities,0,Repair Drone 5,4,
 310,Infantry Abilities,0,Stealth Test,2,
 6009595,Infantry Abilities,,Trick or Treat!,,
 200,Infantry Abilities,0,Anti-Infantry MANA Turret,2,infantry
@@ -1142,6 +1147,7 @@
 3107,Lightning Primary Weapon,1,Skyguard,2,armor
 3108,Lightning Primary Weapon,1,Skyguard,3,armor
 6005303,Lightning Primary Weapon,1,Skyguard,4,armor
+6014625,LMG,0,"""Jackpot"" XMG-155",4,infantry
 6011563,LMG,0,"""Treasured"" LA-1 Anchor",2,infantry
 6011564,LMG,0,"""Treasured"" MSW-R",3,infantry
 6011562,LMG,0,"""Treasured"" Orion VS54",1,infantry
@@ -1153,8 +1159,10 @@
 7233,LMG,0,GD-22S,2,infantry
 7236,LMG,0,LA1 Anchor,2,infantry
 6006299,LMG,0,LA1 Service Anchor,2,infantry
+6014624,LMG,0,"MG-H1 ""Jackpot"" Watchman",3,infantry
 6004120,LMG,0,MG-H1 Watchman,3,infantry
 6005331,LMG,0,MG-H1 Watchman AE,3,infantry
+6014623,LMG,0,"MGR-L1 ""Jackpot"" Promise",2,infantry
 6004218,LMG,0,MGR-L1 Promise,2,infantry
 6005330,LMG,0,MGR-L1 Promise AE,2,infantry
 7254,LMG,0,MSW-R,3,infantry
@@ -1185,6 +1193,7 @@
 1924,LMG,0,"T9A ""Butcher""",3,infantry
 7256,LMG,0,TMG-50,3,infantry
 7278,LMG,0,Ursa,1,infantry
+6014622,LMG,0,"VE-H ""Jackpot"" Maw",1,infantry
 6004118,LMG,0,VE-H Maw,1,infantry
 6005332,LMG,0,VE-H Maw AE,1,infantry
 7274,LMG,0,VX29 Polaris,1,infantry
