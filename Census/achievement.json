@@ -99771,7 +99771,87 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93802",
+      "item_id": "6014780",
+      "objective_group_id": "20810",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Fishing Spear"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "93803",
+      "item_id": "6014780",
+      "objective_group_id": "20811",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "Fishing Spear"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93804",
+      "item_id": "6014780",
+      "objective_group_id": "20812",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "Fishing Spear"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93805",
+      "item_id": "6014780",
+      "objective_group_id": "20813",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "Fishing Spear"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93806",
+      "item_id": "6014780",
+      "objective_group_id": "20814",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "Fishing Spear"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 6252
+  "returned": 6257
 }

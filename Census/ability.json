@@ -217,6 +217,7 @@
       "ability_type_id": "6",
       "resource_type_id": "41",
       "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.04",
       "flag_toggle": "1"
     },
     {
@@ -905,6 +906,7 @@
       "ability_type_id": "6",
       "resource_type_id": "43",
       "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.04",
       "flag_toggle": "1"
     },
     {
@@ -917,6 +919,7 @@
       "ability_type_id": "6",
       "resource_type_id": "44",
       "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.04",
       "flag_toggle": "1"
     },
     {
@@ -929,6 +932,7 @@
       "ability_type_id": "6",
       "resource_type_id": "45",
       "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.04",
       "flag_toggle": "1"
     },
     {
@@ -941,6 +945,7 @@
       "ability_type_id": "6",
       "resource_type_id": "46",
       "resource_first_cost": "0",
+      "resource_cost_per_msec": "0.04",
       "flag_toggle": "1"
     },
     {
@@ -27686,19 +27691,19 @@
     {
       "ability_id": "1116830",
       "ability_type_id": "10",
-      "resource_type_id": "9",
+      "resource_type_id": "157",
       "resource_first_cost": "10",
       "resource_cost_per_msec": "0.032",
-      "radius_max": "6",
+      "radius_max": "5",
       "flag_toggle": "1"
     },
     {
       "ability_id": "1116831",
       "ability_type_id": "10",
-      "resource_type_id": "9",
+      "resource_type_id": "157",
       "resource_first_cost": "10",
       "resource_cost_per_msec": "0.032",
-      "radius_max": "7",
+      "radius_max": "6",
       "flag_toggle": "1"
     },
     {
@@ -31434,86 +31439,6 @@
       "flag_toggle": "0"
     },
     {
-      "ability_id": "1117559",
-      "ability_type_id": "7",
-      "resource_type_id": "38",
-      "resource_first_cost": "9999",
-      "resource_cost_per_msec": "0.916666667",
-      "distance_max": "14",
-      "radius_max": "14",
-      "flag_toggle": "1",
-      "param1": "0"
-    },
-    {
-      "ability_id": "1117560",
-      "ability_type_id": "3",
-      "flag_toggle": "0"
-    },
-    {
-      "ability_id": "1117561",
-      "ability_type_id": "3",
-      "flag_toggle": "0"
-    },
-    {
-      "ability_id": "1117562",
-      "ability_type_id": "3",
-      "flag_toggle": "0"
-    },
-    {
-      "ability_id": "1117563",
-      "ability_type_id": "3",
-      "flag_toggle": "0"
-    },
-    {
-      "ability_id": "1117564",
-      "ability_type_id": "3",
-      "flag_toggle": "0"
-    },
-    {
-      "ability_id": "1117571",
-      "ability_type_id": "7",
-      "resource_type_id": "38",
-      "resource_first_cost": "9999",
-      "resource_cost_per_msec": "0.942982456",
-      "distance_max": "14",
-      "radius_max": "14",
-      "flag_toggle": "1",
-      "param1": "0"
-    },
-    {
-      "ability_id": "1117572",
-      "ability_type_id": "7",
-      "resource_type_id": "38",
-      "resource_first_cost": "9999",
-      "resource_cost_per_msec": "0.972222222",
-      "distance_max": "14",
-      "radius_max": "14",
-      "flag_toggle": "1",
-      "param1": "0"
-    },
-    {
-      "ability_id": "1117573",
-      "ability_type_id": "7",
-      "resource_type_id": "38",
-      "resource_first_cost": "9999",
-      "resource_cost_per_msec": "1.004901961",
-      "distance_max": "14",
-      "radius_max": "14",
-      "flag_toggle": "1",
-      "param1": "0"
-    },
-    {
-      "ability_id": "1117574",
-      "ability_type_id": "7",
-      "resource_type_id": "38",
-      "resource_first_cost": "9999",
-      "resource_cost_per_msec": "1.041666667",
-      "distance_max": "16",
-      "radius_max": "16",
-      "flag_toggle": "1",
-      "param1": "0"
-    },
-    {
       "ability_id": "1117575",
       "ability_type_id": "3",
       "radius_max": "0",
@@ -31534,7 +31459,183 @@
       "string2": "0",
       "string3": "0",
       "string4": "0"
+    },
+    {
+      "ability_id": "1117577",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117578",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117579",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117580",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117581",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117582",
+      "ability_type_id": "8",
+      "expire_msec": "5000",
+      "resource_type_id": "38",
+      "resource_first_cost": "2495",
+      "resource_cost_per_msec": "0.0001",
+      "radius_max": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0"
+    },
+    {
+      "ability_id": "1117583",
+      "ability_type_id": "8",
+      "expire_msec": "5000",
+      "resource_type_id": "38",
+      "resource_first_cost": "2495",
+      "resource_cost_per_msec": "0.0001",
+      "radius_max": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0"
+    },
+    {
+      "ability_id": "1117584",
+      "ability_type_id": "8",
+      "expire_msec": "5000",
+      "resource_type_id": "38",
+      "resource_first_cost": "2495",
+      "resource_cost_per_msec": "0.0001",
+      "radius_max": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0"
+    },
+    {
+      "ability_id": "1117585",
+      "ability_type_id": "8",
+      "expire_msec": "5000",
+      "resource_type_id": "38",
+      "resource_first_cost": "2495",
+      "resource_cost_per_msec": "0.0001",
+      "radius_max": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0"
+    },
+    {
+      "ability_id": "1117586",
+      "ability_type_id": "8",
+      "expire_msec": "5000",
+      "resource_type_id": "38",
+      "resource_first_cost": "2495",
+      "resource_cost_per_msec": "0.0001",
+      "radius_max": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0"
+    },
+    {
+      "ability_id": "1117587",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117588",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117589",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117590",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117592",
+      "ability_type_id": "17",
+      "expire_msec": "8000",
+      "reuse_delay_msec": "40000",
+      "distance_max": "30",
+      "radius_max": "30",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117593",
+      "ability_type_id": "17",
+      "expire_msec": "8000",
+      "reuse_delay_msec": "35000",
+      "distance_max": "30",
+      "radius_max": "30",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117594",
+      "ability_type_id": "17",
+      "expire_msec": "8000",
+      "reuse_delay_msec": "32000",
+      "distance_max": "30",
+      "radius_max": "30",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117595",
+      "ability_type_id": "17",
+      "expire_msec": "8000",
+      "reuse_delay_msec": "30000",
+      "distance_max": "30",
+      "radius_max": "30",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117597",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5204
+  "returned": 5213
 }

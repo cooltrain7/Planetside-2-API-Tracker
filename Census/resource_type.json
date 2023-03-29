@@ -59,7 +59,11 @@
     {
       "resource_type_id": "154",
       "description": "Thrust"
+    },
+    {
+      "resource_type_id": "157",
+      "description": "Demeter Veil"
     }
   ],
-  "returned": 15
+  "returned": 16
 }

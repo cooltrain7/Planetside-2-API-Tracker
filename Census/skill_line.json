@@ -93023,7 +93023,7 @@
         "en": "Nano-Regen Capacitor"
       },
       "description": {
-        "en": "While equipped, the player's Nano-Regen Device energy recharges 20% faster."
+        "en": "While equipped, the Combat Medic's energy-based abilities recharge 20% faster."
       },
       "image_set_id": "2193",
       "image_id": "4019",
@@ -93038,7 +93038,7 @@
         "en": "Nano-Regen Capacitor"
       },
       "description": {
-        "en": "While equipped, the player's Nano-Regen Device energy recharges 20% faster."
+        "en": "While equipped, the Combat Medic's energy-based abilities recharge 20% faster."
       },
       "image_set_id": "2193",
       "image_id": "4019",
@@ -93053,7 +93053,7 @@
         "en": "Nano-Regen Capacitor"
       },
       "description": {
-        "en": "While equipped, the player's Nano-Regen Device energy recharges 20% faster."
+        "en": "While equipped, the Combat Medic's energy-based abilities recharge 20% faster."
       },
       "image_set_id": "2193",
       "image_id": "4019",
@@ -93570,7 +93570,7 @@
         "en": "Combat Surgeon"
       },
       "description": {
-        "en": "Kills restore Nano-Regen Device energy."
+        "en": "Kills restore Combat Medic ability energy."
       },
       "image_set_id": "804293",
       "image_id": "88935",
@@ -98768,7 +98768,7 @@
         "en": "Nano-Regen Capacitor"
       },
       "description": {
-        "en": "While equipped, the player's Nano-Regen Device energy recharges 20% faster."
+        "en": "While equipped, the Combat Medic's energy-based abilities recharge 20% faster."
       },
       "image_set_id": "2193",
       "image_id": "4019",
@@ -106708,7 +106708,157 @@
       "image_set_id": "2055",
       "image_id": "3750",
       "image_path": "/files/ps2/images/static/3750.png"
+    },
+    {
+      "skill_line_id": "18152",
+      "skill_points": "0",
+      "skill_category_id": "195",
+      "skill_category_index": "99",
+      "name": {
+        "en": "Hermes Cloaking"
+      },
+      "description": {
+        "en": "Cloaks the infiltrator, increases sprint speed, and reduces falling damage."
+      },
+      "image_set_id": "2113",
+      "image_id": "3682",
+      "image_path": "/files/ps2/images/static/3682.png"
+    },
+    {
+      "skill_line_id": "18153",
+      "skill_points": "0",
+      "skill_category_id": "16690",
+      "skill_category_index": "99",
+      "name": {
+        "en": "Repair Drone"
+      },
+      "description": {
+        "en": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within range passively recover health every second."
+      },
+      "image_set_id": "806641",
+      "image_id": "93425",
+      "image_path": "/files/ps2/images/static/93425.png"
+    },
+    {
+      "skill_line_id": "18154",
+      "skill_points": "0",
+      "skill_category_id": "202",
+      "skill_category_index": "5",
+      "name": {
+        "en": "Demeter Veil"
+      },
+      "description": {
+        "en": "Reduces incoming damage to nearby allies while the ability is active."
+      },
+      "image_set_id": "2193",
+      "image_id": "4019",
+      "image_path": "/files/ps2/images/static/4019.png"
+    },
+    {
+      "skill_line_id": "18156",
+      "skill_points": "0",
+      "skill_category_id": "2406",
+      "skill_category_index": "99",
+      "name": {
+        "en": "Lifeline"
+      },
+      "description": {
+        "en": "Generates a nanite tether with an ally that continually heals that ally while they remain within range."
+      },
+      "image_set_id": "2114",
+      "image_id": "3684",
+      "image_path": "/files/ps2/images/static/3684.png"
+    },
+    {
+      "skill_line_id": "18157",
+      "skill_points": "0",
+      "skill_category_id": "16708",
+      "skill_category_index": "5",
+      "name": {
+        "en": "Fallout Hardening"
+      },
+      "description": {
+        "en": "Reduces damage from Orbital Strikes and Burning effects."
+      },
+      "image_set_id": "2060",
+      "image_id": "3755",
+      "image_path": "/files/ps2/images/static/3755.png"
+    },
+    {
+      "skill_line_id": "18158",
+      "skill_points": "0",
+      "skill_category_id": "4420",
+      "skill_category_index": "5",
+      "name": {
+        "en": "Fallout Hardening"
+      },
+      "description": {
+        "en": "Reduces damage from Orbital Strikes and Burning effects."
+      },
+      "image_set_id": "2060",
+      "image_id": "3755",
+      "image_path": "/files/ps2/images/static/3755.png"
+    },
+    {
+      "skill_line_id": "18159",
+      "skill_points": "0",
+      "skill_category_id": "4421",
+      "skill_category_index": "5",
+      "name": {
+        "en": "Fallout Hardening"
+      },
+      "description": {
+        "en": "Reduces damage from Orbital Strikes and Burning effects."
+      },
+      "image_set_id": "2060",
+      "image_id": "3755",
+      "image_path": "/files/ps2/images/static/3755.png"
+    },
+    {
+      "skill_line_id": "18160",
+      "skill_points": "0",
+      "skill_category_id": "4385",
+      "skill_category_index": "5",
+      "name": {
+        "en": "Fallout Hardening"
+      },
+      "description": {
+        "en": "Reduces damage from Orbital Strikes and Burning effects."
+      },
+      "image_set_id": "2060",
+      "image_id": "3755",
+      "image_path": "/files/ps2/images/static/3755.png"
+    },
+    {
+      "skill_line_id": "18161",
+      "skill_points": "0",
+      "skill_category_id": "2406",
+      "skill_category_index": "5",
+      "name": {
+        "en": "Triage Pulse"
+      },
+      "description": {
+        "en": "Releases a pulse that heals nearby allies over time, and immediately restores health to critically injured allies."
+      },
+      "image_set_id": "2101",
+      "image_id": "3720",
+      "image_path": "/files/ps2/images/static/3720.png"
+    },
+    {
+      "skill_line_id": "18162",
+      "skill_points": "0",
+      "skill_category_id": "148",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Magazine Size"
+      },
+      "description": {
+        "en": "Increases the amount of ammunition in the weapon's magazine."
+      },
+      "image_set_id": "2048",
+      "image_id": "3743",
+      "image_path": "/files/ps2/images/static/3743.png"
     }
   ],
-  "returned": 7311
+  "returned": 7321
 }

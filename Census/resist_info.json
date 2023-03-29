@@ -30134,7 +30134,7 @@
     {
       "resist_info_id": "6026",
       "resist_type_id": "68",
-      "resist_percent": "-125",
+      "resist_percent": "-60",
       "multiplier_when_headshot": "1",
       "description": "Dervish - Infantry Lock-On"
     },
@@ -30376,21 +30376,21 @@
     {
       "resist_info_id": "6061",
       "resist_type_id": "68",
-      "resist_percent": "-150",
+      "resist_percent": "-100",
       "multiplier_when_headshot": "1",
       "description": "Scythe - Infantry Lock-On"
     },
     {
       "resist_info_id": "6062",
       "resist_type_id": "68",
-      "resist_percent": "-130",
+      "resist_percent": "-100",
       "multiplier_when_headshot": "1",
       "description": "Reaver - Infantry Lock-On"
     },
     {
       "resist_info_id": "6063",
       "resist_type_id": "68",
-      "resist_percent": "-130",
+      "resist_percent": "-100",
       "multiplier_when_headshot": "1",
       "description": "Mosquito - Infantry Lock-On"
     },
@@ -30635,7 +30635,7 @@
     },
     {
       "resist_info_id": "6100",
-      "resist_type_id": "34",
+      "resist_type_id": "68",
       "resist_percent": "20",
       "multiplier_when_headshot": "1",
       "description": "Common: MAX Flak Armor (2022):  Infantry Lock-on"
@@ -30674,7 +30674,72 @@
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
       "description": "Tank Trap - Snipe Rifle Defense"
+    },
+    {
+      "resist_info_id": "6148",
+      "resist_type_id": "47",
+      "resist_percent": "1",
+      "description": "MAX - Fallout Hardening 1"
+    },
+    {
+      "resist_info_id": "6149",
+      "resist_type_id": "47",
+      "resist_percent": "1.25",
+      "description": "MAX - Fallout Hardening 2"
+    },
+    {
+      "resist_info_id": "6150",
+      "resist_type_id": "47",
+      "resist_percent": "1.5",
+      "description": "MAX - Fallout Hardening 3"
+    },
+    {
+      "resist_info_id": "6151",
+      "resist_type_id": "47",
+      "resist_percent": "1.75",
+      "description": "MAX - Fallout Hardening 4"
+    },
+    {
+      "resist_info_id": "6152",
+      "resist_type_id": "47",
+      "resist_percent": "2",
+      "description": "MAX - Fallout Hardening 5"
+    },
+    {
+      "resist_info_id": "6153",
+      "resist_type_id": "64",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Fallout Hardening 1 (Burning)"
+    },
+    {
+      "resist_info_id": "6154",
+      "resist_type_id": "64",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Fallout Hardening 2 (Burning)"
+    },
+    {
+      "resist_info_id": "6155",
+      "resist_type_id": "64",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Fallout Hardening 3 (Burning)"
+    },
+    {
+      "resist_info_id": "6156",
+      "resist_type_id": "64",
+      "resist_percent": "37.5",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Fallout Hardening 4 (Burning)"
+    },
+    {
+      "resist_info_id": "6157",
+      "resist_type_id": "64",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Fallout Hardening 5 (Burning)"
     }
   ],
-  "returned": 4483
+  "returned": 4493
 }

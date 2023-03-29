@@ -14,9 +14,6 @@
       "ability_type_id": "6"
     },
     {
-      "ability_type_id": "7"
-    },
-    {
       "ability_type_id": "8"
     },
     {
@@ -51,5 +48,5 @@
       "description": "MountedVehicleMaintainOnGuid"
     }
   ],
-  "returned": 15
+  "returned": 14
 }
