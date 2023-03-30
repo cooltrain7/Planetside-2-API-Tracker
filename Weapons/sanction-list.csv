@@ -586,11 +586,6 @@
 6004560,Infantry Abilities,0,Meteorite,,
 6013328,Infantry Abilities,0,NS NanoCaster,0,
 6005102,Infantry Abilities,0,Pumpking Slayer,,
-6014760,Infantry Abilities,0,Repair Drone 1,4,
-6014761,Infantry Abilities,0,Repair Drone 2,4,
-6014762,Infantry Abilities,0,Repair Drone 3,4,
-6014763,Infantry Abilities,0,Repair Drone 4,4,
-6014764,Infantry Abilities,0,Repair Drone 5,4,
 310,Infantry Abilities,0,Stealth Test,2,
 6009595,Infantry Abilities,,Trick or Treat!,,
 200,Infantry Abilities,0,Anti-Infantry MANA Turret,2,infantry
@@ -906,10 +901,15 @@
 804976,Infantry Abilities,0,Reconnaissance Module,1,none
 6005654,Infantry Abilities,0,Reconnaissance Module,4,none
 6011576,Infantry Abilities,,Repair Drone 1,,none
+6014760,Infantry Abilities,0,Repair Drone 1,4,none
 6011593,Infantry Abilities,,Repair Drone 2,,none
+6014761,Infantry Abilities,0,Repair Drone 2,4,none
 6011594,Infantry Abilities,,Repair Drone 3,,none
+6014762,Infantry Abilities,0,Repair Drone 3,4,none
 6011595,Infantry Abilities,,Repair Drone 4,,none
+6014763,Infantry Abilities,0,Repair Drone 4,4,none
 6011596,Infantry Abilities,,Repair Drone 5,,none
+6014764,Infantry Abilities,0,Repair Drone 5,4,none
 804269,Infantry Abilities,0,Repair Module,2,none
 804270,Infantry Abilities,0,Repair Module,3,none
 804271,Infantry Abilities,0,Repair Module,1,none
