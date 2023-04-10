@@ -4711,7 +4711,16 @@
     {
       "fire_group_id": "80957",
       "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "80964",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "80965",
+      "transition_duration_ms": "500",
+      "can_chamber_ironsights": "0"
     }
   ],
-  "returned": 1105
+  "returned": 1107
 }

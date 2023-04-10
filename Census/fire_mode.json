@@ -116244,7 +116244,27 @@
       "damage": "600",
       "damage_target_type": "2",
       "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "81364",
+      "item_id": "6014780",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "NS: Knife 16: Fishing Spear",
+      "damage_type": "Damage",
+      "damage": "600",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
     }
   ],
-  "returned": 4719
+  "returned": 4720
 }

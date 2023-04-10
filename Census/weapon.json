@@ -11268,7 +11268,19 @@
       "unequip_ms": "250",
       "to_iron_sights_ms": "150",
       "from_iron_sights_ms": "150"
+    },
+    {
+      "weapon_id": "78785",
+      "turn_modifier": "1.0",
+      "move_modifier": "1.0",
+      "sprint_recovery_ms": "0",
+      "equip_ms": "500",
+      "unequip_ms": "500",
+      "to_iron_sights_ms": "150",
+      "from_iron_sights_ms": "150",
+      "melee_detect_width": "0.15",
+      "melee_detect_height": "0.1"
     }
   ],
-  "returned": 1258
+  "returned": 1259
 }
