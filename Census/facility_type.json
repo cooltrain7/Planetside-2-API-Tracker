@@ -6,67 +6,115 @@
     },
     {
       "facility_type_id": "2",
-      "description": "Amp Station"
+      "description": "Amp Station",
+      "image_id": "9119",
+      "image_set_id": "3116",
+      "image_path": "/files/ps2/images/static/9119.png"
     },
     {
       "facility_type_id": "3",
-      "description": "Bio Lab"
+      "description": "Bio Lab",
+      "image_id": "9120",
+      "image_set_id": "3117",
+      "image_path": "/files/ps2/images/static/9120.png"
     },
     {
       "facility_type_id": "4",
-      "description": "Tech Plant"
+      "description": "Tech Plant",
+      "image_id": "9125",
+      "image_set_id": "7916",
+      "image_path": "/files/ps2/images/static/9125.png"
     },
     {
       "facility_type_id": "5",
-      "description": "Large Outpost"
+      "description": "Large Outpost",
+      "image_id": "9122",
+      "image_set_id": "7918",
+      "image_path": "/files/ps2/images/static/9122.png"
     },
     {
       "facility_type_id": "6",
-      "description": "Small Outpost"
+      "description": "Small Outpost",
+      "image_id": "9123",
+      "image_set_id": "7919",
+      "image_path": "/files/ps2/images/static/9123.png"
     },
     {
       "facility_type_id": "7",
-      "description": "Warpgate"
+      "description": "Warpgate",
+      "image_id": "9124",
+      "image_set_id": "7917",
+      "image_path": "/files/ps2/images/static/9124.png"
     },
     {
       "facility_type_id": "8",
-      "description": "Interlink Facility"
+      "description": "Interlink Facility",
+      "image_id": "9121",
+      "image_set_id": "3158",
+      "image_path": "/files/ps2/images/static/9121.png"
     },
     {
       "facility_type_id": "9",
-      "description": "Construction Outpost"
+      "description": "Construction Outpost",
+      "image_id": "91363",
+      "image_set_id": "805614",
+      "image_path": "/files/ps2/images/static/91363.png"
     },
     {
       "facility_type_id": "10",
-      "description": "Relic Outpost (Desolation)"
+      "description": "Relic Outpost (Desolation)",
+      "image_id": "92399",
+      "image_set_id": "806250",
+      "image_path": "/files/ps2/images/static/92399.png"
     },
     {
       "facility_type_id": "11",
-      "description": "Containment Site"
+      "description": "Containment Site",
+      "image_id": "93456",
+      "image_set_id": "806656",
+      "image_path": "/files/ps2/images/static/93456.png"
     },
     {
       "facility_type_id": "12",
-      "description": "Trident Relay"
+      "description": "Trident Relay",
+      "image_id": "94543",
+      "image_set_id": "807046",
+      "image_path": "/files/ps2/images/static/94543.png"
     },
     {
       "facility_type_id": "13",
-      "description": "Seapost"
+      "description": "Seapost",
+      "image_id": "95041",
+      "image_set_id": "807231",
+      "image_path": "/files/ps2/images/static/95041.png"
     },
     {
       "facility_type_id": "14",
-      "description": "Large CTF Outpost"
+      "description": "Large CTF Outpost",
+      "image_id": "95534",
+      "image_set_id": "807404",
+      "image_path": "/files/ps2/images/static/95534.png"
     },
     {
       "facility_type_id": "15",
-      "description": "Small CTF Outpost"
+      "description": "Small CTF Outpost",
+      "image_id": "95531",
+      "image_set_id": "807403",
+      "image_path": "/files/ps2/images/static/95531.png"
     },
     {
       "facility_type_id": "16",
-      "description": "Amp Station CTF"
+      "description": "Amp Station CTF",
+      "image_id": "9119",
+      "image_set_id": "3116",
+      "image_path": "/files/ps2/images/static/9119.png"
     },
     {
       "facility_type_id": "17",
-      "description": "Construction Outpost CTF"
+      "description": "Construction Outpost CTF",
+      "image_id": "95671",
+      "image_set_id": "807455",
+      "image_path": "/files/ps2/images/static/95671.png"
     }
   ],
   "returned": 17
