@@ -5785,13 +5785,13 @@
     {
       "map_region_id": "18263",
       "zone_id": "344",
-      "facility_id": "400329",
-      "facility_name": "Mirror Bay Watchtower",
+      "facility_id": "400427",
+      "facility_name": "Excavion Cleanup Site",
       "facility_type_id": "5",
       "facility_type": "Large Outpost",
-      "location_x": "-338.317261",
-      "location_y": "108.666168",
-      "location_z": "214.317261",
+      "location_x": "-355.642548",
+      "location_y": "104.536804",
+      "location_z": "157.643265",
       "capture_reward": {
         "description": "Auraxium - Common",
         "amount": "25"
@@ -5842,20 +5842,20 @@
     {
       "map_region_id": "18266",
       "zone_id": "344",
-      "facility_id": "400332",
+      "facility_id": "400329",
       "facility_name": "Centri Import Hub",
-      "facility_type_id": "9",
-      "facility_type": "Construction Outpost",
-      "location_x": "-648.100403",
-      "location_y": "85.295456",
-      "location_z": "-1005.545349",
+      "facility_type_id": "5",
+      "facility_type": "Large Outpost",
+      "location_x": "-672.34552",
+      "location_y": "85.575081",
+      "location_z": "-977.172913",
       "capture_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "25"
       },
       "tick_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "25"
       }
     },
     {
@@ -6169,9 +6169,6 @@
       "facility_name": "Hunter's Ravine",
       "facility_type_id": "9",
       "facility_type": "Construction Outpost",
-      "location_x": "-1207.701416",
-      "location_y": "156.21109",
-      "location_z": "-2570.100586",
       "capture_reward": {
         "description": "Synthium - Uncommon",
         "amount": "3"
@@ -6546,12 +6543,12 @@
       "map_region_id": "18303",
       "zone_id": "344",
       "facility_id": "400370",
-      "facility_name": "Oshur Northeast Flotilla",
+      "facility_name": "Oshur North Flotilla",
       "facility_type_id": "7",
       "facility_type": "Warpgate",
-      "location_x": "2034.55542",
-      "location_y": "110.764771",
-      "location_z": "2178.150391",
+      "location_x": "2976.782471",
+      "location_y": "48.950905",
+      "location_z": "459.671814",
       "reward_amount": "50",
       "reward_currency_id": "4"
     },
@@ -6559,12 +6556,12 @@
       "map_region_id": "18304",
       "zone_id": "344",
       "facility_id": "400369",
-      "facility_name": "Oshur Northwest Flotilla",
+      "facility_name": "Oshur West Flotilla",
       "facility_type_id": "7",
       "facility_type": "Warpgate",
-      "location_x": "1102.911499",
-      "location_y": "101.535667",
-      "location_z": "-2939.925293",
+      "location_x": "-347.829163",
+      "location_y": "49.187248",
+      "location_z": "-3390.501221",
       "reward_amount": "50",
       "reward_currency_id": "4"
     },
@@ -6572,12 +6569,12 @@
       "map_region_id": "18305",
       "zone_id": "344",
       "facility_id": "400371",
-      "facility_name": "Oshur South Flotilla",
+      "facility_name": "Oshur Southeast Flotilla",
       "facility_type_id": "7",
       "facility_type": "Warpgate",
-      "location_x": "-2899.052979",
-      "location_y": "117.174614",
-      "location_z": "417.273956",
+      "location_x": "-2498.959229",
+      "location_y": "48.956886",
+      "location_z": "2905.845947",
       "reward_amount": "50",
       "reward_currency_id": "4"
     },
@@ -6742,12 +6739,12 @@
       "map_region_id": "18346",
       "zone_id": "344",
       "facility_id": "400407",
-      "facility_name": "Wakerift Beachhead",
+      "facility_name": "Wakerift Plateau",
       "facility_type_id": "9",
       "facility_type": "Construction Outpost",
-      "location_x": "-394.111755",
-      "location_y": "56.732193",
-      "location_z": "-557.931091",
+      "location_x": "-517.734253",
+      "location_y": "119.609375",
+      "location_z": "-45.039101",
       "capture_reward": {
         "description": "Synthium - Uncommon",
         "amount": "3"
@@ -7032,13 +7029,13 @@
     {
       "map_region_id": "18369",
       "zone_id": "344",
-      "facility_id": "400427",
-      "facility_name": "Bathala Garden",
+      "facility_id": "400332",
+      "facility_name": "Bathala Overlook",
       "facility_type_id": "9",
       "facility_type": "Construction Outpost",
-      "location_x": "-108.05",
-      "location_y": "20.94",
-      "location_z": "-243.7",
+      "location_x": "-115.495117",
+      "location_y": "147.523438",
+      "location_z": "273.175415",
       "capture_reward": {
         "description": "Synthium - Uncommon",
         "amount": "3"
@@ -7090,7 +7087,42 @@
       "facility_name": "Player Spawn",
       "facility_type_id": "7",
       "facility_type": "Warpgate"
+    },
+    {
+      "map_region_id": "18375",
+      "zone_id": "344",
+      "facility_id": "400430",
+      "facility_name": "Hunter's Respite",
+      "facility_type_id": "9",
+      "facility_type": "Construction Outpost",
+      "capture_reward": {
+        "description": "Synthium - Uncommon",
+        "amount": "3"
+      },
+      "tick_reward": {
+        "description": "Synthium - Uncommon",
+        "amount": "3"
+      }
+    },
+    {
+      "map_region_id": "18376",
+      "zone_id": "344",
+      "facility_id": "400431",
+      "facility_name": "Leif Biochemical",
+      "facility_type_id": "6",
+      "facility_type": "Small Outpost",
+      "location_x": "-2269.401123",
+      "location_y": "116.607124",
+      "location_z": "2092.486816",
+      "capture_reward": {
+        "description": "Auraxium - Common",
+        "amount": "5"
+      },
+      "tick_reward": {
+        "description": "Auraxium - Common",
+        "amount": "5"
+      }
     }
   ],
-  "returned": 385
+  "returned": 387
 }

@@ -174,7 +174,12 @@
       "item_type_id": "47",
       "name": "Facility Module",
       "code": "FacilityModule"
+    },
+    {
+      "item_type_id": "48",
+      "name": "Construction Module",
+      "code": "ConstructionModule"
     }
   ],
-  "returned": 35
+  "returned": 36
 }

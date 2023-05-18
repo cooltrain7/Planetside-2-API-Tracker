@@ -9163,7 +9163,37 @@
       "experience_id": "2140",
       "description": "Counter Hack Overload - Generic",
       "xp": "50"
+    },
+    {
+      "experience_id": "2144",
+      "description": "Install Construction Module - Defence",
+      "xp": "25"
+    },
+    {
+      "experience_id": "2145",
+      "description": "Install Construction Module: Cortium Bomb",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2147",
+      "description": "Overload Construction Module - Generic",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2148",
+      "description": "Counter Overload Construction Module - Generic",
+      "xp": "50"
+    },
+    {
+      "experience_id": "2149",
+      "description": "Disarm Attack Construction Module",
+      "xp": "75"
+    },
+    {
+      "experience_id": "2150",
+      "description": "Install Construction Module: Tunnel Worm",
+      "xp": "50"
     }
   ],
-  "returned": 1833
+  "returned": 1839
 }

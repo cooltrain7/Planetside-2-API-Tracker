@@ -79,7 +79,11 @@
     {
       "resist_type_id": "68",
       "description": "Infantry Lock-on"
+    },
+    {
+      "resist_type_id": "69",
+      "description": "Melee: Armor Piercing"
     }
   ],
-  "returned": 20
+  "returned": 21
 }

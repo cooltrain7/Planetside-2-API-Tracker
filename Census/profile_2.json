@@ -510,7 +510,7 @@
     },
     {
       "profile_id": "136",
-      "description": "Construction: Alarm Module"
+      "description": "Construction: Recon Array"
     },
     {
       "profile_id": "137",
@@ -903,7 +903,83 @@
     {
       "profile_id": "308",
       "description": "Sunderer"
+    },
+    {
+      "profile_id": "309",
+      "description": "Construction: Infantry Tree Stand"
+    },
+    {
+      "profile_id": "310",
+      "description": "Construction: Silo Reserve"
+    },
+    {
+      "profile_id": "311",
+      "description": "Construction: Infantry Tunnel"
+    },
+    {
+      "profile_id": "312",
+      "description": "Facility: Construction: Silo"
+    },
+    {
+      "profile_id": "314",
+      "description": "Construction: Infantry Awning"
+    },
+    {
+      "profile_id": "315",
+      "description": "Construction: Vehicle Bridge"
+    },
+    {
+      "profile_id": "316",
+      "description": "Construction: Narrow Bulwark Wall"
+    },
+    {
+      "profile_id": "317",
+      "description": "Construction: Wide Bulwark Wall"
+    },
+    {
+      "profile_id": "318",
+      "description": "Construction: Module Dispenser"
+    },
+    {
+      "profile_id": "319",
+      "description": "Construction: Fortress Shield Module: Shield"
+    },
+    {
+      "profile_id": "320",
+      "description": "Construction: Command Center"
+    },
+    {
+      "profile_id": "321",
+      "description": "Construction: Rebirthing Center"
+    },
+    {
+      "profile_id": "322",
+      "description": "Elysium Drill (War Asset)"
+    },
+    {
+      "profile_id": "323",
+      "description": "Construction: Command Center: AirPad"
+    },
+    {
+      "profile_id": "324",
+      "description": "Construction: Command Center: VehiclePad"
+    },
+    {
+      "profile_id": "325",
+      "description": "Construction: Light Post"
+    },
+    {
+      "profile_id": "326",
+      "description": "Construction: Grav Lift"
+    },
+    {
+      "profile_id": "327",
+      "description": "Construction: Outfit Banner"
+    },
+    {
+      "profile_id": "329",
+      "description": "Construction: Shared: Building Spawn Tube"
     }
   ],
-  "returned": 226
+  "returned": 245
 }

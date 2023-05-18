@@ -2369,7 +2369,13 @@
       "name": {
         "en": "Huggable"
       }
+    },
+    {
+      "title_id": "449",
+      "name": {
+        "en": "Field Commander"
+      }
     }
   ],
-  "returned": 395
+  "returned": 396
 }

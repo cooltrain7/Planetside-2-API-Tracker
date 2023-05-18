@@ -8548,7 +8548,39 @@
       "sticks_to_players": "0",
       "lockon_seek_in_flight": "0",
       "projectile_radius": "0.3"
+    },
+    {
+      "projectile_id": "80614",
+      "projectile_flight_type_id": "1",
+      "speed": "600",
+      "speed_max": "0",
+      "acceleration": "0",
+      "turn_rate": "0",
+      "lifespan": "1.5",
+      "drag": "0",
+      "gravity": "11.25",
+      "detonate_on_contact": "0",
+      "sticky": "0",
+      "sticks_to_players": "0",
+      "lockon_seek_in_flight": "0",
+      "projectile_radius": "0.03"
+    },
+    {
+      "projectile_id": "80615",
+      "projectile_flight_type_id": "1",
+      "speed": "40",
+      "speed_max": "0",
+      "acceleration": "0",
+      "turn_rate": "0",
+      "lifespan": "1.5",
+      "drag": "0",
+      "gravity": "11.25",
+      "detonate_on_contact": "1",
+      "sticky": "0",
+      "sticks_to_players": "0",
+      "lockon_seek_in_flight": "0",
+      "projectile_radius": "0.03"
     }
   ],
-  "returned": 580
+  "returned": 582
 }

@@ -1241,7 +1241,57 @@
         "en": "Aircraft are free during this event."
       },
       "type": "4"
+    },
+    {
+      "metagame_event_id": "251",
+      "name": {
+        "en": "Nanite Storm"
+      },
+      "description": {
+        "en": "Survive the nanite storm."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "252",
+      "name": {
+        "en": "Nanite Storm"
+      },
+      "description": {
+        "en": "Survive the nanite storm."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "253",
+      "name": {
+        "en": "Nanite Storm"
+      },
+      "description": {
+        "en": "Survive the nanite storm."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "254",
+      "name": {
+        "en": "Nanite Storm"
+      },
+      "description": {
+        "en": "Survive the nanite storm."
+      },
+      "type": "4"
+    },
+    {
+      "metagame_event_id": "255",
+      "name": {
+        "en": "Nanite Storm"
+      },
+      "description": {
+        "en": "Survive the nanite storm."
+      },
+      "type": "4"
     }
   ],
-  "returned": 119
+  "returned": 124
 }

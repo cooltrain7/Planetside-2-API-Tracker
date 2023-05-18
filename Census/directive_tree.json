@@ -896,7 +896,17 @@
       "description": {
         "en": "Feb. 8 - Feb. 14"
       }
+    },
+    {
+      "directive_tree_id": "119",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "PlanetSide 20-Year Legacy"
+      },
+      "description": {
+        "en": "Available through June 4"
+      }
     }
   ],
-  "returned": 88
+  "returned": 89
 }

@@ -2477,7 +2477,7 @@
       "zone_id": "344",
       "initial_faction_id": "3",
       "name": {
-        "en": "Mirror Bay Watchtower"
+        "en": "Excavion Cleanup Site"
       }
     },
     {
@@ -2797,7 +2797,7 @@
       "zone_id": "344",
       "initial_faction_id": "2",
       "name": {
-        "en": "Oshur Northeast Flotilla"
+        "en": "Oshur North Flotilla"
       }
     },
     {
@@ -2805,7 +2805,7 @@
       "zone_id": "344",
       "initial_faction_id": "3",
       "name": {
-        "en": "Oshur Northwest Flotilla"
+        "en": "Oshur West Flotilla"
       }
     },
     {
@@ -2813,7 +2813,7 @@
       "zone_id": "344",
       "initial_faction_id": "1",
       "name": {
-        "en": "Oshur South Flotilla"
+        "en": "Oshur Southeast Flotilla"
       }
     },
     {
@@ -2893,7 +2893,7 @@
       "zone_id": "344",
       "initial_faction_id": "0",
       "name": {
-        "en": "Wakerift Beachhead"
+        "en": "Wakerift Plateau"
       }
     },
     {
@@ -3045,7 +3045,7 @@
       "zone_id": "344",
       "initial_faction_id": "0",
       "name": {
-        "en": "Bathala Garden"
+        "en": "Bathala Overlook"
       }
     },
     {
@@ -3079,7 +3079,23 @@
       "name": {
         "en": "Player Spawn"
       }
+    },
+    {
+      "region_id": "18375",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Hunter's Respite"
+      }
+    },
+    {
+      "region_id": "18376",
+      "zone_id": "344",
+      "initial_faction_id": "0",
+      "name": {
+        "en": "Leif Biochemical"
+      }
     }
   ],
-  "returned": 385
+  "returned": 387
 }

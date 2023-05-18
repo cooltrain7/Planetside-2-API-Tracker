@@ -5435,7 +5435,7 @@
         "en": "Shrapnel NMG"
       },
       "description": {
-        "en": "Provides little protection from projectiles, but absorbs an incredible amount of force generated from anti-personnel mines"
+        "en": "Provides little protection from projectiles, but absorbs an incredible amount of force generated from anti-infantry mines"
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -12087,7 +12087,7 @@
         "en": "Shrapnel NMG"
       },
       "description": {
-        "en": "Provides little protection from projectiles, but absorbs an incredible amount of force generated from anti-personnel mines"
+        "en": "Provides little protection from projectiles, but absorbs an incredible amount of force generated from anti-infantry mines"
       },
       "image_set_id": "646",
       "image_id": "2140",
@@ -12175,7 +12175,7 @@
         "en": "Claymores"
       },
       "description": {
-        "en": "Anti-Personnel mines that explode in the presence of nearby enemy soldiers"
+        "en": "Anti-Infantry mines that explode in the presence of nearby enemy soldiers"
       },
       "image_set_id": "2195",
       "image_id": "4017",
@@ -12912,7 +12912,7 @@
         "en": "Proximity Mine"
       },
       "description": {
-        "en": "A Vanu Sovereignty anti-personnel Proximity Mine that detonates upon detecting nearby enemy movement."
+        "en": "A Vanu Sovereignty anti-infantry Proximity Mine that detonates upon detecting nearby enemy movement."
       },
       "image_set_id": "2109",
       "image_id": "3676",
@@ -13089,7 +13089,7 @@
         "en": "Proximity Mine"
       },
       "description": {
-        "en": "A Vanu Sovereignty anti-personnel Proximity Mine that detonates upon detecting nearby enemy movement."
+        "en": "A Vanu Sovereignty anti-infantry Proximity Mine that detonates upon detecting nearby enemy movement."
       },
       "image_set_id": "2109",
       "image_id": "3676",
@@ -92597,7 +92597,7 @@
         "en": "Mine Carrier"
       },
       "description": {
-        "en": "Allows the user to carry and place an additional anti-personnel mine or two additional anti-tank mines."
+        "en": "Allows the user to carry and place an additional anti-infantry mine or two additional anti-tank mines."
       },
       "image_set_id": "2108",
       "image_id": "3718",
@@ -92612,7 +92612,7 @@
         "en": "Mine Carrier"
       },
       "description": {
-        "en": "Allows the user to carry and place an additional anti-personnel mine or two additional anti-tank mines."
+        "en": "Allows the user to carry and place an additional anti-infantry mine or two additional anti-tank mines."
       },
       "image_set_id": "2108",
       "image_id": "3718",
@@ -92627,7 +92627,7 @@
         "en": "Mine Carrier"
       },
       "description": {
-        "en": "Allows the user to carry and place an additional anti-personnel mine or two additional anti-tank mines."
+        "en": "Allows the user to carry and place an additional anti-infantry mine or two additional anti-tank mines."
       },
       "image_set_id": "2108",
       "image_id": "3718",
@@ -98318,7 +98318,7 @@
         "en": "Mine Carrier"
       },
       "description": {
-        "en": "Allows the user to carry and place an additional anti-personnel mine or two additional anti-tank mines."
+        "en": "Allows the user to carry and place an additional anti-infantry mine or two additional anti-tank mines."
       },
       "image_set_id": "2109",
       "image_id": "3676",

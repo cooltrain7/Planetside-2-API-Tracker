@@ -1086,6 +1086,19 @@
       "image_path": "/files/ps2/images/static/84284.png"
     },
     {
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "reward_set_id": "6228",
+      "directive_points": "0",
+      "completion_count": "2",
+      "name": {
+        "en": "Novice"
+      },
+      "image_set_id": "802808",
+      "image_id": "84781",
+      "image_path": "/files/ps2/images/static/84781.png"
+    },
+    {
       "directive_tree_id": "4",
       "directive_tier_id": "2",
       "directive_points": "10",
@@ -2120,6 +2133,19 @@
       "image_set_id": "80235",
       "image_id": "84290",
       "image_path": "/files/ps2/images/static/84290.png"
+    },
+    {
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "reward_set_id": "6229",
+      "directive_points": "0",
+      "completion_count": "3",
+      "name": {
+        "en": "Adept"
+      },
+      "image_set_id": "802810",
+      "image_id": "84787",
+      "image_path": "/files/ps2/images/static/84787.png"
     },
     {
       "directive_tree_id": "4",
@@ -3165,6 +3191,19 @@
       "image_set_id": "80234",
       "image_id": "84287",
       "image_path": "/files/ps2/images/static/84287.png"
+    },
+    {
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "reward_set_id": "6230",
+      "directive_points": "0",
+      "completion_count": "4",
+      "name": {
+        "en": "Expert"
+      },
+      "image_set_id": "802809",
+      "image_id": "84784",
+      "image_path": "/files/ps2/images/static/84784.png"
     },
     {
       "directive_tree_id": "4",
@@ -4250,7 +4289,20 @@
       "image_set_id": "80232",
       "image_id": "84283",
       "image_path": "/files/ps2/images/static/84283.png"
+    },
+    {
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "reward_set_id": "6231",
+      "directive_points": "0",
+      "completion_count": "4",
+      "name": {
+        "en": "Master"
+      },
+      "image_set_id": "802807",
+      "image_id": "84778",
+      "image_path": "/files/ps2/images/static/84778.png"
     }
   ],
-  "returned": 340
+  "returned": 344
 }

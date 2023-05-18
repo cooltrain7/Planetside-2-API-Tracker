@@ -26415,7 +26415,145 @@
       "show_clip_size": "1",
       "show_fire_modes": "1",
       "show_range": "1"
+    },
+    {
+      "item_id": "6014825",
+      "damage": "143",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "1",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "80",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "1740",
+      "reload_ms_min": "1250",
+      "reload_ms_max": "3500",
+      "clip_size": "25",
+      "capacity": "200",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014826",
+      "damage": "167",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "1",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "92",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "1855",
+      "reload_ms_min": "1250",
+      "reload_ms_max": "3500",
+      "clip_size": "25",
+      "capacity": "175",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014827",
+      "damage": "125",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "1",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "67",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "2250",
+      "reload_ms_min": "1250",
+      "reload_ms_max": "3500",
+      "clip_size": "30",
+      "capacity": "240",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014828",
+      "damage": "112",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "1",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "67",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "1850",
+      "reload_ms_min": "1250",
+      "reload_ms_max": "3500",
+      "clip_size": "40",
+      "capacity": "240",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014956",
+      "damage": "125",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "1.5",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "400",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "4000",
+      "reload_ms_min": "2500",
+      "reload_ms_max": "7000",
+      "clip_size": "150",
+      "capacity": "450",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6014957",
+      "damage": "125",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "1.5",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "400",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "4000",
+      "reload_ms_min": "2500",
+      "reload_ms_max": "7000",
+      "clip_size": "150",
+      "capacity": "450",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
     }
   ],
-  "returned": 1259
+  "returned": 1265
 }

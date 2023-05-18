@@ -13891,7 +13891,7 @@
       "resist_type_id": "7",
       "resist_percent": "-175",
       "multiplier_when_headshot": "1",
-      "description": "Under Construction - Underconstruction - Heady - Tank Shell"
+      "description": "Under Construction Heavy: Tank Shell"
     },
     {
       "resist_info_id": "2959",
@@ -19619,7 +19619,7 @@
       "resist_type_id": "2",
       "resist_percent": "100",
       "multiplier_when_headshot": "1",
-      "description": "Construction: Repair Immune: Personal Defense"
+      "description": "Construction: Repair Immune: Small Arms"
     },
     {
       "resist_info_id": "3990",
@@ -21859,31 +21859,31 @@
     {
       "resist_info_id": "4380",
       "resist_type_id": "47",
-      "resist_percent": "16",
+      "resist_percent": "55",
       "description": "Orbital Strike: 20000 health target"
     },
     {
       "resist_info_id": "4381",
       "resist_type_id": "47",
-      "resist_percent": "50",
+      "resist_percent": "66",
       "description": "Orbital Strike: 12000 health target"
     },
     {
       "resist_info_id": "4382",
       "resist_type_id": "47",
-      "resist_percent": "66",
+      "resist_percent": "75",
       "description": "Orbital Strike: 8000 health target"
     },
     {
       "resist_info_id": "4383",
       "resist_type_id": "47",
-      "resist_percent": "75",
+      "resist_percent": "85",
       "description": "Construction: Orbital Strike: 6000 health target"
     },
     {
       "resist_info_id": "4384",
       "resist_type_id": "47",
-      "resist_percent": "58",
+      "resist_percent": "66",
       "description": "Orbital Strike: 10000 health target"
     },
     {
@@ -22051,7 +22051,7 @@
     {
       "resist_info_id": "4413",
       "resist_type_id": "47",
-      "resist_percent": "0",
+      "resist_percent": "50",
       "description": "Orbital Strike: 24000 health target"
     },
     {
@@ -30676,6 +30676,280 @@
       "description": "Tank Trap - Snipe Rifle Defense"
     },
     {
+      "resist_info_id": "6107",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Personal Defense: Sniper Rifles"
+    },
+    {
+      "resist_info_id": "6108",
+      "resist_type_id": "23",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Air to Ground"
+    },
+    {
+      "resist_info_id": "6109",
+      "resist_type_id": "12",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Flak (Explosion)"
+    },
+    {
+      "resist_info_id": "6110",
+      "resist_type_id": "9",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "6111",
+      "resist_type_id": "11",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: C4 (Boomer)"
+    },
+    {
+      "resist_info_id": "6112",
+      "resist_type_id": "28",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Armor Piercing Chain Guns"
+    },
+    {
+      "resist_info_id": "6113",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Melee"
+    },
+    {
+      "resist_info_id": "6114",
+      "resist_type_id": "2",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Personal Defense"
+    },
+    {
+      "resist_info_id": "6115",
+      "resist_type_id": "4",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6116",
+      "resist_type_id": "5",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Tier 3 AV"
+    },
+    {
+      "resist_info_id": "6117",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Grenades"
+    },
+    {
+      "resist_info_id": "6118",
+      "resist_type_id": "7",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Tank Shell"
+    },
+    {
+      "resist_info_id": "6119",
+      "resist_type_id": "8",
+      "resist_percent": "90.75",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "6120",
+      "resist_type_id": "22",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Anti-Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "6121",
+      "resist_type_id": "34",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Default Rocket Launcher"
+    },
+    {
+      "resist_info_id": "6122",
+      "resist_type_id": "40",
+      "resist_percent": "10",
+      "description": "Construction: Infantry Treestand: Anti Materiel Rifle"
+    },
+    {
+      "resist_info_id": "6123",
+      "resist_type_id": "49",
+      "resist_percent": "0",
+      "description": "Construction: Infantry Treestand: Fast Siege"
+    },
+    {
+      "resist_info_id": "6125",
+      "resist_type_id": "45",
+      "resist_percent": "50",
+      "description": "Construction: Infantry Treestand: Whale Hunter"
+    },
+    {
+      "resist_info_id": "6126",
+      "resist_type_id": "64",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Burning"
+    },
+    {
+      "resist_info_id": "6127",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6128",
+      "resist_type_id": "23",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Air to Ground"
+    },
+    {
+      "resist_info_id": "6129",
+      "resist_type_id": "8",
+      "resist_percent": "90.75",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "6130",
+      "resist_type_id": "40",
+      "resist_percent": "10",
+      "description": "Construction: Infantry Tunnel: Anti Materiel Rifle"
+    },
+    {
+      "resist_info_id": "6131",
+      "resist_type_id": "22",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Anti-Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "6132",
+      "resist_type_id": "9",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "6133",
+      "resist_type_id": "28",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Armor Piercing Chain Guns"
+    },
+    {
+      "resist_info_id": "6134",
+      "resist_type_id": "64",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Burning"
+    },
+    {
+      "resist_info_id": "6135",
+      "resist_type_id": "11",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: C4 (Boomer)"
+    },
+    {
+      "resist_info_id": "6136",
+      "resist_type_id": "34",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Default Rocket Launcher"
+    },
+    {
+      "resist_info_id": "6137",
+      "resist_type_id": "49",
+      "resist_percent": "0",
+      "description": "Construction: Infantry Tunnel: Fast Siege"
+    },
+    {
+      "resist_info_id": "6138",
+      "resist_type_id": "12",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Flak (Explosion)"
+    },
+    {
+      "resist_info_id": "6139",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Grenades"
+    },
+    {
+      "resist_info_id": "6140",
+      "resist_type_id": "68",
+      "resist_percent": "37",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6141",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Melee"
+    },
+    {
+      "resist_info_id": "6142",
+      "resist_type_id": "2",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Personal Defense"
+    },
+    {
+      "resist_info_id": "6143",
+      "resist_type_id": "20",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Personal Defense: Sniper Rifles"
+    },
+    {
+      "resist_info_id": "6144",
+      "resist_type_id": "7",
+      "resist_percent": "-50",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Tank Shell"
+    },
+    {
+      "resist_info_id": "6145",
+      "resist_type_id": "4",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6146",
+      "resist_type_id": "5",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Tier 3 AV"
+    },
+    {
+      "resist_info_id": "6147",
+      "resist_type_id": "45",
+      "resist_percent": "50",
+      "description": "Construction: Infantry Tunnel: Whale Hunter"
+    },
+    {
       "resist_info_id": "6148",
       "resist_type_id": "47",
       "resist_percent": "1",
@@ -30739,7 +31013,1205 @@
       "resist_percent": "40",
       "multiplier_when_headshot": "1",
       "description": "MAX - Fallout Hardening 5 (Burning)"
+    },
+    {
+      "resist_info_id": "6158",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Melee"
+    },
+    {
+      "resist_info_id": "6159",
+      "resist_type_id": "2",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Personal Defense"
+    },
+    {
+      "resist_info_id": "6160",
+      "resist_type_id": "3",
+      "resist_percent": "-75",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Tier 2 AV"
+    },
+    {
+      "resist_info_id": "6161",
+      "resist_type_id": "4",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6162",
+      "resist_type_id": "5",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Light AV"
+    },
+    {
+      "resist_info_id": "6163",
+      "resist_type_id": "6",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Grenades"
+    },
+    {
+      "resist_info_id": "6164",
+      "resist_type_id": "7",
+      "resist_percent": "-425",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Tank Shell"
+    },
+    {
+      "resist_info_id": "6165",
+      "resist_type_id": "8",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "6166",
+      "resist_type_id": "9",
+      "resist_percent": "-250",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Anti-Vehicle Mine"
+    },
+    {
+      "resist_info_id": "6167",
+      "resist_type_id": "11",
+      "resist_percent": "-150",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - C4 (Boomer)"
+    },
+    {
+      "resist_info_id": "6168",
+      "resist_type_id": "12",
+      "resist_percent": "-180",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Flak (Explosion)"
+    },
+    {
+      "resist_info_id": "6169",
+      "resist_type_id": "13",
+      "resist_percent": "65",
+      "resist_amount": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Dynamic Collisions"
+    },
+    {
+      "resist_info_id": "6170",
+      "resist_type_id": "14",
+      "resist_percent": "67",
+      "resist_amount": "125",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Static Collisions"
+    },
+    {
+      "resist_info_id": "6171",
+      "resist_type_id": "15",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Personal Defense - Snipers TR"
+    },
+    {
+      "resist_info_id": "6172",
+      "resist_type_id": "16",
+      "resist_percent": "100",
+      "resist_amount": "125",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Suspension Collisions"
+    },
+    {
+      "resist_info_id": "6173",
+      "resist_type_id": "17",
+      "resist_percent": "85",
+      "resist_amount": "125",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Falling Collisions"
+    },
+    {
+      "resist_info_id": "6174",
+      "resist_type_id": "18",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Rocket Pods"
+    },
+    {
+      "resist_info_id": "6175",
+      "resist_type_id": "20",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Sniper Rifles"
+    },
+    {
+      "resist_info_id": "6176",
+      "resist_type_id": "21",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Personal Defense - Snipers VS"
+    },
+    {
+      "resist_info_id": "6177",
+      "resist_type_id": "22",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Anti-Aircraft Machine Gun"
+    },
+    {
+      "resist_info_id": "6178",
+      "resist_type_id": "23",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Air to Ground"
+    },
+    {
+      "resist_info_id": "6179",
+      "resist_type_id": "24",
+      "resist_percent": "-70",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Lancer AV"
+    },
+    {
+      "resist_info_id": "6180",
+      "resist_type_id": "25",
+      "resist_percent": "-75",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Tier 2 AV - Liberator"
+    },
+    {
+      "resist_info_id": "6181",
+      "resist_type_id": "26",
+      "resist_percent": "-295",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Phoenix AV"
+    },
+    {
+      "resist_info_id": "6182",
+      "resist_type_id": "27",
+      "resist_percent": "-69",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Armor Piercing Shell"
+    },
+    {
+      "resist_info_id": "6183",
+      "resist_type_id": "28",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Armor Piercing Chain Guns"
+    },
+    {
+      "resist_info_id": "6184",
+      "resist_type_id": "29",
+      "resist_percent": "46",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - VS Vortex AV"
+    },
+    {
+      "resist_info_id": "6185",
+      "resist_type_id": "30",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - VS Vortex AV: C2"
+    },
+    {
+      "resist_info_id": "6186",
+      "resist_type_id": "31",
+      "resist_percent": "-115",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - VS Vortex AV: C3"
+    },
+    {
+      "resist_info_id": "6187",
+      "resist_type_id": "33",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Mass Drivers"
+    },
+    {
+      "resist_info_id": "6188",
+      "resist_type_id": "34",
+      "resist_percent": "-225",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Default Rocket Launcher"
+    },
+    {
+      "resist_info_id": "6189",
+      "resist_type_id": "35",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Vehicle Shotgun (Canister)"
+    },
+    {
+      "resist_info_id": "6190",
+      "resist_type_id": "36",
+      "resist_percent": "-25",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Vehicle Grenades (Anti-Light Armor)"
+    },
+    {
+      "resist_info_id": "6191",
+      "resist_type_id": "37",
+      "resist_percent": "-175",
+      "description": "Elysium Drill - Liberator Cannon"
+    },
+    {
+      "resist_info_id": "6192",
+      "resist_type_id": "38",
+      "resist_percent": "-30",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Striker"
+    },
+    {
+      "resist_info_id": "6193",
+      "resist_type_id": "40",
+      "resist_percent": "-25",
+      "description": "Elysium Drill - Anti Materiel Rifle"
+    },
+    {
+      "resist_info_id": "6194",
+      "resist_type_id": "41",
+      "resist_percent": "-17",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - VS ES AV"
+    },
+    {
+      "resist_info_id": "6195",
+      "resist_type_id": "42",
+      "resist_percent": "-27.5",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - NC ES AV"
+    },
+    {
+      "resist_info_id": "6196",
+      "resist_type_id": "43",
+      "resist_percent": "-33.5",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - TR ES AV"
+    },
+    {
+      "resist_info_id": "6197",
+      "resist_type_id": "44",
+      "resist_percent": "55",
+      "description": "Elysium Drill - MAX HMG"
+    },
+    {
+      "resist_info_id": "6198",
+      "resist_type_id": "45",
+      "resist_percent": "-25",
+      "description": "Elysium Drill - Whale Hunter I"
+    },
+    {
+      "resist_info_id": "6199",
+      "resist_type_id": "47",
+      "resist_percent": "87",
+      "description": "Elysium Drill - Orbital Strike"
+    },
+    {
+      "resist_info_id": "6200",
+      "resist_type_id": "64",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Burning"
+    },
+    {
+      "resist_info_id": "6201",
+      "resist_type_id": "68",
+      "resist_percent": "-100",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Infantry Lock-On"
+    },
+    {
+      "resist_info_id": "6202",
+      "resist_type_id": "69",
+      "resist_percent": "68",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6203",
+      "resist_type_id": "69",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Flash - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6204",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6205",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Lightning - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6206",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Magrider - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6207",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Vanguard - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6208",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Prowler - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6209",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Scythe - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6210",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Reaver - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6211",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Mosquito - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6212",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Liberator - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6213",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Galaxy - HMG"
+    },
+    {
+      "resist_info_id": "6214",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Drop Pod - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6215",
+      "resist_type_id": "69",
+      "resist_percent": "85",
+      "multiplier_when_headshot": "1",
+      "description": "Harasser - HMG"
+    },
+    {
+      "resist_info_id": "6216",
+      "resist_type_id": "69",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6217",
+      "resist_type_id": "69",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Infiltrator: Nano-Armor Cloak Tier 1: Heavy Machine Guns (Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6218",
+      "resist_type_id": "69",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Infiltrator: Nano-Armor Cloak Tier 2: Heavy Machine Guns (Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6219",
+      "resist_type_id": "69",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "1",
+      "description": "Flash - Composite Armor Buff - HMGs 1"
+    },
+    {
+      "resist_info_id": "6220",
+      "resist_type_id": "69",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Flash - Composite Armor Buff - HMGs 2"
+    },
+    {
+      "resist_info_id": "6221",
+      "resist_type_id": "69",
+      "resist_percent": "28",
+      "multiplier_when_headshot": "1",
+      "description": "Flash - Composite Armor Buff - HMGs 3"
+    },
+    {
+      "resist_info_id": "6222",
+      "resist_type_id": "69",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Flash - Composite Armor Buff - HMGs 4"
+    },
+    {
+      "resist_info_id": "6223",
+      "resist_type_id": "69",
+      "resist_percent": "78",
+      "multiplier_when_headshot": "1",
+      "description": "Facility: Terminals - Heavy Kinetic"
+    },
+    {
+      "resist_info_id": "6224",
+      "resist_type_id": "69",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "MANA Engineer Turret - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6225",
+      "resist_type_id": "69",
+      "resist_percent": "1.5",
+      "multiplier_when_headshot": "1",
+      "description": "Shared: MAX: Defensive: Kinetic Armor 1: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6226",
+      "resist_type_id": "69",
+      "resist_percent": "3",
+      "multiplier_when_headshot": "1",
+      "description": "Shared: MAX: Defensive: Kinetic Armor 2: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6227",
+      "resist_type_id": "69",
+      "resist_percent": "4.5",
+      "multiplier_when_headshot": "1",
+      "description": "Shared: MAX: Defensive: Kinetic Armor 3: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6228",
+      "resist_type_id": "69",
+      "resist_percent": "6",
+      "multiplier_when_headshot": "1",
+      "description": "Shared: MAX: Defensive: Kinetic Armor 4: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6229",
+      "resist_type_id": "69",
+      "resist_percent": "7.5",
+      "multiplier_when_headshot": "1",
+      "description": "Shared: MAX: Defensive: Kinetic Armor 5: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6230",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Phalanx - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6231",
+      "resist_type_id": "69",
+      "resist_percent": "-11.5",
+      "multiplier_when_headshot": "1",
+      "description": "VS: MAX: Ability 02: Zealot Overdrive 01: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6232",
+      "resist_type_id": "69",
+      "resist_percent": "-11",
+      "multiplier_when_headshot": "1",
+      "description": "VS: MAX: Ability 02: Zealot Overdrive 02: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6233",
+      "resist_type_id": "69",
+      "resist_percent": "-10.5",
+      "multiplier_when_headshot": "1",
+      "description": "VS: MAX: Ability 02: Zealot Overdrive 03: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6234",
+      "resist_type_id": "69",
+      "resist_percent": "-10",
+      "multiplier_when_headshot": "1",
+      "description": "VS: MAX: Ability 02: Zealot Overdrive 04: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6235",
+      "resist_type_id": "69",
+      "resist_percent": "-9.5",
+      "multiplier_when_headshot": "1",
+      "description": "VS: MAX: Ability 02: Zealot Overdrive 05: Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6236",
+      "resist_type_id": "69",
+      "resist_percent": "7.5",
+      "multiplier_when_headshot": "0",
+      "description": "Nanoweave 1: Resist 4(Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6237",
+      "resist_type_id": "69",
+      "resist_percent": "10",
+      "multiplier_when_headshot": "0",
+      "description": "Nanoweave 2: Resist 4(Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6238",
+      "resist_type_id": "69",
+      "resist_percent": "12.5",
+      "multiplier_when_headshot": "0",
+      "description": "Nanoweave 3: Resist 4(Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6239",
+      "resist_type_id": "69",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "0",
+      "description": "Nanoweave 4: Resist 4(Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6240",
+      "resist_type_id": "69",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "0",
+      "description": "Nanoweave 5: Resist 4(Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6241",
+      "resist_type_id": "69",
+      "resist_percent": "37.5",
+      "multiplier_when_headshot": "1.23",
+      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV w/Nanoweave 1"
+    },
+    {
+      "resist_info_id": "6242",
+      "resist_type_id": "69",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1.33",
+      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV w/Nanoweave 2"
+    },
+    {
+      "resist_info_id": "6243",
+      "resist_type_id": "69",
+      "resist_percent": "32.5",
+      "multiplier_when_headshot": "1.45",
+      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV w/Nanoweave 3"
+    },
+    {
+      "resist_info_id": "6244",
+      "resist_type_id": "69",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1.6",
+      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV w/Nanoweave 4"
+    },
+    {
+      "resist_info_id": "6245",
+      "resist_type_id": "69",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "2",
+      "description": "Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV w/Nanoweave 5"
+    },
+    {
+      "resist_info_id": "6246",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "description": "Valkyrie - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6247",
+      "resist_type_id": "69",
+      "resist_percent": "3",
+      "description": "Valkyrie - Composite Armor Buff 1 (HMG)"
+    },
+    {
+      "resist_info_id": "6248",
+      "resist_type_id": "69",
+      "resist_percent": "6",
+      "description": "Valkyrie - Composite Armor Buff 2 (HMG)"
+    },
+    {
+      "resist_info_id": "6249",
+      "resist_type_id": "69",
+      "resist_percent": "9",
+      "description": "Valkyrie - Composite Armor Buff 3 (HMG)"
+    },
+    {
+      "resist_info_id": "6250",
+      "resist_type_id": "69",
+      "resist_percent": "12",
+      "description": "Valkyrie - Composite Armor Buff 4 (HMG)"
+    },
+    {
+      "resist_info_id": "6251",
+      "resist_type_id": "69",
+      "resist_percent": "25",
+      "description": "Spitfire Auto-Turret - HMGs"
+    },
+    {
+      "resist_info_id": "6252",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "ANT - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6253",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Phalanx AV: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6254",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed AA Phalanx: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6255",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed AI Phalanx: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6256",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Rampart Wall: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6257",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Repair Module: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6258",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer Garage: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6259",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Bunker 001: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6260",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "VP Chassis: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6261",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Deployed Blast Shield: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6262",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction Light: Tier 1 AV - Basilisk, Banshee, Spur, Vektor, Xiphos, PPA"
+    },
+    {
+      "resist_info_id": "6263",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Under Construction Medium: Tier 1 AV - Basilisk, Banshee, Spur, Vektor, Xiphos, PPA"
+    },
+    {
+      "resist_info_id": "6264",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Under Construction Heavy: Tier 1 AV - Basilisk, Banshee, Spur, Vektor, Xiphos, PPA"
+    },
+    {
+      "resist_info_id": "6265",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Core 001_Core: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6266",
+      "resist_type_id": "69",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Core 001_Shield: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6267",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "description": "Deployed Rampart Wall: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6268",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "description": "Deployed Sunderer Garage: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6269",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Shared Module: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6270",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Projectile Shield Module: Shield: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6271",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "VP Chassis: Tier 1 AV (R3 Invul )"
+    },
+    {
+      "resist_info_id": "6272",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Structure Shield Module: Shield: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6273",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Silo: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6274",
+      "resist_type_id": "69",
+      "resist_percent": "-19",
+      "multiplier_when_headshot": "1",
+      "description": "ANT - Tier 1 AV (Barrier Shield)"
+    },
+    {
+      "resist_info_id": "6275",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Structure Shield Module: CBS: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6276",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Faction Banner: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6277",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Reinforcement Module: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6278",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Blast Wall: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6279",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tower: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6280",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Vehicle Ramp: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6281",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Lumifiber Rampart Wall: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6282",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Alarm Module: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6283",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Repair Immune: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6284",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Deployed ION Turret: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6285",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: SpawnTube: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6286",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: VehiclePad: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6287",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: PillBox: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6288",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: AmmoTower: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6289",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: GateWall: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6290",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: AirPad: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6291",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Orbital Strike Gen: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6292",
+      "resist_type_id": "69",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "1",
+      "description": "Hardlight Cover - HMG"
+    },
+    {
+      "resist_info_id": "6293",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Cortium Module: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6294",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Premium Cortium Module: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6295",
+      "resist_type_id": "69",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "0",
+      "description": "Common: Suit: Nanoweave: HMG"
+    },
+    {
+      "resist_info_id": "6296",
+      "resist_type_id": "69",
+      "resist_percent": "15",
+      "multiplier_when_headshot": "2.334",
+      "description": "Common: Heavy Assault: Ability 02: Resist Shield - HMG with Nanoweave"
+    },
+    {
+      "resist_info_id": "6297",
+      "resist_type_id": "69",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability 02: Resist Shield - HMG"
+    },
+    {
+      "resist_info_id": "6298",
+      "resist_type_id": "69",
+      "resist_percent": "6.4",
+      "multiplier_when_headshot": "1",
+      "description": "MAX - Kinetic (2017) HMG"
+    },
+    {
+      "resist_info_id": "6299",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Deployed Artillery: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6300",
+      "resist_type_id": "69",
+      "resist_percent": "54",
+      "multiplier_when_headshot": "1",
+      "description": "Tempest - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6301",
+      "resist_type_id": "69",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Javelin - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6302",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Colossus - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6303",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "description": "WarAsset Bastion - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6304",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "War Asset: Generator: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6305",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Bastion Component - HMG"
+    },
+    {
+      "resist_info_id": "6306",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Tank Trap - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6307",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "description": "Hardlight Canopy Shield - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6308",
+      "resist_type_id": "69",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Hardlight Canopy Generator - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6309",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "description": "Colossus Shield - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6310",
+      "resist_type_id": "69",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Lightning Arrester  - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6311",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "resist_amount": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Strange Glowing Plant - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6312",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "resist_amount": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Strange Glowing Mineral - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6313",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Cortium Bomb - Heavy Machine Guns (Vehicle 20mms)"
+    },
+    {
+      "resist_info_id": "6314",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Dervish - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6315",
+      "resist_type_id": "69",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Attackable SCU - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6316",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Campaign: Invulnerable: Heavy Kinetic"
+    },
+    {
+      "resist_info_id": "6317",
+      "resist_type_id": "69",
+      "resist_percent": "0",
+      "description": "Shield Door Control Panel - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6318",
+      "resist_type_id": "69",
+      "resist_percent": "50",
+      "multiplier_when_headshot": "1",
+      "description": "Containment Site Gate Shield Weakpoint - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6319",
+      "resist_type_id": "69",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Depolyable Buoy - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6320",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Chimera - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6321",
+      "resist_type_id": "69",
+      "resist_percent": "75",
+      "description": "Chimera Rumble Shield - HMG 20mm+"
+    },
+    {
+      "resist_info_id": "6322",
+      "resist_type_id": "69",
+      "resist_percent": "0",
+      "multiplier_when_headshot": "0",
+      "description": "Disable: Nanoweave: HMG"
+    },
+    {
+      "resist_info_id": "6323",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "description": "Event Boss - Heavy Machine Guns"
+    },
+    {
+      "resist_info_id": "6324",
+      "resist_type_id": "69",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Common: Heavy Assault: Ability: AE Resist Shield - HMG"
+    },
+    {
+      "resist_info_id": "6325",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Sunderer - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6326",
+      "resist_type_id": "69",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Corsair - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6327",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Treestand: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6328",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Infantry Tunnel: Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6329",
+      "resist_type_id": "69",
+      "resist_percent": "70",
+      "multiplier_when_headshot": "1",
+      "description": "Elysium Drill - Tier 1 AV"
+    },
+    {
+      "resist_info_id": "6330",
+      "resist_type_id": "69",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Construction: Command Center: Tier 1 AV"
     }
   ],
-  "returned": 4493
+  "returned": 4706
 }

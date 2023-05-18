@@ -32261,7 +32261,67 @@
       "image_set_id": "1",
       "image_id": "35",
       "image_path": "/files/ps2/images/static/35.png"
+    },
+    {
+      "skill_category_id": "16925",
+      "skill_set_id": "1859",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16926",
+      "skill_set_id": "1857",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16927",
+      "skill_set_id": "1858",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16928",
+      "skill_set_id": "1860",
+      "skill_set_index": "0",
+      "skill_points": "0",
+      "name": {
+        "en": "Tactical Equipment"
+      },
+      "description": {
+        "en": "Unlock tactical devices and equipment available to all non-MAX infantry."
+      },
+      "image_set_id": "646",
+      "image_id": "2140",
+      "image_path": "/files/ps2/images/static/2140.png"
     }
   ],
-  "returned": 2444
+  "returned": 2448
 }

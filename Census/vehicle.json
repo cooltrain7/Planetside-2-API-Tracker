@@ -242,10 +242,10 @@
     {
       "vehicle_id": "100",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
-        "en": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
+        "en": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
       },
       "type_id": "7",
       "type_name": "Umovable Turret",
@@ -258,10 +258,10 @@
     {
       "vehicle_id": "101",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
-        "en": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets."
+        "en": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets."
       },
       "type_id": "7",
       "type_name": "Umovable Turret",
@@ -384,10 +384,10 @@
     {
       "vehicle_id": "162",
       "name": {
-        "en": "Xiphos Anti-Personnel Tower"
+        "en": "Xiphos Anti-Infantry Tower"
       },
       "description": {
-        "en": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
+        "en": "The Xiphos Anti-Infantry Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
       },
       "type_id": "7",
       "type_name": "Umovable Turret",
@@ -472,10 +472,10 @@
     {
       "vehicle_id": "2009",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
-        "en": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
+        "en": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor."
       },
       "type_id": "7",
       "type_name": "Umovable Turret",

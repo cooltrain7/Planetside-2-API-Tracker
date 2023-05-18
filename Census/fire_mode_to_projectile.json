@@ -6403,7 +6403,55 @@
     {
       "fire_mode_id": "81364",
       "projectile_id": "80611"
+    },
+    {
+      "fire_mode_id": "81371",
+      "projectile_id": "29000"
+    },
+    {
+      "fire_mode_id": "81372",
+      "projectile_id": "29000"
+    },
+    {
+      "fire_mode_id": "81373",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "81374",
+      "projectile_id": "27000"
+    },
+    {
+      "fire_mode_id": "81375",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "81376",
+      "projectile_id": "28000"
+    },
+    {
+      "fire_mode_id": "81377",
+      "projectile_id": "80442"
+    },
+    {
+      "fire_mode_id": "81378",
+      "projectile_id": "80442"
+    },
+    {
+      "fire_mode_id": "81380",
+      "projectile_id": "80614"
+    },
+    {
+      "fire_mode_id": "81381",
+      "projectile_id": "80614"
+    },
+    {
+      "fire_mode_id": "81382",
+      "projectile_id": "80615"
+    },
+    {
+      "fire_mode_id": "81383",
+      "projectile_id": "80615"
     }
   ],
-  "returned": 1601
+  "returned": 1613
 }

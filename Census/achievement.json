@@ -8599,7 +8599,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -8615,7 +8615,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -8631,7 +8631,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -9463,7 +9463,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -9479,7 +9479,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -9495,7 +9495,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -10327,7 +10327,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -10343,7 +10343,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -10359,7 +10359,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -11191,7 +11191,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -11207,7 +11207,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -11223,7 +11223,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -11655,7 +11655,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -11671,7 +11671,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -11687,7 +11687,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -11799,7 +11799,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -11815,7 +11815,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -11831,7 +11831,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -14551,7 +14551,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -14567,7 +14567,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -14583,7 +14583,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -14695,7 +14695,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -14711,7 +14711,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -14727,7 +14727,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -17447,7 +17447,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -17463,7 +17463,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -17479,7 +17479,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -17591,7 +17591,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -17607,7 +17607,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -17623,7 +17623,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -20343,7 +20343,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -20359,7 +20359,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -20375,7 +20375,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -20487,7 +20487,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -20503,7 +20503,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -20519,7 +20519,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -33783,7 +33783,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -33799,7 +33799,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -33815,7 +33815,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -33831,7 +33831,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -33847,7 +33847,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -33863,7 +33863,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -34023,7 +34023,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -34039,7 +34039,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -34055,7 +34055,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Xiphos Anti-Personnel Phalanx Turret"
+        "en": "Xiphos Anti-Infantry Phalanx Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -74399,7 +74399,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -74415,7 +74415,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -74431,7 +74431,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -74447,7 +74447,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -74463,7 +74463,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -77845,21 +77845,6 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "achievement_id": "92223",
-      "item_id": "100",
-      "objective_group_id": "17593",
-      "repeatable": "1",
-      "name": {
-        "en": "Outfit Loyalty - Small Outpost"
-      },
-      "description": {
-        "en": "Earn this ribbon by capturing and defending bases with your Outfit. Conquered facilities must have at least 10 enemies present in order to earn credit."
-      },
-      "image_set_id": "806242",
-      "image_id": "92391",
-      "image_path": "/files/ps2/images/static/92391.png"
-    },
-    {
       "achievement_id": "92224",
       "item_id": "6008686",
       "objective_group_id": "17588",
@@ -78018,51 +78003,6 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "achievement_id": "92234",
-      "item_id": "300",
-      "objective_group_id": "17604",
-      "repeatable": "1",
-      "name": {
-        "en": "Outfit Loyalty - Large Outpost"
-      },
-      "description": {
-        "en": "Earn this ribbon by capturing and defending large bases with your Outfit. Conquered bases must have at least 20 enemies present in order to earn credit."
-      },
-      "image_set_id": "806242",
-      "image_id": "92391",
-      "image_path": "/files/ps2/images/static/92391.png"
-    },
-    {
-      "achievement_id": "92235",
-      "item_id": "150",
-      "objective_group_id": "17605",
-      "repeatable": "1",
-      "name": {
-        "en": "Outfit Loyalty - Large Outpost"
-      },
-      "description": {
-        "en": "Earn this ribbon by capturing and defending large bases with your Outfit. Conquered bases must have at least 20 enemies present in order to earn credit."
-      },
-      "image_set_id": "806242",
-      "image_id": "92391",
-      "image_path": "/files/ps2/images/static/92391.png"
-    },
-    {
-      "achievement_id": "92236",
-      "item_id": "50",
-      "objective_group_id": "17606",
-      "repeatable": "1",
-      "name": {
-        "en": "Outfit Loyalty - Small Outpost"
-      },
-      "description": {
-        "en": "Earn this ribbon by capturing and defending bases with your Outfit. Conquered facilities must have at least 10 enemies present in order to earn credit."
-      },
-      "image_set_id": "806242",
-      "image_id": "92391",
-      "image_path": "/files/ps2/images/static/92391.png"
     },
     {
       "achievement_id": "92345",
@@ -99779,7 +99719,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -99795,7 +99735,7 @@
       "reward_id": "100",
       "repeatable": "0",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -99811,7 +99751,7 @@
       "reward_id": "101",
       "repeatable": "0",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -99827,7 +99767,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -99843,7 +99783,7 @@
       "reward_id": "615",
       "repeatable": "0",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -99851,7 +99791,673 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93807",
+      "item_id": "300",
+      "objective_group_id": "20825",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Large Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending large bases with your Outfit. Conquered bases must have at least 20 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
+    },
+    {
+      "achievement_id": "93808",
+      "item_id": "150",
+      "objective_group_id": "20826",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Large Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending large bases with your Outfit. Conquered bases must have at least 20 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
+    },
+    {
+      "achievement_id": "93809",
+      "item_id": "100",
+      "objective_group_id": "20827",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Small Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending bases with your Outfit. Conquered facilities must have at least 10 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
+    },
+    {
+      "achievement_id": "93810",
+      "item_id": "50",
+      "objective_group_id": "20828",
+      "repeatable": "1",
+      "name": {
+        "en": "Outfit Loyalty - Small Outpost"
+      },
+      "description": {
+        "en": "Earn this ribbon by capturing and defending bases with your Outfit. Conquered facilities must have at least 10 enemies present in order to earn credit."
+      },
+      "image_set_id": "806242",
+      "image_id": "92391",
+      "image_path": "/files/ps2/images/static/92391.png"
+    },
+    {
+      "achievement_id": "93811",
+      "item_id": "6014956",
+      "objective_group_id": "20833",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93812",
+      "item_id": "6014956",
+      "objective_group_id": "20834",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93813",
+      "item_id": "6014956",
+      "objective_group_id": "20835",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93814",
+      "item_id": "6014956",
+      "objective_group_id": "20836",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93815",
+      "item_id": "6014956",
+      "objective_group_id": "20837",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8007",
+      "image_id": "8308",
+      "image_path": "/files/ps2/images/static/8308.png"
+    },
+    {
+      "achievement_id": "93816",
+      "item_id": "6014957",
+      "objective_group_id": "20838",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93817",
+      "item_id": "6014957",
+      "objective_group_id": "20839",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93818",
+      "item_id": "6014957",
+      "objective_group_id": "20840",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93819",
+      "item_id": "6014957",
+      "objective_group_id": "20841",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93820",
+      "item_id": "6014957",
+      "objective_group_id": "20842",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8007",
+      "image_id": "8308",
+      "image_path": "/files/ps2/images/static/8308.png"
+    },
+    {
+      "achievement_id": "93821",
+      "item_id": "0",
+      "objective_group_id": "20847",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "achievement_id": "93823",
+      "item_id": "6014991",
+      "objective_group_id": "20873",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93824",
+      "item_id": "6014991",
+      "objective_group_id": "20874",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93825",
+      "item_id": "6014991",
+      "objective_group_id": "20875",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93826",
+      "item_id": "6014991",
+      "objective_group_id": "20876",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93827",
+      "item_id": "6014825",
+      "objective_group_id": "20877",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8014",
+      "image_id": "8329",
+      "image_path": "/files/ps2/images/static/8329.png"
+    },
+    {
+      "achievement_id": "93828",
+      "item_id": "6014825",
+      "objective_group_id": "20878",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93829",
+      "item_id": "6014825",
+      "objective_group_id": "20879",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93830",
+      "item_id": "6014825",
+      "objective_group_id": "20880",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93831",
+      "item_id": "6014825",
+      "objective_group_id": "20881",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93832",
+      "item_id": "6014827",
+      "objective_group_id": "20894",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8014",
+      "image_id": "8329",
+      "image_path": "/files/ps2/images/static/8329.png"
+    },
+    {
+      "achievement_id": "93833",
+      "item_id": "6014827",
+      "objective_group_id": "20895",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93834",
+      "item_id": "6014827",
+      "objective_group_id": "20896",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93835",
+      "item_id": "6014827",
+      "objective_group_id": "20897",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93836",
+      "item_id": "6014827",
+      "objective_group_id": "20898",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93837",
+      "item_id": "6014826",
+      "objective_group_id": "20907",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8014",
+      "image_id": "8329",
+      "image_path": "/files/ps2/images/static/8329.png"
+    },
+    {
+      "achievement_id": "93838",
+      "item_id": "6014826",
+      "objective_group_id": "20908",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93839",
+      "item_id": "6014826",
+      "objective_group_id": "20909",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93840",
+      "item_id": "6014826",
+      "objective_group_id": "20910",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93841",
+      "item_id": "6014826",
+      "objective_group_id": "20911",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93842",
+      "item_id": "6014828",
+      "objective_group_id": "20916",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8014",
+      "image_id": "8329",
+      "image_path": "/files/ps2/images/static/8329.png"
+    },
+    {
+      "achievement_id": "93843",
+      "item_id": "6014828",
+      "objective_group_id": "20917",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93844",
+      "item_id": "6014828",
+      "objective_group_id": "20918",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93845",
+      "item_id": "6014828",
+      "objective_group_id": "20919",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93846",
+      "item_id": "6014828",
+      "objective_group_id": "20920",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93847",
+      "objective_group_id": "20929",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Module Mastery"
+      },
+      "description": {
+        "en": "Earn this ribbon by installing, overloading, or disarming construction modules."
+      },
+      "image_set_id": "803383",
+      "image_id": "86296",
+      "image_path": "/files/ps2/images/static/86296.png"
+    },
+    {
+      "achievement_id": "93868",
+      "objective_group_id": "20954",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Hold the Line"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert."
+      },
+      "image_set_id": "8108",
+      "image_id": "8662",
+      "image_path": "/files/ps2/images/static/8662.png"
+    },
+    {
+      "achievement_id": "93869",
+      "item_id": "6014991",
+      "objective_group_id": "20955",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
     }
   ],
-  "returned": 6257
+  "returned": 6295
 }

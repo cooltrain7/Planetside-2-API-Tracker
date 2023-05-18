@@ -17732,7 +17732,6 @@
       "ability_id": "1111615",
       "ability_type_id": "34",
       "distance_max": "30",
-      "radius_max": "30",
       "flag_toggle": "0"
     },
     {
@@ -17819,7 +17818,6 @@
       "ability_id": "1111652",
       "ability_type_id": "34",
       "distance_max": "30",
-      "radius_max": "30",
       "flag_toggle": "0"
     },
     {
@@ -18230,7 +18228,6 @@
       "ability_id": "1111930",
       "ability_type_id": "34",
       "distance_max": "30",
-      "radius_max": "30",
       "flag_toggle": "0"
     },
     {
@@ -21551,7 +21548,6 @@
       "ability_id": "1113457",
       "ability_type_id": "34",
       "distance_max": "75",
-      "radius_max": "75",
       "flag_toggle": "0"
     },
     {
@@ -31375,6 +31371,25 @@
       "flag_toggle": "0"
     },
     {
+      "ability_id": "1117534",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
       "ability_id": "1117535",
       "ability_type_id": "3",
       "radius_max": "0",
@@ -31632,10 +31647,95 @@
       "flag_toggle": "0"
     },
     {
+      "ability_id": "1117596",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
       "ability_id": "1117597",
       "ability_type_id": "3",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117643",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117644",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117645",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117646",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117654",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117655",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117656",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117657",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117658",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117659",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117664",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5213
+  "returned": 5226
 }

@@ -24411,7 +24411,7 @@
       "objective_set_id": "5686",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -24427,7 +24427,7 @@
       "objective_set_id": "5687",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -24443,7 +24443,7 @@
       "objective_set_id": "5688",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -24459,7 +24459,7 @@
       "objective_set_id": "5689",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -24475,7 +24475,7 @@
       "objective_set_id": "5690",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -24491,7 +24491,7 @@
       "objective_set_id": "5691",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -24507,7 +24507,7 @@
       "objective_set_id": "5692",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -24523,7 +24523,7 @@
       "objective_set_id": "5693",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -24539,7 +24539,7 @@
       "objective_set_id": "5694",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -24555,7 +24555,7 @@
       "objective_set_id": "5695",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -24571,7 +24571,7 @@
       "objective_set_id": "5696",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -24587,7 +24587,7 @@
       "objective_set_id": "5697",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -46468,7 +46468,7 @@
       "objective_set_id": "7474",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -46484,7 +46484,7 @@
       "objective_set_id": "7475",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -46500,7 +46500,7 @@
       "objective_set_id": "7476",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -46516,7 +46516,7 @@
       "objective_set_id": "7477",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "MANA Anti-Personnel Turret"
+        "en": "MANA Anti-Infantry Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -67432,7 +67432,7 @@
       "directive_tier_id": "1",
       "objective_set_id": "9411",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -67447,7 +67447,7 @@
       "directive_tier_id": "2",
       "objective_set_id": "9412",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -67462,7 +67462,7 @@
       "directive_tier_id": "3",
       "objective_set_id": "9413",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -67477,7 +67477,7 @@
       "directive_tier_id": "4",
       "objective_set_id": "9414",
       "name": {
-        "en": "Fishing Spear"
+        "en": "Wavestinger Harpoon"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -67485,7 +67485,995 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5299",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9419",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5300",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9420",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5301",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9421",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5302",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9422",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5303",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9423",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5304",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9424",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5305",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9425",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5306",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9426",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5307",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9427",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5308",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9428",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5309",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9429",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5310",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9430",
+      "name": {
+        "en": "NSX Fusion Blade"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5311",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9431",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5312",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9432",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5313",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9433",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5314",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9434",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "\"Apex\" Eridani SX5"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5315",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9435",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5316",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9435",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5317",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9435",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5318",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9435",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "\"Apex\" SMG-46 Armistice"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5319"
+    },
+    {
+      "directive_id": "5320"
+    },
+    {
+      "directive_id": "5321"
+    },
+    {
+      "directive_id": "5322"
+    },
+    {
+      "directive_id": "5323",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9441",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5324",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9442",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5325",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9439",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5326",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9440",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "\"Apex\" AF-4 Cyclone"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5327",
+      "directive_tree_id": "115",
+      "directive_tier_id": "3",
+      "objective_set_id": "9445",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5328",
+      "directive_tree_id": "115",
+      "directive_tier_id": "4",
+      "objective_set_id": "9446",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5329",
+      "directive_tree_id": "115",
+      "directive_tier_id": "1",
+      "objective_set_id": "9443",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5330",
+      "directive_tree_id": "115",
+      "directive_tier_id": "2",
+      "objective_set_id": "9444",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "\"Apex\" PMG-100"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5331",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9447",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5332",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9448",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5333",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9449",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5334",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9450",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5335",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9451",
+      "name": {
+        "en": "Hot Drop"
+      },
+      "description": {
+        "en": "Earn this ribbon by deploying friendly troops to the battefield where they earn kills!"
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5336",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9452",
+      "name": {
+        "en": "Hot Drop"
+      },
+      "description": {
+        "en": "Earn this ribbon by deploying friendly troops to the battefield where they earn kills!"
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5337",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9453",
+      "name": {
+        "en": "Hot Drop"
+      },
+      "description": {
+        "en": "Earn this ribbon by deploying friendly troops to the battefield where they earn kills!"
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5338",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9454",
+      "name": {
+        "en": "Hot Drop"
+      },
+      "description": {
+        "en": "Earn this ribbon by deploying friendly troops to the battefield where they earn kills!"
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5343",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9455",
+      "name": {
+        "en": "Hold the Line"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5344",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9456",
+      "name": {
+        "en": "Hold the Line"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5345",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9457",
+      "name": {
+        "en": "Hold the Line"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5346",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9458",
+      "name": {
+        "en": "Hold the Line"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5347",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9459",
+      "name": {
+        "en": "Module Mastery"
+      },
+      "description": {
+        "en": "Earn this ribbon by installing, overloading, or disarming construction modules."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5348",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9460",
+      "name": {
+        "en": "Module Mastery"
+      },
+      "description": {
+        "en": "Earn this ribbon by installing, overloading, or disarming construction modules."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5349",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9461",
+      "name": {
+        "en": "Module Mastery"
+      },
+      "description": {
+        "en": "Earn this ribbon by installing, overloading, or disarming construction modules."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5350",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9462",
+      "name": {
+        "en": "Module Mastery"
+      },
+      "description": {
+        "en": "Earn this ribbon by installing, overloading, or disarming construction modules."
+      },
+      "image_set_id": "14121",
+      "image_id": "79544",
+      "image_path": "/files/ps2/images/static/79544.png"
+    },
+    {
+      "directive_id": "5351",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9463",
+      "name": {
+        "en": "Focused Assault"
+      },
+      "description": {
+        "en": "Earn kills during a continent Meltdown Alert."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5352",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9464",
+      "name": {
+        "en": "Focused Assault"
+      },
+      "description": {
+        "en": "Earn kills during a continent Meltdown Alert."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5353",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9465",
+      "name": {
+        "en": "Focused Assault"
+      },
+      "description": {
+        "en": "Earn kills during a continent Meltdown Alert."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5354",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9466",
+      "name": {
+        "en": "Focused Assault"
+      },
+      "description": {
+        "en": "Earn kills during a continent Meltdown Alert."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5355",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9467",
+      "name": {
+        "en": "Apex Predator"
+      },
+      "description": {
+        "en": "Earn kills using \"Apex\" weapons."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5356",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9468",
+      "name": {
+        "en": "Apex Predator"
+      },
+      "description": {
+        "en": "Earn kills using \"Apex\" weapons."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5357",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9469",
+      "name": {
+        "en": "Apex Predator"
+      },
+      "description": {
+        "en": "Earn kills using \"Apex\" weapons."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5358",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9468",
+      "name": {
+        "en": "Apex Predator"
+      },
+      "description": {
+        "en": "Earn kills using \"Apex\" weapons."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5359",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9471",
+      "name": {
+        "en": "Foothold"
+      },
+      "description": {
+        "en": "Capture construction facilities."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5360",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9472",
+      "name": {
+        "en": "Foothold"
+      },
+      "description": {
+        "en": "Capture construction facilities."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5361",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9473",
+      "name": {
+        "en": "Foothold"
+      },
+      "description": {
+        "en": "Capture construction facilities."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5362",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9474",
+      "name": {
+        "en": "Foothold"
+      },
+      "description": {
+        "en": "Capture construction facilities."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5363",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9475",
+      "name": {
+        "en": "Building Blocks"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5364",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9476",
+      "name": {
+        "en": "Building Blocks"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5365",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9477",
+      "name": {
+        "en": "Building Blocks"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5366",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9478",
+      "name": {
+        "en": "Building Blocks"
+      },
+      "description": {
+        "en": "Deposit Cortium into a Silo in a contested region."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5367",
+      "directive_tree_id": "119",
+      "directive_tier_id": "1",
+      "objective_set_id": "9479",
+      "name": {
+        "en": "Armored Conflict"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "14090",
+      "image_id": "79513",
+      "image_path": "/files/ps2/images/static/79513.png"
+    },
+    {
+      "directive_id": "5368",
+      "directive_tree_id": "119",
+      "directive_tier_id": "2",
+      "objective_set_id": "9480",
+      "name": {
+        "en": "Armored Conflict"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "14090",
+      "image_id": "79513",
+      "image_path": "/files/ps2/images/static/79513.png"
+    },
+    {
+      "directive_id": "5369",
+      "directive_tree_id": "119",
+      "directive_tier_id": "3",
+      "objective_set_id": "9481",
+      "name": {
+        "en": "Armored Conflict"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "14090",
+      "image_id": "79513",
+      "image_path": "/files/ps2/images/static/79513.png"
+    },
+    {
+      "directive_id": "5370",
+      "directive_tree_id": "119",
+      "directive_tier_id": "4",
+      "objective_set_id": "9482",
+      "name": {
+        "en": "Armored Conflict"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "14090",
+      "image_id": "79513",
+      "image_path": "/files/ps2/images/static/79513.png"
     }
   ],
-  "returned": 4371
+  "returned": 4439
 }

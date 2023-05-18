@@ -72,6 +72,7 @@
       "param3": "Addend",
       "param4": "PcntAddend",
       "param5": "Resource Variable",
+      "param6": "DoNotAlterResourceValue",
       "string1": "ResourceVariableId"
     },
     {
