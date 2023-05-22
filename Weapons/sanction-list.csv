@@ -575,6 +575,9 @@
 6004174,Heavy Weapon,0,NC05-P Jackhammer,2,none
 6006332,Heavy Weapon,0,NS-03 Thumper,0,none
 6009426,Heavy Weapon,0,NS-03 Thumper SE,0,none
+6014952,Heavy Weapon,0,NS-D Helios,0,none
+6014956,Heavy Weapon,0,NS-D Helios,0,none
+6014957,Heavy Weapon,0,NS-D Helios EX,0,none
 6012324,Heavy Weapon,0,SPRK-33's Stomper,0,none
 7533,Heavy Weapon,0,T7 Mini-Chaingun,3,none
 803779,Heavy Weapon,0,T7 Mini-Chaingun AE,3,none
@@ -647,10 +650,6 @@
 803814,Infantry Abilities,0,AE Nano-Armor Kit 6,3,none
 803820,Infantry Abilities,0,AE Nano-Armor Kit 6,1,none
 6006701,Infantry Abilities,0,AE Nano-Armor Kit 6,4,none
-6002366,Infantry Abilities,0,Alarm Module,2,none
-6002367,Infantry Abilities,0,Alarm Module,3,none
-6002368,Infantry Abilities,0,Alarm Module,1,none
-6005628,Infantry Abilities,0,Alarm Module,4,none
 153,Infantry Abilities,0,Ammunition Package 1,0,none
 376,Infantry Abilities,0,Ammunition Package 1,0,none
 377,Infantry Abilities,0,Ammunition Package 1,0,none
@@ -688,6 +687,7 @@
 803030,Infantry Abilities,1,AV SpitFire Turret,1,none
 6004611,Infantry Abilities,0,Bending Beacon,,none
 6006353,Infantry Abilities,0,Bending Beacon,0,none
+6014932,Infantry Abilities,0,Blast Gate,0,none
 804980,Infantry Abilities,0,Blast Wall,2,none
 804981,Infantry Abilities,0,Blast Wall,3,none
 804982,Infantry Abilities,0,Blast Wall,1,none
@@ -697,11 +697,16 @@
 803616,Infantry Abilities,0,Bunker,1,none
 6005701,Infantry Abilities,0,Bunker,4,none
 6009090,Infantry Abilities,0,Caltrop,0,none
+6014614,Infantry Abilities,0,Command Center,0,none
 6009069,Infantry Abilities,0,Cortium Bomb,0,none
 804702,Infantry Abilities,0,Cortium Silo,2,none
 804703,Infantry Abilities,0,Cortium Silo,3,none
 804704,Infantry Abilities,0,Cortium Silo,1,none
 6005657,Infantry Abilities,0,Cortium Silo,4,none
+6014585,Infantry Abilities,0,Cortium Silo Reserve,1,none
+6014586,Infantry Abilities,0,Cortium Silo Reserve,2,none
+6014587,Infantry Abilities,0,Cortium Silo Reserve,3,none
+6014588,Infantry Abilities,0,Cortium Silo Reserve,4,none
 6003075,Infantry Abilities,0,Cortium Tap,,none
 803469,Infantry Abilities,0,Deconstruction Tool,,none
 6009753,Infantry Abilities,0,Elysium Refinery,0,none
@@ -732,10 +737,19 @@
 803589,Infantry Abilities,0,Hoplon Anti-Aircraft Phalanx Tower,3,none
 803590,Infantry Abilities,0,Hoplon Anti-Aircraft Phalanx Tower,1,none
 6005622,Infantry Abilities,0,Hoplon Anti-Aircraft Phalanx Tower,4,none
+6014748,Infantry Abilities,0,Infantry Awning,0,none
 6002348,Infantry Abilities,0,Infantry Tower,2,none
 6002349,Infantry Abilities,0,Infantry Tower,3,none
 6002350,Infantry Abilities,0,Infantry Tower,1,none
 6005644,Infantry Abilities,0,Infantry Tower,4,none
+6014578,Infantry Abilities,0,Infantry Tree Stand,2,none
+6014580,Infantry Abilities,0,Infantry Tree Stand,4,none
+6014582,Infantry Abilities,0,Infantry Tree Stand,3,none
+6014584,Infantry Abilities,0,Infantry Tree Stand,1,none
+803602,Infantry Abilities,0,Infantry Tunnel,2,none
+803603,Infantry Abilities,0,Infantry Tunnel,3,none
+803604,Infantry Abilities,0,Infantry Tunnel,1,none
+6014603,Infantry Abilities,0,Infantry Tunnel,4,none
 6009093,Infantry Abilities,0,Infradine,,none
 6002553,Infantry Abilities,0,IPC Targeting Dart,0,none
 6011430,Infantry Abilities,0,Jack Johnson and Tom O'Leary,0,none
@@ -764,6 +778,7 @@
 6002497,Infantry Abilities,0,Light Air Terminal,3,none
 6002498,Infantry Abilities,0,Light Air Terminal,1,none
 6005626,Infantry Abilities,0,Light Air Terminal,4,none
+6014935,Infantry Abilities,0,Light Post,0,none
 6002472,Infantry Abilities,0,Light Vehicle Terminal,2,none
 6002473,Infantry Abilities,0,Light Vehicle Terminal,3,none
 6002474,Infantry Abilities,0,Light Vehicle Terminal,1,none
@@ -805,6 +820,7 @@
 100,Infantry Abilities,0,Medical Kit,3,none
 101,Infantry Abilities,0,Medical Kit,1,none
 6005263,Infantry Abilities,0,Medical Kit,,none
+6014819,Infantry Abilities,0,Module Dispenser,0,none
 75285,Infantry Abilities,0,Motion Spotter 1,0,none
 75286,Infantry Abilities,0,Motion Spotter 2,0,none
 75287,Infantry Abilities,0,Motion Spotter 3,0,none
@@ -834,8 +850,13 @@
 6011,Infantry Abilities,0,Nano-Armor Kit 6,3,none
 6012,Infantry Abilities,0,Nano-Armor Kit 6,2,none
 6005222,Infantry Abilities,0,Nano-Armor Kit 6,4,none
+6014815,Infantry Abilities,0,Narrow Bulwark Wall,0,none
 6009605,Infantry Abilities,0,NE-11 PML,0,none
 6009487,Infantry Abilities,0,Neutralizer Device,0,none
+6014727,Infantry Abilities,0,Orbital Mining Drill,1,none
+6014728,Infantry Abilities,0,Orbital Mining Drill,2,none
+6014729,Infantry Abilities,0,Orbital Mining Drill,3,none
+6014730,Infantry Abilities,0,Orbital Mining Drill,4,none
 6002554,Infantry Abilities,0,Orbital Strike Target Designator,0,none
 6002524,Infantry Abilities,0,Orbital Strike Uplink,2,none
 6002525,Infantry Abilities,0,Orbital Strike Uplink,3,none
@@ -872,6 +893,11 @@
 804869,Infantry Abilities,0,RD-GG Recon Device 6,3,none
 804885,Infantry Abilities,0,RD-GG Recon Device 6,1,none
 804886,Infantry Abilities,0,RD-GG Recon Device 6,2,none
+6014778,Infantry Abilities,0,Rebirthing Center,0,none
+6002366,Infantry Abilities,0,Recon Array,2,none
+6002367,Infantry Abilities,0,Recon Array,3,none
+6002368,Infantry Abilities,0,Recon Array,1,none
+6005628,Infantry Abilities,0,Recon Array,4,none
 309,Infantry Abilities,0,Recon Detection Device 1,2,none
 471,Infantry Abilities,0,Recon Detection Device 1,3,none
 472,Infantry Abilities,0,Recon Detection Device 1,1,none
@@ -982,6 +1008,7 @@
 6002485,Infantry Abilities,0,Vehicle Ammo Dispenser,3,none
 6002486,Infantry Abilities,0,Vehicle Ammo Dispenser,1,none
 6005630,Infantry Abilities,0,Vehicle Ammo Dispenser,4,none
+6014813,Infantry Abilities,0,Vehicle Bridge,0,none
 6002490,Infantry Abilities,0,Vehicle Gate,2,none
 6002491,Infantry Abilities,0,Vehicle Gate,3,none
 6002492,Infantry Abilities,0,Vehicle Gate,1,none
@@ -992,20 +1019,21 @@
 6005661,Infantry Abilities,0,Vehicle Ramp,4,none
 803470,Infantry Abilities,0,Welding Device,0,none
 6004272,Infantry Abilities,0,Welding Device,,none
-803591,Infantry Abilities,0,Xiphos Anti-Personnel Tower,2,none
-803592,Infantry Abilities,0,Xiphos Anti-Personnel Tower,3,none
-803593,Infantry Abilities,0,Xiphos Anti-Personnel Tower,1,none
-6005624,Infantry Abilities,0,Xiphos Anti-Personnel Tower,4,none
+6014817,Infantry Abilities,0,Wide Bulwark Wall,0,none
+803591,Infantry Abilities,0,Xiphos Anti-Infantry Tower,2,none
+803592,Infantry Abilities,0,Xiphos Anti-Infantry Tower,3,none
+803593,Infantry Abilities,0,Xiphos Anti-Infantry Tower,1,none
+6005624,Infantry Abilities,0,Xiphos Anti-Infantry Tower,4,none
 6011792,Infantry Gear,0,Diver Propulsion Device 1,0,none
 6011793,Infantry Gear,0,Diver Propulsion Device 2,0,none
 6011794,Infantry Gear,0,Diver Propulsion Device 3,0,none
 6011795,Infantry Gear,0,Diver Propulsion Device 4,0,none
 6011796,Infantry Gear,0,Diver Propulsion Device 5,0,none
-554,Infantry Weapons,1,MANA Anti-Personnel Turret,1,none
-555,Infantry Weapons,1,MANA Anti-Personnel Turret,2,none
-556,Infantry Weapons,1,MANA Anti-Personnel Turret,3,none
-557,Infantry Weapons,1,MANA Anti-Personnel Turret,0,none
-6005423,Infantry Weapons,1,MANA Anti-Personnel Turret,4,none
+554,Infantry Weapons,1,MANA Anti-Infantry Turret,1,none
+555,Infantry Weapons,1,MANA Anti-Infantry Turret,2,none
+556,Infantry Weapons,1,MANA Anti-Infantry Turret,3,none
+557,Infantry Weapons,1,MANA Anti-Infantry Turret,0,none
+6005423,Infantry Weapons,1,MANA Anti-Infantry Turret,4,none
 503,Infantry Weapons,1,MANA Anti-Vehicle Turret,0,none
 6010044,Javelin Primary Weapon,1,JVN-30 Salamander,0,none
 6010078,Javelin Primary Weapon,1,JVN-50 Celeste,0,none
@@ -1027,7 +1055,6 @@
 6011456,Knife,0,Eviscerator,3,none
 6009854,Knife,0,Excursion Kukri,0,none
 6006080,Knife,0,Fatestealer,0,none
-6014780,Knife,0,Fishing Spear,0,none
 19,Knife,0,Force-Blade,1,none
 6011455,Knife,0,Guillotine,4,none
 802316,Knife,0,Hardlight Dagger,2,none
@@ -1060,6 +1087,7 @@
 804113,Knife,0,"NS-TMC-01 ""His Regards""",0,none
 6005743,Knife,0,NS-W Survivor,0,none
 804795,Knife,0,NSX Amaterasu,0,none
+6014991,Knife,0,NSX Fusion Blade,0,none
 6014568,Knife,0,Queen of Hearts,0,none
 285,Knife,0,Ripper,3,none
 6005452,Knife,0,Ripper AE,3,none
@@ -1068,6 +1096,7 @@
 801969,Knife,0,The Slasher,0,none
 6011556,Knife,0,The Swashbuckler,0,none
 6014527,Knife,0,Trench Shovel,0,none
+6014780,Knife,0,Wavestinger Harpoon,0,none
 6011914,Knife,0,Wyrdwood Shillelagh,0,none
 5209,Liberator Belly Weapon,1,AP30 Shredder,3,gunner
 5210,Liberator Belly Weapon,1,AP30 Shredder,2,gunner
@@ -1441,6 +1470,10 @@
 1884,Shotgun,0,The Brawler,2,shotgun
 39001,Shotgun,0,TRS-12 Uppercut,3,shotgun
 7432,Shotgun,0,TS4 Haymaker,3,shotgun
+6014826,SMG,0,"""Apex"" AF-4 Cyclone",2,infantry
+6014825,SMG,0,"""Apex"" Eridani SX5",1,infantry
+6014828,SMG,0,"""Apex"" PMG-100",4,infantry
+6014827,SMG,0,"""Apex"" SMG-46 Armistice",3,infantry
 27000,SMG,0,AF-4 Cyclone,2,infantry
 6002824,SMG,0,AF-4AE Cyclone,2,infantry
 27005,SMG,0,AF-4G Cyclone,2,infantry
@@ -1652,16 +1685,16 @@
 6004444,Vehicle Weapons,0,The Flail,3,none
 6004445,Vehicle Weapons,0,The Flail,2,none
 6006068,Vehicle Weapons,0,The Flail,4,none
-803598,Vehicle Weapons,0,Xiphos Anti-Personnel Phalanx Tower,1,none
-803599,Vehicle Weapons,0,Xiphos Anti-Personnel Phalanx Tower,2,none
-803600,Vehicle Weapons,0,Xiphos Anti-Personnel Phalanx Tower,3,none
-803601,Vehicle Weapons,1,Xiphos Anti-Personnel Phalanx Tower,0,none
-551,Vehicle Weapons,1,Xiphos Anti-Personnel Phalanx Turret,1,none
-552,Vehicle Weapons,1,Xiphos Anti-Personnel Phalanx Turret,2,none
-553,Vehicle Weapons,1,Xiphos Anti-Personnel Phalanx Turret,3,none
-724,Vehicle Weapons,1,Xiphos Anti-Personnel Phalanx Turret,0,none
-725,Vehicle Weapons,1,Xiphos Anti-Personnel Phalanx Turret,2,none
-726,Vehicle Weapons,1,Xiphos Anti-Personnel Phalanx Turret,3,none
+803598,Vehicle Weapons,0,Xiphos Anti-Infantry Phalanx Tower,1,none
+803599,Vehicle Weapons,0,Xiphos Anti-Infantry Phalanx Tower,2,none
+803600,Vehicle Weapons,0,Xiphos Anti-Infantry Phalanx Tower,3,none
+803601,Vehicle Weapons,1,Xiphos Anti-Infantry Phalanx Tower,0,none
+551,Vehicle Weapons,1,Xiphos Anti-Infantry Phalanx Turret,1,none
+552,Vehicle Weapons,1,Xiphos Anti-Infantry Phalanx Turret,2,none
+553,Vehicle Weapons,1,Xiphos Anti-Infantry Phalanx Turret,3,none
+724,Vehicle Weapons,1,Xiphos Anti-Infantry Phalanx Turret,0,none
+725,Vehicle Weapons,1,Xiphos Anti-Infantry Phalanx Turret,2,none
+726,Vehicle Weapons,1,Xiphos Anti-Infantry Phalanx Turret,3,none
 6005544,Wasp Prototype Wing Mount,1,Pummeler Rocket Pods,0,none
 6005545,Wasp Prototype Wing Mount,1,Pummeler Rocket Pods,0,none
 6005546,Wasp Prototype Wing Mount,1,Pummeler Rocket Pods,0,none
