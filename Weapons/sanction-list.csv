@@ -699,6 +699,8 @@
 6009090,Infantry Abilities,0,Caltrop,0,none
 6014614,Infantry Abilities,0,Command Center,0,none
 6009069,Infantry Abilities,0,Cortium Bomb,0,none
+6014746,Infantry Abilities,0,Cortium Bomb Module,0,none
+6014736,Infantry Abilities,0,Cortium Capacity Module,0,none
 804702,Infantry Abilities,0,Cortium Silo,2,none
 804703,Infantry Abilities,0,Cortium Silo,3,none
 804704,Infantry Abilities,0,Cortium Silo,1,none
@@ -709,18 +711,22 @@
 6014588,Infantry Abilities,0,Cortium Silo Reserve,4,none
 6003075,Infantry Abilities,0,Cortium Tap,,none
 803469,Infantry Abilities,0,Deconstruction Tool,,none
+6014738,Infantry Abilities,0,Durability Module,0,none
 6009753,Infantry Abilities,0,Elysium Refinery,0,none
 6002466,Infantry Abilities,0,Elysium Spawn Tube,2,none
 6002467,Infantry Abilities,0,Elysium Spawn Tube,3,none
 6002468,Infantry Abilities,0,Elysium Spawn Tube,1,none
 6005659,Infantry Abilities,0,Elysium Spawn Tube,4,none
+6014739,Infantry Abilities,0,Equipment Terminal Module,0,none
 804954,Infantry Abilities,0,Faction Banner,2,none
 804955,Infantry Abilities,0,Faction Banner,3,none
 804956,Infantry Abilities,0,Faction Banner,1,none
 6005640,Infantry Abilities,0,Faction Banner,4,none
+6014737,Infantry Abilities,0,Firewall Module,0,none
 6004292,Infantry Abilities,0,Flail Targeting Dart,0,none
 6009000,Infantry Abilities,0,Flash XS-1,,none
 6009009,Infantry Abilities,0,Flash XS-1,0,none
+6014741,Infantry Abilities,0,Fortress Shield Module,0,none
 6002390,Infantry Abilities,0,Glaive IPC,2,none
 6002391,Infantry Abilities,0,Glaive IPC,3,none
 6002392,Infantry Abilities,0,Glaive IPC,1,none
@@ -730,6 +736,8 @@
 6002956,Infantry Abilities,0,Hardlight Barrier,3,none
 6005515,Infantry Abilities,0,Hardlight Barrier,4,none
 6009064,Infantry Abilities,0,Hardlight Canopy,0,none
+6014742,Infantry Abilities,0,Heat Dispersion Module,0,none
+6014740,Infantry Abilities,0,Heavy Repair Module,0,none
 803617,Infantry Abilities,0,HIVE,2,none
 803618,Infantry Abilities,0,HIVE,3,none
 803619,Infantry Abilities,0,HIVE,1,none
@@ -871,6 +879,7 @@
 6002479,Infantry Abilities,0,Pillbox,3,none
 6002480,Infantry Abilities,0,Pillbox,1,none
 6005652,Infantry Abilities,0,Pillbox,4,none
+6014726,Infantry Abilities,0,Projectile Shield Module,0,none
 803605,Infantry Abilities,0,Rampart Wall,2,none
 803606,Infantry Abilities,0,Rampart Wall,3,none
 803607,Infantry Abilities,0,Rampart Wall,1,none
@@ -940,6 +949,7 @@
 804270,Infantry Abilities,0,Repair Module,3,none
 804271,Infantry Abilities,0,Repair Module,1,none
 6005666,Infantry Abilities,0,Repair Module,4,none
+6014616,Infantry Abilities,0,Repair Module,0,none
 6004529,Infantry Abilities,0,Reserve Hardlight Barrier,2,none
 6004530,Infantry Abilities,0,Reserve Hardlight Barrier,3,none
 6004531,Infantry Abilities,0,Reserve Hardlight Barrier,1,none
@@ -967,6 +977,7 @@
 804264,Infantry Abilities,0,Skywall Shield Emitter,3,none
 804265,Infantry Abilities,0,Skywall Shield Emitter,1,none
 6005672,Infantry Abilities,0,Skywall Shield Emitter,4,none
+6014735,Infantry Abilities,0,Skywall Shield Module,0,none
 6004873,Infantry Abilities,0,Solid Wall,0,none
 7,Infantry Abilities,0,Spawn Beacon,0,none
 803427,Infantry Abilities,0,Spear Anti-Vehicle Tower,2,none
@@ -1000,6 +1011,7 @@
 6004446,Infantry Abilities,0,The Flail,3,none
 6004448,Infantry Abilities,0,The Flail,2,none
 6005632,Infantry Abilities,0,The Flail,4,none
+6014747,Infantry Abilities,0,Tunnel Worm Module,0,none
 804272,Infantry Abilities,0,Turret AI Module,2,none
 804273,Infantry Abilities,0,Turret AI Module,3,none
 804274,Infantry Abilities,0,Turret AI Module,1,none
