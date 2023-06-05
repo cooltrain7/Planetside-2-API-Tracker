@@ -1243,6 +1243,39 @@
       "type": "4"
     },
     {
+      "metagame_event_id": "248",
+      "name": {
+        "en": "Oshur Unstable Meltdown"
+      },
+      "description": {
+        "en": "Control territory to lock Oshur"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "249",
+      "name": {
+        "en": "Oshur Unstable Meltdown"
+      },
+      "description": {
+        "en": "Control territory to lock Oshur"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
+      "metagame_event_id": "250",
+      "name": {
+        "en": "Oshur Unstable Meltdown"
+      },
+      "description": {
+        "en": "Control territory to lock Oshur"
+      },
+      "type": "9",
+      "experience_bonus": "25"
+    },
+    {
       "metagame_event_id": "251",
       "name": {
         "en": "Nanite Storm"
@@ -1293,5 +1326,5 @@
       "type": "4"
     }
   ],
-  "returned": 124
+  "returned": 127
 }

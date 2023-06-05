@@ -106858,7 +106858,22 @@
       "image_set_id": "2048",
       "image_id": "3743",
       "image_path": "/files/ps2/images/static/3743.png"
+    },
+    {
+      "skill_line_id": "18172",
+      "skill_points": "0",
+      "skill_category_id": "16385",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Gate Shield Diffuser"
+      },
+      "description": {
+        "en": "When activated, the vehicle is encased in a coating that allows it to slip through enemy gate shields and avoid damage when colliding with other vehicles."
+      },
+      "image_set_id": "2402",
+      "image_id": "4987",
+      "image_path": "/files/ps2/images/static/4987.png"
     }
   ],
-  "returned": 7321
+  "returned": 7322
 }

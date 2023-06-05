@@ -31735,7 +31735,24 @@
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117666",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117667",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117668",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5226
+  "returned": 5229
 }

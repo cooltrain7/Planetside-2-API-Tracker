@@ -6516,10 +6516,6 @@
       "weapon_id": "78795"
     },
     {
-      "item_id": "6014952",
-      "weapon_id": "78796"
-    },
-    {
       "item_id": "6014956",
       "weapon_id": "78804"
     },
@@ -6532,5 +6528,5 @@
       "weapon_id": "1"
     }
   ],
-  "returned": 1633
+  "returned": 1632
 }

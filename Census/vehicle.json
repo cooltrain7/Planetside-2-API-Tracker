@@ -403,7 +403,7 @@
         "en": "Glaive IPC"
       },
       "description": {
-        "en": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires AI module support as well as a manually fired targeting dart to acquire a target."
+        "en": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires a manually fired targeting dart to acquire a target."
       },
       "type_id": "7",
       "type_name": "Umovable Turret",
@@ -532,7 +532,7 @@
         "en": "The Flail"
       },
       "description": {
-        "en": "The Flail fires a volley of 4 mortar shells in quick succession, doing moderate damage to all in range. Requires AI module as well as a manually fired targeting dart in order to fire."
+        "en": "The Flail fires a volley of 4 mortar shells in quick succession, doing moderate damage to all in range. Requires a manually fired targeting dart in order to fire."
       },
       "type_id": "7",
       "type_name": "Umovable Turret",

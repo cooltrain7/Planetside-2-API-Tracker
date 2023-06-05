@@ -81702,7 +81702,7 @@
       "zone_effect_id": "755609",
       "zone_effect_type_id": "42",
       "ability_id": "1111652",
-      "param1": "1200",
+      "param1": "600",
       "param2": "30",
       "param3": "0",
       "param4": "0",
@@ -81721,7 +81721,7 @@
       "zone_effect_id": "755610",
       "zone_effect_type_id": "42",
       "ability_id": "1111930",
-      "param1": "1000",
+      "param1": "500",
       "param2": "30",
       "param3": "0",
       "param4": "0",
@@ -104001,7 +104001,7 @@
       "ability_id": "1115962",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.001",
+      "param3": "-0.02",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -104486,7 +104486,7 @@
       "ability_id": "1115978",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.001",
+      "param3": "-0.0225",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -120432,7 +120432,7 @@
       "ability_id": "1116939",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.165",
+      "param4": "-20",
       "string1": "FireMode.MovementModifier"
     },
     {
@@ -133767,7 +133767,7 @@
       "ability_id": "1117645",
       "param1": "0",
       "param2": "1",
-      "param3": "-0.009",
+      "param3": "-0.0095",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -133813,7 +133813,7 @@
       "ability_id": "1117646",
       "param1": "0",
       "param2": "1",
-      "param3": "-0.0185",
+      "param3": "-0.0095",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -133840,7 +133840,7 @@
       "ability_id": "1117654",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.017",
+      "param3": "-0.02",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -133876,7 +133876,7 @@
       "ability_id": "1117655",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.017",
+      "param3": "-0.02",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -133912,7 +133912,7 @@
       "ability_id": "1117656",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.022",
+      "param3": "-0.025",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -133957,7 +133957,7 @@
       "ability_id": "1117657",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.022",
+      "param3": "-0.025",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -134002,7 +134002,7 @@
       "ability_id": "1117658",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.022",
+      "param3": "-0.025",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -134047,7 +134047,7 @@
       "ability_id": "1117659",
       "param1": "-1",
       "param2": "1",
-      "param3": "-0.022",
+      "param3": "-0.025",
       "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -134237,7 +134237,98 @@
       "param2": "1",
       "param3": "-0.0004",
       "string1": "FireMode.FirstPersonOffsetX"
+    },
+    {
+      "zone_effect_id": "768907",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117666",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "0.01",
+      "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "768908",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117666",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "-0.001",
+      "string1": "FireMode.FirstPersonOffsetY"
+    },
+    {
+      "zone_effect_id": "768909",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117666",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "1",
+      "string1": "FireMode.ArmsFovScalar"
+    },
+    {
+      "zone_effect_id": "768910",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117667",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "0.01",
+      "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "768911",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117667",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "2",
+      "param5": "1",
+      "string1": "FireMode.DefaultZoom"
+    },
+    {
+      "zone_effect_id": "768912",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117667",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "-0.001",
+      "string1": "FireMode.FirstPersonOffsetY"
+    },
+    {
+      "zone_effect_id": "768913",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117667",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "1",
+      "string1": "FireMode.ArmsFovScalar"
+    },
+    {
+      "zone_effect_id": "768914",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117668",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "50",
+      "string1": "AmmoSlot.ClipSize"
+    },
+    {
+      "zone_effect_id": "768915",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117668",
+      "param1": "-1",
+      "param2": "-1",
+      "param4": "20",
+      "string1": "Weapon.EquipTime"
+    },
+    {
+      "zone_effect_id": "768916",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117668",
+      "param1": "-1",
+      "param2": "-1",
+      "param4": "20",
+      "string1": "Weapon.UnequipTime"
     }
   ],
-  "returned": 13742
+  "returned": 13752
 }
