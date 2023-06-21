@@ -30,7 +30,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
  - [Outfit-Tracker](https://www.outfit-tracker.com/)
  - [Dasanfall](http://stats.dasanfall.com/ps2/news/)
  - [Tide OP Tracker](https://topt.honu.pw/)
- - [PS2 Population Tracker](https://ps2.nice.kiwi/)
+ - [PS2 Population Tracker](https://ps2.live/)
  - [PS2Alerts](https://ps2alerts.com/)
  - [PS2-Alerts.io](https://ps2-alerts.github.io)
  - [PS2Alert.me](https://ps2alert.me)
