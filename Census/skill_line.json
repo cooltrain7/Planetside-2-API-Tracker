@@ -106873,7 +106873,112 @@
       "image_set_id": "2402",
       "image_id": "4987",
       "image_path": "/files/ps2/images/static/4987.png"
+    },
+    {
+      "skill_line_id": "18173",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Karma"
+      },
+      "description": {
+        "en": "Each time you revive an ally a charge is added to Karma. At a certain number of charges, your next death allows you to self-revive once. <font color=\"#dc9c36\">Redeploying or using an equipment terminal will wipe your current progress. Combat Medic only.</font>"
+      },
+      "image_set_id": "807710",
+      "image_id": "96386",
+      "image_path": "/files/ps2/images/static/96386.png"
+    },
+    {
+      "skill_line_id": "18174",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Rapid Response"
+      },
+      "description": {
+        "en": "While wielding a beneficial construction module your sprint speed is increased."
+      },
+      "image_set_id": "807735",
+      "image_id": "96554",
+      "image_path": "/files/ps2/images/static/96554.png"
+    },
+    {
+      "skill_line_id": "18175",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Outmaneuver"
+      },
+      "description": {
+        "en": "Reload faster for several seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle."
+      },
+      "image_set_id": "807720",
+      "image_id": "96509",
+      "image_path": "/files/ps2/images/static/96509.png"
+    },
+    {
+      "skill_line_id": "18176",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Overcharge"
+      },
+      "description": {
+        "en": "While overshield is active your primary weapon's bullets will now pierce through one infantry target before stopping."
+      },
+      "image_set_id": "807725",
+      "image_id": "96524",
+      "image_path": "/files/ps2/images/static/96524.png"
+    },
+    {
+      "skill_line_id": "18177",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Deadshot"
+      },
+      "description": {
+        "en": "When health is low accuracy is increased for a set duration."
+      },
+      "image_set_id": "807715",
+      "image_id": "96494",
+      "image_path": "/files/ps2/images/static/96494.png"
+    },
+    {
+      "skill_line_id": "18178",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Air Drop"
+      },
+      "description": {
+        "en": "Upon exiting a vehicle increase Jump Jet recharge for a set duration."
+      },
+      "image_set_id": "807704",
+      "image_id": "96368",
+      "image_path": "/files/ps2/images/static/96368.png"
+    },
+    {
+      "skill_line_id": "18179",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Rally Mechanic"
+      },
+      "description": {
+        "en": "Increase the amount you repair for a limited time after exiting a vehicle."
+      },
+      "image_set_id": "807679",
+      "image_id": "96293",
+      "image_path": "/files/ps2/images/static/96293.png"
     }
   ],
-  "returned": 7322
+  "returned": 7329
 }

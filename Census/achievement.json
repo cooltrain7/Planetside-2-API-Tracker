@@ -100457,7 +100457,39 @@
       "image_set_id": "8017",
       "image_id": "8338",
       "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "93870",
+      "item_id": "0",
+      "objective_group_id": "21011",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Aerial Anomaly Ribbon"
+      },
+      "description": {
+        "en": "Earn Tempest Collection or Tempest Deposit experience during an aerial anomaly."
+      },
+      "image_set_id": "803382",
+      "image_id": "86293",
+      "image_path": "/files/ps2/images/static/86293.png"
+    },
+    {
+      "achievement_id": "93871",
+      "item_id": "0",
+      "objective_group_id": "21012",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Summer Support Ribbon"
+      },
+      "description": {
+        "en": "Support your team to earn this ribbon."
+      },
+      "image_set_id": "804416",
+      "image_id": "89274",
+      "image_path": "/files/ps2/images/static/89274.png"
     }
   ],
-  "returned": 6295
+  "returned": 6297
 }

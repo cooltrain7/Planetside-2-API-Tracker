@@ -6683,17 +6683,17 @@
     {
       "profile_id": "99",
       "resist_info_id": "4381",
+      "rank": "1"
+    },
+    {
+      "profile_id": "99",
+      "resist_info_id": "4381",
       "rank": "3"
     },
     {
       "profile_id": "99",
       "resist_info_id": "4381",
       "rank": "2"
-    },
-    {
-      "profile_id": "99",
-      "resist_info_id": "4381",
-      "rank": "1"
     },
     {
       "profile_id": "99",
@@ -7593,12 +7593,12 @@
     {
       "profile_id": "105",
       "resist_info_id": "4381",
-      "rank": "3"
+      "rank": "1"
     },
     {
       "profile_id": "105",
       "resist_info_id": "4381",
-      "rank": "1"
+      "rank": "3"
     },
     {
       "profile_id": "105",
@@ -8243,7 +8243,7 @@
     {
       "profile_id": "106",
       "resist_info_id": "4413",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "106",
@@ -8253,7 +8253,7 @@
     {
       "profile_id": "106",
       "resist_info_id": "4413",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "106",
@@ -9383,12 +9383,12 @@
     {
       "profile_id": "109",
       "resist_info_id": "6258",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "109",
       "resist_info_id": "6258",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "109",
@@ -9993,17 +9993,17 @@
     {
       "profile_id": "110",
       "resist_info_id": "4413",
-      "rank": "2"
-    },
-    {
-      "profile_id": "110",
-      "resist_info_id": "4413",
       "rank": "3"
     },
     {
       "profile_id": "110",
       "resist_info_id": "4413",
       "rank": "1"
+    },
+    {
+      "profile_id": "110",
+      "resist_info_id": "4413",
+      "rank": "2"
     },
     {
       "profile_id": "110",
@@ -15068,27 +15068,27 @@
     {
       "profile_id": "124",
       "resist_info_id": "4380",
+      "rank": "1"
+    },
+    {
+      "profile_id": "124",
+      "resist_info_id": "4380",
+      "rank": "2"
+    },
+    {
+      "profile_id": "124",
+      "resist_info_id": "4380",
       "rank": "3"
     },
     {
       "profile_id": "124",
-      "resist_info_id": "4380",
-      "rank": "2"
-    },
-    {
-      "profile_id": "124",
-      "resist_info_id": "4380",
+      "resist_info_id": "4631",
       "rank": "1"
     },
     {
       "profile_id": "124",
       "resist_info_id": "4631",
       "rank": "2"
-    },
-    {
-      "profile_id": "124",
-      "resist_info_id": "4631",
-      "rank": "1"
     },
     {
       "profile_id": "124",
@@ -16608,12 +16608,12 @@
     {
       "profile_id": "132",
       "resist_info_id": "4381",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "132",
       "resist_info_id": "4381",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "132",
@@ -18363,12 +18363,12 @@
     {
       "profile_id": "135",
       "resist_info_id": "4381",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "135",
       "resist_info_id": "4381",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "135",
@@ -18927,11 +18927,6 @@
     },
     {
       "profile_id": "137",
-      "resist_info_id": "2927",
-      "rank": "2"
-    },
-    {
-      "profile_id": "137",
       "resist_info_id": "2928",
       "rank": "2"
     },
@@ -19088,11 +19083,6 @@
     {
       "profile_id": "137",
       "resist_info_id": "4034",
-      "rank": "1"
-    },
-    {
-      "profile_id": "137",
-      "resist_info_id": "4035",
       "rank": "1"
     },
     {
@@ -19713,7 +19703,7 @@
     {
       "profile_id": "140",
       "resist_info_id": "4381",
-      "rank": "3"
+      "rank": "1"
     },
     {
       "profile_id": "140",
@@ -19723,7 +19713,7 @@
     {
       "profile_id": "140",
       "resist_info_id": "4381",
-      "rank": "1"
+      "rank": "3"
     },
     {
       "profile_id": "140",
@@ -20028,7 +20018,7 @@
     {
       "profile_id": "141",
       "resist_info_id": "4382",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "141",
@@ -20038,7 +20028,7 @@
     {
       "profile_id": "141",
       "resist_info_id": "4382",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "141",
@@ -20658,12 +20648,12 @@
     {
       "profile_id": "142",
       "resist_info_id": "4381",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "142",
       "resist_info_id": "4381",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "142",
@@ -21318,12 +21308,12 @@
     {
       "profile_id": "143",
       "resist_info_id": "4381",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "143",
       "resist_info_id": "4381",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "143",
@@ -21783,17 +21773,17 @@
     {
       "profile_id": "144",
       "resist_info_id": "4381",
-      "rank": "3"
-    },
-    {
-      "profile_id": "144",
-      "resist_info_id": "4381",
       "rank": "2"
     },
     {
       "profile_id": "144",
       "resist_info_id": "4381",
       "rank": "1"
+    },
+    {
+      "profile_id": "144",
+      "resist_info_id": "4381",
+      "rank": "3"
     },
     {
       "profile_id": "144",
@@ -22428,7 +22418,7 @@
     {
       "profile_id": "145",
       "resist_info_id": "4381",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "145",
@@ -22438,7 +22428,7 @@
     {
       "profile_id": "145",
       "resist_info_id": "4381",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "145",
@@ -25413,12 +25403,12 @@
     {
       "profile_id": "168",
       "resist_info_id": "3268",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "168",
       "resist_info_id": "3268",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "168",
@@ -25443,22 +25433,22 @@
     {
       "profile_id": "168",
       "resist_info_id": "3276",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "168",
       "resist_info_id": "3276",
-      "rank": "2"
-    },
-    {
-      "profile_id": "168",
-      "resist_info_id": "3277",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "168",
       "resist_info_id": "3277",
       "rank": "1"
+    },
+    {
+      "profile_id": "168",
+      "resist_info_id": "3277",
+      "rank": "2"
     },
     {
       "profile_id": "168",
@@ -25493,12 +25483,12 @@
     {
       "profile_id": "168",
       "resist_info_id": "3282",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "168",
       "resist_info_id": "3282",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "168",
@@ -25533,12 +25523,12 @@
     {
       "profile_id": "168",
       "resist_info_id": "3294",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "168",
       "resist_info_id": "3294",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "168",
@@ -25568,12 +25558,12 @@
     {
       "profile_id": "168",
       "resist_info_id": "4678",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "168",
       "resist_info_id": "4678",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "168",
@@ -25583,12 +25573,12 @@
     {
       "profile_id": "168",
       "resist_info_id": "5240",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "168",
       "resist_info_id": "5240",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "168",
@@ -25638,11 +25628,6 @@
     {
       "profile_id": "169",
       "resist_info_id": "4381",
-      "rank": "1"
-    },
-    {
-      "profile_id": "169",
-      "resist_info_id": "4381",
       "rank": "3"
     },
     {
@@ -25652,13 +25637,18 @@
     },
     {
       "profile_id": "169",
-      "resist_info_id": "4686",
+      "resist_info_id": "4381",
       "rank": "1"
     },
     {
       "profile_id": "169",
       "resist_info_id": "4686",
       "rank": "2"
+    },
+    {
+      "profile_id": "169",
+      "resist_info_id": "4686",
+      "rank": "1"
     },
     {
       "profile_id": "169",
@@ -25683,22 +25673,22 @@
     {
       "profile_id": "169",
       "resist_info_id": "4689",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "169",
       "resist_info_id": "4689",
-      "rank": "1"
-    },
-    {
-      "profile_id": "169",
-      "resist_info_id": "4690",
       "rank": "2"
     },
     {
       "profile_id": "169",
       "resist_info_id": "4690",
       "rank": "1"
+    },
+    {
+      "profile_id": "169",
+      "resist_info_id": "4690",
+      "rank": "2"
     },
     {
       "profile_id": "169",
@@ -25743,12 +25733,12 @@
     {
       "profile_id": "169",
       "resist_info_id": "4696",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "169",
       "resist_info_id": "4696",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "169",
@@ -25773,12 +25763,12 @@
     {
       "profile_id": "169",
       "resist_info_id": "4699",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "169",
       "resist_info_id": "4699",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "169",
@@ -25793,16 +25783,11 @@
     {
       "profile_id": "169",
       "resist_info_id": "5232",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "169",
       "resist_info_id": "5232",
-      "rank": "2"
-    },
-    {
-      "profile_id": "169",
-      "resist_info_id": "6042",
       "rank": "1"
     },
     {
@@ -25812,13 +25797,18 @@
     },
     {
       "profile_id": "169",
-      "resist_info_id": "6299",
+      "resist_info_id": "6042",
       "rank": "1"
     },
     {
       "profile_id": "169",
       "resist_info_id": "6299",
       "rank": "2"
+    },
+    {
+      "profile_id": "169",
+      "resist_info_id": "6299",
+      "rank": "1"
     },
     {
       "profile_id": "190",
@@ -30773,12 +30763,12 @@
     {
       "profile_id": "309",
       "resist_info_id": "6123",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "309",
       "resist_info_id": "6123",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "309",
@@ -31398,7 +31388,7 @@
     {
       "profile_id": "310",
       "resist_info_id": "4380",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "310",
@@ -31408,7 +31398,7 @@
     {
       "profile_id": "310",
       "resist_info_id": "4380",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "310",
@@ -31638,12 +31628,12 @@
     {
       "profile_id": "311",
       "resist_info_id": "4383",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "311",
       "resist_info_id": "4383",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "311",
@@ -31958,12 +31948,12 @@
     {
       "profile_id": "314",
       "resist_info_id": "4383",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "314",
       "resist_info_id": "4383",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "314",
@@ -32488,17 +32478,17 @@
     {
       "profile_id": "315",
       "resist_info_id": "4381",
-      "rank": "3"
-    },
-    {
-      "profile_id": "315",
-      "resist_info_id": "4381",
       "rank": "2"
     },
     {
       "profile_id": "315",
       "resist_info_id": "4381",
       "rank": "1"
+    },
+    {
+      "profile_id": "315",
+      "resist_info_id": "4381",
+      "rank": "3"
     },
     {
       "profile_id": "315",
@@ -33123,7 +33113,7 @@
     {
       "profile_id": "316",
       "resist_info_id": "4413",
-      "rank": "2"
+      "rank": "3"
     },
     {
       "profile_id": "316",
@@ -33133,7 +33123,7 @@
     {
       "profile_id": "316",
       "resist_info_id": "4413",
-      "rank": "3"
+      "rank": "2"
     },
     {
       "profile_id": "316",
@@ -33948,12 +33938,12 @@
     {
       "profile_id": "318",
       "resist_info_id": "3269",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3269",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "318",
@@ -33968,22 +33958,22 @@
     {
       "profile_id": "318",
       "resist_info_id": "3276",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3276",
-      "rank": "1"
-    },
-    {
-      "profile_id": "318",
-      "resist_info_id": "3277",
       "rank": "2"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3277",
       "rank": "1"
+    },
+    {
+      "profile_id": "318",
+      "resist_info_id": "3277",
+      "rank": "2"
     },
     {
       "profile_id": "318",
@@ -34008,22 +33998,22 @@
     {
       "profile_id": "318",
       "resist_info_id": "3281",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3281",
-      "rank": "1"
-    },
-    {
-      "profile_id": "318",
-      "resist_info_id": "3282",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3282",
       "rank": "2"
+    },
+    {
+      "profile_id": "318",
+      "resist_info_id": "3282",
+      "rank": "1"
     },
     {
       "profile_id": "318",
@@ -34038,17 +34028,12 @@
     {
       "profile_id": "318",
       "resist_info_id": "3285",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3285",
-      "rank": "1"
-    },
-    {
-      "profile_id": "318",
-      "resist_info_id": "3290",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "318",
@@ -34057,13 +34042,18 @@
     },
     {
       "profile_id": "318",
-      "resist_info_id": "3294",
-      "rank": "2"
+      "resist_info_id": "3290",
+      "rank": "1"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3294",
       "rank": "1"
+    },
+    {
+      "profile_id": "318",
+      "resist_info_id": "3294",
+      "rank": "2"
     },
     {
       "profile_id": "318",
@@ -34073,12 +34063,12 @@
     {
       "profile_id": "318",
       "resist_info_id": "3665",
-      "rank": "1"
+      "rank": "2"
     },
     {
       "profile_id": "318",
       "resist_info_id": "3665",
-      "rank": "2"
+      "rank": "1"
     },
     {
       "profile_id": "318",
@@ -34958,17 +34948,17 @@
     {
       "profile_id": "320",
       "resist_info_id": "4413",
-      "rank": "1"
-    },
-    {
-      "profile_id": "320",
-      "resist_info_id": "4413",
       "rank": "3"
     },
     {
       "profile_id": "320",
       "resist_info_id": "4413",
       "rank": "2"
+    },
+    {
+      "profile_id": "320",
+      "resist_info_id": "4413",
+      "rank": "1"
     },
     {
       "profile_id": "320",
@@ -35613,17 +35603,17 @@
     {
       "profile_id": "321",
       "resist_info_id": "4413",
+      "rank": "3"
+    },
+    {
+      "profile_id": "321",
+      "resist_info_id": "4413",
       "rank": "1"
     },
     {
       "profile_id": "321",
       "resist_info_id": "4413",
       "rank": "2"
-    },
-    {
-      "profile_id": "321",
-      "resist_info_id": "4413",
-      "rank": "3"
     },
     {
       "profile_id": "321",
@@ -38601,5 +38591,5 @@
       "rank": "1"
     }
   ],
-  "returned": 7720
+  "returned": 7718
 }

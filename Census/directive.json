@@ -68473,7 +68473,727 @@
       "image_set_id": "14090",
       "image_id": "79513",
       "image_path": "/files/ps2/images/static/79513.png"
+    },
+    {
+      "directive_id": "5378",
+      "directive_tree_id": "122",
+      "directive_tier_id": "2",
+      "objective_set_id": "9490",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5379",
+      "directive_tree_id": "122",
+      "directive_tier_id": "1",
+      "objective_set_id": "9491",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5380",
+      "directive_tree_id": "122",
+      "directive_tier_id": "3",
+      "objective_set_id": "9492",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5381",
+      "directive_tree_id": "122",
+      "directive_tier_id": "4",
+      "objective_set_id": "9493",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5382",
+      "directive_tree_id": "122",
+      "directive_tier_id": "4",
+      "objective_set_id": "9494",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5383",
+      "directive_tree_id": "122",
+      "directive_tier_id": "3",
+      "objective_set_id": "9495",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5384",
+      "directive_tree_id": "122",
+      "directive_tier_id": "2",
+      "objective_set_id": "9496",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5385",
+      "directive_tree_id": "122",
+      "directive_tier_id": "1",
+      "objective_set_id": "9497",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5386",
+      "directive_tree_id": "122",
+      "directive_tier_id": "4",
+      "objective_set_id": "9498",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5387",
+      "directive_tree_id": "122",
+      "directive_tier_id": "3",
+      "objective_set_id": "9499",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5388",
+      "directive_tree_id": "122",
+      "directive_tier_id": "2",
+      "objective_set_id": "9500",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5389",
+      "directive_tree_id": "122",
+      "directive_tier_id": "1",
+      "objective_set_id": "9501",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5390",
+      "directive_tree_id": "122",
+      "directive_tier_id": "4",
+      "objective_set_id": "9502",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5391",
+      "directive_tree_id": "122",
+      "directive_tier_id": "3",
+      "objective_set_id": "9503",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5392",
+      "directive_tree_id": "122",
+      "directive_tier_id": "2",
+      "objective_set_id": "9504",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5393",
+      "directive_tree_id": "122",
+      "directive_tier_id": "1",
+      "objective_set_id": "9505",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5394",
+      "directive_tree_id": "122",
+      "directive_tier_id": "4",
+      "objective_set_id": "9506",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5395",
+      "directive_tree_id": "122",
+      "directive_tier_id": "3",
+      "objective_set_id": "9507",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5396",
+      "directive_tree_id": "122",
+      "directive_tier_id": "2",
+      "objective_set_id": "9508",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5397",
+      "directive_tree_id": "122",
+      "directive_tier_id": "1",
+      "objective_set_id": "9509",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5398",
+      "directive_tree_id": "122",
+      "directive_tier_id": "4",
+      "objective_set_id": "9510",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5399",
+      "directive_tree_id": "122",
+      "directive_tier_id": "3",
+      "objective_set_id": "9511",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5400",
+      "directive_tree_id": "122",
+      "directive_tier_id": "2",
+      "objective_set_id": "9512",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5401",
+      "directive_tree_id": "122",
+      "directive_tier_id": "1",
+      "objective_set_id": "9513",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5402",
+      "directive_tree_id": "123",
+      "directive_tier_id": "1",
+      "objective_set_id": "9514",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5403",
+      "directive_tree_id": "123",
+      "directive_tier_id": "2",
+      "objective_set_id": "9515",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5404",
+      "directive_tree_id": "123",
+      "directive_tier_id": "3",
+      "objective_set_id": "9516",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5405",
+      "directive_tree_id": "123",
+      "directive_tier_id": "4",
+      "objective_set_id": "9517",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5406",
+      "directive_tree_id": "123",
+      "directive_tier_id": "4",
+      "objective_set_id": "9518",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5407",
+      "directive_tree_id": "123",
+      "directive_tier_id": "3",
+      "objective_set_id": "9519",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5408",
+      "directive_tree_id": "123",
+      "directive_tier_id": "2",
+      "objective_set_id": "9520",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5409",
+      "directive_tree_id": "123",
+      "directive_tier_id": "1",
+      "objective_set_id": "9521",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5410",
+      "directive_tree_id": "123",
+      "directive_tier_id": "4",
+      "objective_set_id": "9522",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5411",
+      "directive_tree_id": "123",
+      "directive_tier_id": "3",
+      "objective_set_id": "9523",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5412",
+      "directive_tree_id": "123",
+      "directive_tier_id": "2",
+      "objective_set_id": "9524",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5413",
+      "directive_tree_id": "123",
+      "directive_tier_id": "1",
+      "objective_set_id": "9525",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5414",
+      "directive_tree_id": "123",
+      "directive_tier_id": "4",
+      "objective_set_id": "9526",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5415",
+      "directive_tree_id": "123",
+      "directive_tier_id": "3",
+      "objective_set_id": "9527",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5416",
+      "directive_tree_id": "123",
+      "directive_tier_id": "2",
+      "objective_set_id": "9528",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5417",
+      "directive_tree_id": "123",
+      "directive_tier_id": "1",
+      "objective_set_id": "9529",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5418",
+      "directive_tree_id": "123",
+      "directive_tier_id": "4",
+      "objective_set_id": "9530",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5419",
+      "directive_tree_id": "123",
+      "directive_tier_id": "3",
+      "objective_set_id": "9531",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5420",
+      "directive_tree_id": "123",
+      "directive_tier_id": "2",
+      "objective_set_id": "9532",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5421",
+      "directive_tree_id": "123",
+      "directive_tier_id": "1",
+      "objective_set_id": "9533",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5422",
+      "directive_tree_id": "123",
+      "directive_tier_id": "2",
+      "objective_set_id": "9534",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5423",
+      "directive_tree_id": "123",
+      "directive_tier_id": "3",
+      "objective_set_id": "9535",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5424",
+      "directive_tree_id": "123",
+      "directive_tier_id": "4",
+      "objective_set_id": "9536",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5425",
+      "directive_tree_id": "123",
+      "directive_tier_id": "1",
+      "objective_set_id": "9537",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
     }
   ],
-  "returned": 4439
+  "returned": 4487
 }

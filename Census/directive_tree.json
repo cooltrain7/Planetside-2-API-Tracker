@@ -906,7 +906,27 @@
       "description": {
         "en": "Available through June 4"
       }
+    },
+    {
+      "directive_tree_id": "122",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Operation Tidebreaker"
+      },
+      "description": {
+        "en": "Available through July 31"
+      }
+    },
+    {
+      "directive_tree_id": "123",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Operation Emberfall"
+      },
+      "description": {
+        "en": "Available through August 31"
+      }
     }
   ],
-  "returned": 89
+  "returned": 91
 }
