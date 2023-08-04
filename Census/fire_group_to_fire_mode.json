@@ -5056,16 +5056,6 @@
       "fire_mode_index": "1"
     },
     {
-      "fire_group_id": "80178",
-      "fire_mode_id": "80249",
-      "fire_mode_index": "0"
-    },
-    {
-      "fire_group_id": "80178",
-      "fire_mode_id": "80250",
-      "fire_mode_index": "1"
-    },
-    {
       "fire_group_id": "80181",
       "fire_mode_id": "80253",
       "fire_mode_index": "0"
@@ -5191,13 +5181,13 @@
       "fire_mode_index": "0"
     },
     {
-      "fire_group_id": "80211",
-      "fire_mode_id": "80287",
+      "fire_group_id": "80214",
+      "fire_mode_id": "80291",
       "fire_mode_index": "0"
     },
     {
-      "fire_group_id": "80211",
-      "fire_mode_id": "80288",
+      "fire_group_id": "80214",
+      "fire_mode_id": "80292",
       "fire_mode_index": "1"
     },
     {
@@ -5783,11 +5773,6 @@
     {
       "fire_group_id": "80345",
       "fire_mode_id": "80466",
-      "fire_mode_index": "0"
-    },
-    {
-      "fire_group_id": "80346",
-      "fire_mode_id": "80478",
       "fire_mode_index": "0"
     },
     {
@@ -9774,7 +9759,47 @@
       "fire_group_id": "80979",
       "fire_mode_id": "81382",
       "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80986",
+      "fire_mode_id": "81391",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80986",
+      "fire_mode_id": "81392",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80987",
+      "fire_mode_id": "81393",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80987",
+      "fire_mode_id": "81394",
+      "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "80992",
+      "fire_mode_id": "80036",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80993",
+      "fire_mode_id": "80037",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80994",
+      "fire_mode_id": "81399",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "80994",
+      "fire_mode_id": "81400",
+      "fire_mode_index": "1"
     }
   ],
-  "returned": 1955
+  "returned": 1960
 }

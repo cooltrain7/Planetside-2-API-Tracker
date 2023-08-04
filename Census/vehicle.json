@@ -896,7 +896,19 @@
       "image_set_id": "804395",
       "image_id": "92694",
       "image_path": "/files/ps2/images/static/92694.png"
+    },
+    {
+      "vehicle_id": "2145",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
     }
   ],
-  "returned": 59
+  "returned": 60
 }

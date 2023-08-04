@@ -1123,6 +1123,18 @@
       "image_path": "/files/ps2/images/static/89264.png"
     },
     {
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "directive_points": "5",
+      "completion_count": "5",
+      "name": {
+        "en": "Novice"
+      },
+      "image_set_id": "14392",
+      "image_id": "79727",
+      "image_path": "/files/ps2/images/static/79727.png"
+    },
+    {
       "directive_tree_id": "4",
       "directive_tier_id": "2",
       "directive_points": "10",
@@ -2194,6 +2206,18 @@
       "image_set_id": "804415",
       "image_id": "89270",
       "image_path": "/files/ps2/images/static/89270.png"
+    },
+    {
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "directive_points": "10",
+      "completion_count": "5",
+      "name": {
+        "en": "Adept"
+      },
+      "image_set_id": "14394",
+      "image_id": "79733",
+      "image_path": "/files/ps2/images/static/79733.png"
     },
     {
       "directive_tree_id": "4",
@@ -3276,6 +3300,18 @@
       "image_set_id": "804414",
       "image_id": "89267",
       "image_path": "/files/ps2/images/static/89267.png"
+    },
+    {
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "directive_points": "25",
+      "completion_count": "6",
+      "name": {
+        "en": "Expert"
+      },
+      "image_set_id": "14393",
+      "image_id": "79730",
+      "image_path": "/files/ps2/images/static/79730.png"
     },
     {
       "directive_tree_id": "4",
@@ -4398,7 +4434,20 @@
       "image_set_id": "804412",
       "image_id": "89261",
       "image_path": "/files/ps2/images/static/89261.png"
+    },
+    {
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "reward_set_id": "6254",
+      "directive_points": "100",
+      "completion_count": "6",
+      "name": {
+        "en": "Master"
+      },
+      "image_set_id": "14391",
+      "image_id": "79724",
+      "image_path": "/files/ps2/images/static/79724.png"
     }
   ],
-  "returned": 352
+  "returned": 356
 }

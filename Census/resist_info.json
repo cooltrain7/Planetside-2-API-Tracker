@@ -32225,7 +32225,13 @@
       "resist_percent": "20",
       "multiplier_when_headshot": "1",
       "description": "Construction: Durability Mod: A2G"
+    },
+    {
+      "resist_info_id": "6333",
+      "resist_type_id": "47",
+      "resist_percent": "150",
+      "description": "Skywall - Orbital Strike"
     }
   ],
-  "returned": 4708
+  "returned": 4709
 }

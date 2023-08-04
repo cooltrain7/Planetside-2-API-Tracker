@@ -926,7 +926,20 @@
       "description": {
         "en": "Available through August 31"
       }
+    },
+    {
+      "directive_tree_id": "127",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional VIII"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
     }
   ],
-  "returned": 91
+  "returned": 92
 }

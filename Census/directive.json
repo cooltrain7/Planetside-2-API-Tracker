@@ -69193,7 +69193,807 @@
       "image_set_id": "804410",
       "image_id": "89259",
       "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5470",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9582",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5471",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9583",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5472",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9584",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5473",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9585",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5474",
+      "directive_tree_id": "17",
+      "directive_tier_id": "2",
+      "objective_set_id": "9586",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5475",
+      "directive_tree_id": "17",
+      "directive_tier_id": "3",
+      "objective_set_id": "9587",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5476",
+      "directive_tree_id": "17",
+      "directive_tier_id": "4",
+      "objective_set_id": "9588",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5477",
+      "directive_tree_id": "17",
+      "directive_tier_id": "1",
+      "objective_set_id": "9589",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5478",
+      "directive_tree_id": "73",
+      "directive_tier_id": "3",
+      "objective_set_id": "9590",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5479",
+      "directive_tree_id": "73",
+      "directive_tier_id": "4",
+      "objective_set_id": "9591",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5480",
+      "directive_tree_id": "73",
+      "directive_tier_id": "2",
+      "objective_set_id": "9592",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5481",
+      "directive_tree_id": "73",
+      "directive_tier_id": "1",
+      "objective_set_id": "9593",
+      "name": {
+        "en": "NS-61 \"Wartime\" Emissary"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5485",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9597",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5486",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9598",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5487",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9599",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5488",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9600",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5489",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9601",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5490",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9602",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5491",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9603",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5492",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9604",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5493",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9605",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5494",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9606",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5495",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9607",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5496",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9608",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5497",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9609",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5498",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9610",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5499",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9611",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5500",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9612",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5524",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5525",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5526",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5527",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5528",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5529",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5530",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5531",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5532",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5533",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5534",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5535",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5536",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5537",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5538",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5539",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5540",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5541",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5542",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5543",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9603",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5544",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9611",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5545",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9607",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5546",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9597",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Deluxe\" Auto-Turret"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5547",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
     }
   ],
-  "returned": 4487
+  "returned": 4539
 }

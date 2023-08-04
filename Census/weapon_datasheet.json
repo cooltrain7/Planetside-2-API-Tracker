@@ -26553,7 +26553,26 @@
       "show_clip_size": "1",
       "show_fire_modes": "1",
       "show_range": "1"
+    },
+    {
+      "item_id": "6015090",
+      "damage_min": "75",
+      "damage_max": "250",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "350",
+      "reload_ms_min": "1000",
+      "reload_ms_max": "3000",
+      "clip_size": "25",
+      "capacity": "150",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
     }
   ],
-  "returned": 1265
+  "returned": 1266
 }

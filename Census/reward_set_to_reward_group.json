@@ -715,7 +715,11 @@
     {
       "reward_set_id": "6239",
       "reward_group_id": "102015"
+    },
+    {
+      "reward_set_id": "6254",
+      "reward_group_id": "102028"
     }
   ],
-  "returned": 179
+  "returned": 180
 }

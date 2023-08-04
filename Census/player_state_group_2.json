@@ -26762,48 +26762,6 @@
       "cof_recovery_rate": "10"
     },
     {
-      "player_state_group_id": "75552",
-      "player_state_id": "0",
-      "can_iron_sight": "1",
-      "cof_max": "4",
-      "cof_min": "4"
-    },
-    {
-      "player_state_group_id": "75552",
-      "player_state_id": "1",
-      "can_iron_sight": "1",
-      "cof_max": "4",
-      "cof_min": "4"
-    },
-    {
-      "player_state_group_id": "75552",
-      "player_state_id": "2",
-      "can_iron_sight": "1",
-      "cof_max": "4",
-      "cof_min": "4"
-    },
-    {
-      "player_state_group_id": "75552",
-      "player_state_id": "3",
-      "can_iron_sight": "1",
-      "cof_max": "4",
-      "cof_min": "4"
-    },
-    {
-      "player_state_group_id": "75552",
-      "player_state_id": "4",
-      "can_iron_sight": "0",
-      "cof_max": "4",
-      "cof_min": "4"
-    },
-    {
-      "player_state_group_id": "75552",
-      "player_state_id": "5",
-      "can_iron_sight": "1",
-      "cof_max": "4",
-      "cof_min": "4"
-    },
-    {
       "player_state_group_id": "75555",
       "player_state_id": "0",
       "can_iron_sight": "1",
@@ -36990,5 +36948,5 @@
       "cof_turn_penalty": "0"
     }
   ],
-  "returned": 2859
+  "returned": 2853
 }

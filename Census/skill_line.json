@@ -106886,8 +106886,8 @@
         "en": "Each time you revive an ally a charge is added to Karma. At a certain number of charges, your next death allows you to self-revive once. <font color=\"#dc9c36\">Redeploying or using an equipment terminal will wipe your current progress. Combat Medic only.</font>"
       },
       "image_set_id": "807710",
-      "image_id": "96386",
-      "image_path": "/files/ps2/images/static/96386.png"
+      "image_id": "96384",
+      "image_path": "/files/ps2/images/static/96384.png"
     },
     {
       "skill_line_id": "18174",
@@ -106901,8 +106901,8 @@
         "en": "While wielding a beneficial construction module your sprint speed is increased."
       },
       "image_set_id": "807735",
-      "image_id": "96554",
-      "image_path": "/files/ps2/images/static/96554.png"
+      "image_id": "96552",
+      "image_path": "/files/ps2/images/static/96552.png"
     },
     {
       "skill_line_id": "18175",
@@ -106916,8 +106916,8 @@
         "en": "Reload faster for several seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle."
       },
       "image_set_id": "807720",
-      "image_id": "96509",
-      "image_path": "/files/ps2/images/static/96509.png"
+      "image_id": "96507",
+      "image_path": "/files/ps2/images/static/96507.png"
     },
     {
       "skill_line_id": "18176",
@@ -106931,8 +106931,8 @@
         "en": "While overshield is active your primary weapon's bullets will now pierce through one infantry target before stopping."
       },
       "image_set_id": "807725",
-      "image_id": "96524",
-      "image_path": "/files/ps2/images/static/96524.png"
+      "image_id": "96522",
+      "image_path": "/files/ps2/images/static/96522.png"
     },
     {
       "skill_line_id": "18177",
@@ -106946,8 +106946,8 @@
         "en": "When health is low accuracy is increased for a set duration."
       },
       "image_set_id": "807715",
-      "image_id": "96494",
-      "image_path": "/files/ps2/images/static/96494.png"
+      "image_id": "96492",
+      "image_path": "/files/ps2/images/static/96492.png"
     },
     {
       "skill_line_id": "18178",
@@ -106958,11 +106958,11 @@
         "en": "Air Drop"
       },
       "description": {
-        "en": "Upon exiting a vehicle increase Jump Jet recharge for a set duration."
+        "en": "Upon exiting a vehicle increase Jump Jet recharge for a set duration. <font color=\"#dc9c36\">Light Assault only.</font>"
       },
       "image_set_id": "807704",
-      "image_id": "96368",
-      "image_path": "/files/ps2/images/static/96368.png"
+      "image_id": "96366",
+      "image_path": "/files/ps2/images/static/96366.png"
     },
     {
       "skill_line_id": "18179",
@@ -106978,7 +106978,21 @@
       "image_set_id": "807679",
       "image_id": "96293",
       "image_path": "/files/ps2/images/static/96293.png"
+    },
+    {
+      "skill_line_id": "18180",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "name": {
+        "en": "Juggernaut"
+      },
+      "description": {
+        "en": "Melee attacks knock enemies away a short distance. <font color=\"#dc9c36\">MAX only.</font>"
+      },
+      "image_set_id": "807709",
+      "image_id": "96381",
+      "image_path": "/files/ps2/images/static/96381.png"
     }
   ],
-  "returned": 7329
+  "returned": 7330
 }
