@@ -724,6 +724,7 @@
 6005640,Infantry Abilities,0,Faction Banner,4,none
 6014737,Infantry Abilities,0,Firewall Module,0,none
 6004292,Infantry Abilities,0,Flail Targeting Dart,0,none
+6014996,Infantry Abilities,0,Flail Targeting Laser,0,none
 6009000,Infantry Abilities,0,Flash XS-1,,none
 6009009,Infantry Abilities,0,Flash XS-1,0,none
 6014741,Infantry Abilities,0,Fortress Shield Module,0,none
@@ -731,6 +732,7 @@
 6002391,Infantry Abilities,0,Glaive IPC,3,none
 6002392,Infantry Abilities,0,Glaive IPC,1,none
 6005636,Infantry Abilities,0,Glaive IPC,4,none
+6014997,Infantry Abilities,0,Glaive Targeting Laser,0,none
 6002954,Infantry Abilities,0,Hardlight Barrier,1,none
 6002955,Infantry Abilities,0,Hardlight Barrier,2,none
 6002956,Infantry Abilities,0,Hardlight Barrier,3,none
@@ -866,6 +868,7 @@
 6014729,Infantry Abilities,0,Orbital Mining Drill,3,none
 6014730,Infantry Abilities,0,Orbital Mining Drill,4,none
 6002554,Infantry Abilities,0,Orbital Strike Target Designator,0,none
+6002558,Infantry Abilities,0,Orbital Strike Targeting Laser,0,none
 6002524,Infantry Abilities,0,Orbital Strike Uplink,2,none
 6002525,Infantry Abilities,0,Orbital Strike Uplink,3,none
 6002526,Infantry Abilities,0,Orbital Strike Uplink,1,none
@@ -988,6 +991,14 @@
 6002405,Infantry Abilities,0,Spear Anti-Vehicle Turret,2,none
 6002419,Infantry Abilities,0,Spear Anti-Vehicle Turret,3,none
 6005650,Infantry Abilities,0,Spear Anti-Vehicle Turret,4,none
+6015075,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",1,none
+6015076,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",2,none
+6015077,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",3,none
+6015078,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",4,none
+6015086,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",1,none
+6015087,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",2,none
+6015088,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",3,none
+6015089,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",4,none
 802512,Infantry Abilities,0,Spitfire Auto-Turret,1,none
 802514,Infantry Abilities,1,Spitfire Auto-Turret,1,none
 802515,Infantry Abilities,0,Spitfire Auto-Turret,2,none
@@ -1309,6 +1320,7 @@
 6014537,Pistol,0,"NS-61 ""Jackrabbit"" Emissary",0,infantry
 6008666,Pistol,0,"NS-61 ""Networked"" Emissary",,infantry
 6002640,Pistol,0,"NS-61 ""Ravenous"" Emissary",,infantry
+6015090,Pistol,0,"NS-61 ""Wartime"" Emissary",,infantry
 804138,Pistol,0,NS-61 Emissary,,infantry
 804405,Pistol,0,NS-61B Emissary,,infantry
 804428,Pistol,0,NS-61G Emissary,,infantry
