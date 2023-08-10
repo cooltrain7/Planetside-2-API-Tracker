@@ -1,7 +1,4 @@
 ﻿Item ID,Item Category,Is Vehicle Weapon,Item Name,Faction ID,Sanction
-6014505,,,,0,infantry
-6014537,,,,0,infantry
-6014480,,,,0,infantry-explosive
 6002421,,0,Admin: Base Gun,,none
 6002429,,0,BaseSmash: Crystal Gun,,none
 6014305,,0,Conduit,0,none
@@ -289,6 +286,7 @@
 7172,Carbine,0,NC2 Gauss Compact,2,infantry-explosive
 6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry-explosive
 75005,Carbine,0,NS-11C,,infantry-explosive
+6014480,Carbine,0,NS-11C Frostbite,0,infantry-explosive
 802100,Carbine,0,NS-11CB,,infantry-explosive
 802102,Carbine,0,NS-11CG,,infantry-explosive
 75234,Carbine,0,NS-11CP,,infantry-explosive
@@ -1227,6 +1225,7 @@
 6009672,LMG,0,"NS-15 ""Endeavor"" Machinegun",,infantry
 803699,LMG,0,NS-15 Gallows,,infantry
 802319,LMG,0,NS-15M AE,,infantry
+6014505,LMG,0,NS-15M Frostbite,0,infantry
 75034,LMG,0,NS-15M1,,infantry
 802106,LMG,0,NS-15M2,,infantry
 802105,LMG,0,NS-15MB,,infantry
@@ -1319,6 +1318,7 @@
 6003665,Pistol,0,NS-45 Pilot,,infantry
 6009722,Pistol,0,NS-45P Pilot,,infantry
 6004413,Pistol,0,"NS-61 ""Ivory"" Emissary",,infantry
+6014537,Pistol,0,"NS-61 ""Jackrabbit"" Emissary",0,infantry
 6008666,Pistol,0,"NS-61 ""Networked"" Emissary",,infantry
 6002640,Pistol,0,"NS-61 ""Ravenous"" Emissary",,infantry
 804138,Pistol,0,NS-61 Emissary,,infantry
