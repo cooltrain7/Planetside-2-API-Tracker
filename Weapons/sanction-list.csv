@@ -589,14 +589,6 @@
 6004560,Infantry Abilities,0,Meteorite,,
 6013328,Infantry Abilities,0,NS NanoCaster,0,
 6005102,Infantry Abilities,0,Pumpking Slayer,,
-6015075,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",1,none
-6015076,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",2,none
-6015077,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",3,none
-6015078,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",4,none
-6015086,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",1,none
-6015087,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",2,none
-6015088,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",3,none
-6015089,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",4,none
 310,Infantry Abilities,0,Stealth Test,2,
 6009595,Infantry Abilities,,Trick or Treat!,,
 200,Infantry Abilities,0,Anti-Infantry MANA Turret,2,infantry
@@ -999,6 +991,14 @@
 6002405,Infantry Abilities,0,Spear Anti-Vehicle Turret,2,none
 6002419,Infantry Abilities,0,Spear Anti-Vehicle Turret,3,none
 6005650,Infantry Abilities,0,Spear Anti-Vehicle Turret,4,none
+6015075,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",1,none
+6015076,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",2,none
+6015077,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",3,none
+6015078,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",4,none
+6015086,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",1,none
+6015087,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",2,none
+6015088,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",3,none
+6015089,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",4,none
 802512,Infantry Abilities,0,Spitfire Auto-Turret,1,none
 802514,Infantry Abilities,1,Spitfire Auto-Turret,1,none
 802515,Infantry Abilities,0,Spitfire Auto-Turret,2,none
@@ -1281,7 +1281,6 @@
 6009464,Mosquito Wing Mount,1,Havoc Missiles,3,none
 5051,Mosquito Wing Mount,1,Hornet Missiles,3,none
 4905,Mosquito Wing Mount,1,Tomcat A2AM Pods,3,none
-6015090,Pistol,0,"NS-61 ""Wartime"" Emissary",,infantry
 6006090,Pistol,0,"""Jackpot"" Cerberus",1,infantry
 21,Pistol,0,Beamer VS3,1,infantry
 7403,Pistol,0,Beamer VS3-FB,1,infantry
@@ -1321,6 +1320,7 @@
 6014537,Pistol,0,"NS-61 ""Jackrabbit"" Emissary",0,infantry
 6008666,Pistol,0,"NS-61 ""Networked"" Emissary",,infantry
 6002640,Pistol,0,"NS-61 ""Ravenous"" Emissary",,infantry
+6015090,Pistol,0,"NS-61 ""Wartime"" Emissary",,infantry
 804138,Pistol,0,NS-61 Emissary,,infantry
 804405,Pistol,0,NS-61B Emissary,,infantry
 804428,Pistol,0,NS-61G Emissary,,infantry
