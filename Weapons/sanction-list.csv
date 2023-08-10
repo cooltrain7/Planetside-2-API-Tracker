@@ -1,4 +1,7 @@
 ﻿Item ID,Item Category,Is Vehicle Weapon,Item Name,Faction ID,Sanction
+6014505,,,,0,infantry
+6014537,,,,0,infantry
+6014480,,,,0,infantry-explosive
 6002421,,0,Admin: Base Gun,,none
 6002429,,0,BaseSmash: Crystal Gun,,none
 6014305,,0,Conduit,0,none
@@ -286,7 +289,6 @@
 7172,Carbine,0,NC2 Gauss Compact,2,infantry-explosive
 6009656,Carbine,0,"NS-11 ""Endeavor"" Carbine",,infantry-explosive
 75005,Carbine,0,NS-11C,,infantry-explosive
-6014480,Carbine,0,NS-11C Frostbite,0,infantry-explosive
 802100,Carbine,0,NS-11CB,,infantry-explosive
 802102,Carbine,0,NS-11CG,,infantry-explosive
 75234,Carbine,0,NS-11CP,,infantry-explosive
@@ -589,6 +591,14 @@
 6004560,Infantry Abilities,0,Meteorite,,
 6013328,Infantry Abilities,0,NS NanoCaster,0,
 6005102,Infantry Abilities,0,Pumpking Slayer,,
+6015075,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",1,
+6015076,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",2,
+6015077,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",3,
+6015078,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",4,
+6015086,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",1,
+6015087,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",2,
+6015088,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",3,
+6015089,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",4,
 310,Infantry Abilities,0,Stealth Test,2,
 6009595,Infantry Abilities,,Trick or Treat!,,
 200,Infantry Abilities,0,Anti-Infantry MANA Turret,2,infantry
@@ -724,6 +734,7 @@
 6005640,Infantry Abilities,0,Faction Banner,4,none
 6014737,Infantry Abilities,0,Firewall Module,0,none
 6004292,Infantry Abilities,0,Flail Targeting Dart,0,none
+6014996,Infantry Abilities,0,Flail Targeting Laser,0,none
 6009000,Infantry Abilities,0,Flash XS-1,,none
 6009009,Infantry Abilities,0,Flash XS-1,0,none
 6014741,Infantry Abilities,0,Fortress Shield Module,0,none
@@ -731,6 +742,7 @@
 6002391,Infantry Abilities,0,Glaive IPC,3,none
 6002392,Infantry Abilities,0,Glaive IPC,1,none
 6005636,Infantry Abilities,0,Glaive IPC,4,none
+6014997,Infantry Abilities,0,Glaive Targeting Laser,0,none
 6002954,Infantry Abilities,0,Hardlight Barrier,1,none
 6002955,Infantry Abilities,0,Hardlight Barrier,2,none
 6002956,Infantry Abilities,0,Hardlight Barrier,3,none
@@ -866,6 +878,7 @@
 6014729,Infantry Abilities,0,Orbital Mining Drill,3,none
 6014730,Infantry Abilities,0,Orbital Mining Drill,4,none
 6002554,Infantry Abilities,0,Orbital Strike Target Designator,0,none
+6002558,Infantry Abilities,0,Orbital Strike Targeting Laser,0,none
 6002524,Infantry Abilities,0,Orbital Strike Uplink,2,none
 6002525,Infantry Abilities,0,Orbital Strike Uplink,3,none
 6002526,Infantry Abilities,0,Orbital Strike Uplink,1,none
@@ -1214,7 +1227,6 @@
 6009672,LMG,0,"NS-15 ""Endeavor"" Machinegun",,infantry
 803699,LMG,0,NS-15 Gallows,,infantry
 802319,LMG,0,NS-15M AE,,infantry
-6014505,LMG,0,NS-15M Frostbite,0,infantry
 75034,LMG,0,NS-15M1,,infantry
 802106,LMG,0,NS-15M2,,infantry
 802105,LMG,0,NS-15MB,,infantry
@@ -1270,6 +1282,7 @@
 6009464,Mosquito Wing Mount,1,Havoc Missiles,3,none
 5051,Mosquito Wing Mount,1,Hornet Missiles,3,none
 4905,Mosquito Wing Mount,1,Tomcat A2AM Pods,3,none
+6015090,Pistol,0,"NS-61 ""Wartime"" Emissary",,
 6006090,Pistol,0,"""Jackpot"" Cerberus",1,infantry
 21,Pistol,0,Beamer VS3,1,infantry
 7403,Pistol,0,Beamer VS3-FB,1,infantry
@@ -1306,7 +1319,6 @@
 6003665,Pistol,0,NS-45 Pilot,,infantry
 6009722,Pistol,0,NS-45P Pilot,,infantry
 6004413,Pistol,0,"NS-61 ""Ivory"" Emissary",,infantry
-6014537,Pistol,0,"NS-61 ""Jackrabbit"" Emissary",0,infantry
 6008666,Pistol,0,"NS-61 ""Networked"" Emissary",,infantry
 6002640,Pistol,0,"NS-61 ""Ravenous"" Emissary",,infantry
 804138,Pistol,0,NS-61 Emissary,,infantry
