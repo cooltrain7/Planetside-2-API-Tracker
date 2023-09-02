@@ -136660,7 +136660,25 @@
       "param2": "1",
       "param3": "-0.113",
       "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "769241",
+      "zone_effect_type_id": "26",
+      "ability_id": "1117782",
+      "param2": "0",
+      "param3": "8575",
+      "param5": "1",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "VehicleInfo.MovingEffect"
     }
   ],
-  "returned": 13954
+  "returned": 13955
 }
