@@ -69376,12 +69376,12 @@
     },
     {
       "directive_id": "5485",
-      "directive_tree_id": "127",
+      "directive_tree_id": "26",
       "directive_tier_id": "3",
       "objective_set_id": "9597",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69397,7 +69397,7 @@
       "objective_set_id": "9598",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -69413,7 +69413,7 @@
       "objective_set_id": "9599",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -69429,7 +69429,7 @@
       "objective_set_id": "9600",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -69445,7 +69445,7 @@
       "objective_set_id": "9601",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -69461,7 +69461,7 @@
       "objective_set_id": "9602",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -69472,12 +69472,12 @@
     },
     {
       "directive_id": "5491",
-      "directive_tree_id": "127",
+      "directive_tree_id": "26",
       "directive_tier_id": "3",
       "objective_set_id": "9603",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69493,7 +69493,7 @@
       "objective_set_id": "9604",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -69509,7 +69509,7 @@
       "objective_set_id": "9605",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -69525,7 +69525,7 @@
       "objective_set_id": "9606",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -69536,12 +69536,12 @@
     },
     {
       "directive_id": "5495",
-      "directive_tree_id": "127",
+      "directive_tree_id": "26",
       "directive_tier_id": "3",
       "objective_set_id": "9607",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69557,7 +69557,7 @@
       "objective_set_id": "9608",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -69573,7 +69573,7 @@
       "objective_set_id": "9609",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -69589,7 +69589,7 @@
       "objective_set_id": "9610",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -69600,12 +69600,12 @@
     },
     {
       "directive_id": "5499",
-      "directive_tree_id": "127",
+      "directive_tree_id": "26",
       "directive_tier_id": "3",
       "objective_set_id": "9611",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69621,7 +69621,7 @@
       "objective_set_id": "9612",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -69922,7 +69922,7 @@
       "objective_set_id": "9603",
       "qualify_requirement_id": "3310",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69938,7 +69938,7 @@
       "objective_set_id": "9611",
       "qualify_requirement_id": "45167",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69954,7 +69954,7 @@
       "objective_set_id": "9607",
       "qualify_requirement_id": "3311",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69970,7 +69970,7 @@
       "objective_set_id": "9597",
       "qualify_requirement_id": "3312",
       "name": {
-        "en": "Spitfire \"Deluxe\" Auto-Turret"
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -69993,7 +69993,223 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5572",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9664"
+    },
+    {
+      "directive_id": "5573",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9665"
+    },
+    {
+      "directive_id": "5574",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9666"
+    },
+    {
+      "directive_id": "5575",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9667"
+    },
+    {
+      "directive_id": "5576",
+      "directive_tree_id": "26",
+      "directive_tier_id": "2",
+      "objective_set_id": "9668",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5577",
+      "directive_tree_id": "26",
+      "directive_tier_id": "2",
+      "objective_set_id": "9669",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5578",
+      "directive_tree_id": "26",
+      "directive_tier_id": "2",
+      "objective_set_id": "9670",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5579",
+      "directive_tree_id": "26",
+      "directive_tier_id": "2",
+      "objective_set_id": "9671",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5580",
+      "directive_tree_id": "26",
+      "directive_tier_id": "1",
+      "objective_set_id": "9672",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5581",
+      "directive_tree_id": "26",
+      "directive_tier_id": "1",
+      "objective_set_id": "9673",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5582",
+      "directive_tree_id": "26",
+      "directive_tier_id": "1",
+      "objective_set_id": "9674",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5583",
+      "directive_tree_id": "26",
+      "directive_tier_id": "1",
+      "objective_set_id": "9675",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5584",
+      "directive_tree_id": "26",
+      "directive_tier_id": "4",
+      "objective_set_id": "9676",
+      "qualify_requirement_id": "3312",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5585",
+      "directive_tree_id": "26",
+      "directive_tier_id": "4",
+      "objective_set_id": "9677",
+      "qualify_requirement_id": "3310",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5586",
+      "directive_tree_id": "26",
+      "directive_tier_id": "4",
+      "objective_set_id": "9678",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5587",
+      "directive_tree_id": "26",
+      "directive_tier_id": "4",
+      "objective_set_id": "9679",
+      "qualify_requirement_id": "3311",
+      "name": {
+        "en": "Spitfire \"Prime Directive\" Auto-Turret"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 4539
+  "returned": 4555
 }

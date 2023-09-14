@@ -9,7 +9,8 @@
         "en": "Capture Indar within the time limit"
       },
       "type": "1",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "2",
@@ -20,7 +21,8 @@
         "en": "Capture Esamir within the time limit"
       },
       "type": "1",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "3",
@@ -31,7 +33,8 @@
         "en": "Capture Amerish within the time limit"
       },
       "type": "1",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "4",
@@ -42,7 +45,8 @@
         "en": "Capture Hossin within the time limit"
       },
       "type": "1",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "7",
@@ -52,7 +56,8 @@
       "description": {
         "en": "Capture and hold all 3 Biolabs on Amerish"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "8",
@@ -62,7 +67,8 @@
       "description": {
         "en": "Capture and hold all 3 Tech Plants on Amerish"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "9",
@@ -72,7 +78,8 @@
       "description": {
         "en": "Capture and hold all 3 Amp Stations on Amerish"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "10",
@@ -82,7 +89,8 @@
       "description": {
         "en": "Capture and hold all 3 Biolabs on Indar"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "11",
@@ -92,7 +100,8 @@
       "description": {
         "en": "Capture and hold all 3 Tech Plants on Indar"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "12",
@@ -102,7 +111,8 @@
       "description": {
         "en": "Capture and hold all 3 Amp Stations on Indar"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "13",
@@ -112,7 +122,8 @@
       "description": {
         "en": "Capture and hold all 3 Biolabs on Esamir"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "14",
@@ -122,7 +133,8 @@
       "description": {
         "en": "Capture and hold all 3 Amp Stations on Esamir"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "16",
@@ -132,7 +144,8 @@
       "description": {
         "en": "Capture and hold all 3 Biolabs on Hossin"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "17",
@@ -142,7 +155,8 @@
       "description": {
         "en": "Capture and hold all 3 Tech Plants on Hossin"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "18",
@@ -152,7 +166,8 @@
       "description": {
         "en": "Capture and hold all 3 Amp Stations on Hossin"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "106",
@@ -162,7 +177,8 @@
       "description": {
         "en": "Capture bases and kill enemies to earn points."
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "120"
     },
     {
       "metagame_event_id": "123",
@@ -173,7 +189,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "124",
@@ -184,7 +201,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "125",
@@ -195,7 +213,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "126",
@@ -206,7 +225,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "127",
@@ -217,7 +237,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "128",
@@ -228,7 +249,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "129",
@@ -239,7 +261,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "130",
@@ -250,7 +273,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "131",
@@ -261,7 +285,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "132",
@@ -272,7 +297,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "133",
@@ -283,7 +309,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "134",
@@ -294,7 +321,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "8",
-      "experience_bonus": "30"
+      "experience_bonus": "30",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "147",
@@ -305,7 +333,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "148",
@@ -316,7 +345,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "149",
@@ -327,7 +357,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "150",
@@ -338,7 +369,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "151",
@@ -349,7 +381,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "152",
@@ -360,7 +393,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "153",
@@ -371,7 +405,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "154",
@@ -382,7 +417,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "155",
@@ -393,7 +429,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "156",
@@ -404,7 +441,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "157",
@@ -415,7 +453,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "158",
@@ -426,7 +465,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "159",
@@ -436,7 +476,8 @@
       "description": {
         "en": "Additional territories are coming back online."
       },
-      "type": "5"
+      "type": "5",
+      "duration_minutes": "10"
     },
     {
       "metagame_event_id": "160",
@@ -446,7 +487,8 @@
       "description": {
         "en": "Additional territories are coming back online."
       },
-      "type": "5"
+      "type": "5",
+      "duration_minutes": "10"
     },
     {
       "metagame_event_id": "161",
@@ -456,7 +498,8 @@
       "description": {
         "en": "Additional territories are coming back online."
       },
-      "type": "5"
+      "type": "5",
+      "duration_minutes": "10"
     },
     {
       "metagame_event_id": "162",
@@ -466,7 +509,8 @@
       "description": {
         "en": "Additional territories are coming back online."
       },
-      "type": "5"
+      "type": "5",
+      "duration_minutes": "10"
     },
     {
       "metagame_event_id": "164",
@@ -476,7 +520,8 @@
       "description": {
         "en": "Capture and hold all 3 Tech Plants on Esamir"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "60"
     },
     {
       "metagame_event_id": "167",
@@ -486,7 +531,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "168",
@@ -496,7 +542,8 @@
       "description": {
         "en": "Gather Tempest from the meteor site and return it to your Warpgate."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "170",
@@ -506,7 +553,8 @@
       "description": {
         "en": "A deadly meteor shower is wreaking havoc across the continent."
       },
-      "type": "5"
+      "type": "5",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "172",
@@ -516,7 +564,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "173",
@@ -526,7 +575,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "174",
@@ -536,7 +586,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "175",
@@ -546,7 +597,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "176",
@@ -557,7 +609,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "177",
@@ -568,7 +621,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "178",
@@ -579,7 +633,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "179",
@@ -590,7 +645,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "180",
@@ -600,7 +656,8 @@
       "description": {
         "en": "Capture and hold the most Large Outposts"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "181",
@@ -610,7 +667,8 @@
       "description": {
         "en": "Capture and hold the most Large Outposts"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "182",
@@ -620,7 +678,8 @@
       "description": {
         "en": "Capture and hold the most Large Outposts"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "183",
@@ -630,7 +689,8 @@
       "description": {
         "en": "Capture and hold the most Large Outposts"
       },
-      "type": "2"
+      "type": "2",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "186",
@@ -641,7 +701,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "187",
@@ -652,7 +713,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "188",
@@ -663,7 +725,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "189",
@@ -674,7 +737,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "190",
@@ -685,7 +749,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "191",
@@ -696,7 +761,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "192",
@@ -707,7 +773,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "193",
@@ -718,7 +785,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "194",
@@ -728,7 +796,8 @@
       "description": {
         "en": "Deposit Cortium into the refinery"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "195",
@@ -738,7 +807,8 @@
       "description": {
         "en": "Deposit Cortium into the refinery"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "196",
@@ -748,7 +818,8 @@
       "description": {
         "en": "Deposit Cortium into the refinery"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "197",
@@ -758,7 +829,8 @@
       "description": {
         "en": "Deposit Cortium into the refinery"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "198",
@@ -768,7 +840,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "199",
@@ -778,7 +851,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "200",
@@ -788,7 +862,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "201",
@@ -798,7 +873,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "204",
@@ -808,7 +884,8 @@
       "description": {
         "en": "Capture Active Vanu Relics"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "10"
     },
     {
       "metagame_event_id": "205",
@@ -818,7 +895,8 @@
       "description": {
         "en": "Prepare for the Outfit War!"
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "20"
     },
     {
       "metagame_event_id": "206",
@@ -828,7 +906,8 @@
       "description": {
         "en": "Active Relics Changing"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "2"
     },
     {
       "metagame_event_id": "207",
@@ -838,7 +917,8 @@
       "description": {
         "en": "Earn 750 points or have the most when time expires."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "60"
     },
     {
       "metagame_event_id": "208",
@@ -849,7 +929,8 @@
         "en": "Control territory to lock Koltyr"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "209",
@@ -860,7 +941,8 @@
         "en": "Control territory to lock Koltyr"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "210",
@@ -871,7 +953,8 @@
         "en": "Control territory to lock Koltyr"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "211",
@@ -882,7 +965,8 @@
         "en": "Control territory to lock Amerish"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "212",
@@ -893,7 +977,8 @@
         "en": "Control territory to lock Esamir"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "213",
@@ -904,7 +989,8 @@
         "en": "Control territory to lock Hossin"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "214",
@@ -915,7 +1001,8 @@
         "en": "Control territory to lock Indar"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "215",
@@ -926,7 +1013,8 @@
         "en": "Control territory to lock Koltyr"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "216",
@@ -936,7 +1024,8 @@
       "description": {
         "en": "Escort your Payload Drone to its destination before enemies do the same."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "217",
@@ -946,7 +1035,8 @@
       "description": {
         "en": "Escort your Payload Drone to its destination before enemies do the same."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "218",
@@ -956,7 +1046,8 @@
       "description": {
         "en": "Escort your Payload Drone to its destination before enemies do the same."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "219",
@@ -966,7 +1057,8 @@
       "description": {
         "en": "Escort your Payload Drone to its destination before enemies do the same."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "220",
@@ -976,7 +1068,8 @@
       "description": {
         "en": "Escort your Payload Drone to its destination before enemies do the same."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "221",
@@ -986,7 +1079,8 @@
       "description": {
         "en": "Escort your Payload Drone to its destination before enemies do the same."
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "222",
@@ -997,7 +1091,8 @@
         "en": "Control territory to lock Oshur"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "223",
@@ -1008,7 +1103,8 @@
         "en": "Control territory to lock Oshur"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "224",
@@ -1019,7 +1115,8 @@
         "en": "Control territory to lock Oshur"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "225",
@@ -1029,7 +1126,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "226",
@@ -1040,7 +1138,8 @@
         "en": "Control territory to lock Oshur"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "90"
     },
     {
       "metagame_event_id": "227",
@@ -1050,7 +1149,8 @@
       "description": {
         "en": "Control the most territory to conquer the continent"
       },
-      "type": "9"
+      "type": "9",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "228",
@@ -1060,7 +1160,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "229",
@@ -1070,7 +1171,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "230",
@@ -1080,7 +1182,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "231",
@@ -1090,7 +1193,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "232",
@@ -1100,7 +1204,8 @@
       "description": {
         "en": "Take readings of aerial anomalies"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "233",
@@ -1110,7 +1215,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "234",
@@ -1120,7 +1226,8 @@
       "description": {
         "en": "Prepare for the Outfit War!"
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "20"
     },
     {
       "metagame_event_id": "235",
@@ -1130,7 +1237,8 @@
       "description": {
         "en": "Active Relics Changing"
       },
-      "type": "10"
+      "type": "10",
+      "duration_minutes": "2"
     },
     {
       "metagame_event_id": "236",
@@ -1140,7 +1248,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "237",
@@ -1150,7 +1259,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "238",
@@ -1160,7 +1270,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "239",
@@ -1170,7 +1281,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "240",
@@ -1180,7 +1292,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "241",
@@ -1190,7 +1303,8 @@
       "description": {
         "en": "Kill as many enemies as possible"
       },
-      "type": "6"
+      "type": "6",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "242",
@@ -1200,7 +1314,8 @@
       "description": {
         "en": "Aircraft are free during this event."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "243",
@@ -1210,7 +1325,8 @@
       "description": {
         "en": "Aircraft are free during this event."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "244",
@@ -1220,7 +1336,8 @@
       "description": {
         "en": "Aircraft are free during this event."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "245",
@@ -1230,7 +1347,8 @@
       "description": {
         "en": "Aircraft are free during this event."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "246",
@@ -1240,7 +1358,8 @@
       "description": {
         "en": "Aircraft are free during this event."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "248",
@@ -1251,7 +1370,8 @@
         "en": "Control territory to lock Oshur"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "249",
@@ -1262,7 +1382,8 @@
         "en": "Control territory to lock Oshur"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "250",
@@ -1273,7 +1394,8 @@
         "en": "Control territory to lock Oshur"
       },
       "type": "9",
-      "experience_bonus": "25"
+      "experience_bonus": "25",
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "251",
@@ -1283,7 +1405,8 @@
       "description": {
         "en": "Survive the nanite storm."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "252",
@@ -1293,7 +1416,8 @@
       "description": {
         "en": "Survive the nanite storm."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "253",
@@ -1303,7 +1427,8 @@
       "description": {
         "en": "Survive the nanite storm."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "254",
@@ -1313,7 +1438,8 @@
       "description": {
         "en": "Survive the nanite storm."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     },
     {
       "metagame_event_id": "255",
@@ -1323,7 +1449,8 @@
       "description": {
         "en": "Survive the nanite storm."
       },
-      "type": "4"
+      "type": "4",
+      "duration_minutes": "15"
     }
   ],
   "returned": 127
