@@ -575,6 +575,7 @@
 6004174,Heavy Weapon,0,NC05-P Jackhammer,2,none
 6006332,Heavy Weapon,0,NS-03 Thumper,0,none
 6009426,Heavy Weapon,0,NS-03 Thumper SE,0,none
+6015169,Heavy Weapon,0,"NS-D ""Doombringer"" Helios",0,none
 6014952,Heavy Weapon,0,NS-D Helios,0,none
 6014956,Heavy Weapon,0,NS-D Helios,0,none
 6014957,Heavy Weapon,0,NS-D Helios EX,0,none
@@ -991,14 +992,14 @@
 6002405,Infantry Abilities,0,Spear Anti-Vehicle Turret,2,none
 6002419,Infantry Abilities,0,Spear Anti-Vehicle Turret,3,none
 6005650,Infantry Abilities,0,Spear Anti-Vehicle Turret,4,none
-6015075,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",1,none
-6015076,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",2,none
-6015077,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",3,none
-6015078,Infantry Abilities,0,"Spitfire ""Deluxe"" Auto-Turret",4,none
-6015086,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",1,none
-6015087,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",2,none
-6015088,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",3,none
-6015089,Infantry Abilities,1,"Spitfire ""Deluxe"" Auto-Turret",4,none
+6015075,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",1,none
+6015076,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",2,none
+6015077,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",3,none
+6015078,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",4,none
+6015086,Infantry Abilities,1,"Spitfire ""Prime Directive"" Auto-Turret",1,none
+6015087,Infantry Abilities,1,"Spitfire ""Prime Directive"" Auto-Turret",2,none
+6015088,Infantry Abilities,1,"Spitfire ""Prime Directive"" Auto-Turret",3,none
+6015089,Infantry Abilities,1,"Spitfire ""Prime Directive"" Auto-Turret",4,none
 802512,Infantry Abilities,0,Spitfire Auto-Turret,1,none
 802514,Infantry Abilities,1,Spitfire Auto-Turret,1,none
 802515,Infantry Abilities,0,Spitfire Auto-Turret,2,none
@@ -1098,6 +1099,7 @@
 6004825,Knife,0,NS Commando,0,none
 6009600,Knife,0,NS Firebug,0,none
 802902,Knife,0,NS Harrower,0,none
+6015205,Knife,0,NS Homerun,0,none
 6009463,Knife,0,NS Icebreaker,0,none
 6009515,Knife,0,NS Icebreaker,1,none
 6009516,Knife,0,NS Icebreaker,2,none
