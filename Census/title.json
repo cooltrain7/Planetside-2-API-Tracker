@@ -2375,7 +2375,13 @@
       "name": {
         "en": "Field Commander"
       }
+    },
+    {
+      "title_id": "450",
+      "name": {
+        "en": "Infernal"
+      }
     }
   ],
-  "returned": 396
+  "returned": 397
 }

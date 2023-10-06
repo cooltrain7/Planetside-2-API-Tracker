@@ -10514,7 +10514,20 @@
       "clip_size": "25",
       "capacity": "150",
       "refill_ammo_rate": "25"
+    },
+    {
+      "weapon_id": "78825",
+      "weapon_slot_index": "0",
+      "clip_size": "150",
+      "capacity": "450",
+      "refill_ammo_rate": "50"
+    },
+    {
+      "weapon_id": "78829",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1"
     }
   ],
-  "returned": 1500
+  "returned": 1502
 }

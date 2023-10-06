@@ -72539,7 +72539,62 @@
       "weapon_group_id": "77981",
       "attachment_id": "86269",
       "item_id": "6015113"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86299",
+      "item_id": "6015200"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86300",
+      "item_id": "6015191"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86301",
+      "item_id": "6015192"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86302",
+      "item_id": "6015193"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86303",
+      "item_id": "6015194"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86304",
+      "item_id": "6015195"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86305",
+      "item_id": "6015196"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86306",
+      "item_id": "6015197"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86307",
+      "item_id": "6015198"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86308",
+      "item_id": "6015199"
+    },
+    {
+      "weapon_group_id": "77985",
+      "attachment_id": "86310",
+      "item_id": "6015206"
     }
   ],
-  "returned": 14508
+  "returned": 14519
 }

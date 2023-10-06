@@ -928,6 +928,16 @@
       }
     },
     {
+      "directive_tree_id": "126",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Halloween 2023"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
       "directive_tree_id": "127",
       "directive_tree_category_id": "11",
       "name": {
@@ -941,5 +951,5 @@
       "image_path": "/files/ps2/images/static/79737.png"
     }
   ],
-  "returned": 92
+  "returned": 93
 }

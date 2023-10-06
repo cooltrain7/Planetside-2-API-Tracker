@@ -4774,7 +4774,35 @@
     {
       "fire_group_id": "80994",
       "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81001",
+      "transition_duration_ms": "500",
+      "can_chamber_ironsights": "1"
+    },
+    {
+      "fire_group_id": "81002",
+      "transition_duration_ms": "500",
+      "can_chamber_ironsights": "1"
+    },
+    {
+      "fire_group_id": "81003",
+      "transition_duration_ms": "500",
+      "can_chamber_ironsights": "1"
+    },
+    {
+      "fire_group_id": "81004",
+      "transition_duration_ms": "500",
+      "can_chamber_ironsights": "1"
+    },
+    {
+      "fire_group_id": "81005",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81006",
+      "can_chamber_ironsights": "0"
     }
   ],
-  "returned": 1120
+  "returned": 1126
 }

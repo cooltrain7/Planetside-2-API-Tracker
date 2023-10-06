@@ -100953,7 +100953,167 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93921",
+      "item_id": "6015169",
+      "objective_group_id": "21190",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93922",
+      "item_id": "6015169",
+      "objective_group_id": "21191",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93923",
+      "item_id": "6015169",
+      "objective_group_id": "21192",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93924",
+      "item_id": "6015169",
+      "objective_group_id": "21193",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93925",
+      "item_id": "6015169",
+      "objective_group_id": "21194",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8007",
+      "image_id": "8308",
+      "image_path": "/files/ps2/images/static/8308.png"
+    },
+    {
+      "achievement_id": "93926",
+      "item_id": "6015205",
+      "objective_group_id": "21227",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93927",
+      "item_id": "6015205",
+      "objective_group_id": "21228",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93928",
+      "item_id": "6015205",
+      "objective_group_id": "21229",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93929",
+      "item_id": "6015205",
+      "objective_group_id": "21230",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93930",
+      "item_id": "6015205",
+      "objective_group_id": "21231",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
     }
   ],
-  "returned": 6326
+  "returned": 6336
 }

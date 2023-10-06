@@ -167,7 +167,8 @@
       "ability_type_id": "26",
       "distance_max": "6",
       "radius_max": "0",
-      "flag_toggle": "0"
+      "flag_toggle": "0",
+      "param1": "1"
     },
     {
       "ability_id": "120",
@@ -32188,7 +32189,37 @@
       "param12": "0",
       "param13": "0",
       "param14": "0"
+    },
+    {
+      "ability_id": "1117783",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117784",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117785",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117786",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117787",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5276
+  "returned": 5281
 }

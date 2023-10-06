@@ -51656,7 +51656,7 @@
         "en": "Trick-or-Treat (Reese)"
       },
       "description": {
-        "en": "Speak to Sergeant Reese in the western stairway on Sanctuary."
+        "en": "Speak to Officer Reese in the western stairway on Sanctuary."
       },
       "image_set_id": "82826",
       "image_id": "80692",
@@ -57208,7 +57208,7 @@
         "en": "Trick-or-Treat (Reese)"
       },
       "description": {
-        "en": "Speak to Sergeant Reese in the western stairway on Sanctuary."
+        "en": "Speak to Officer Reese in the western stairway on Sanctuary."
       },
       "image_set_id": "82826",
       "image_id": "80692",
@@ -65280,7 +65280,7 @@
         "en": "Trick-or-Treat (Reese)"
       },
       "description": {
-        "en": "Speak to Sergeant Reese in the western stairway on Sanctuary."
+        "en": "Speak to Officer Reese in the western stairway on Sanctuary."
       },
       "image_set_id": "82826",
       "image_id": "80692",
@@ -69375,6 +69375,54 @@
       "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+      "directive_id": "5482",
+      "directive_tree_id": "126",
+      "directive_tier_id": "3",
+      "objective_set_id": "9594",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "5483",
+      "directive_tree_id": "126",
+      "directive_tier_id": "4",
+      "objective_set_id": "9595",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "5484",
+      "directive_tree_id": "126",
+      "directive_tier_id": "2",
+      "objective_set_id": "9596",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
       "directive_id": "5485",
       "directive_tree_id": "26",
       "directive_tier_id": "3",
@@ -69629,6 +69677,310 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5501",
+      "directive_tree_id": "126",
+      "directive_tier_id": "1",
+      "objective_set_id": "9613",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Trick-or-Treat (Reese)"
+      },
+      "description": {
+        "en": "Speak to Officer Reese in the western stairway on Sanctuary."
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "5502",
+      "directive_tree_id": "126",
+      "directive_tier_id": "1",
+      "objective_set_id": "9614",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Trick-or-Treat (Nalla)"
+      },
+      "description": {
+        "en": "Speak to Representative Nalla at the Nascent Expedition kiosk in the Atrium on Sanctuary"
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "5503",
+      "directive_tree_id": "126",
+      "directive_tier_id": "1",
+      "objective_set_id": "9615",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Trick-or-Treat (FL-34)"
+      },
+      "description": {
+        "en": "Speak to FL-34 at the Black Market on Sanctuary"
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "5504",
+      "directive_tree_id": "126",
+      "directive_tier_id": "1",
+      "objective_set_id": "9616",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Trick-or-Treat (Emerson)"
+      },
+      "description": {
+        "en": "Speak to Facilitator Emerson on the Observation Deck on Sanctuary."
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "5505",
+      "directive_tree_id": "126",
+      "directive_tier_id": "2",
+      "objective_set_id": "9617",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "5506",
+      "directive_tree_id": "126",
+      "directive_tier_id": "3",
+      "objective_set_id": "9618",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "5507",
+      "directive_tree_id": "126",
+      "directive_tier_id": "4",
+      "objective_set_id": "9619",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "5508",
+      "directive_tree_id": "126",
+      "directive_tier_id": "2",
+      "objective_set_id": "9620",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "5509",
+      "directive_tree_id": "126",
+      "directive_tier_id": "4",
+      "objective_set_id": "9621",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "5510",
+      "directive_tree_id": "126",
+      "directive_tier_id": "3",
+      "objective_set_id": "9622",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "5511",
+      "directive_tree_id": "126",
+      "directive_tier_id": "2",
+      "objective_set_id": "9623",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "5512",
+      "directive_tree_id": "126",
+      "directive_tier_id": "3",
+      "objective_set_id": "9624",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "5513",
+      "directive_tree_id": "126",
+      "directive_tier_id": "4",
+      "objective_set_id": "9625",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "5514",
+      "directive_tree_id": "126",
+      "directive_tier_id": "2",
+      "objective_set_id": "9626",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "5515",
+      "directive_tree_id": "126",
+      "directive_tier_id": "3",
+      "objective_set_id": "9627",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "5516",
+      "directive_tree_id": "126",
+      "directive_tier_id": "4",
+      "objective_set_id": "9628",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "5517",
+      "directive_tree_id": "126",
+      "directive_tier_id": "2",
+      "objective_set_id": "9629",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "5518",
+      "directive_tree_id": "126",
+      "directive_tier_id": "3",
+      "objective_set_id": "9630",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "5519",
+      "directive_tree_id": "126",
+      "directive_tier_id": "4",
+      "objective_set_id": "9631",
+      "qualify_requirement_id": "48585",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
     },
     {
       "directive_id": "5524",
@@ -69998,25 +70350,61 @@
       "directive_id": "5572",
       "directive_tree_id": "127",
       "directive_tier_id": "4",
-      "objective_set_id": "9664"
+      "objective_set_id": "9664",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     },
     {
       "directive_id": "5573",
       "directive_tree_id": "127",
       "directive_tier_id": "3",
-      "objective_set_id": "9665"
+      "objective_set_id": "9665",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
     },
     {
       "directive_id": "5574",
       "directive_tree_id": "127",
       "directive_tier_id": "2",
-      "objective_set_id": "9666"
+      "objective_set_id": "9666",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     },
     {
       "directive_id": "5575",
       "directive_tree_id": "127",
       "directive_tier_id": "1",
-      "objective_set_id": "9667"
+      "objective_set_id": "9667",
+      "name": {
+        "en": "NS-D \"Doombringer\" Helios"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "5576",
@@ -70209,7 +70597,187 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5592",
+      "directive_tree_id": "27",
+      "directive_tier_id": "4",
+      "objective_set_id": "9684",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5593",
+      "directive_tree_id": "27",
+      "directive_tier_id": "2",
+      "objective_set_id": "9685",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5594",
+      "directive_tree_id": "27",
+      "directive_tier_id": "3",
+      "objective_set_id": "9686",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5595",
+      "directive_tree_id": "27",
+      "directive_tier_id": "2",
+      "objective_set_id": "9687",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5596",
+      "directive_tree_id": "27",
+      "directive_tier_id": "3",
+      "objective_set_id": "9688",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5597",
+      "directive_tree_id": "27",
+      "directive_tier_id": "4",
+      "objective_set_id": "9689",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5598",
+      "directive_tree_id": "27",
+      "directive_tier_id": "1",
+      "objective_set_id": "9690",
+      "name": {
+        "en": "NS-D Helios"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5599",
+      "directive_tree_id": "27",
+      "directive_tier_id": "1",
+      "objective_set_id": "9691",
+      "name": {
+        "en": "NS-D Helios EX"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5600",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9692",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5601",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9693",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5602",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9694",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5603",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9695",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     }
   ],
-  "returned": 4555
+  "returned": 4589
 }
