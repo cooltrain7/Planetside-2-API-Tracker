@@ -645,6 +645,24 @@
       "param10": "0"
     },
     {
+      "effect_id": "118",
+      "effect_type_id": "12",
+      "ability_id": "118",
+      "target_type_id": "4",
+      "resist_type_id": "0",
+      "is_drain": "0",
+      "duration_seconds": "1",
+      "param1": "175",
+      "param2": "3",
+      "param3": "0",
+      "param5": "0",
+      "param6": "1",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0"
+    },
+    {
       "effect_id": "120",
       "effect_type_id": "66",
       "ability_id": "122",
@@ -735,6 +753,23 @@
       "effect_id": "132",
       "effect_type_id": "11",
       "ability_id": "117",
+      "target_type_id": "4",
+      "resist_type_id": "0",
+      "is_drain": "0",
+      "duration_seconds": "999999",
+      "param1": "175",
+      "param2": "3",
+      "param3": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "effect_id": "133",
+      "effect_type_id": "11",
+      "ability_id": "118",
       "target_type_id": "4",
       "resist_type_id": "0",
       "is_drain": "0",
@@ -24773,5 +24808,5 @@
       "param9": "0"
     }
   ],
-  "returned": 1681
+  "returned": 1683
 }

@@ -146,6 +146,15 @@
       "param1": "19"
     },
     {
+      "zone_effect_id": "133",
+      "zone_effect_type_id": "6",
+      "ability_id": "118",
+      "param1": "3000",
+      "param2": "6",
+      "param3": "100",
+      "param4": "0"
+    },
+    {
       "zone_effect_id": "157",
       "zone_effect_type_id": "3",
       "ability_id": "152",
@@ -17554,6 +17563,91 @@
       "string1": "FireMode.FireDetectRange"
     },
     {
+      "zone_effect_id": "7569",
+      "zone_effect_type_id": "6",
+      "ability_id": "6263",
+      "param1": "2700",
+      "param2": "6",
+      "param3": "100",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7572",
+      "zone_effect_type_id": "6",
+      "ability_id": "6266",
+      "param1": "2400",
+      "param2": "6",
+      "param3": "100",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7574",
+      "zone_effect_type_id": "6",
+      "ability_id": "6267",
+      "param1": "2100",
+      "param2": "6",
+      "param3": "100",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7578",
+      "zone_effect_type_id": "6",
+      "ability_id": "6268",
+      "param1": "1650",
+      "param2": "6",
+      "param3": "100",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7580",
+      "zone_effect_type_id": "6",
+      "ability_id": "6269",
+      "param1": "1050",
+      "param2": "6",
+      "param3": "100",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7608",
+      "zone_effect_type_id": "3",
+      "ability_id": "6283",
+      "param1": "110",
+      "param2": "6",
+      "param3": "0"
+    },
+    {
+      "zone_effect_id": "7610",
+      "zone_effect_type_id": "3",
+      "ability_id": "6284",
+      "param1": "120",
+      "param2": "6",
+      "param3": "0"
+    },
+    {
+      "zone_effect_id": "7612",
+      "zone_effect_type_id": "3",
+      "ability_id": "6285",
+      "param1": "130",
+      "param2": "6",
+      "param3": "0"
+    },
+    {
+      "zone_effect_id": "7614",
+      "zone_effect_type_id": "3",
+      "ability_id": "6286",
+      "param1": "140",
+      "param2": "6",
+      "param3": "0"
+    },
+    {
+      "zone_effect_id": "7616",
+      "zone_effect_type_id": "3",
+      "ability_id": "6287",
+      "param1": "150",
+      "param2": "6",
+      "param3": "0"
+    },
+    {
       "zone_effect_id": "7626",
       "zone_effect_type_id": "12",
       "ability_id": "6023",
@@ -17712,6 +17806,60 @@
       "param1": "152",
       "param2": "4",
       "param3": "1"
+    },
+    {
+      "zone_effect_id": "7697",
+      "zone_effect_type_id": "6",
+      "ability_id": "118",
+      "param1": "6000",
+      "param2": "6",
+      "param3": "5",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7698",
+      "zone_effect_type_id": "6",
+      "ability_id": "6263",
+      "param1": "5640",
+      "param2": "6",
+      "param3": "7.5",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7699",
+      "zone_effect_type_id": "6",
+      "ability_id": "6266",
+      "param1": "5280",
+      "param2": "6",
+      "param3": "10",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7700",
+      "zone_effect_type_id": "6",
+      "ability_id": "6267",
+      "param1": "4920",
+      "param2": "6",
+      "param3": "12.5",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7701",
+      "zone_effect_type_id": "6",
+      "ability_id": "6268",
+      "param1": "4560",
+      "param2": "6",
+      "param3": "15",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "7702",
+      "zone_effect_type_id": "6",
+      "ability_id": "6269",
+      "param1": "4200",
+      "param2": "6",
+      "param3": "20",
+      "param4": "0"
     },
     {
       "zone_effect_id": "7721",
@@ -43113,6 +43261,13 @@
       "param1": "160",
       "param2": "4",
       "param3": "1"
+    },
+    {
+      "zone_effect_id": "44781",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113139",
+      "param1": "2000",
+      "param2": "4"
     },
     {
       "zone_effect_id": "45000",
@@ -69641,6 +69796,13 @@
       "param3": "1"
     },
     {
+      "zone_effect_id": "751793",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113138",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
       "zone_effect_id": "751794",
       "zone_effect_type_id": "3",
       "ability_id": "1111664",
@@ -72735,6 +72897,76 @@
       "param1": "6002453",
       "param3": "4",
       "string1": "Item.EquipCountMax"
+    },
+    {
+      "zone_effect_id": "753330",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113137",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753331",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113135",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753332",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113133",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753333",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113131",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753334",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113128",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753335",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113136",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753336",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113134",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753337",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113132",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753338",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113130",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "753339",
+      "zone_effect_type_id": "51",
+      "ability_id": "1113129",
+      "param1": "2000",
+      "param2": "4"
     },
     {
       "zone_effect_id": "753380",
@@ -81726,6 +81958,25 @@
       "param3": "0.0025",
       "param5": "4",
       "string1": "Resources.RegenValuePerMsec"
+    },
+    {
+      "zone_effect_id": "755623",
+      "zone_effect_type_id": "3",
+      "ability_id": "1112683",
+      "param1": "136",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
     },
     {
       "zone_effect_id": "755624",
@@ -136973,5 +137224,5 @@
       "string1": "Weapon.ToIronSightsTime"
     }
   ],
-  "returned": 13987
+  "returned": 14017
 }

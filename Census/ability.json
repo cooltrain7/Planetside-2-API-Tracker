@@ -171,6 +171,14 @@
       "param1": "1"
     },
     {
+      "ability_id": "118",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
       "ability_id": "120",
       "ability_type_id": "6",
       "resource_type_id": "9",
@@ -4828,6 +4836,86 @@
       "ability_id": "6024",
       "ability_type_id": "3",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "6263",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6266",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6267",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6268",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6269",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6283",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6284",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6285",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6286",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "6287",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
     },
     {
       "ability_id": "6300",
@@ -20131,6 +20219,13 @@
       "flag_toggle": "0"
     },
     {
+      "ability_id": "1112683",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
       "ability_id": "1112684",
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
@@ -21141,6 +21236,90 @@
       "param12": "0",
       "param13": "0",
       "param14": "0"
+    },
+    {
+      "ability_id": "1113128",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113129",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113130",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113131",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113132",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113133",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113134",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113135",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113136",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113137",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113138",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1113139",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
     },
     {
       "ability_id": "1113140",
@@ -32221,5 +32400,5 @@
       "flag_toggle": "0"
     }
   ],
-  "returned": 5281
+  "returned": 5305
 }

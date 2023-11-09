@@ -28,6 +28,15 @@
       "param5": "HpThresholdToGetXp"
     },
     {
+      "zone_effect_type_id": "6",
+      "description": "Revive Tool Effect",
+      "param1": "MsecToRevive",
+      "param2": "DistanceMax",
+      "param3": "TargetReviveHealthPcntOfMax",
+      "param4": "SourceRewardHealthPcntOfMax",
+      "param5": "Allow Self Revive"
+    },
+    {
       "zone_effect_type_id": "7",
       "description": "Enable or Disable Resource Regen",
       "param1": "ResourceType",
@@ -264,6 +273,12 @@
       "param2": "EquipSlotId"
     },
     {
+      "zone_effect_type_id": "51",
+      "description": "Despawn Npc Tool",
+      "param1": "DespawnMsec",
+      "param2": "DistanceMax"
+    },
+    {
       "zone_effect_type_id": "52",
       "description": "Replace one of a weapon's fire groups with a different one",
       "param1": "FireGroupIndex",
@@ -424,5 +439,5 @@
       "string1": "Value Name"
     }
   ],
-  "returned": 58
+  "returned": 60
 }
