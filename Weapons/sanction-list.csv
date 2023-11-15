@@ -557,7 +557,7 @@
 6126,Harasser Top Gunner,1,Saron HRB-H,1,gunner
 6011884,Harasser Top Gunner,1,V42 Pariah-H,1,gunner
 6011442,Heavy Crossbow,0,Demon Seeker HLX,0,infantry-explosive
-6015262,Heavy Crossbow,1,Fortune Seeker HLX,0,infantry-explosive
+6015262,Heavy Crossbow,0,Fortune Seeker HLX,0,infantry-explosive
 6011432,Heavy Crossbow,0,Seeker HLX,0,infantry-explosive
 6011831,Heavy Crossbow,0,Seraphim HLX,0,infantry-explosive
 6011140,Heavy Weapon,0,D11 Detonator,4,max
@@ -1301,7 +1301,7 @@
 75171,Pistol,0,NS-357G Underboss,,infantry
 75268,Pistol,0,NS-357P Underboss,,infantry
 6011930,Pistol,0,"NS-44 ""Jackpot"" Commissioner",,infantry
-6015212,Pistol,1,"NS-44 ""Primed Amethyst"" Commissioner",0,infantry
+6015212,Pistol,0,"NS-44 ""Primed Amethyst"" Commissioner",0,infantry
 75063,Pistol,0,NS-44 Commissioner,,infantry
 803824,Pistol,0,NS-44 Commissioner AE,1,infantry
 803825,Pistol,0,NS-44 Commissioner AE,3,infantry
@@ -1398,7 +1398,7 @@
 33002,Rocket Launcher,0,NC15 Phoenix,2,none
 35004,Rocket Launcher,0,Nemesis VSH9,1,none
 6014299,Rocket Launcher,0,"NS ""Fenrir's Maw"" Annihilator",0,none
-6015273,Rocket Launcher,1,"NS ""Fortune"" Decimator",0,none
+6015273,Rocket Launcher,0,"NS ""Fortune"" Decimator",0,none
 6003611,Rocket Launcher,0,"NS ""Heatwave"" Decimator",0,none
 6004407,Rocket Launcher,0,"NS ""Jackpot"" Decimator",0,none
 6011773,Rocket Launcher,0,"NS ""Tigerstrike"" Decimator",0,none
@@ -1411,7 +1411,7 @@
 802299,Rocket Launcher,0,NS Decimator-G,0,none
 6010049,Rocket Launcher,0,NS Scorpion,0,none
 6013979,Rocket Launcher,0,"NS-R3 ""Dawnstinger"" Swarm",0,none
-6015279,Rocket Launcher,1,"NS-R3 ""Mountain Buster"" Swarm",0,none
+6015279,Rocket Launcher,0,"NS-R3 ""Mountain Buster"" Swarm",0,none
 6002637,Rocket Launcher,0,"NS-R3 ""Ravenous"" Swarm",0,none
 802969,Rocket Launcher,0,NS-R3 Swarm,0,none
 804179,Rocket Launcher,0,NSX Masamune,0,none
