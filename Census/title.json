@@ -2381,7 +2381,13 @@
       "name": {
         "en": "Infernal"
       }
+    },
+    {
+      "title_id": "451",
+      "name": {
+        "en": "Nascent Envoy"
+      }
     }
   ],
-  "returned": 397
+  "returned": 398
 }

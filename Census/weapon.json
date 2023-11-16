@@ -11484,7 +11484,51 @@
       "from_iron_sights_ms": "150",
       "melee_detect_width": "0.15",
       "melee_detect_height": "0.1"
+    },
+    {
+      "weapon_id": "78830",
+      "weapon_group_id": "77983",
+      "turn_modifier": "1.0",
+      "move_modifier": "1.0",
+      "sprint_recovery_ms": "300",
+      "equip_ms": "450",
+      "unequip_ms": "250",
+      "to_iron_sights_ms": "150",
+      "from_iron_sights_ms": "150"
+    },
+    {
+      "weapon_id": "78831",
+      "weapon_group_id": "77982",
+      "turn_modifier": "1.0",
+      "move_modifier": "1.0",
+      "sprint_recovery_ms": "300",
+      "equip_ms": "600",
+      "unequip_ms": "250",
+      "to_iron_sights_ms": "150",
+      "from_iron_sights_ms": "150"
+    },
+    {
+      "weapon_id": "78832",
+      "weapon_group_id": "77986",
+      "turn_modifier": "1.0",
+      "move_modifier": "1.0",
+      "sprint_recovery_ms": "300",
+      "equip_ms": "900",
+      "unequip_ms": "250",
+      "to_iron_sights_ms": "350",
+      "from_iron_sights_ms": "150"
+    },
+    {
+      "weapon_id": "78833",
+      "weapon_group_id": "77987",
+      "turn_modifier": "1.0",
+      "move_modifier": "1.0",
+      "sprint_recovery_ms": "300",
+      "equip_ms": "1000",
+      "unequip_ms": "250",
+      "to_iron_sights_ms": "350",
+      "from_iron_sights_ms": "150"
     }
   ],
-  "returned": 1278
+  "returned": 1282
 }

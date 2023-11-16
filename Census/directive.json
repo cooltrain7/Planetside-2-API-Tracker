@@ -70777,7 +70777,487 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5608",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9702",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5609",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9703",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5610",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9704",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5611",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9705",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5612",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9706",
+      "name": {
+        "en": "Fortune Seeker HLX"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5613",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9707",
+      "name": {
+        "en": "Fortune Seeker HLX"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5614",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9708",
+      "name": {
+        "en": "Fortune Seeker HLX"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5615",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9709",
+      "name": {
+        "en": "Fortune Seeker HLX"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5616",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9710",
+      "name": {
+        "en": "NS \"Fortune\" Decimator"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5617",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9711",
+      "name": {
+        "en": "NS \"Fortune\" Decimator"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5618",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9712",
+      "name": {
+        "en": "NS \"Fortune\" Decimator"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5619",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9713",
+      "name": {
+        "en": "NS \"Fortune\" Decimator"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5644",
+      "directive_tree_id": "76",
+      "directive_tier_id": "2",
+      "objective_set_id": "9738",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5645",
+      "directive_tree_id": "76",
+      "directive_tier_id": "4",
+      "objective_set_id": "9739",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5646",
+      "directive_tree_id": "76",
+      "directive_tier_id": "3",
+      "objective_set_id": "9740",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5647",
+      "directive_tree_id": "76",
+      "directive_tier_id": "1",
+      "objective_set_id": "9741",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5648",
+      "directive_tree_id": "47",
+      "directive_tier_id": "1",
+      "objective_set_id": "9742",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5649",
+      "directive_tree_id": "47",
+      "directive_tier_id": "2",
+      "objective_set_id": "9743",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5650",
+      "directive_tree_id": "47",
+      "directive_tier_id": "3",
+      "objective_set_id": "9744",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5651",
+      "directive_tree_id": "47",
+      "directive_tier_id": "4",
+      "objective_set_id": "9745",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5652",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9746",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5653",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9747",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5654",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9748",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5655",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9749",
+      "name": {
+        "en": "NS-R3 \"Mountain Buster\" Swarm"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5656",
+      "directive_tree_id": "17",
+      "directive_tier_id": "4",
+      "objective_set_id": "9750",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5657",
+      "directive_tree_id": "17",
+      "directive_tier_id": "3",
+      "objective_set_id": "9751",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5658",
+      "directive_tree_id": "17",
+      "directive_tier_id": "1",
+      "objective_set_id": "9752",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5659",
+      "directive_tree_id": "17",
+      "directive_tier_id": "2",
+      "objective_set_id": "9753",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5660",
+      "directive_tree_id": "73",
+      "directive_tier_id": "2",
+      "objective_set_id": "9754",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5661",
+      "directive_tree_id": "73",
+      "directive_tier_id": "1",
+      "objective_set_id": "9755",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5662",
+      "directive_tree_id": "73",
+      "directive_tier_id": "3",
+      "objective_set_id": "9756",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5663",
+      "directive_tree_id": "73",
+      "directive_tier_id": "4",
+      "objective_set_id": "9757",
+      "name": {
+        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 4589
+  "returned": 4621
 }

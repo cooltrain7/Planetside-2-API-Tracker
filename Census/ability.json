@@ -29548,6 +29548,12 @@
       "flag_toggle": "0"
     },
     {
+      "ability_id": "1117099",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
       "ability_id": "1117100",
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
@@ -32398,7 +32404,177 @@
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117789",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117792",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117793",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117794",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117795",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117796",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117797",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117798",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117799",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117800",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117801",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117802",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117803",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117804",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117805",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117806",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117807",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117808",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117809",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117810",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117811",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117812",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117813",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117814",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117815",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117816",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117817",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117818",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117819",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117820",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117821",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117822",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117823",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5305
+  "returned": 5339
 }

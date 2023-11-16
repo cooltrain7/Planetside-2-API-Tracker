@@ -6459,7 +6459,47 @@
     {
       "fire_mode_id": "81414",
       "projectile_id": "80623"
+    },
+    {
+      "fire_mode_id": "81415",
+      "projectile_id": "80624"
+    },
+    {
+      "fire_mode_id": "81416",
+      "projectile_id": "80624"
+    },
+    {
+      "fire_mode_id": "81417",
+      "projectile_id": "80625"
+    },
+    {
+      "fire_mode_id": "81418",
+      "projectile_id": "80625"
+    },
+    {
+      "fire_mode_id": "81419",
+      "projectile_id": "80626"
+    },
+    {
+      "fire_mode_id": "81420",
+      "projectile_id": "80626"
+    },
+    {
+      "fire_mode_id": "81421",
+      "projectile_id": "80627"
+    },
+    {
+      "fire_mode_id": "81422",
+      "projectile_id": "80627"
+    },
+    {
+      "fire_mode_id": "81423",
+      "projectile_id": "80628"
+    },
+    {
+      "fire_mode_id": "81424",
+      "projectile_id": "80628"
     }
   ],
-  "returned": 1615
+  "returned": 1625
 }

@@ -26595,7 +26595,96 @@
       "show_clip_size": "1",
       "show_fire_modes": "1",
       "show_range": "1"
+    },
+    {
+      "item_id": "6015212",
+      "damage_min": "75",
+      "damage_max": "250",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "350",
+      "reload_ms_min": "1000",
+      "reload_ms_max": "3000",
+      "clip_size": "6",
+      "capacity": "42",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6015262",
+      "damage": "600",
+      "damage_min": "300",
+      "damage_max": "1000",
+      "fire_cone": "1",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "600",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "350",
+      "reload_ms_min": "2000",
+      "reload_ms_max": "5250",
+      "clip_size": "40",
+      "capacity": "40",
+      "range": {
+        "en": "Long"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6015273",
+      "direct_damage": "975",
+      "indirect_damage": "350",
+      "damage_min": "200",
+      "damage_max": "3000",
+      "fire_cone": "3.5",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "300",
+      "fire_rate_ms_min": "1",
+      "fire_rate_mx_max": "600",
+      "reload_ms": "5700",
+      "reload_ms_min": "4000",
+      "reload_ms_max": "7500",
+      "clip_size": "1",
+      "capacity": "9",
+      "range": {
+        "en": "Long"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "0"
+    },
+    {
+      "item_id": "6015279",
+      "direct_damage": "350",
+      "indirect_damage": "275",
+      "damage_min": "200",
+      "damage_max": "3000",
+      "fire_cone": "5",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "1000",
+      "fire_rate_ms_min": "1",
+      "fire_rate_mx_max": "600",
+      "reload_ms": "4000",
+      "reload_ms_min": "4000",
+      "reload_ms_max": "7500",
+      "clip_size": "3",
+      "capacity": "30",
+      "range": {
+        "en": "Long"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "0"
     }
   ],
-  "returned": 1267
+  "returned": 1271
 }

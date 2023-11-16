@@ -10527,7 +10527,37 @@
       "weapon_slot_index": "0",
       "clip_size": "1",
       "capacity": "1"
+    },
+    {
+      "weapon_id": "78830",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "42",
+      "refill_ammo_rate": "6"
+    },
+    {
+      "weapon_id": "78831",
+      "weapon_slot_index": "0",
+      "clip_size": "40",
+      "capacity": "40",
+      "refill_ammo_rate": "5"
+    },
+    {
+      "weapon_id": "78832",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "9",
+      "refill_ammo_rate": "1",
+      "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78833",
+      "weapon_slot_index": "0",
+      "clip_size": "3",
+      "capacity": "30",
+      "refill_ammo_rate": "3",
+      "refill_ammo_delay_ms": "2500"
     }
   ],
-  "returned": 1502
+  "returned": 1506
 }

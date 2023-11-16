@@ -6240,18 +6240,18 @@
       "zone_id": "344",
       "facility_id": "400353",
       "facility_name": "Astira Solar Station",
-      "facility_type_id": "9",
-      "facility_type": "Construction Outpost",
-      "location_x": "-1850.979858",
-      "location_y": "153.071121",
-      "location_z": "527.939819",
+      "facility_type_id": "6",
+      "facility_type": "Small Outpost",
+      "location_x": "-1779.42041",
+      "location_y": "157.404724",
+      "location_z": "773.334106",
       "capture_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "5"
       },
       "tick_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "5"
       }
     },
     {
@@ -6702,18 +6702,18 @@
       "zone_id": "344",
       "facility_id": "400404",
       "facility_name": "Veridad Pass",
-      "facility_type_id": "9",
-      "facility_type": "Construction Outpost",
-      "location_x": "-185.992859",
-      "location_y": "131.748962",
-      "location_z": "-2597.929199",
+      "facility_type_id": "6",
+      "facility_type": "Small Outpost",
+      "location_x": "-207.405243",
+      "location_y": "129.392151",
+      "location_z": "-2555.201416",
       "capture_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "5"
       },
       "tick_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "5"
       }
     },
     {
