@@ -42,7 +42,7 @@ A collection of sites, applications and repositories that use the planetside 2 A
 ## Census libraries
 - Python [Auraxium](https://github.com/leonhard-s/auraxium)
 - C# [DbgCensus](https://github.com/carlst99/DbgCensus)
-- C# [DaybreakGames.Census](https://github.com/Lampjaw/DaybreakGames.Census)
+- C# [DaybreakGames.Census](https://github.com/Voidwell/DaybreakGames.Census)
 - Golang [Censusgo](https://github.com/Lampjaw/censusgo)
 - JS [Dbgcensus](https://github.com/Lampjaw/dbgcensus)
 - TS [PS2Census](https://github.com/microwavekonijn/ps2census)
