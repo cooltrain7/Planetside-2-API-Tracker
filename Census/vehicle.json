@@ -412,6 +412,70 @@
       "image_path": "/files/ps2/images/static/4052.png"
     },
     {
+      "vehicle_id": "1001",
+      "name": {
+        "en": "Flash"
+      },
+      "description": {
+        "en": "The Flash is an ATV capable of getting the driver and one passenger quickly to the front lines.  The passenger is able to use most of their personal equipment while riding on the back."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "98",
+      "image_id": "3975",
+      "image_path": "/files/ps2/images/static/3975.png"
+    },
+    {
+      "vehicle_id": "1002",
+      "name": {
+        "en": "Sunderer"
+      },
+      "description": {
+        "en": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply."
+      },
+      "type_id": "5",
+      "type_name": "Four Wheeled Ground Vehicle",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "100",
+      "image_id": "4002",
+      "image_path": "/files/ps2/images/static/4002.png"
+    },
+    {
+      "vehicle_id": "1010",
+      "name": {
+        "en": "Liberator"
+      },
+      "description": {
+        "en": "The Liberator is a three man gun ship.  The bombardier weapon is very powerful against ground targets and it has a tail gun to ward off enemy fighters."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "93",
+      "image_id": "3981",
+      "image_path": "/files/ps2/images/static/3981.png"
+    },
+    {
+      "vehicle_id": "1011",
+      "name": {
+        "en": "Galaxy"
+      },
+      "description": {
+        "en": "The Galaxy is an air transport that can be used to hot drop up to 11 soldiers.  It has four weapon mounts that can be used for defense or outfitted into a gunship role."
+      },
+      "type_id": "1",
+      "type_name": "Light Aircraft",
+      "cost": "9999",
+      "cost_resource_id": "3",
+      "image_set_id": "92",
+      "image_id": "3978",
+      "image_path": "/files/ps2/images/static/3978.png"
+    },
+    {
       "vehicle_id": "1013",
       "name": {
         "en": "Recon Drone"
@@ -910,5 +974,5 @@
       "image_set_id": "82962"
     }
   ],
-  "returned": 60
+  "returned": 64
 }
