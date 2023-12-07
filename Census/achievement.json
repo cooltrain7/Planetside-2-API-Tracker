@@ -101433,7 +101433,87 @@
       "image_set_id": "8012",
       "image_id": "8323",
       "image_path": "/files/ps2/images/static/8323.png"
+    },
+    {
+      "achievement_id": "93995",
+      "item_id": "6015320",
+      "objective_group_id": "21389",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "93996",
+      "item_id": "6015320",
+      "objective_group_id": "21390",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "93997",
+      "item_id": "6015320",
+      "objective_group_id": "21391",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "93998",
+      "item_id": "6015320",
+      "objective_group_id": "21392",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "93999",
+      "item_id": "6015320",
+      "objective_group_id": "21393",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8014",
+      "image_id": "8329",
+      "image_path": "/files/ps2/images/static/8329.png"
     }
   ],
-  "returned": 6356
+  "returned": 6361
 }

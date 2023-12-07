@@ -71257,7 +71257,439 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5664",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9758",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5665",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9759",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5666",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9760",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5667",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9761",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5668",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9762",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "5669",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9763",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "5670",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9764",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "5671",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9765",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "5672",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9766"
+    },
+    {
+      "directive_id": "5673",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9767"
+    },
+    {
+      "directive_id": "5674",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9768"
+    },
+    {
+      "directive_id": "5675",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9769"
+    },
+    {
+      "directive_id": "5676",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9770",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5677",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9771",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5678",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9772",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5679",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9773",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5680",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9774",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5681",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9775",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5682",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9776",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5683",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9777",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "5684",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9778"
+    },
+    {
+      "directive_id": "5685",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9779"
+    },
+    {
+      "directive_id": "5686",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9780"
+    },
+    {
+      "directive_id": "5687",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9781"
+    },
+    {
+      "directive_id": "5692",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "9790",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "5693",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "9791",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "5694",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "9792",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5695",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "9793",
+      "name": {
+        "en": "NS-66 \"Cold Fusion\" Punisher"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "5696",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9794",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "5697",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9795",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "5698",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9796",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "5699",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9797",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5700",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9798",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5701",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9799",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5702",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9800",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5703",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9801",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5704",
+      "directive_tree_id": "131",
+      "directive_tier_id": "2",
+      "objective_set_id": "9802",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5705",
+      "directive_tree_id": "131",
+      "directive_tier_id": "3",
+      "objective_set_id": "9803",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5706",
+      "directive_tree_id": "131",
+      "directive_tier_id": "4",
+      "objective_set_id": "9804",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "5707",
+      "directive_tree_id": "131",
+      "directive_tier_id": "1",
+      "objective_set_id": "9805",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
     }
   ],
-  "returned": 4621
+  "returned": 4661
 }

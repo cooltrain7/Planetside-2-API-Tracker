@@ -27371,6 +27371,31 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "452",
+      "item_id": "6015351",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "325",
+      "cof_recoil": "0.25",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "250",
+      "damage_radius": "10",
+      "projectile_description": "Vehicle - Liberator - Belly 03 - Zepher",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "23",
+      "indirect_damage_max": "250",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "4",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "453",
       "item_id": "3707",
       "type": "primary",
@@ -29762,6 +29787,31 @@
     {
       "fire_mode_id": "510",
       "item_id": "5252",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "325",
+      "cof_recoil": "0.25",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "250",
+      "damage_radius": "10",
+      "projectile_description": "Vehicle - Liberator - Belly 03 - Zepher",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "23",
+      "indirect_damage_max": "250",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "4",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "510",
+      "item_id": "6015351",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -119210,7 +119260,111 @@
       "indirect_damage_min_range": "2.5",
       "indirect_damage_target_type": "2",
       "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "81425",
+      "item_id": "801639",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "75642",
+      "cof_recoil": "0.05",
+      "reload_time_ms": "2250",
+      "reload_chamber_time_ms": "400",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "350",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: SMG 04: Cold Fusion",
+      "damage_type": "DamageFalloff",
+      "damage_min": "84",
+      "damage_max": "143",
+      "damage_min_range": "75",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81425",
+      "item_id": "6015320",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "75642",
+      "cof_recoil": "0.05",
+      "reload_time_ms": "2250",
+      "reload_chamber_time_ms": "400",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "350",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: SMG 04: Cold Fusion",
+      "damage_type": "DamageFalloff",
+      "damage_min": "84",
+      "damage_max": "143",
+      "damage_min_range": "75",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81426",
+      "item_id": "801639",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "75643",
+      "cof_recoil": "0.05",
+      "reload_time_ms": "2250",
+      "reload_chamber_time_ms": "400",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "speed": "350",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: SMG 04: Cold Fusion",
+      "damage_type": "DamageFalloff",
+      "damage_min": "84",
+      "damage_max": "143",
+      "damage_min_range": "75",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81426",
+      "item_id": "6015320",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "75643",
+      "cof_recoil": "0.05",
+      "reload_time_ms": "2250",
+      "reload_chamber_time_ms": "400",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "speed": "350",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: SMG 04: Cold Fusion",
+      "damage_type": "DamageFalloff",
+      "damage_min": "84",
+      "damage_max": "143",
+      "damage_min_range": "75",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
     }
   ],
-  "returned": 4838
+  "returned": 4844
 }

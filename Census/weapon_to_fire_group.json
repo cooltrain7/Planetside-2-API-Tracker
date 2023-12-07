@@ -6524,7 +6524,11 @@
       "weapon_id": "78833",
       "fire_group_id": "81011",
       "fire_group_index": "1"
+    },
+    {
+      "weapon_id": "78834",
+      "fire_group_id": "81012"
     }
   ],
-  "returned": 1354
+  "returned": 1355
 }

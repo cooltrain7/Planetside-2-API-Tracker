@@ -32574,7 +32574,75 @@
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117824",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "4000",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117825",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1117826",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117827",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1117828",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117829",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117830",
+      "ability_type_id": "3",
+      "reuse_delay_msec": "1",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5339
+  "returned": 5346
 }
