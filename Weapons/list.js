@@ -28,8 +28,22 @@ if( process.argv[2] === 'sort' || process.argv[2] === 'sort-compile' )
 				return a['Item Category'].localeCompare( b['Item Category'] );
 			if( a.Sanction !== b.Sanction )
 				return a.Sanction.localeCompare( b.Sanction );
+			//sort first by item name with quoted part removed, then by quoted part
 			if( a['Item Name'] !== b['Item Name'] )
-				return a['Item Name'].localeCompare( b['Item Name'] );
+			{
+				const a_name_base = a['Item Name'].replace( /(^"[^"]+" | "[^"]+")/, '' );
+				const a_name_quote = a['Item Name'].match( /"(?<quote>[^"]+)"/ )?.groups.quote ?? null;
+				const b_name_base = b['Item Name'].replace( /(^"[^"]+" | "[^"]+")/, '' );
+				const b_name_quote = b['Item Name'].match( /"(?<quote>[^"]+)"/ )?.groups.quote ?? null;
+
+				if( a_name_base !== b_name_base )
+					return a_name_base.localeCompare( b_name_base );
+				if( a_name_quote === null && b_name_quote !== null )
+					return -1;
+				else if( a_name_quote !== null && b_name_quote === null )
+					return 1;
+				return a_name_quote.localeCompare( b_name_quote );
+			}
 			return parseInt( a['Item ID'] ) - parseInt( b['Item ID'] );
 		} );
 	csv.writeToPath( 'sanction-list.csv', rows,
