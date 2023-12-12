@@ -1515,11 +1515,6 @@
 2315,SMG,0,MKV-B Suppressed,,infantry
 2316,SMG,0,MKV-G Suppressed,,infantry
 6003059,SMG,0,MKV-P Suppressed,,infantry
-6013051,SMG,0,NS-66 Bumblebee,,infantry
-6009203,SMG,0,NS-66 Punisher,,infantry
-6013950,SMG,0,"NS-66 ""Alchemist"" Punisher",0,infantry
-6015320,SMG,0,"NS-66 ""Cold Fusion"" Punisher",,infantry
-6010117,SMG,0,NS-66 Punisher SE,,infantry
 7494,SMG,0,NS-7 PDW,,infantry
 6013894,SMG,0,"NS-7 ""Assassin"" PDW",,infantry
 6009623,SMG,0,"NS-7 ""Endeavor"" PDW",,infantry
@@ -1547,6 +1542,11 @@
 28005,SMG,0,SMG-46G Armistice,3,infantry
 1899,SMG,0,Tempest,2,infantry
 6003925,SMG,0,VE-S Canis,1,infantry
+6013051,SMG,0,NS-66 Bumblebee,,infantry-explosive
+6009203,SMG,0,NS-66 Punisher,,infantry-explosive
+6013950,SMG,0,"NS-66 ""Alchemist"" Punisher",0,infantry-explosive
+6015320,SMG,0,"NS-66 ""Cold Fusion"" Punisher",,infantry-explosive
+6010117,SMG,0,NS-66 Punisher SE,,infantry-explosive
 24002,Sniper Rifle,0,Impetus,2,infantry
 25002,Sniper Rifle,0,KSR-35,3,infantry
 26002,Sniper Rifle,0,Phantom VA23,1,infantry
