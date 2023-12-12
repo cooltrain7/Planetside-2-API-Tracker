@@ -1329,7 +1329,7 @@
 6009090,none
 6009093,none
 6009101,infantry-explosive
-6009203,infantry
+6009203,infantry-explosive
 6009226,none
 6009227,none
 6009228,none
@@ -1462,7 +1462,7 @@
 6010076,none
 6010078,none
 6010115,none
-6010117,infantry
+6010117,infantry-explosive
 6010510,sniper
 6010511,sniper
 6010512,sniper
@@ -1577,7 +1577,7 @@
 6011945,none
 6012324,none
 6012441,none
-6013051,infantry
+6013051,infantry-explosive
 6013335,gunner
 6013336,gunner
 6013339,gunner
@@ -1615,7 +1615,7 @@
 6013946,armor
 6013947,armor
 6013948,armor
-6013950,infantry
+6013950,infantry-explosive
 6013975,sniper
 6013976,sniper
 6013977,sniper
@@ -1716,4 +1716,4 @@
 6015262,infantry-explosive
 6015273,none
 6015279,none
-6015320,infantry
+6015320,infantry-explosive
