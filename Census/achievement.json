@@ -101513,7 +101513,39 @@
       "image_set_id": "8014",
       "image_id": "8329",
       "image_path": "/files/ps2/images/static/8329.png"
+    },
+    {
+      "achievement_id": "94000",
+      "item_id": "0",
+      "objective_group_id": "21410",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Healing"
+      },
+      "description": {
+        "en": "Medics can quickly heal damage that has been done to allied troops keeping in the fight longer."
+      },
+      "image_set_id": "7996",
+      "image_id": "8440",
+      "image_path": "/files/ps2/images/static/8440.png"
+    },
+    {
+      "achievement_id": "94001",
+      "item_id": "0",
+      "objective_group_id": "21411",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Resupply"
+      },
+      "description": {
+        "en": "Earn this ribbon by resupplying your teammates."
+      },
+      "image_set_id": "7995",
+      "image_id": "8439",
+      "image_path": "/files/ps2/images/static/8439.png"
     }
   ],
-  "returned": 6361
+  "returned": 6363
 }

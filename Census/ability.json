@@ -32642,7 +32642,12 @@
       "ability_type_id": "3",
       "reuse_delay_msec": "1",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117840",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5346
+  "returned": 5347
 }

@@ -161,7 +161,8 @@
       "param2": "NpcHeading",
       "param3": "0 at source, 1 at target, 2 near source, 3 drop",
       "param4": "NpcDisposition",
-      "param5": "MaxCount"
+      "param5": "MaxCount",
+      "param6": "OffsetMult"
     },
     {
       "zone_effect_type_id": "26",

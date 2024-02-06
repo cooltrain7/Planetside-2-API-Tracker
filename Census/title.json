@@ -2393,7 +2393,79 @@
       "name": {
         "en": "Ice Dragon"
       }
+    },
+    {
+      "title_id": "453",
+      "name": {
+        "en": "Lunar Dragon"
+      }
+    },
+    {
+      "title_id": "454",
+      "name": {
+        "en": "Lunar Rabbit"
+      }
+    },
+    {
+      "title_id": "455",
+      "name": {
+        "en": "Lunar Tiger"
+      }
+    },
+    {
+      "title_id": "456",
+      "name": {
+        "en": "Lunar Ox"
+      }
+    },
+    {
+      "title_id": "457",
+      "name": {
+        "en": "Lunar Rat"
+      }
+    },
+    {
+      "title_id": "458",
+      "name": {
+        "en": "Lunar Boar"
+      }
+    },
+    {
+      "title_id": "459",
+      "name": {
+        "en": "Lunar Hound"
+      }
+    },
+    {
+      "title_id": "460",
+      "name": {
+        "en": "Lunar Rooster"
+      }
+    },
+    {
+      "title_id": "461",
+      "name": {
+        "en": "Lunar Monkey"
+      }
+    },
+    {
+      "title_id": "462",
+      "name": {
+        "en": "Lunar Horse"
+      }
+    },
+    {
+      "title_id": "463",
+      "name": {
+        "en": "Lunar Ram"
+      }
+    },
+    {
+      "title_id": "464",
+      "name": {
+        "en": "Lunar Snake"
+      }
     }
   ],
-  "returned": 399
+  "returned": 411
 }

@@ -23112,6 +23112,35 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "377",
+      "item_id": "6015380",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "328",
+      "cof_recoil": "0",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "10",
+      "pellet_spread": "1.3",
+      "default_zoom": "1",
+      "speed": "400",
+      "damage_radius": "20",
+      "projectile_description": "Vehicle - Vanguard/Harasser - C85 Canister",
+      "damage_type": "DamageFalloff",
+      "damage_min": "50",
+      "damage_max": "85",
+      "damage_min_range": "50",
+      "damage_max_range": "20",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "25",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "5",
+      "indirect_damage_min_range": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "378",
       "item_id": "148",
       "type": "secondary",
@@ -23370,6 +23399,31 @@
     {
       "fire_mode_id": "382",
       "item_id": "4007",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "313",
+      "cof_recoil": "0.25",
+      "reload_time_ms": "3000",
+      "default_zoom": "1",
+      "speed": "175",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Prowler- 40mm Marauder",
+      "damage_type": "Damage",
+      "damage": "75",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "334",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "382",
+      "item_id": "6015381",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -23737,6 +23791,31 @@
     {
       "fire_mode_id": "387",
       "item_id": "6014316",
+      "type": "secondary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "321",
+      "cof_recoil": "0",
+      "reload_time_ms": "3750",
+      "default_zoom": "1",
+      "speed": "275",
+      "damage_radius": "4",
+      "projectile_description": "Vehicle - Vanguard - 150mm AP",
+      "damage_type": "Damage",
+      "damage": "850",
+      "damage_target_type": "2",
+      "damage_resist_type": "7",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "387",
+      "item_id": "6015382",
       "type": "secondary",
       "description": {
         "en": "Semi-Auto"
@@ -27425,6 +27504,35 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "453",
+      "item_id": "6015380",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "328",
+      "cof_recoil": "0",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "10",
+      "pellet_spread": "1.3",
+      "default_zoom": "1",
+      "speed": "400",
+      "damage_radius": "20",
+      "projectile_description": "Vehicle - Vanguard/Harasser - C85 Canister",
+      "damage_type": "DamageFalloff",
+      "damage_min": "50",
+      "damage_max": "85",
+      "damage_min_range": "50",
+      "damage_max_range": "20",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "25",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "5",
+      "indirect_damage_min_range": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "454",
       "item_id": "725",
       "type": "primary",
@@ -27452,6 +27560,31 @@
     {
       "fire_mode_id": "454",
       "item_id": "4007",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "313",
+      "cof_recoil": "0.25",
+      "reload_time_ms": "3000",
+      "default_zoom": "1",
+      "speed": "175",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Prowler- 40mm Marauder",
+      "damage_type": "Damage",
+      "damage": "75",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "334",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "454",
+      "item_id": "6015381",
       "type": "primary",
       "description": {
         "en": "Auto"
@@ -27575,8 +27708,55 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "455",
+      "item_id": "6015382",
+      "type": "primary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "321",
+      "cof_recoil": "0",
+      "reload_time_ms": "3750",
+      "default_zoom": "1",
+      "speed": "275",
+      "damage_radius": "4",
+      "projectile_description": "Vehicle - Vanguard - 150mm AP",
+      "damage_type": "Damage",
+      "damage": "850",
+      "damage_target_type": "2",
+      "damage_resist_type": "7",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "456",
       "item_id": "5215",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "336",
+      "reload_time_ms": "3500",
+      "pellets_per_shot": "2",
+      "pellet_spread": "1",
+      "default_zoom": "1",
+      "speed": "400",
+      "projectile_description": "Vehicle - Liberator Nose - 30mm Tank Buster VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "250",
+      "damage_min_range": "300",
+      "damage_max_range": "50",
+      "damage_target_type": "2",
+      "damage_resist_type": "28"
+    },
+    {
+      "fire_mode_id": "456",
+      "item_id": "6015383",
       "type": "primary",
       "description": {
         "en": "Auto"
@@ -27641,6 +27821,28 @@
       "damage_resist_type": "28"
     },
     {
+      "fire_mode_id": "457",
+      "item_id": "6015384",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "336",
+      "reload_time_ms": "3500",
+      "pellets_per_shot": "2",
+      "pellet_spread": "1",
+      "default_zoom": "1",
+      "speed": "400",
+      "projectile_description": "Vehicle - Liberator Nose - 30mm Tank Buster NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "250",
+      "damage_min_range": "300",
+      "damage_max_range": "50",
+      "damage_target_type": "2",
+      "damage_resist_type": "28"
+    },
+    {
       "fire_mode_id": "458",
       "item_id": "729",
       "type": "primary",
@@ -27685,8 +27887,56 @@
       "damage_resist_type": "28"
     },
     {
+      "fire_mode_id": "458",
+      "item_id": "6015385",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "336",
+      "reload_time_ms": "3500",
+      "pellets_per_shot": "2",
+      "pellet_spread": "1",
+      "default_zoom": "1",
+      "speed": "400",
+      "projectile_description": "Vehicle - Liberator Nose - 30mm Tank Buster TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "250",
+      "damage_min_range": "300",
+      "damage_max_range": "50",
+      "damage_target_type": "2",
+      "damage_resist_type": "28"
+    },
+    {
       "fire_mode_id": "459",
       "item_id": "5218",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "337",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Liberator - Nose 03 - Spur - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "225",
+      "damage_min_range": "200",
+      "damage_max_range": "100",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "100",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "459",
+      "item_id": "6015386",
       "type": "primary",
       "description": {
         "en": "Auto"
@@ -27763,6 +28013,32 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "460",
+      "item_id": "6015387",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "337",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Liberator - Nose 03 - Spur - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "225",
+      "damage_min_range": "200",
+      "damage_max_range": "100",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "100",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "461",
       "item_id": "732",
       "type": "primary",
@@ -27791,6 +28067,32 @@
     {
       "fire_mode_id": "461",
       "item_id": "5220",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "337",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Liberator - Nose 03 - Spur - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "225",
+      "damage_min_range": "200",
+      "damage_max_range": "100",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "100",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "461",
+      "item_id": "6015388",
       "type": "primary",
       "description": {
         "en": "Auto"
@@ -29857,6 +30159,28 @@
       "damage_resist_type": "28"
     },
     {
+      "fire_mode_id": "511",
+      "item_id": "6015383",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "336",
+      "reload_time_ms": "3500",
+      "pellets_per_shot": "2",
+      "pellet_spread": "1",
+      "default_zoom": "1",
+      "speed": "400",
+      "projectile_description": "Vehicle - Liberator Nose - 30mm Tank Buster VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "250",
+      "damage_min_range": "300",
+      "damage_max_range": "50",
+      "damage_target_type": "2",
+      "damage_resist_type": "28"
+    },
+    {
       "fire_mode_id": "512",
       "item_id": "728",
       "type": "secondary",
@@ -29881,6 +30205,28 @@
     {
       "fire_mode_id": "512",
       "item_id": "5216",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "336",
+      "reload_time_ms": "3500",
+      "pellets_per_shot": "2",
+      "pellet_spread": "1",
+      "default_zoom": "1",
+      "speed": "400",
+      "projectile_description": "Vehicle - Liberator Nose - 30mm Tank Buster NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "250",
+      "damage_min_range": "300",
+      "damage_max_range": "50",
+      "damage_target_type": "2",
+      "damage_resist_type": "28"
+    },
+    {
+      "fire_mode_id": "512",
+      "item_id": "6015384",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -29945,8 +30291,56 @@
       "damage_resist_type": "28"
     },
     {
+      "fire_mode_id": "513",
+      "item_id": "6015385",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "336",
+      "reload_time_ms": "3500",
+      "pellets_per_shot": "2",
+      "pellet_spread": "1",
+      "default_zoom": "1",
+      "speed": "400",
+      "projectile_description": "Vehicle - Liberator Nose - 30mm Tank Buster TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "250",
+      "damage_min_range": "300",
+      "damage_max_range": "50",
+      "damage_target_type": "2",
+      "damage_resist_type": "28"
+    },
+    {
       "fire_mode_id": "514",
       "item_id": "5218",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "337",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Liberator - Nose 03 - Spur - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "225",
+      "damage_min_range": "200",
+      "damage_max_range": "100",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "100",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "514",
+      "item_id": "6015386",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -30023,6 +30417,32 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "515",
+      "item_id": "6015387",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "337",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Liberator - Nose 03 - Spur - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "225",
+      "damage_min_range": "200",
+      "damage_max_range": "100",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "100",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "516",
       "item_id": "732",
       "type": "secondary",
@@ -30051,6 +30471,32 @@
     {
       "fire_mode_id": "516",
       "item_id": "5220",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "337",
+      "reload_time_ms": "4000",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Liberator - Nose 03 - Spur - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "100",
+      "damage_max": "225",
+      "damage_min_range": "200",
+      "damage_max_range": "100",
+      "damage_target_type": "2",
+      "damage_resist_type": "4",
+      "indirect_damage_max": "100",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "25",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "516",
+      "item_id": "6015388",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -30654,6 +31100,69 @@
       "damage_resist_type": "4"
     },
     {
+      "fire_mode_id": "535",
+      "item_id": "6015389",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "535",
+      "item_id": "6015390",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "535",
+      "item_id": "6015391",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
       "fire_mode_id": "536",
       "item_id": "5202",
       "type": "primary",
@@ -31013,6 +31522,69 @@
     {
       "fire_mode_id": "538",
       "item_id": "6005855",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "538",
+      "item_id": "6015389",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "538",
+      "item_id": "6015390",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "538",
+      "item_id": "6015391",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -119366,5 +119938,5 @@
       "damage_resist_type": "2"
     }
   ],
-  "returned": 4844
+  "returned": 4868
 }

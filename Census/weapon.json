@@ -6729,7 +6729,8 @@
       "equip_ms": "450",
       "unequip_ms": "250",
       "to_iron_sights_ms": "150",
-      "from_iron_sights_ms": "150"
+      "from_iron_sights_ms": "150",
+      "requires_ammo": "0"
     },
     {
       "weapon_id": "78073",
