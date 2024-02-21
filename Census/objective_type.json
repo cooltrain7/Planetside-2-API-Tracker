@@ -169,7 +169,8 @@
       "param1": "Item",
       "param2": "Count",
       "param3": "NPC Classification",
-      "param4": "Item Classification"
+      "param4": "Item Classification",
+      "param5": "Skip Item Check"
     },
     {
       "objective_type_id": "66",

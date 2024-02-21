@@ -1,0 +1,333 @@
+{
+  "experience_award_type_list": [
+    {
+      "experience_award_type_id": "1",
+      "name": "Kill"
+    },
+    {
+      "experience_award_type_id": "2",
+      "name": "KillAssist"
+    },
+    {
+      "experience_award_type_id": "3",
+      "name": "SpawnKilllAssist"
+    },
+    {
+      "experience_award_type_id": "4",
+      "name": "Heal"
+    },
+    {
+      "experience_award_type_id": "5",
+      "name": "HealAssist"
+    },
+    {
+      "experience_award_type_id": "6",
+      "name": "Repair"
+    },
+    {
+      "experience_award_type_id": "9",
+      "name": "Revive"
+    },
+    {
+      "experience_award_type_id": "10",
+      "name": "KillStreak"
+    },
+    {
+      "experience_award_type_id": "12",
+      "name": "DominationKill"
+    },
+    {
+      "experience_award_type_id": "13",
+      "name": "RevengeKill"
+    },
+    {
+      "experience_award_type_id": "15",
+      "name": "Achievement"
+    },
+    {
+      "experience_award_type_id": "18",
+      "name": "DefendControlPoint"
+    },
+    {
+      "experience_award_type_id": "19",
+      "name": "AttackControlPoint"
+    },
+    {
+      "experience_award_type_id": "21",
+      "name": "ControlPointConverted"
+    },
+    {
+      "experience_award_type_id": "23",
+      "name": "FacilityCaptured"
+    },
+    {
+      "experience_award_type_id": "25",
+      "name": "FacilityDestroySecondaryObjective"
+    },
+    {
+      "experience_award_type_id": "26",
+      "name": "FacilityDestroySecondaryObjectiveAssist"
+    },
+    {
+      "experience_award_type_id": "28",
+      "name": "MultipleKill"
+    },
+    {
+      "experience_award_type_id": "29",
+      "name": "NemesisKill"
+    },
+    {
+      "experience_award_type_id": "30",
+      "name": "Headshot"
+    },
+    {
+      "experience_award_type_id": "31",
+      "name": "SpotKill"
+    },
+    {
+      "experience_award_type_id": "32",
+      "name": "StopKillStreak"
+    },
+    {
+      "experience_award_type_id": "33",
+      "name": "PlayerClassKill"
+    },
+    {
+      "experience_award_type_id": "34",
+      "name": "PlayerSpawnAtVehicle"
+    },
+    {
+      "experience_award_type_id": "35",
+      "name": "GunnerKill"
+    },
+    {
+      "experience_award_type_id": "36",
+      "name": "DeployKill"
+    },
+    {
+      "experience_award_type_id": "37",
+      "name": "RoadKill"
+    },
+    {
+      "experience_award_type_id": "38",
+      "name": "Resupply"
+    },
+    {
+      "experience_award_type_id": "39",
+      "name": "SquadHeal"
+    },
+    {
+      "experience_award_type_id": "40",
+      "name": "SquadRepair"
+    },
+    {
+      "experience_award_type_id": "41",
+      "name": "SquadRevive"
+    },
+    {
+      "experience_award_type_id": "42",
+      "name": "SquadResupply"
+    },
+    {
+      "experience_award_type_id": "43",
+      "name": "SquadSpotKill"
+    },
+    {
+      "experience_award_type_id": "44",
+      "name": "SquadSpawn"
+    },
+    {
+      "experience_award_type_id": "53",
+      "name": "FacilityPlacedBomb"
+    },
+    {
+      "experience_award_type_id": "54",
+      "name": "FacilityDefusedBomb"
+    },
+    {
+      "experience_award_type_id": "55",
+      "name": "XpHackedTerminal"
+    },
+    {
+      "experience_award_type_id": "56",
+      "name": "XpHackedTurret"
+    },
+    {
+      "experience_award_type_id": "57",
+      "name": "VehicleResupply"
+    },
+    {
+      "experience_award_type_id": "58",
+      "name": "SquadVehicleResupply"
+    },
+    {
+      "experience_award_type_id": "59",
+      "name": "SpawnKill"
+    },
+    {
+      "experience_award_type_id": "60",
+      "name": "PriorityKill"
+    },
+    {
+      "experience_award_type_id": "61",
+      "name": "HighPriorityKill"
+    },
+    {
+      "experience_award_type_id": "62",
+      "name": "VehicleDamage"
+    },
+    {
+      "experience_award_type_id": "63",
+      "name": "MetaGameEvent"
+    },
+    {
+      "experience_award_type_id": "64",
+      "name": "MotionDetect"
+    },
+    {
+      "experience_award_type_id": "65",
+      "name": "SquadMotionDetect"
+    },
+    {
+      "experience_award_type_id": "66",
+      "name": "XpDespawn"
+    },
+    {
+      "experience_award_type_id": "67",
+      "name": "SaviorKill"
+    },
+    {
+      "experience_award_type_id": "69",
+      "name": "VehicleRadarKill"
+    },
+    {
+      "experience_award_type_id": "70",
+      "name": "SquadVehicleRadarKill"
+    },
+    {
+      "experience_award_type_id": "71",
+      "name": "PriorityKillAssist"
+    },
+    {
+      "experience_award_type_id": "72",
+      "name": "HighPriorityKillAssist"
+    },
+    {
+      "experience_award_type_id": "73",
+      "name": "VehicleShare"
+    },
+    {
+      "experience_award_type_id": "74",
+      "name": "ResourceHeal"
+    },
+    {
+      "experience_award_type_id": "75",
+      "name": "SquadResourceHeal"
+    },
+    {
+      "experience_award_type_id": "76",
+      "name": "ExplosiveShare"
+    },
+    {
+      "experience_award_type_id": "77",
+      "name": "SpecialGrenadeAssist"
+    },
+    {
+      "experience_award_type_id": "78",
+      "name": "SpecialGrenadeSquadAssist"
+    },
+    {
+      "experience_award_type_id": "79",
+      "name": "ObjectivePulse"
+    },
+    {
+      "experience_award_type_id": "80",
+      "name": "SquadKill"
+    },
+    {
+      "experience_award_type_id": "81",
+      "name": "BountyKill"
+    },
+    {
+      "experience_award_type_id": "82",
+      "name": "Membership"
+    },
+    {
+      "experience_award_type_id": "85",
+      "name": "Resource Transfer"
+    },
+    {
+      "experience_award_type_id": "90",
+      "name": "Draw Fire"
+    },
+    {
+      "experience_award_type_id": "92",
+      "name": "GenericNpcSpawn"
+    },
+    {
+      "experience_award_type_id": "97",
+      "name": "EQ20"
+    },
+    {
+      "experience_award_type_id": "98",
+      "name": "XpConstructionModuleInstallDefence"
+    },
+    {
+      "experience_award_type_id": "99",
+      "name": "XpConstructionModuleOverload"
+    },
+    {
+      "experience_award_type_id": "100",
+      "name": "XpConstructionModuleCounterOverload"
+    },
+    {
+      "experience_award_type_id": "101",
+      "name": "XpConstructionModuleDisarm"
+    },
+    {
+      "experience_award_type_id": "102",
+      "name": "XpConstructionModuleInstallAttack"
+    },
+    {
+      "experience_award_type_id": "108",
+      "name": "LuaScript"
+    },
+    {
+      "experience_award_type_id": "109",
+      "name": "ConvoyEvent"
+    },
+    {
+      "experience_award_type_id": "110",
+      "name": "Mission"
+    },
+    {
+      "experience_award_type_id": "111",
+      "name": "CtfDefendPodium"
+    },
+    {
+      "experience_award_type_id": "112",
+      "name": "CtfFlagCaptured"
+    },
+    {
+      "experience_award_type_id": "113",
+      "name": "CtfFlagReturned"
+    },
+    {
+      "experience_award_type_id": "114",
+      "name": "XpHackedFlagRepo"
+    },
+    {
+      "experience_award_type_id": "115",
+      "name": "CtfDefendRepo"
+    },
+    {
+      "experience_award_type_id": "116",
+      "name": "XpHackOverload"
+    },
+    {
+      "experience_award_type_id": "117",
+      "name": "XpCounterHackOverload"
+    }
+  ],
+  "returned": 82
+}

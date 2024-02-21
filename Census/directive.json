@@ -71689,7 +71689,367 @@
       "image_set_id": "14062",
       "image_id": "79485",
       "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "5768",
+      "directive_tree_id": "134",
+      "directive_tier_id": "1",
+      "objective_set_id": "9865",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "5769",
+      "directive_tree_id": "134",
+      "directive_tier_id": "2",
+      "objective_set_id": "9866",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "5770",
+      "directive_tree_id": "134",
+      "directive_tier_id": "3",
+      "objective_set_id": "9867",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "5771",
+      "directive_tree_id": "134",
+      "directive_tier_id": "4",
+      "objective_set_id": "9868",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "5772",
+      "directive_tree_id": "134",
+      "directive_tier_id": "1",
+      "objective_set_id": "9869",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "5773",
+      "directive_tree_id": "134",
+      "directive_tier_id": "2",
+      "objective_set_id": "9870",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "5774",
+      "directive_tree_id": "134",
+      "directive_tier_id": "3",
+      "objective_set_id": "9871",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "5775",
+      "directive_tree_id": "134",
+      "directive_tier_id": "4",
+      "objective_set_id": "9872",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "5776",
+      "directive_tree_id": "134",
+      "directive_tier_id": "1",
+      "objective_set_id": "9873",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5777",
+      "directive_tree_id": "134",
+      "directive_tier_id": "2",
+      "objective_set_id": "9874",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5778",
+      "directive_tree_id": "134",
+      "directive_tier_id": "3",
+      "objective_set_id": "9875",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5779",
+      "directive_tree_id": "134",
+      "directive_tier_id": "4",
+      "objective_set_id": "9876",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5780",
+      "directive_tree_id": "134",
+      "directive_tier_id": "1",
+      "objective_set_id": "9877",
+      "name": {
+        "en": "I'd Walk 500 Meters"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "5781",
+      "directive_tree_id": "134",
+      "directive_tier_id": "2",
+      "objective_set_id": "9878",
+      "name": {
+        "en": "I'd Walk 500 Meters"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "5782",
+      "directive_tree_id": "134",
+      "directive_tier_id": "3",
+      "objective_set_id": "9879",
+      "name": {
+        "en": "I'd Walk 500 Meters"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "5783",
+      "directive_tree_id": "134",
+      "directive_tier_id": "4",
+      "objective_set_id": "9880",
+      "name": {
+        "en": "And I'd Walk 500 More"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "5784",
+      "directive_tree_id": "134",
+      "directive_tier_id": "1",
+      "objective_set_id": "9881",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "5785",
+      "directive_tree_id": "134",
+      "directive_tier_id": "2",
+      "objective_set_id": "9882",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "5786",
+      "directive_tree_id": "134",
+      "directive_tier_id": "3",
+      "objective_set_id": "9883",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "5787",
+      "directive_tree_id": "134",
+      "directive_tier_id": "4",
+      "objective_set_id": "9888",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "5788",
+      "directive_tree_id": "134",
+      "directive_tier_id": "1",
+      "objective_set_id": "9884",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "5789",
+      "directive_tree_id": "134",
+      "directive_tier_id": "2",
+      "objective_set_id": "9885",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "5790",
+      "directive_tree_id": "134",
+      "directive_tier_id": "3",
+      "objective_set_id": "9886",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "5791",
+      "directive_tree_id": "134",
+      "directive_tier_id": "4",
+      "objective_set_id": "9887",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
     }
   ],
-  "returned": 4661
+  "returned": 4685
 }

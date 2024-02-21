@@ -2465,7 +2465,13 @@
       "name": {
         "en": "Lunar Snake"
       }
+    },
+    {
+      "title_id": "465",
+      "name": {
+        "en": "Love Bomber"
+      }
     }
   ],
-  "returned": 411
+  "returned": 412
 }

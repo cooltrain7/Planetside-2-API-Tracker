@@ -662,7 +662,7 @@
         "en": "Valentine's Day 2021"
       },
       "description": {
-        "en": "Feb. 8 - Feb. 14"
+        "en": "Feb. 14 - Feb. 28"
       }
     },
     {
@@ -765,7 +765,7 @@
         "en": "Valentine's Day 2022"
       },
       "description": {
-        "en": "Feb. 8 - Feb. 14"
+        "en": "Feb. 14 - Feb. 28"
       }
     },
     {
@@ -894,7 +894,7 @@
         "en": "Valentine's Day 2023"
       },
       "description": {
-        "en": "Feb. 8 - Feb. 14"
+        "en": "Feb. 14 - Feb. 28"
       }
     },
     {
@@ -959,7 +959,17 @@
       "description": {
         "en": "Available through January 1"
       }
+    },
+    {
+      "directive_tree_id": "134",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Valentine's Day 2024"
+      },
+      "description": {
+        "en": "Feb. 14 - Feb. 28"
+      }
     }
   ],
-  "returned": 94
+  "returned": 95
 }

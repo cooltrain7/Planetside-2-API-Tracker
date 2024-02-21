@@ -438,7 +438,10 @@
       "param3": "One Way",
       "param4": "Operand",
       "string1": "Value Name"
+    },
+    {
+      "zone_effect_type_id": "476"
     }
   ],
-  "returned": 60
+  "returned": 61
 }

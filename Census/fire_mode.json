@@ -31163,6 +31163,27 @@
       "damage_resist_type": "4"
     },
     {
+      "fire_mode_id": "535",
+      "item_id": "6015407",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
       "fire_mode_id": "536",
       "item_id": "5202",
       "type": "primary",
@@ -31585,6 +31606,27 @@
     {
       "fire_mode_id": "538",
       "item_id": "6015391",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - VS",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "538",
+      "item_id": "6015407",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -119938,5 +119980,5 @@
       "damage_resist_type": "2"
     }
   ],
-  "returned": 4868
+  "returned": 4870
 }

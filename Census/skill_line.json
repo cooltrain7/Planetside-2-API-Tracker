@@ -106992,7 +106992,29 @@
       "image_set_id": "807709",
       "image_id": "96381",
       "image_path": "/files/ps2/images/static/96381.png"
+    },
+    {
+      "skill_line_id": "18185",
+      "skill_points": "0",
+      "skill_category_index": "11",
+      "name": {
+        "en": "Deployment Shield"
+      },
+      "image_set_id": "13607",
+      "image_id": "78132",
+      "image_path": "/files/ps2/images/static/78132.png"
+    },
+    {
+      "skill_line_id": "18186",
+      "skill_points": "0",
+      "name": {
+        "en": "Placeholder"
+      },
+      "description": {
+        "en": "Placeholder"
+      },
+      "image_set_id": "0"
     }
   ],
-  "returned": 7330
+  "returned": 7332
 }
