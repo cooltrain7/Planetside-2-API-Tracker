@@ -95006,7 +95006,196 @@
       "param6": "0",
       "param8": "0",
       "param9": "0"
+    },
+    {
+      "objective_id": "22600",
+      "objective_type_id": "12",
+      "objective_group_id": "21515",
+      "param1": "10",
+      "param4": "-1",
+      "param5": "6015440",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22601",
+      "objective_type_id": "66",
+      "objective_group_id": "21516",
+      "param1": "94024",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22602",
+      "objective_type_id": "66",
+      "objective_group_id": "21517",
+      "param1": "94025",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22603",
+      "objective_type_id": "66",
+      "objective_group_id": "21518",
+      "param1": "94022",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22604",
+      "objective_type_id": "66",
+      "objective_group_id": "21519",
+      "param1": "94023",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22605",
+      "objective_type_id": "12",
+      "objective_group_id": "21520",
+      "param1": "60",
+      "param4": "-1",
+      "param5": "6015440",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22606",
+      "objective_type_id": "12",
+      "objective_group_id": "21521",
+      "param1": "160",
+      "param4": "-1",
+      "param5": "6015440",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22607",
+      "objective_type_id": "12",
+      "objective_group_id": "21522",
+      "param1": "1160",
+      "param4": "-1",
+      "param5": "6015440",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22608",
+      "objective_type_id": "12",
+      "objective_group_id": "21523",
+      "param1": "10",
+      "param4": "-1",
+      "param5": "6015440",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22609",
+      "objective_type_id": "66",
+      "objective_group_id": "21524",
+      "param1": "94025",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22610",
+      "objective_type_id": "66",
+      "objective_group_id": "21525",
+      "param1": "94024",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22611",
+      "objective_type_id": "66",
+      "objective_group_id": "21526",
+      "param1": "94022",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22612",
+      "objective_type_id": "66",
+      "objective_group_id": "21527",
+      "param1": "94023",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22613",
+      "objective_type_id": "66",
+      "objective_group_id": "21528",
+      "param1": "94023",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22614",
+      "objective_type_id": "66",
+      "objective_group_id": "21529",
+      "param1": "94022",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22615",
+      "objective_type_id": "66",
+      "objective_group_id": "21530",
+      "param1": "94024",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22616",
+      "objective_type_id": "66",
+      "objective_group_id": "21531",
+      "param1": "94025",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
     }
   ],
-  "returned": 10656
+  "returned": 10673
 }

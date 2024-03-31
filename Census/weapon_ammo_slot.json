@@ -10572,7 +10572,14 @@
       "capacity": "2",
       "refill_ammo_rate": "2",
       "refill_ammo_delay_ms": "2500"
+    },
+    {
+      "weapon_id": "78836",
+      "weapon_slot_index": "0",
+      "clip_size": "6",
+      "capacity": "42",
+      "refill_ammo_rate": "6"
     }
   ],
-  "returned": 1508
+  "returned": 1509
 }
