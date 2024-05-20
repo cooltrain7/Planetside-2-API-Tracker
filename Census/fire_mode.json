@@ -31310,6 +31310,27 @@
       "damage_resist_type": "4"
     },
     {
+      "fire_mode_id": "536",
+      "item_id": "6015562",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
       "fire_mode_id": "537",
       "item_id": "5200",
       "type": "primary",
@@ -31753,6 +31774,27 @@
     {
       "fire_mode_id": "539",
       "item_id": "6005854",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "539",
+      "item_id": "6015562",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -120086,7 +120128,115 @@
       "damage_max_range": "8",
       "damage_target_type": "2",
       "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81441",
+      "item_id": "801643",
+      "type": "primary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16003",
+      "cof_recoil": "0.4",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: 11th Anniversary Primed Lapis",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81441",
+      "item_id": "6015519",
+      "type": "primary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16003",
+      "cof_recoil": "0.4",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: 11th Anniversary Primed Lapis",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81442",
+      "item_id": "801643",
+      "type": "secondary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16004",
+      "cof_recoil": "0.2",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: 11th Anniversary Primed Lapis",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81442",
+      "item_id": "6015519",
+      "type": "secondary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16004",
+      "cof_recoil": "0.2",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: 11th Anniversary Primed Lapis",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
     }
   ],
-  "returned": 4874
+  "returned": 4880
 }

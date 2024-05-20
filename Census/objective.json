@@ -95195,7 +95195,150 @@
       "param6": "0",
       "param8": "0",
       "param9": "0"
+    },
+    {
+      "objective_id": "22669",
+      "objective_type_id": "12",
+      "objective_group_id": "21582",
+      "param1": "1160",
+      "param4": "-1",
+      "param5": "6015519",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22670",
+      "objective_type_id": "66",
+      "objective_group_id": "21583",
+      "param1": "94029",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22671",
+      "objective_type_id": "66",
+      "objective_group_id": "21584",
+      "param1": "94030",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22672",
+      "objective_type_id": "66",
+      "objective_group_id": "21585",
+      "param1": "94031",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22674",
+      "objective_type_id": "12",
+      "objective_group_id": "21587",
+      "param1": "160",
+      "param4": "-1",
+      "param5": "6015519",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22675",
+      "objective_type_id": "12",
+      "objective_group_id": "21588",
+      "param1": "10",
+      "param4": "-1",
+      "param5": "6015519",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22676",
+      "objective_type_id": "12",
+      "objective_group_id": "21589",
+      "param1": "60",
+      "param4": "-1",
+      "param5": "6015519",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22677",
+      "objective_type_id": "66",
+      "objective_group_id": "21586",
+      "param1": "94032",
+      "param2": "1",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22678",
+      "objective_type_id": "12",
+      "objective_group_id": "21590",
+      "param1": "10",
+      "param4": "-1",
+      "param5": "6015519",
+      "param8": "-1"
+    },
+    {
+      "objective_id": "22679",
+      "objective_type_id": "66",
+      "objective_group_id": "21591",
+      "param1": "94029",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22680",
+      "objective_type_id": "66",
+      "objective_group_id": "21592",
+      "param1": "94030",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22681",
+      "objective_type_id": "66",
+      "objective_group_id": "21593",
+      "param1": "94031",
+      "param2": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
+    },
+    {
+      "objective_id": "22682",
+      "objective_type_id": "66",
+      "objective_group_id": "21594",
+      "param1": "94032",
+      "param2": "1",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param8": "0",
+      "param9": "0"
     }
   ],
-  "returned": 10673
+  "returned": 10686
 }

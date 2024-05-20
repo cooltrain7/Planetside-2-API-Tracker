@@ -32231,7 +32231,259 @@
       "resist_type_id": "47",
       "resist_percent": "150",
       "description": "Skywall - Orbital Strike"
+    },
+    {
+      "resist_info_id": "6334",
+      "resist_type_id": "11",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Heavy Explosive)"
+    },
+    {
+      "resist_info_id": "6335",
+      "resist_type_id": "11",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Heavy Explosive)"
+    },
+    {
+      "resist_info_id": "6336",
+      "resist_type_id": "11",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Heavy Explosive)"
+    },
+    {
+      "resist_info_id": "6337",
+      "resist_type_id": "11",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Heavy Explosive)"
+    },
+    {
+      "resist_info_id": "6338",
+      "resist_type_id": "9",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Tank Mine)"
+    },
+    {
+      "resist_info_id": "6339",
+      "resist_type_id": "9",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Tank Mine)"
+    },
+    {
+      "resist_info_id": "6340",
+      "resist_type_id": "9",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Tank Mine)"
+    },
+    {
+      "resist_info_id": "6341",
+      "resist_type_id": "9",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Tank Mine)"
+    },
+    {
+      "resist_info_id": "6342",
+      "resist_type_id": "34",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Infantry Rocket Launchers)"
+    },
+    {
+      "resist_info_id": "6343",
+      "resist_type_id": "34",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Infantry Rocket Launchers)"
+    },
+    {
+      "resist_info_id": "6344",
+      "resist_type_id": "34",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Infantry Rocket Launchers)"
+    },
+    {
+      "resist_info_id": "6345",
+      "resist_type_id": "34",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Infantry Rocket Launchers)"
+    },
+    {
+      "resist_info_id": "6346",
+      "resist_type_id": "5",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Light Anti-vehicle)"
+    },
+    {
+      "resist_info_id": "6347",
+      "resist_type_id": "7",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Tank Shells)"
+    },
+    {
+      "resist_info_id": "6348",
+      "resist_type_id": "23",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Air to Ground Warheads)"
+    },
+    {
+      "resist_info_id": "6349",
+      "resist_type_id": "40",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Antimateriel Rifle)"
+    },
+    {
+      "resist_info_id": "6350",
+      "resist_type_id": "45",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (A2A Missiles)"
+    },
+    {
+      "resist_info_id": "6351",
+      "resist_type_id": "68",
+      "resist_percent": "25",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 1 (Infantry Lock-on)"
+    },
+    {
+      "resist_info_id": "6352",
+      "resist_type_id": "45",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (A2A Missiles)"
+    },
+    {
+      "resist_info_id": "6353",
+      "resist_type_id": "23",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Air to Ground Warheads)"
+    },
+    {
+      "resist_info_id": "6354",
+      "resist_type_id": "40",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Antimateriel Rifle)"
+    },
+    {
+      "resist_info_id": "6355",
+      "resist_type_id": "68",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Infantry Lock-on)"
+    },
+    {
+      "resist_info_id": "6356",
+      "resist_type_id": "5",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Light Anti-vehicle)"
+    },
+    {
+      "resist_info_id": "6357",
+      "resist_type_id": "7",
+      "resist_percent": "30",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 2 (Tank Shells)"
+    },
+    {
+      "resist_info_id": "6358",
+      "resist_type_id": "45",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (A2A Missiles)"
+    },
+    {
+      "resist_info_id": "6359",
+      "resist_type_id": "23",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Air to Ground Warheads)"
+    },
+    {
+      "resist_info_id": "6360",
+      "resist_type_id": "40",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Antimateriel Rifle)"
+    },
+    {
+      "resist_info_id": "6361",
+      "resist_type_id": "68",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Infantry Lock-on)"
+    },
+    {
+      "resist_info_id": "6362",
+      "resist_type_id": "5",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Light Anti-vehicle)"
+    },
+    {
+      "resist_info_id": "6363",
+      "resist_type_id": "7",
+      "resist_percent": "35",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 3 (Tank Shells)"
+    },
+    {
+      "resist_info_id": "6364",
+      "resist_type_id": "45",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (A2A Missiles)"
+    },
+    {
+      "resist_info_id": "6365",
+      "resist_type_id": "23",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Air to Ground Warheads)"
+    },
+    {
+      "resist_info_id": "6366",
+      "resist_type_id": "40",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Antimateriel Rifle)"
+    },
+    {
+      "resist_info_id": "6367",
+      "resist_type_id": "68",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Infantry Lock-on)"
+    },
+    {
+      "resist_info_id": "6368",
+      "resist_type_id": "5",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Light Anti-vehicle)"
+    },
+    {
+      "resist_info_id": "6369",
+      "resist_type_id": "7",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Tank Shells)"
     }
   ],
-  "returned": 4709
+  "returned": 4745
 }

@@ -440,7 +440,22 @@
       "string1": "Value Name"
     },
     {
-      "zone_effect_type_id": "476"
+      "zone_effect_type_id": "476",
+      "param1": "Cooldown",
+      "param2": "HealthBase ((regenRate + HealBase) * HealMult * deltaSeconds) default :-100",
+      "param3": "HealthMult  default :100",
+      "param4": "Hit FX",
+      "param5": "Reapir FX",
+      "param6": "DamageType",
+      "param7": "DamageType",
+      "param8": "DamageType",
+      "param9": "DamageType",
+      "param10": "DamageType",
+      "param11": "DamageType",
+      "param12": "DamageType",
+      "param13": "DamageType",
+      "param14": "DamageType",
+      "string1": "DamageType"
     }
   ],
   "returned": 61

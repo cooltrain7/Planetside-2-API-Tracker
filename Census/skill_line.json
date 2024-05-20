@@ -2757,7 +2757,7 @@
       "skill_line_id": "225",
       "skill_points": "0",
       "skill_category_id": "10",
-      "skill_category_index": "3",
+      "skill_category_index": "0",
       "name": {
         "en": "Fire Suppression System"
       },
@@ -14905,7 +14905,7 @@
       "skill_line_id": "1172",
       "skill_points": "0",
       "skill_category_id": "9",
-      "skill_category_index": "1",
+      "skill_category_index": "0",
       "name": {
         "en": "Racer High Speed Chassis"
       },
@@ -106994,12 +106994,31 @@
       "image_path": "/files/ps2/images/static/96381.png"
     },
     {
+      "skill_line_id": "18182",
+      "skill_points": "0",
+      "skill_category_index": "3",
+      "name": {
+        "en": "Planetside 2"
+      },
+      "description": {
+        "en": "Planetside 2"
+      },
+      "image_set_id": "2184",
+      "image_id": "4038",
+      "image_path": "/files/ps2/images/static/4038.png"
+    },
+    {
+      "skill_line_id": "18183",
+      "skill_points": "0",
+      "skill_category_index": "3",
+      "image_set_id": "2184",
+      "image_id": "4038",
+      "image_path": "/files/ps2/images/static/4038.png"
+    },
+    {
       "skill_line_id": "18185",
       "skill_points": "0",
       "skill_category_index": "11",
-      "name": {
-        "en": "Deployment Shield"
-      },
       "image_set_id": "13607",
       "image_id": "78132",
       "image_path": "/files/ps2/images/static/78132.png"
@@ -107007,14 +107026,50 @@
     {
       "skill_line_id": "18186",
       "skill_points": "0",
-      "name": {
-        "en": "Placeholder"
-      },
-      "description": {
-        "en": "Placeholder"
-      },
-      "image_set_id": "0"
+      "image_set_id": "808028",
+      "image_id": "97389",
+      "image_path": "/files/ps2/images/static/97389.png"
+    },
+    {
+      "skill_line_id": "18187",
+      "skill_points": "0",
+      "skill_category_index": "0",
+      "image_set_id": "2059",
+      "image_id": "3754",
+      "image_path": "/files/ps2/images/static/3754.png"
+    },
+    {
+      "skill_line_id": "18188",
+      "skill_points": "0",
+      "skill_category_index": "0",
+      "image_set_id": "2059",
+      "image_id": "3754",
+      "image_path": "/files/ps2/images/static/3754.png"
+    },
+    {
+      "skill_line_id": "18190",
+      "skill_points": "0",
+      "skill_category_index": "0",
+      "image_set_id": "2059",
+      "image_id": "3754",
+      "image_path": "/files/ps2/images/static/3754.png"
+    },
+    {
+      "skill_line_id": "18191",
+      "skill_points": "0",
+      "skill_category_index": "0",
+      "image_set_id": "2059",
+      "image_id": "3754",
+      "image_path": "/files/ps2/images/static/3754.png"
+    },
+    {
+      "skill_line_id": "18192",
+      "skill_points": "0",
+      "skill_category_index": "0",
+      "image_set_id": "808034",
+      "image_id": "97385",
+      "image_path": "/files/ps2/images/static/97385.png"
     }
   ],
-  "returned": 7332
+  "returned": 7339
 }

@@ -1092,7 +1092,7 @@
       },
       "type": "9",
       "experience_bonus": "25",
-      "duration_minutes": "90"
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "223",
@@ -1104,7 +1104,7 @@
       },
       "type": "9",
       "experience_bonus": "25",
-      "duration_minutes": "90"
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "224",
@@ -1116,7 +1116,7 @@
       },
       "type": "9",
       "experience_bonus": "25",
-      "duration_minutes": "90"
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "225",
@@ -1139,7 +1139,7 @@
       },
       "type": "9",
       "experience_bonus": "25",
-      "duration_minutes": "90"
+      "duration_minutes": "45"
     },
     {
       "metagame_event_id": "227",
@@ -1293,7 +1293,7 @@
         "en": "Kill as many enemies as possible"
       },
       "type": "6",
-      "duration_minutes": "15"
+      "duration_minutes": "10"
     },
     {
       "metagame_event_id": "241",
@@ -1371,7 +1371,7 @@
       },
       "type": "9",
       "experience_bonus": "25",
-      "duration_minutes": "45"
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "249",
@@ -1383,7 +1383,7 @@
       },
       "type": "9",
       "experience_bonus": "25",
-      "duration_minutes": "45"
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "250",
@@ -1395,7 +1395,7 @@
       },
       "type": "9",
       "experience_bonus": "25",
-      "duration_minutes": "45"
+      "duration_minutes": "30"
     },
     {
       "metagame_event_id": "251",
@@ -1451,7 +1451,18 @@
       },
       "type": "4",
       "duration_minutes": "15"
+    },
+    {
+      "metagame_event_id": "260",
+      "name": {
+        "en": "Sudden Death"
+      },
+      "description": {
+        "en": "Kill as many enemies as possible"
+      },
+      "type": "6",
+      "duration_minutes": "5"
     }
   ],
-  "returned": 127
+  "returned": 128
 }
