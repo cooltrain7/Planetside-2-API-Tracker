@@ -2015,7 +2015,15 @@
     {
       "reward_group_id": "102028",
       "reward_id": "10412"
+    },
+    {
+      "reward_group_id": "102059",
+      "reward_id": "10428"
+    },
+    {
+      "reward_group_id": "102060",
+      "reward_id": "10429"
     }
   ],
-  "returned": 504
+  "returned": 506
 }

@@ -1173,6 +1173,55 @@
       "image_path": "/files/ps2/images/static/84284.png"
     },
     {
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "name": {
+        "en": "Common"
+      },
+      "image_set_id": "806700",
+      "image_id": "93571",
+      "image_path": "/files/ps2/images/static/93571.png"
+    },
+    {
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "reward_set_id": "6285",
+      "directive_points": "5",
+      "completion_count": "3",
+      "name": {
+        "en": "Novice"
+      },
+      "image_set_id": "13729",
+      "image_id": "78512",
+      "image_path": "/files/ps2/images/static/78512.png"
+    },
+    {
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "reward_set_id": "6287",
+      "directive_points": "5",
+      "completion_count": "3",
+      "name": {
+        "en": "Novice"
+      },
+      "image_set_id": "13729",
+      "image_id": "78512",
+      "image_path": "/files/ps2/images/static/78512.png"
+    },
+    {
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "reward_set_id": "6289",
+      "directive_points": "5",
+      "completion_count": "3",
+      "name": {
+        "en": "Novice"
+      },
+      "image_set_id": "13729",
+      "image_id": "78512",
+      "image_path": "/files/ps2/images/static/78512.png"
+    },
+    {
       "directive_tree_id": "4",
       "directive_tier_id": "2",
       "directive_points": "10",
@@ -2294,6 +2343,52 @@
       "image_set_id": "80235",
       "image_id": "84290",
       "image_path": "/files/ps2/images/static/84290.png"
+    },
+    {
+      "directive_tree_id": "135",
+      "directive_tier_id": "2",
+      "name": {
+        "en": "Rare"
+      },
+      "image_set_id": "806701",
+      "image_id": "93574",
+      "image_path": "/files/ps2/images/static/93574.png"
+    },
+    {
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "directive_points": "10",
+      "completion_count": "4",
+      "name": {
+        "en": "Adept"
+      },
+      "image_set_id": "13949",
+      "image_id": "79172",
+      "image_path": "/files/ps2/images/static/79172.png"
+    },
+    {
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "directive_points": "10",
+      "completion_count": "4",
+      "name": {
+        "en": "Adept"
+      },
+      "image_set_id": "13949",
+      "image_id": "79172",
+      "image_path": "/files/ps2/images/static/79172.png"
+    },
+    {
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "directive_points": "10",
+      "completion_count": "4",
+      "name": {
+        "en": "Adept"
+      },
+      "image_set_id": "13949",
+      "image_id": "79172",
+      "image_path": "/files/ps2/images/static/79172.png"
     },
     {
       "directive_tree_id": "4",
@@ -3426,6 +3521,42 @@
       "image_set_id": "80234",
       "image_id": "84287",
       "image_path": "/files/ps2/images/static/84287.png"
+    },
+    {
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "directive_points": "25",
+      "completion_count": "5",
+      "name": {
+        "en": "Expert"
+      },
+      "image_set_id": "13839",
+      "image_id": "78842",
+      "image_path": "/files/ps2/images/static/78842.png"
+    },
+    {
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "directive_points": "25",
+      "completion_count": "5",
+      "name": {
+        "en": "Expert"
+      },
+      "image_set_id": "13839",
+      "image_id": "78842",
+      "image_path": "/files/ps2/images/static/78842.png"
+    },
+    {
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "directive_points": "25",
+      "completion_count": "5",
+      "name": {
+        "en": "Expert"
+      },
+      "image_set_id": "13839",
+      "image_id": "78842",
+      "image_path": "/files/ps2/images/static/78842.png"
     },
     {
       "directive_tree_id": "4",
@@ -4599,7 +4730,46 @@
       "image_set_id": "80232",
       "image_id": "84283",
       "image_path": "/files/ps2/images/static/84283.png"
+    },
+    {
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "reward_set_id": "6286",
+      "directive_points": "100",
+      "completion_count": "6",
+      "name": {
+        "en": "Master"
+      },
+      "image_set_id": "13619",
+      "image_id": "78182",
+      "image_path": "/files/ps2/images/static/78182.png"
+    },
+    {
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "reward_set_id": "6288",
+      "directive_points": "100",
+      "completion_count": "6",
+      "name": {
+        "en": "Master"
+      },
+      "image_set_id": "13619",
+      "image_id": "78182",
+      "image_path": "/files/ps2/images/static/78182.png"
+    },
+    {
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "reward_set_id": "6290",
+      "directive_points": "100",
+      "completion_count": "6",
+      "name": {
+        "en": "Master"
+      },
+      "image_set_id": "13619",
+      "image_id": "78182",
+      "image_path": "/files/ps2/images/static/78182.png"
     }
   ],
-  "returned": 368
+  "returned": 382
 }

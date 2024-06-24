@@ -8773,6 +8773,23 @@
       "projectile_radius": "0.03"
     },
     {
+      "projectile_id": "80638",
+      "projectile_flight_type_id": "9",
+      "speed": "10",
+      "speed_max": "100",
+      "acceleration": "10",
+      "turn_rate": "0",
+      "lifespan": "15",
+      "drag": "1",
+      "gravity": "11.25",
+      "lockon_acceleration": "10",
+      "detonate_on_contact": "1",
+      "sticky": "0",
+      "sticks_to_players": "0",
+      "lockon_seek_in_flight": "0",
+      "projectile_radius": "1"
+    },
+    {
       "projectile_id": "80639",
       "projectile_flight_type_id": "1",
       "speed": "375",
@@ -8789,5 +8806,5 @@
       "projectile_radius": "0.03"
     }
   ],
-  "returned": 596
+  "returned": 597
 }

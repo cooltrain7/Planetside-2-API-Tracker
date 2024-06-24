@@ -983,7 +983,27 @@
     {
       "profile_id": "331",
       "description": "Sunderer Dome Shield"
+    },
+    {
+      "profile_id": "332",
+      "description": "Sunderer Shield Disruptor 1"
+    },
+    {
+      "profile_id": "333",
+      "description": "Sunderer Shield Disruptor 2"
+    },
+    {
+      "profile_id": "334",
+      "description": "Sunderer Shield Disruptor 3"
+    },
+    {
+      "profile_id": "335",
+      "description": "Sunderer Shield Disruptor 4"
+    },
+    {
+      "profile_id": "336",
+      "description": "Vehicle - Sunderer - Cargo"
     }
   ],
-  "returned": 246
+  "returned": 251
 }

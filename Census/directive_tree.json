@@ -969,7 +969,33 @@
       "description": {
         "en": "Feb. 14 - Feb. 28"
       }
+    },
+    {
+      "directive_tree_id": "135",
+      "directive_tree_category_id": "17",
+      "image_set_id": "0"
+    },
+    {
+      "directive_tree_id": "139",
+      "directive_tree_category_id": "5",
+      "image_set_id": "14163",
+      "image_id": "79586",
+      "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+      "directive_tree_id": "140",
+      "directive_tree_category_id": "5",
+      "image_set_id": "14163",
+      "image_id": "79586",
+      "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+      "directive_tree_id": "141",
+      "directive_tree_category_id": "5",
+      "image_set_id": "14163",
+      "image_id": "79586",
+      "image_path": "/files/ps2/images/static/79586.png"
     }
   ],
-  "returned": 95
+  "returned": 99
 }

@@ -11554,6 +11554,16 @@
       "requires_ammo": "1"
     },
     {
+      "weapon_id": "78837",
+      "turn_modifier": "1.0",
+      "move_modifier": "1.0",
+      "sprint_recovery_ms": "300",
+      "equip_ms": "600",
+      "unequip_ms": "250",
+      "to_iron_sights_ms": "0",
+      "from_iron_sights_ms": "0"
+    },
+    {
       "weapon_id": "78838",
       "weapon_group_id": "77990",
       "turn_modifier": "1.0",
@@ -11566,5 +11576,5 @@
       "requires_ammo": "1"
     }
   ],
-  "returned": 1285
+  "returned": 1286
 }

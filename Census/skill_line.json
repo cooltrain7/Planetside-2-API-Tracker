@@ -1678,7 +1678,6 @@
     {
       "skill_line_id": "145",
       "skill_points": "0",
-      "skill_category_id": "10",
       "skill_category_index": "2",
       "name": {
         "en": "Proximity Radar"
@@ -19802,7 +19801,7 @@
     {
       "skill_line_id": "2045",
       "skill_points": "0",
-      "skill_category_id": "205",
+      "skill_category_id": "10",
       "skill_category_index": "4",
       "name": {
         "en": "Vehicle Stealth"
@@ -107034,42 +107033,59 @@
       "skill_line_id": "18187",
       "skill_points": "0",
       "skill_category_index": "0",
-      "image_set_id": "2059",
-      "image_id": "3754",
-      "image_path": "/files/ps2/images/static/3754.png"
+      "image_set_id": "808029",
+      "image_id": "97392",
+      "image_path": "/files/ps2/images/static/97392.png"
     },
     {
       "skill_line_id": "18188",
       "skill_points": "0",
       "skill_category_index": "0",
-      "image_set_id": "2059",
-      "image_id": "3754",
-      "image_path": "/files/ps2/images/static/3754.png"
+      "image_set_id": "808072"
     },
     {
       "skill_line_id": "18190",
       "skill_points": "0",
       "skill_category_index": "0",
-      "image_set_id": "2059",
-      "image_id": "3754",
-      "image_path": "/files/ps2/images/static/3754.png"
+      "image_set_id": "808027",
+      "image_id": "97386",
+      "image_path": "/files/ps2/images/static/97386.png"
     },
     {
       "skill_line_id": "18191",
       "skill_points": "0",
       "skill_category_index": "0",
-      "image_set_id": "2059",
-      "image_id": "3754",
-      "image_path": "/files/ps2/images/static/3754.png"
+      "image_set_id": "808032",
+      "image_id": "97401",
+      "image_path": "/files/ps2/images/static/97401.png"
     },
     {
-      "skill_line_id": "18192",
+      "skill_line_id": "18193",
       "skill_points": "0",
       "skill_category_index": "0",
-      "image_set_id": "808034",
-      "image_id": "97385",
-      "image_path": "/files/ps2/images/static/97385.png"
+      "name": {
+        "en": "Ammo Towers"
+      },
+      "image_set_id": "808030",
+      "image_id": "97395",
+      "image_path": "/files/ps2/images/static/97395.png"
+    },
+    {
+      "skill_line_id": "18194",
+      "skill_points": "0",
+      "skill_category_index": "0",
+      "image_set_id": "808033",
+      "image_id": "97404",
+      "image_path": "/files/ps2/images/static/97404.png"
+    },
+    {
+      "skill_line_id": "18195",
+      "skill_points": "0",
+      "skill_category_index": "0",
+      "image_set_id": "808031",
+      "image_id": "97398",
+      "image_path": "/files/ps2/images/static/97398.png"
     }
   ],
-  "returned": 7339
+  "returned": 7341
 }

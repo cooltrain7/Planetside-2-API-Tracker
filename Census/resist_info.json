@@ -32483,7 +32483,77 @@
       "resist_percent": "40",
       "multiplier_when_headshot": "1",
       "description": "Vehicle - Sunderer - Armor - Enhanced Plating 4 (Tank Shells)"
+    },
+    {
+      "resist_info_id": "6370",
+      "resist_type_id": "1",
+      "resist_percent": "100",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Melee)"
+    },
+    {
+      "resist_info_id": "6371",
+      "resist_type_id": "2",
+      "resist_percent": "95",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Small Arms)"
+    },
+    {
+      "resist_info_id": "6372",
+      "resist_type_id": "6",
+      "resist_percent": "95",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Common Explosive)"
+    },
+    {
+      "resist_info_id": "6373",
+      "resist_type_id": "4",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Heavy Machine Guns)"
+    },
+    {
+      "resist_info_id": "6374",
+      "resist_type_id": "22",
+      "resist_percent": "80",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (AA Machine Guns)"
+    },
+    {
+      "resist_info_id": "6375",
+      "resist_type_id": "12",
+      "resist_percent": "95",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Flak Explosive Blast)"
+    },
+    {
+      "resist_info_id": "6376",
+      "resist_type_id": "28",
+      "resist_percent": "75",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Gatling)"
+    },
+    {
+      "resist_info_id": "6377",
+      "resist_type_id": "8",
+      "resist_percent": "95",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Aircraft Machine Gun)"
+    },
+    {
+      "resist_info_id": "6378",
+      "resist_type_id": "40",
+      "resist_percent": "40",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Anti-Materiel Rifle)"
+    },
+    {
+      "resist_info_id": "6379",
+      "resist_type_id": "45",
+      "resist_percent": "20",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (A2A Missiles)"
     }
   ],
-  "returned": 4745
+  "returned": 4755
 }

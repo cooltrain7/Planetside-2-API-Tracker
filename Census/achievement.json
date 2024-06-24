@@ -101705,7 +101705,52 @@
       "image_set_id": "8011",
       "image_id": "8320",
       "image_path": "/files/ps2/images/static/8320.png"
+    },
+    {
+      "achievement_id": "94034",
+      "objective_group_id": "21643",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Point Control"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them."
+      },
+      "image_set_id": "8108",
+      "image_id": "8662",
+      "image_path": "/files/ps2/images/static/8662.png"
+    },
+    {
+      "achievement_id": "94035",
+      "objective_group_id": "21660",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Point Control"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them."
+      },
+      "image_set_id": "8108",
+      "image_id": "8662",
+      "image_path": "/files/ps2/images/static/8662.png"
+    },
+    {
+      "achievement_id": "94036",
+      "objective_group_id": "21741",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Point Control"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them."
+      },
+      "image_set_id": "8108",
+      "image_id": "8662",
+      "image_path": "/files/ps2/images/static/8662.png"
     }
   ],
-  "returned": 6373
+  "returned": 6376
 }

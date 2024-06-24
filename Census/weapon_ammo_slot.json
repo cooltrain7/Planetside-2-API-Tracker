@@ -10581,6 +10581,13 @@
       "refill_ammo_rate": "6"
     },
     {
+      "weapon_id": "78837",
+      "weapon_slot_index": "0",
+      "clip_size": "0",
+      "capacity": "0",
+      "refill_ammo_rate": "0"
+    },
+    {
       "weapon_id": "78838",
       "weapon_slot_index": "0",
       "clip_size": "6",
@@ -10588,5 +10595,5 @@
       "refill_ammo_rate": "6"
     }
   ],
-  "returned": 1510
+  "returned": 1511
 }

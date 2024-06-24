@@ -72231,6 +72231,34 @@
       "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+      "directive_id": "5804",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "name": {
+        "en": "Planetside 2"
+      },
+      "description": {
+        "en": "Planetside 2"
+      },
+      "image_set_id": "807990",
+      "image_id": "97244",
+      "image_path": "/files/ps2/images/static/97244.png"
+    },
+    {
+      "directive_id": "5805",
+      "directive_tree_id": "135",
+      "directive_tier_id": "2",
+      "name": {
+        "en": "TEST"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "807991",
+      "image_id": "97247",
+      "image_path": "/files/ps2/images/static/97247.png"
+    },
+    {
       "directive_id": "5854",
       "directive_tree_id": "17",
       "directive_tier_id": "4",
@@ -72349,7 +72377,1663 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "5891",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "9981",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5892",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "9982",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5893",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "9983",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5894",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "9984",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5895",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "9985",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5896",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "9986",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5897",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "9987",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5898",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "9988",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5899",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "9989",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5900",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "9990",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5901",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "9991",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5902",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "9992",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5903",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "9993",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5904",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "9994",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5905",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "9995",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5906",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "9996",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5907",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "9997",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "Complete Meltdown Alerts on Oshur with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5908",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "9998",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5909",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "9999",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5910",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10000",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5911",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10001",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5912",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10002",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5913",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10003",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5914",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10004",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5915",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "10005",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5916",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "10006",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5917",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "10007",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5918",
+      "directive_tree_id": "139",
+      "directive_tier_id": "1",
+      "objective_set_id": "10008",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5919",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "10009",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5920",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "10010",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5921",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "10011",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5922",
+      "directive_tree_id": "139",
+      "directive_tier_id": "2",
+      "objective_set_id": "10012",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5923",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "10013",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5924",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "10014",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5925",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "10015",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5926",
+      "directive_tree_id": "139",
+      "directive_tier_id": "3",
+      "objective_set_id": "10016",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5927",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10017",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5928",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10018",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5929",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10019",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5930",
+      "directive_tree_id": "139",
+      "directive_tier_id": "4",
+      "objective_set_id": "10020",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5931",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10021",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5932",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10022",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5933",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10023",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5934",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10024",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5935",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10025",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5936",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10026",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5937",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10027",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5938",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10028",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5939",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10029",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5940",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10030",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5941",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10031",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5942",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10032",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5943",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10033",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5944",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10034",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5945",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10035",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5946",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10036",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5947",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10037",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5948",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10038",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5949",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10039",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5950",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10040",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5951",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10041",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5952",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10042",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5953",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10043",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5954",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10044",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5955",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10045",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5956",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10046",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5957",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10047",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5958",
+      "directive_tree_id": "140",
+      "directive_tier_id": "1",
+      "objective_set_id": "10048",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5959",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10049",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5960",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10050",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5961",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10051",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5962",
+      "directive_tree_id": "140",
+      "directive_tier_id": "2",
+      "objective_set_id": "10052",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5963",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10053",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5964",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10054",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5965",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10055",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5966",
+      "directive_tree_id": "140",
+      "directive_tier_id": "3",
+      "objective_set_id": "10056",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5967",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10057",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5968",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10058",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5969",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10059",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5970",
+      "directive_tree_id": "140",
+      "directive_tier_id": "4",
+      "objective_set_id": "10060",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5971",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10061",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5972",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10062",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5973",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10063",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5974",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10064",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5975",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10065",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5976",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10066",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5977",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10067",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5978",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10068",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5979",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10069",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5980",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10070",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5981",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10071",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5982",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10072",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5983",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10073",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5984",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10074",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5985",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10075",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5986",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10076",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5987",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10077",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5988",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10078",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5989",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10079",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5990",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10080",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5991",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10081",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5992",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10082",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5993",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10083",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5994",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10084",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5995",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10085",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5996",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10086",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5997",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10087",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5998",
+      "directive_tree_id": "141",
+      "directive_tier_id": "1",
+      "objective_set_id": "10088",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "5999",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10089",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6000",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10090",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6001",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10091",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6002",
+      "directive_tree_id": "141",
+      "directive_tier_id": "2",
+      "objective_set_id": "10092",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6003",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10093",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6004",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10094",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6005",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10095",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6006",
+      "directive_tree_id": "141",
+      "directive_tier_id": "3",
+      "objective_set_id": "10096",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6007",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10097",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6008",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10098",
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6009",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10099",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6010",
+      "directive_tree_id": "141",
+      "directive_tier_id": "4",
+      "objective_set_id": "10100",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "TEST"
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
     }
   ],
-  "returned": 4705
+  "returned": 4827
 }
