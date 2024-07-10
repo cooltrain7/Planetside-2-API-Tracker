@@ -972,7 +972,55 @@
       "type_id": "7",
       "type_name": "Umovable Turret",
       "image_set_id": "82962"
+    },
+    {
+      "vehicle_id": "2147",
+      "name": {
+        "en": "Ammo Tower"
+      },
+      "description": {
+        "en": "Deploys a utility station that replenishes ammo to nearby friendly vehicles."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "808121"
+    },
+    {
+      "vehicle_id": "2148",
+      "name": {
+        "en": "Scout Radar"
+      },
+      "description": {
+        "en": "Passively detects nearby enemies while mounted.  Activate to deploy a RADAR with increased range and permenant detection."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "808119"
+    },
+    {
+      "vehicle_id": "2149",
+      "name": {
+        "en": "Repair Station"
+      },
+      "description": {
+        "en": "Passively repairs nearby, non-sunderer, vehicles for a small amount.  Activate to deploy a repair station with increased range and repair.  Sunderers recieve reduced repair from deployed stations and none from undeployed."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "808122"
+    },
+    {
+      "vehicle_id": "2150",
+      "name": {
+        "en": "Shield Disruptor"
+      },
+      "description": {
+        "en": "Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "808120"
     }
   ],
-  "returned": 64
+  "returned": 68
 }

@@ -123,10 +123,10 @@
     {
       "skill_set_id": "11",
       "name": {
-        "en": "Sunderer:  Utility Slot"
+        "en": "Sunderer:  Deployment Slot"
       },
       "description": {
-        "en": "Unlock various gadgets for the Sunderer's Utility slot. Utility slot items can be equipped on the loadout screen."
+        "en": "Unlock various gadgets for the Sunderer's Deployment slot. Deployment slot items can be equipped on the loadout screen."
       },
       "image_set_id": "2176",
       "image_id": "4027",
@@ -3278,10 +3278,10 @@
     {
       "skill_set_id": "268",
       "name": {
-        "en": "Sunderer:  Defense Slot"
+        "en": "Sunderer:  Armor Slot"
       },
       "description": {
-        "en": "Unlock defense slot Certifications to increase the Sunderer's survivability on the field. Defense slot items can be equipped on the loadout screen."
+        "en": "Unlock armor slot Certifications to increase the Sunderer's survivability on the field. Armor slot items can be equipped on the loadout screen."
       },
       "image_set_id": "2172",
       "image_id": "4023",
@@ -3290,10 +3290,10 @@
     {
       "skill_set_id": "269",
       "name": {
-        "en": "Sunderer:  Performance Slot"
+        "en": "Sunderer:  Cargo Slot"
       },
       "description": {
-        "en": "Unlock mobility boosting Certifications for the Sunderer's performance slot. Performance slot items can be equipped on the loadout screen."
+        "en": "Unlock mobility boosting Certifications for the Sunderer's cargo slot. Cargo slot items can be equipped on the loadout screen."
       },
       "image_set_id": "2175",
       "image_id": "4026",

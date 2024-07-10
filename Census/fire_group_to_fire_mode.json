@@ -9969,7 +9969,17 @@
       "fire_group_id": "81024",
       "fire_mode_id": "81442",
       "fire_mode_index": "1"
+    },
+    {
+      "fire_group_id": "81030",
+      "fire_mode_id": "81453",
+      "fire_mode_index": "0"
+    },
+    {
+      "fire_group_id": "81030",
+      "fire_mode_id": "81454",
+      "fire_mode_index": "1"
     }
   ],
-  "returned": 1994
+  "returned": 1996
 }

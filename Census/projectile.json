@@ -8804,7 +8804,23 @@
       "sticks_to_players": "0",
       "lockon_seek_in_flight": "0",
       "projectile_radius": "0.03"
+    },
+    {
+      "projectile_id": "80645",
+      "projectile_flight_type_id": "1",
+      "speed": "375",
+      "speed_max": "0",
+      "acceleration": "0",
+      "turn_rate": "0",
+      "lifespan": "1.5",
+      "drag": "0",
+      "gravity": "11.25",
+      "detonate_on_contact": "0",
+      "sticky": "0",
+      "sticks_to_players": "0",
+      "lockon_seek_in_flight": "0",
+      "projectile_radius": "0.03"
     }
   ],
-  "returned": 597
+  "returned": 598
 }

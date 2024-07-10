@@ -101627,6 +101627,38 @@
       "image_path": "/files/ps2/images/static/8320.png"
     },
     {
+      "achievement_id": "94027",
+      "item_id": "0",
+      "objective_group_id": "21556",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Summer Support Ribbon"
+      },
+      "description": {
+        "en": "Support your team to earn this ribbon."
+      },
+      "image_set_id": "804416",
+      "image_id": "89274",
+      "image_path": "/files/ps2/images/static/89274.png"
+    },
+    {
+      "achievement_id": "94028",
+      "item_id": "0",
+      "objective_group_id": "21557",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Aerial Anomaly Ribbon"
+      },
+      "description": {
+        "en": "Earn Tempest Collection or Tempest Deposit experience during an aerial anomaly."
+      },
+      "image_set_id": "803382",
+      "image_id": "86293",
+      "image_path": "/files/ps2/images/static/86293.png"
+    },
+    {
       "achievement_id": "94029",
       "item_id": "6015519",
       "objective_group_id": "21582",
@@ -101750,7 +101782,150 @@
       "image_set_id": "8108",
       "image_id": "8662",
       "image_path": "/files/ps2/images/static/8662.png"
+    },
+    {
+      "achievement_id": "94037",
+      "objective_group_id": "21782",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Point Control"
+      },
+      "description": {
+        "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them."
+      },
+      "image_set_id": "8108",
+      "image_id": "8662",
+      "image_path": "/files/ps2/images/static/8662.png"
+    },
+    {
+      "achievement_id": "94038",
+      "item_id": "6015620",
+      "objective_group_id": "21785",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94039",
+      "item_id": "6015620",
+      "objective_group_id": "21793",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94040",
+      "item_id": "6015519",
+      "objective_group_id": "21797",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94041",
+      "item_id": "6015519",
+      "objective_group_id": "21798",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94042",
+      "item_id": "6015620",
+      "objective_group_id": "21799",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94043",
+      "item_id": "6015620",
+      "objective_group_id": "21800",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94044",
+      "item_id": "6015519",
+      "objective_group_id": "21801",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94045",
+      "item_id": "6015620",
+      "objective_group_id": "21802",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
     }
   ],
-  "returned": 6376
+  "returned": 6387
 }

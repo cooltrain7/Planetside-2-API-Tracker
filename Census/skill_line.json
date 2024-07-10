@@ -1663,7 +1663,6 @@
     {
       "skill_line_id": "144",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "3",
       "name": {
         "en": "Nanite Auto Repair System"
@@ -1800,7 +1799,6 @@
     {
       "skill_line_id": "155",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "1",
       "name": {
         "en": "Proximity Repair System"
@@ -2755,7 +2753,6 @@
     {
       "skill_line_id": "225",
       "skill_points": "0",
-      "skill_category_id": "10",
       "skill_category_index": "0",
       "name": {
         "en": "Fire Suppression System"
@@ -3233,7 +3230,6 @@
     {
       "skill_line_id": "268",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "2",
       "name": {
         "en": "Vehicle Ammo Dispenser"
@@ -14888,7 +14884,6 @@
     {
       "skill_line_id": "1171",
       "skill_points": "0",
-      "skill_category_id": "9",
       "skill_category_index": "0",
       "name": {
         "en": "Rival Combat Chassis"
@@ -14903,7 +14898,6 @@
     {
       "skill_line_id": "1172",
       "skill_points": "0",
-      "skill_category_id": "9",
       "skill_category_index": "0",
       "name": {
         "en": "Racer High Speed Chassis"
@@ -19173,7 +19167,6 @@
     {
       "skill_line_id": "2001",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "5",
       "name": {
         "en": "Mine Guard"
@@ -19575,7 +19568,6 @@
     {
       "skill_line_id": "2029",
       "skill_points": "0",
-      "skill_category_id": "10",
       "skill_category_index": "1",
       "name": {
         "en": "Smoke Screen"
@@ -19590,7 +19582,6 @@
     {
       "skill_line_id": "2030",
       "skill_points": "0",
-      "skill_category_id": "10",
       "skill_category_index": "0",
       "name": {
         "en": "Gate Shield Diffuser"
@@ -19777,7 +19768,6 @@
     {
       "skill_line_id": "2043",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "6",
       "name": {
         "en": "Mine Guard"
@@ -19789,7 +19779,6 @@
     {
       "skill_line_id": "2044",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "7",
       "name": {
         "en": "Mine Guard"
@@ -32495,7 +32484,6 @@
     {
       "skill_line_id": "4227",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "0",
       "name": {
         "en": "Blockade Armor"
@@ -32510,7 +32498,6 @@
     {
       "skill_line_id": "4228",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "11",
       "name": {
         "en": "Deployment Shield"
@@ -44904,7 +44891,6 @@
     {
       "skill_line_id": "5616",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "10",
       "name": {
         "en": "Proximity Radar"
@@ -101337,7 +101323,6 @@
     {
       "skill_line_id": "17758",
       "skill_points": "0",
-      "skill_category_id": "205",
       "skill_category_index": "6",
       "name": {
         "en": "Mine Guard"
@@ -104052,7 +104037,7 @@
         "en": "Havoc Mine"
       },
       "description": {
-        "en": "Detonates on enemy movement releasing a destabilizing field that affects mechanical targets and prevents them from being repaired for up to 6 seconds."
+        "en": "Detonates on enemy movement releasing a destabilizing field that affects mechanical targets and prevents them from being repaired for up to 8 seconds."
       },
       "image_set_id": "2109",
       "image_id": "3676",
@@ -104067,7 +104052,7 @@
         "en": "Havoc Mine"
       },
       "description": {
-        "en": "Detonates on enemy movement releasing a destabilizing field that affects mechanical targets and prevents them from being repaired for up to 6 seconds."
+        "en": "Detonates on enemy movement releasing a destabilizing field that affects mechanical targets and prevents them from being repaired for up to 8 seconds."
       },
       "image_set_id": "2109",
       "image_id": "3676",
@@ -107017,7 +107002,14 @@
     {
       "skill_line_id": "18185",
       "skill_points": "0",
+      "skill_category_id": "10",
       "skill_category_index": "11",
+      "name": {
+        "en": "Deploy Dome"
+      },
+      "description": {
+        "en": "Creates a dome shield when deployed that will absorb damage.  The shield regenerates constant health until it is destroyed.  After being destroyed it will take time to reboot."
+      },
       "image_set_id": "13607",
       "image_id": "78132",
       "image_path": "/files/ps2/images/static/78132.png"
@@ -107025,6 +107017,13 @@
     {
       "skill_line_id": "18186",
       "skill_points": "0",
+      "skill_category_id": "205",
+      "name": {
+        "en": "Reactive Armor"
+      },
+      "description": {
+        "en": "Stops a single instance of damage per side from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each shield regenerates independantly over time.  Regeneration can be sped up by overhealing the Sunderer which is applied to the shields in this order; Front, Left, Right, Rear, Top, Bottom"
+      },
       "image_set_id": "808028",
       "image_id": "97389",
       "image_path": "/files/ps2/images/static/97389.png"
@@ -107032,7 +107031,14 @@
     {
       "skill_line_id": "18187",
       "skill_points": "0",
+      "skill_category_id": "205",
       "skill_category_index": "0",
+      "name": {
+        "en": "Enhanced Plating"
+      },
+      "description": {
+        "en": "Increases armor values for the sunderer"
+      },
       "image_set_id": "808029",
       "image_id": "97392",
       "image_path": "/files/ps2/images/static/97392.png"
@@ -107040,13 +107046,29 @@
     {
       "skill_line_id": "18188",
       "skill_points": "0",
+      "skill_category_id": "205",
       "skill_category_index": "0",
-      "image_set_id": "808072"
+      "name": {
+        "en": "Nanite Armor"
+      },
+      "description": {
+        "en": "Constantly repairs the sunderer.  Can be activated to burst repair the sunderer and extinguish fires.  Passive repair is disabled while on cooldown."
+      },
+      "image_set_id": "808074",
+      "image_id": "97514",
+      "image_path": "/files/ps2/images/static/97514.png"
     },
     {
       "skill_line_id": "18190",
       "skill_points": "0",
+      "skill_category_id": "10",
       "skill_category_index": "0",
+      "name": {
+        "en": "Point Defense"
+      },
+      "description": {
+        "en": "When deployed improves weapon fire rate, projectile speed, and reduces reload time, but reduces weapon range."
+      },
       "image_set_id": "808027",
       "image_id": "97386",
       "image_path": "/files/ps2/images/static/97386.png"
@@ -107054,7 +107076,14 @@
     {
       "skill_line_id": "18191",
       "skill_points": "0",
+      "skill_category_id": "9",
       "skill_category_index": "0",
+      "name": {
+        "en": "Repair Station"
+      },
+      "description": {
+        "en": "Passively repairs, non-sunderer, vehicles within 20m for 18 hp/s.  Activate to deploy a station that repairs 90hp/s to vehicles within 32m with a cooldown of 75s.  Sunderers recieve reduced repair from deployed stations and none from undeployed."
+      },
       "image_set_id": "808032",
       "image_id": "97401",
       "image_path": "/files/ps2/images/static/97401.png"
@@ -107062,9 +107091,13 @@
     {
       "skill_line_id": "18193",
       "skill_points": "0",
+      "skill_category_id": "9",
       "skill_category_index": "0",
       "name": {
-        "en": "Ammo Towers"
+        "en": "Ammo Tower"
+      },
+      "description": {
+        "en": "Deploys a utility station that replenishes ammo to nearby friendly vehicles."
       },
       "image_set_id": "808030",
       "image_id": "97395",
@@ -107073,7 +107106,14 @@
     {
       "skill_line_id": "18194",
       "skill_points": "0",
+      "skill_category_id": "9",
       "skill_category_index": "0",
+      "name": {
+        "en": "Shield Disruptor"
+      },
+      "description": {
+        "en": "Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through."
+      },
       "image_set_id": "808033",
       "image_id": "97404",
       "image_path": "/files/ps2/images/static/97404.png"
@@ -107081,7 +107121,14 @@
     {
       "skill_line_id": "18195",
       "skill_points": "0",
+      "skill_category_id": "9",
       "skill_category_index": "0",
+      "name": {
+        "en": "Scout Radar"
+      },
+      "description": {
+        "en": "Passively detects nearby enemies while mounted.  Activate to deploy a RADAR with increased range and permenant detection."
+      },
       "image_set_id": "808031",
       "image_id": "97398",
       "image_path": "/files/ps2/images/static/97398.png"

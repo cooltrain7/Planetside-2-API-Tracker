@@ -13240,21 +13240,21 @@
       "item_id": "75204",
       "item_quantity": "1",
       "station_cash_price": "500",
-      "release_time": "1369465200"
+      "release_time": "1720508400"
     },
     {
       "marketing_bundle_id": "4327",
       "item_id": "75205",
       "item_quantity": "1",
       "station_cash_price": "500",
-      "release_time": "1369465200"
+      "release_time": "1720508400"
     },
     {
       "marketing_bundle_id": "4328",
       "item_id": "75206",
       "item_quantity": "1",
       "station_cash_price": "500",
-      "release_time": "1369465200"
+      "release_time": "1720508400"
     },
     {
       "marketing_bundle_id": "4329",
@@ -100793,35 +100793,35 @@
       "item_quantity": "1",
       "station_cash_price": "0",
       "cert_price": "1000",
-      "release_time": "1688454000"
+      "release_time": "1720560360"
     },
     {
       "marketing_bundle_id": "811408",
       "item_id": "6011409",
       "item_quantity": "1",
       "station_cash_price": "0",
-      "release_time": "1688454000"
+      "release_time": "1720560360"
     },
     {
       "marketing_bundle_id": "811409",
       "item_id": "6011412",
       "item_quantity": "1",
       "station_cash_price": "0",
-      "release_time": "1688454000"
+      "release_time": "1720560360"
     },
     {
       "marketing_bundle_id": "811410",
       "item_id": "6011415",
       "item_quantity": "1",
       "station_cash_price": "0",
-      "release_time": "1688454000"
+      "release_time": "1720560360"
     },
     {
       "marketing_bundle_id": "811411",
       "item_id": "6011418",
       "item_quantity": "1",
       "station_cash_price": "0",
-      "release_time": "1688454000"
+      "release_time": "1720560360"
     },
     {
       "marketing_bundle_id": "811412",
@@ -117369,7 +117369,299 @@
       "station_cash_price": "0",
       "cert_price": "10",
       "release_time": "1722495600"
+    },
+    {
+      "marketing_bundle_id": "813796",
+      "item_id": "6015623",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1719298800"
+    },
+    {
+      "marketing_bundle_id": "813797",
+      "item_id": "6015624",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813798",
+      "item_id": "6015625",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813799",
+      "item_id": "6015626",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813800",
+      "item_id": "6015627",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813801",
+      "item_id": "6015628",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813802",
+      "item_id": "6015629",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813803",
+      "item_id": "6015630",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813804",
+      "item_id": "6015631",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813805",
+      "item_id": "6015632",
+      "item_quantity": "1",
+      "station_cash_price": "150",
+      "cert_price": "100",
+      "release_time": "1394006400"
+    },
+    {
+      "marketing_bundle_id": "813806",
+      "item_id": "6015633",
+      "item_quantity": "1",
+      "station_cash_price": "75",
+      "cert_price": "100",
+      "release_time": "1399705200"
+    },
+    {
+      "marketing_bundle_id": "813807",
+      "item_id": "6015634",
+      "item_quantity": "1",
+      "station_cash_price": "75",
+      "cert_price": "100",
+      "release_time": "1399705200"
+    },
+    {
+      "marketing_bundle_id": "813808",
+      "item_id": "6015635",
+      "item_quantity": "1",
+      "station_cash_price": "300",
+      "release_time": "1398409200"
+    },
+    {
+      "marketing_bundle_id": "813809",
+      "item_id": "6015636",
+      "item_quantity": "1",
+      "station_cash_price": "300",
+      "release_time": "1398409200"
+    },
+    {
+      "marketing_bundle_id": "813810",
+      "item_id": "6015637",
+      "item_quantity": "1",
+      "station_cash_price": "300",
+      "release_time": "1398409200"
+    },
+    {
+      "marketing_bundle_id": "813811",
+      "item_id": "6015620",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1720530460"
+    },
+    {
+      "marketing_bundle_id": "813814",
+      "item_id": "6015351",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813815",
+      "item_id": "6015348",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813816",
+      "item_id": "6015347",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813817",
+      "item_id": "6015349",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813818",
+      "item_id": "6015350",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813823",
+      "item_id": "6015407",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813836",
+      "item_id": "6015406",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813837",
+      "item_id": "6015422",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813846",
+      "item_id": "6015120",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813847",
+      "item_id": "6015124",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813848",
+      "item_id": "6015125",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813849",
+      "item_id": "6015253",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813850",
+      "item_id": "6015572",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813851",
+      "item_id": "6015573",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813852",
+      "item_id": "6015574",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813857",
+      "item_id": "6015587",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813858",
+      "item_id": "6015253",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813859",
+      "item_id": "6015638",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813860",
+      "item_id": "6015639",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813861",
+      "item_id": "6015640",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813863",
+      "item_id": "6015549",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813864",
+      "item_id": "6015546",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813865",
+      "item_id": "6015548",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
+    },
+    {
+      "marketing_bundle_id": "813866",
+      "item_id": "6015547",
+      "item_quantity": "1",
+      "station_cash_price": "0",
+      "release_time": "1719924024"
     }
   ],
-  "returned": 15347
+  "returned": 15387
 }

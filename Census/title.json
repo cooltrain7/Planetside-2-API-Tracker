@@ -2477,7 +2477,61 @@
       "name": {
         "en": "Aviator"
       }
+    },
+    {
+      "title_id": "467",
+      "name": {
+        "en": "Corsair"
+      }
+    },
+    {
+      "title_id": "468",
+      "name": {
+        "en": "Space Whale"
+      }
+    },
+    {
+      "title_id": "469",
+      "name": {
+        "en": "the Whale"
+      }
+    },
+    {
+      "title_id": "470",
+      "name": {
+        "en": "Killer Whale"
+      }
+    },
+    {
+      "title_id": "471",
+      "name": {
+        "en": "Sky Whale"
+      }
+    },
+    {
+      "title_id": "472",
+      "name": {
+        "en": "of Indar"
+      }
+    },
+    {
+      "title_id": "473",
+      "name": {
+        "en": "of Hossin"
+      }
+    },
+    {
+      "title_id": "474",
+      "name": {
+        "en": "of Amerish"
+      }
+    },
+    {
+      "title_id": "475",
+      "name": {
+        "en": "of Esamir"
+      }
     }
   ],
-  "returned": 413
+  "returned": 422
 }

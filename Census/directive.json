@@ -72259,6 +72259,366 @@
       "image_path": "/files/ps2/images/static/97247.png"
     },
     {
+      "directive_id": "5806",
+      "directive_tree_id": "136",
+      "directive_tier_id": "2",
+      "objective_set_id": "9901",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5807",
+      "directive_tree_id": "136",
+      "directive_tier_id": "1",
+      "objective_set_id": "9902",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5808",
+      "directive_tree_id": "136",
+      "directive_tier_id": "3",
+      "objective_set_id": "9903",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5809",
+      "directive_tree_id": "136",
+      "directive_tier_id": "4",
+      "objective_set_id": "9904",
+      "name": {
+        "en": "Beat the Heat"
+      },
+      "description": {
+        "en": "Score kills with a Summer Holiday Weapon."
+      },
+      "image_set_id": "804409",
+      "image_id": "89258",
+      "image_path": "/files/ps2/images/static/89258.png"
+    },
+    {
+      "directive_id": "5810",
+      "directive_tree_id": "136",
+      "directive_tier_id": "4",
+      "objective_set_id": "9905",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5811",
+      "directive_tree_id": "136",
+      "directive_tier_id": "3",
+      "objective_set_id": "9906",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5812",
+      "directive_tree_id": "136",
+      "directive_tier_id": "2",
+      "objective_set_id": "9907",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5813",
+      "directive_tree_id": "136",
+      "directive_tier_id": "1",
+      "objective_set_id": "9908",
+      "name": {
+        "en": "Summer Support"
+      },
+      "description": {
+        "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle."
+      },
+      "image_set_id": "804411",
+      "image_id": "89260",
+      "image_path": "/files/ps2/images/static/89260.png"
+    },
+    {
+      "directive_id": "5814",
+      "directive_tree_id": "136",
+      "directive_tier_id": "4",
+      "objective_set_id": "9909",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5815",
+      "directive_tree_id": "136",
+      "directive_tier_id": "3",
+      "objective_set_id": "9910",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5816",
+      "directive_tree_id": "136",
+      "directive_tier_id": "2",
+      "objective_set_id": "9911",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5817",
+      "directive_tree_id": "136",
+      "directive_tier_id": "1",
+      "objective_set_id": "9912",
+      "name": {
+        "en": "Mini-Alert: Aerial Anomalies"
+      },
+      "description": {
+        "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5818",
+      "directive_tree_id": "136",
+      "directive_tier_id": "4",
+      "objective_set_id": "9913",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5819",
+      "directive_tree_id": "136",
+      "directive_tier_id": "3",
+      "objective_set_id": "9914",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5820",
+      "directive_tree_id": "136",
+      "directive_tier_id": "2",
+      "objective_set_id": "9915",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5821",
+      "directive_tree_id": "136",
+      "directive_tier_id": "1",
+      "objective_set_id": "9916",
+      "name": {
+        "en": "Cannonball!"
+      },
+      "description": {
+        "en": "Kill enemies after you launch from the Corsair's passenger seat."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5822",
+      "directive_tree_id": "136",
+      "directive_tier_id": "4",
+      "objective_set_id": "9917",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5823",
+      "directive_tree_id": "136",
+      "directive_tier_id": "3",
+      "objective_set_id": "9918",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5824",
+      "directive_tree_id": "136",
+      "directive_tier_id": "2",
+      "objective_set_id": "9919",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5825",
+      "directive_tree_id": "136",
+      "directive_tier_id": "1",
+      "objective_set_id": "9920",
+      "name": {
+        "en": "Hammerhead"
+      },
+      "description": {
+        "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "5826",
+      "directive_tree_id": "136",
+      "directive_tier_id": "4",
+      "objective_set_id": "9921",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5827",
+      "directive_tree_id": "136",
+      "directive_tier_id": "3",
+      "objective_set_id": "9922",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5828",
+      "directive_tree_id": "136",
+      "directive_tier_id": "2",
+      "objective_set_id": "9923",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+      "directive_id": "5829",
+      "directive_tree_id": "136",
+      "directive_tier_id": "1",
+      "objective_set_id": "9924",
+      "name": {
+        "en": "Air and Ocean"
+      },
+      "description": {
+        "en": "Earn kills as infantry while airborne or underwater."
+      },
+      "image_set_id": "13518",
+      "image_id": "77759",
+      "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
       "directive_id": "5854",
       "directive_tree_id": "17",
       "directive_tier_id": "4",
@@ -72379,6 +72739,366 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+      "directive_id": "5862",
+      "directive_tree_id": "137",
+      "directive_tier_id": "1",
+      "objective_set_id": "9957",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5863",
+      "directive_tree_id": "137",
+      "directive_tier_id": "2",
+      "objective_set_id": "9958",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5864",
+      "directive_tree_id": "137",
+      "directive_tier_id": "3",
+      "objective_set_id": "9959",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5865",
+      "directive_tree_id": "137",
+      "directive_tier_id": "4",
+      "objective_set_id": "9960",
+      "name": {
+        "en": "Mini-Alert: MAXimum Pressure"
+      },
+      "description": {
+        "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "5866",
+      "directive_tree_id": "137",
+      "directive_tier_id": "4",
+      "objective_set_id": "9961",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5867",
+      "directive_tree_id": "137",
+      "directive_tier_id": "3",
+      "objective_set_id": "9962",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5868",
+      "directive_tree_id": "137",
+      "directive_tier_id": "2",
+      "objective_set_id": "9963",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5869",
+      "directive_tree_id": "137",
+      "directive_tier_id": "1",
+      "objective_set_id": "9964",
+      "name": {
+        "en": "Sunscreen"
+      },
+      "description": {
+        "en": "Earn healing experience."
+      },
+      "image_set_id": "14061",
+      "image_id": "79484",
+      "image_path": "/files/ps2/images/static/79484.png"
+    },
+    {
+      "directive_id": "5870",
+      "directive_tree_id": "137",
+      "directive_tier_id": "4",
+      "objective_set_id": "9965",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5871",
+      "directive_tree_id": "137",
+      "directive_tier_id": "3",
+      "objective_set_id": "9966",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5872",
+      "directive_tree_id": "137",
+      "directive_tier_id": "2",
+      "objective_set_id": "9967",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5873",
+      "directive_tree_id": "137",
+      "directive_tier_id": "1",
+      "objective_set_id": "9968",
+      "name": {
+        "en": "Crashing Waves"
+      },
+      "description": {
+        "en": "Earn kills as a MAX unit or against MAX units."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "5874",
+      "directive_tree_id": "137",
+      "directive_tier_id": "4",
+      "objective_set_id": "9969",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5875",
+      "directive_tree_id": "137",
+      "directive_tier_id": "3",
+      "objective_set_id": "9970",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5876",
+      "directive_tree_id": "137",
+      "directive_tier_id": "2",
+      "objective_set_id": "9971",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5877",
+      "directive_tree_id": "137",
+      "directive_tier_id": "1",
+      "objective_set_id": "9972",
+      "name": {
+        "en": "Beach Episode"
+      },
+      "description": {
+        "en": "Earn squad experience."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5878",
+      "directive_tree_id": "137",
+      "directive_tier_id": "4",
+      "objective_set_id": "9973",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5879",
+      "directive_tree_id": "137",
+      "directive_tier_id": "3",
+      "objective_set_id": "9974",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5880",
+      "directive_tree_id": "137",
+      "directive_tier_id": "2",
+      "objective_set_id": "9975",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5881",
+      "directive_tree_id": "137",
+      "directive_tier_id": "1",
+      "objective_set_id": "9976",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "802636",
+      "image_id": "84279",
+      "image_path": "/files/ps2/images/static/84279.png"
+    },
+    {
+      "directive_id": "5882",
+      "directive_tree_id": "137",
+      "directive_tier_id": "2",
+      "objective_set_id": "9977",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5883",
+      "directive_tree_id": "137",
+      "directive_tier_id": "3",
+      "objective_set_id": "9978",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5884",
+      "directive_tree_id": "137",
+      "directive_tier_id": "4",
+      "objective_set_id": "9979",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "5885",
+      "directive_tree_id": "137",
+      "directive_tier_id": "1",
+      "objective_set_id": "9980",
+      "name": {
+        "en": "King of the Castle"
+      },
+      "description": {
+        "en": "Earn experience by taking and defending control points."
+      },
+      "image_set_id": "804410",
+      "image_id": "89259",
+      "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
       "directive_id": "5891",
       "directive_tree_id": "139",
       "directive_tier_id": "1",
@@ -72387,7 +73107,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72402,7 +73122,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72413,8 +73133,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "1",
       "objective_set_id": "9983",
+      "name": {
+        "en": "Indar Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 1 Point Control Ribbon."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72429,7 +73152,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 10 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -72444,23 +73167,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 1 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5896",
-      "directive_tree_id": "139",
-      "directive_tier_id": "1",
-      "objective_set_id": "9986",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5897",
@@ -72471,7 +73182,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72486,7 +73197,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72497,8 +73208,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "2",
       "objective_set_id": "9989",
+      "name": {
+        "en": "Indar Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 15 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72513,7 +73227,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 25 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -72528,23 +73242,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 5 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5902",
-      "directive_tree_id": "139",
-      "directive_tier_id": "2",
-      "objective_set_id": "9992",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5903",
@@ -72555,7 +73257,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72570,7 +73272,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72581,8 +73283,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "3",
       "objective_set_id": "9995",
+      "name": {
+        "en": "Indar Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 100 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72597,7 +73302,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 100 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -72612,23 +73317,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "Complete Meltdown Alerts on Oshur with at least 50% participation."
+        "en": "Complete 20 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5908",
-      "directive_tree_id": "139",
-      "directive_tier_id": "3",
-      "objective_set_id": "9998",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5909",
@@ -72639,7 +73332,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72654,7 +73347,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72665,8 +73358,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "4",
       "objective_set_id": "10001",
+      "name": {
+        "en": "Indar Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 2500 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72681,7 +73377,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 1000 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -72696,23 +73392,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 100 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5914",
-      "directive_tree_id": "139",
-      "directive_tier_id": "4",
-      "objective_set_id": "10004",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5915",
@@ -72723,7 +73407,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants on Indar 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72734,8 +73418,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "1",
       "objective_set_id": "10006",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 1 time on Indar."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72750,7 +73437,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72761,8 +73448,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "1",
       "objective_set_id": "10008",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72777,7 +73467,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72792,7 +73482,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72803,8 +73493,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "2",
       "objective_set_id": "10011",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72815,8 +73508,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "2",
       "objective_set_id": "10012",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72831,7 +73527,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72842,8 +73538,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "3",
       "objective_set_id": "10014",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72854,8 +73553,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "3",
       "objective_set_id": "10015",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72870,7 +73572,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72881,8 +73583,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "4",
       "objective_set_id": "10017",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72893,8 +73598,11 @@
       "directive_tree_id": "139",
       "directive_tier_id": "4",
       "objective_set_id": "10018",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72909,7 +73617,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72924,7 +73632,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72939,7 +73647,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72954,7 +73662,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72965,8 +73673,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "1",
       "objective_set_id": "10023",
+      "name": {
+        "en": "Hossin Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 1 Point Control Ribbon."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -72981,7 +73692,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 10 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -72996,23 +73707,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 1 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5936",
-      "directive_tree_id": "140",
-      "directive_tier_id": "1",
-      "objective_set_id": "10026",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5937",
@@ -73023,7 +73722,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73038,7 +73737,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73049,8 +73748,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "2",
       "objective_set_id": "10029",
+      "name": {
+        "en": "Hossin Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 15 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73065,7 +73767,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 25 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -73080,23 +73782,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 5 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5942",
-      "directive_tree_id": "140",
-      "directive_tier_id": "2",
-      "objective_set_id": "10032",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5943",
@@ -73107,7 +73797,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73122,7 +73812,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73133,8 +73823,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "3",
       "objective_set_id": "10035",
+      "name": {
+        "en": "Hossin Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 100 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73149,7 +73842,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 100 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -73164,23 +73857,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 20 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5948",
-      "directive_tree_id": "140",
-      "directive_tier_id": "3",
-      "objective_set_id": "10038",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5949",
@@ -73191,7 +73872,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73206,7 +73887,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73217,8 +73898,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "4",
       "objective_set_id": "10041",
+      "name": {
+        "en": "Hossin Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 2500 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73233,7 +73917,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 1000 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -73248,23 +73932,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 100 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5954",
-      "directive_tree_id": "140",
-      "directive_tier_id": "4",
-      "objective_set_id": "10044",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5955",
@@ -73275,7 +73947,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73286,8 +73958,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "1",
       "objective_set_id": "10046",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73302,7 +73977,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73313,8 +73988,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "1",
       "objective_set_id": "10048",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73329,7 +74007,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73344,7 +74022,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73355,8 +74033,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "2",
       "objective_set_id": "10051",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73367,8 +74048,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "2",
       "objective_set_id": "10052",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73383,7 +74067,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73394,8 +74078,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "3",
       "objective_set_id": "10054",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73406,8 +74093,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "3",
       "objective_set_id": "10055",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73422,7 +74112,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73433,8 +74123,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "4",
       "objective_set_id": "10057",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73445,8 +74138,11 @@
       "directive_tree_id": "140",
       "directive_tier_id": "4",
       "objective_set_id": "10058",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73461,7 +74157,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73476,7 +74172,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73491,7 +74187,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73506,7 +74202,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73517,8 +74213,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "1",
       "objective_set_id": "10063",
+      "name": {
+        "en": "Amerish Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 1 Point Control Ribbon."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73533,7 +74232,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 10 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -73548,23 +74247,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 1 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5976",
-      "directive_tree_id": "141",
-      "directive_tier_id": "1",
-      "objective_set_id": "10066",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5977",
@@ -73575,7 +74262,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73590,7 +74277,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73601,8 +74288,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "2",
       "objective_set_id": "10069",
+      "name": {
+        "en": "Amerish Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 15 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73617,7 +74307,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 25 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -73632,23 +74322,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 5 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5982",
-      "directive_tree_id": "141",
-      "directive_tier_id": "2",
-      "objective_set_id": "10072",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5983",
@@ -73659,7 +74337,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73674,7 +74352,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73685,8 +74363,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "3",
       "objective_set_id": "10075",
+      "name": {
+        "en": "Amerish Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 100 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73701,7 +74382,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 100 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -73716,23 +74397,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 20 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5988",
-      "directive_tree_id": "141",
-      "directive_tier_id": "3",
-      "objective_set_id": "10078",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5989",
@@ -73743,7 +74412,7 @@
         "en": "Amp Station Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Amp Stations 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73758,7 +74427,7 @@
         "en": "Amp Station Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Amp Stations 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73769,8 +74438,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "4",
       "objective_set_id": "10081",
+      "name": {
+        "en": "Amerish Point Control"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Earn 2500 Point Control Ribbons."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73785,7 +74457,7 @@
         "en": "Vehicle to Vehicle Destruction"
       },
       "description": {
-        "en": "TEST"
+        "en": "Destroy 1000 vehicles while in another vehicle."
       },
       "image_set_id": "13581",
       "image_id": "77985",
@@ -73800,23 +74472,11 @@
         "en": "Alert Completions"
       },
       "description": {
-        "en": "TEST"
+        "en": "Complete 100 alerts."
       },
       "image_set_id": "14101",
       "image_id": "79524",
       "image_path": "/files/ps2/images/static/79524.png"
-    },
-    {
-      "directive_id": "5994",
-      "directive_tree_id": "141",
-      "directive_tier_id": "4",
-      "objective_set_id": "10084",
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "804410",
-      "image_id": "89259",
-      "image_path": "/files/ps2/images/static/89259.png"
     },
     {
       "directive_id": "5995",
@@ -73827,7 +74487,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73838,8 +74498,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "1",
       "objective_set_id": "10086",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 1 time."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73854,7 +74517,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73865,8 +74528,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "1",
       "objective_set_id": "10088",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 2 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73881,7 +74547,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73896,7 +74562,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73907,8 +74573,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "2",
       "objective_set_id": "10091",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 15 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73919,8 +74588,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "2",
       "objective_set_id": "10092",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 30 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73935,7 +74607,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73946,8 +74618,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "3",
       "objective_set_id": "10094",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 25 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73958,8 +74633,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "3",
       "objective_set_id": "10095",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73974,7 +74652,7 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 50 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73985,8 +74663,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "4",
       "objective_set_id": "10097",
+      "name": {
+        "en": "Bio Lab Capture"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Capture Bio Labs 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -73997,8 +74678,11 @@
       "directive_tree_id": "141",
       "directive_tier_id": "4",
       "objective_set_id": "10098",
+      "name": {
+        "en": "Bio Lab Defense"
+      },
       "description": {
-        "en": "TEST"
+        "en": "Defend Bio Labs 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -74013,7 +74697,7 @@
         "en": "Tech Plant Capture"
       },
       "description": {
-        "en": "TEST"
+        "en": "Capture Tech Plants 100 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
@@ -74028,12 +74712,672 @@
         "en": "Tech Plant Defense"
       },
       "description": {
-        "en": "TEST"
+        "en": "Defend Tech Plants 250 times."
       },
       "image_set_id": "14058",
       "image_id": "79481",
       "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6011",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10101",
+      "name": {
+        "en": "Containment Site Capture"
+      },
+      "description": {
+        "en": "Capture Containment Sites 1 time."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6012",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10102",
+      "name": {
+        "en": "Containment Site Defense"
+      },
+      "description": {
+        "en": "Defend Containment Sites 2 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6013",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10103",
+      "name": {
+        "en": "Esamir Point Control"
+      },
+      "description": {
+        "en": "Earn 1 Point Control Ribbon."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6014",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10104",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "Destroy 10 vehicles while in another vehicle."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "6015",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10105",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "Complete 1 alerts."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "6017",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10107",
+      "name": {
+        "en": "Containment Site Capture"
+      },
+      "description": {
+        "en": "Capture Containment Sites 15 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6018",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10108",
+      "name": {
+        "en": "Containment Site Defense"
+      },
+      "description": {
+        "en": "Defend Containment Sites 30 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6019",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10109",
+      "name": {
+        "en": "Esamir Point Control"
+      },
+      "description": {
+        "en": "Earn 15 Point Control Ribbons."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6020",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10110",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "Destroy 25 vehicles while in another vehicle."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "6021",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10111",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "Complete 5 alerts."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "6023",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10113",
+      "name": {
+        "en": "Containment Site Capture"
+      },
+      "description": {
+        "en": "Capture Containment Sites 25 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6024",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10114",
+      "name": {
+        "en": "Containment Site Defense"
+      },
+      "description": {
+        "en": "Defend Containment Sites 50 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6025",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10115",
+      "name": {
+        "en": "Esamir Point Control"
+      },
+      "description": {
+        "en": "Earn 100 Point Control Ribbons."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6026",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10116",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "Destroy 100 vehicles while in another vehicle."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "6027",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10117",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "Complete 20 alerts."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "6029",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10119",
+      "name": {
+        "en": "Containment Site Capture"
+      },
+      "description": {
+        "en": "Capture Containment Sites 100 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6030",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10120",
+      "name": {
+        "en": "Containment Site Defense"
+      },
+      "description": {
+        "en": "Defend Containment Sites 250 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6031",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10121",
+      "name": {
+        "en": "Esamir Point Control"
+      },
+      "description": {
+        "en": "Earn 2500 Point Control Ribbons."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6032",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10122",
+      "name": {
+        "en": "Vehicle to Vehicle Destruction"
+      },
+      "description": {
+        "en": "Destroy 1000 vehicles while in another vehicle."
+      },
+      "image_set_id": "13581",
+      "image_id": "77985",
+      "image_path": "/files/ps2/images/static/77985.png"
+    },
+    {
+      "directive_id": "6033",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10123",
+      "name": {
+        "en": "Alert Completions"
+      },
+      "description": {
+        "en": "Complete 100 alerts."
+      },
+      "image_set_id": "14101",
+      "image_id": "79524",
+      "image_path": "/files/ps2/images/static/79524.png"
+    },
+    {
+      "directive_id": "6035",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10125",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "Capture Tech Plants 1 time."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6036",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10126",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "Capture Amp Stations 1 time."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6037",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10127",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "Defend Tech Plants 2 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6038",
+      "directive_tree_id": "142",
+      "directive_tier_id": "1",
+      "objective_set_id": "10128",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "Defend Amp Stations 2 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6039",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10129",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "Capture Tech Plants 15 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6040",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10130",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "Defend Tech Plants 30 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6041",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10131",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "Capture Amp Stations 15 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6042",
+      "directive_tree_id": "142",
+      "directive_tier_id": "2",
+      "objective_set_id": "10132",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "Defend Amp Stations 30 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6043",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10133",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "Capture Tech Plants 25 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6044",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10134",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "Capture Amp Stations 25 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6045",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10135",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "Defend Amp Stations 50 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6046",
+      "directive_tree_id": "142",
+      "directive_tier_id": "3",
+      "objective_set_id": "10136",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "Defend Tech Plants 50 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6047",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10137",
+      "name": {
+        "en": "Amp Station Capture"
+      },
+      "description": {
+        "en": "Capture Amp Stations 100 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6048",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10138",
+      "name": {
+        "en": "Amp Station Defense"
+      },
+      "description": {
+        "en": "Defend Amp Stations 250 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6049",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10139",
+      "name": {
+        "en": "Tech Plant Capture"
+      },
+      "description": {
+        "en": "Capture Tech Plants 100 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6050",
+      "directive_tree_id": "142",
+      "directive_tier_id": "4",
+      "objective_set_id": "10140",
+      "name": {
+        "en": "Tech Plant Defense"
+      },
+      "description": {
+        "en": "Defend Tech Plants 250 times."
+      },
+      "image_set_id": "14058",
+      "image_id": "79481",
+      "image_path": "/files/ps2/images/static/79481.png"
+    },
+    {
+      "directive_id": "6051",
+      "directive_tree_id": "17",
+      "directive_tier_id": "2",
+      "objective_set_id": "10141",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6052",
+      "directive_tree_id": "127",
+      "directive_tier_id": "2",
+      "objective_set_id": "10142",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6054",
+      "directive_tree_id": "127",
+      "directive_tier_id": "4",
+      "objective_set_id": "10144",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6055",
+      "directive_tree_id": "127",
+      "directive_tier_id": "1",
+      "objective_set_id": "10145",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6056",
+      "directive_tree_id": "127",
+      "directive_tier_id": "3",
+      "objective_set_id": "10146",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6059",
+      "directive_tree_id": "17",
+      "directive_tier_id": "3",
+      "objective_set_id": "10149",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6060",
+      "directive_tree_id": "17",
+      "directive_tier_id": "1",
+      "objective_set_id": "10150",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6061",
+      "directive_tree_id": "17",
+      "directive_tier_id": "4",
+      "objective_set_id": "10151",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 4827
+  "returned": 4907
 }

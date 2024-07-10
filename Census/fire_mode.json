@@ -30974,6 +30974,30 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "527",
+      "item_id": "6015614",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "339",
+      "cof_recoil": "0.12",
+      "reload_time_ms": "3000",
+      "default_zoom": "1",
+      "speed": "10",
+      "max_speed": "95",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Engineer Turret - MANA Anti-Vehicle",
+      "damage_type": "Damage",
+      "damage": "700",
+      "damage_resist_type": "7",
+      "indirect_damage_max": "250",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "535",
       "item_id": "5204",
       "type": "primary",
@@ -31331,6 +31355,69 @@
       "damage_resist_type": "4"
     },
     {
+      "fire_mode_id": "536",
+      "item_id": "6015582",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "536",
+      "item_id": "6015591",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "536",
+      "item_id": "6015592",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
       "fire_mode_id": "537",
       "item_id": "5200",
       "type": "primary",
@@ -31438,6 +31525,90 @@
     {
       "fire_mode_id": "537",
       "item_id": "6005853",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "537",
+      "item_id": "6015593",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "537",
+      "item_id": "6015594",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "537",
+      "item_id": "6015611",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "537",
+      "item_id": "6015612",
       "type": "primary",
       "description": {
         "en": "Auto"
@@ -31814,6 +31985,69 @@
       "damage_resist_type": "4"
     },
     {
+      "fire_mode_id": "539",
+      "item_id": "6015582",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "539",
+      "item_id": "6015591",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "539",
+      "item_id": "6015592",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - NC",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
       "fire_mode_id": "540",
       "item_id": "5200",
       "type": "secondary",
@@ -31921,6 +32155,90 @@
     {
       "fire_mode_id": "540",
       "item_id": "6005853",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "540",
+      "item_id": "6015593",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "540",
+      "item_id": "6015594",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "540",
+      "item_id": "6015611",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "341",
+      "reload_time_ms": "3000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "750",
+      "projectile_description": "Vehicle - Air 20mm HMG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "200",
+      "damage_max": "250",
+      "damage_min_range": "350",
+      "damage_max_range": "250",
+      "damage_target_type": "2",
+      "damage_resist_type": "4"
+    },
+    {
+      "fire_mode_id": "540",
+      "item_id": "6015612",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -109294,6 +109612,30 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "81170",
+      "item_id": "6015614",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "43",
+      "cof_recoil": "0.12",
+      "reload_time_ms": "3000",
+      "default_zoom": "1.35",
+      "speed": "10",
+      "max_speed": "95",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Engineer Turret - MANA Anti-Vehicle",
+      "damage_type": "Damage",
+      "damage": "700",
+      "damage_resist_type": "7",
+      "indirect_damage_max": "250",
+      "indirect_damage_max_range": "0.5",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "81171",
       "item_id": "801463",
       "type": "primary",
@@ -120236,7 +120578,115 @@
       "damage_max_range": "8",
       "damage_target_type": "2",
       "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81453",
+      "item_id": "801646",
+      "type": "primary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16003",
+      "cof_recoil": "0.4",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: Primed Diamond (2024)",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81453",
+      "item_id": "6015620",
+      "type": "primary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16003",
+      "cof_recoil": "0.4",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: Primed Diamond (2024)",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81454",
+      "item_id": "801646",
+      "type": "secondary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16004",
+      "cof_recoil": "0.2",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: Primed Diamond (2024)",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "81454",
+      "item_id": "6015620",
+      "type": "secondary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "16004",
+      "cof_recoil": "0.2",
+      "reload_time_ms": "3000",
+      "reload_chamber_time_ms": "1000",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "muzzle_velocity": "450",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NS: Pistol 01: Semi: Primed Diamond (2024)",
+      "damage_type": "DamageFalloff",
+      "damage_min": "225",
+      "damage_max": "450",
+      "damage_min_range": "42",
+      "damage_max_range": "8",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
     }
   ],
-  "returned": 4880
+  "returned": 4900
 }

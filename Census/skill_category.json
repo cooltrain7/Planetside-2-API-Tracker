@@ -90,7 +90,7 @@
       "skill_set_index": "0",
       "skill_points": "0",
       "name": {
-        "en": "Performance Slot"
+        "en": "Cargo Slot"
       },
       "image_set_id": "1",
       "image_id": "35",
@@ -102,7 +102,7 @@
       "skill_set_index": "0",
       "skill_points": "0",
       "name": {
-        "en": "Utility Slot"
+        "en": "Deployment Slot"
       },
       "image_set_id": "1",
       "image_id": "35",
@@ -2526,7 +2526,7 @@
       "skill_set_index": "0",
       "skill_points": "0",
       "name": {
-        "en": "Defense Slot"
+        "en": "Armor Slot"
       },
       "image_set_id": "1",
       "image_id": "35",

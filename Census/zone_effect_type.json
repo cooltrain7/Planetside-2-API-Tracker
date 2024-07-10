@@ -159,14 +159,16 @@
       "description": "Spawn Npc",
       "param1": "NpcDefinitionId",
       "param2": "NpcHeading",
-      "param3": "0 at source, 1 at target, 2 near source, 3 drop, 4 drop to forward",
+      "param3": "Spawn Type",
       "param4": "NpcDisposition",
       "param5": "MaxCount",
       "param6": "OffsetMult",
       "param7": "MinAltitude",
       "param8": "MaxAltitude",
-      "param9": "SweepSphereRadius",
-      "param10": "FailMessage"
+      "param9": "CollisionSphereRadius",
+      "param10": "FailMessage",
+      "param11": "UseSourceFacing",
+      "param12": "SetOwner"
     },
     {
       "zone_effect_type_id": "26",
@@ -442,7 +444,25 @@
       "param3": "One Way",
       "param4": "Operand",
       "string1": "Value Name"
+    },
+    {
+      "zone_effect_type_id": "476",
+      "param1": "Cooldown",
+      "param2": "HealthBase ((regenRate + HealBase) * HealMult * deltaSeconds) default :-100",
+      "param3": "HealthMult  default :100",
+      "param4": "Hit FX",
+      "param5": "Reapir FX",
+      "param6": "DamageType",
+      "param7": "DamageType",
+      "param8": "DamageType",
+      "param9": "DamageType",
+      "param10": "DamageType",
+      "param11": "DamageType",
+      "param12": "DamageType",
+      "param13": "DamageType",
+      "param14": "DamageType",
+      "string1": "DamageType"
     }
   ],
-  "returned": 60
+  "returned": 61
 }

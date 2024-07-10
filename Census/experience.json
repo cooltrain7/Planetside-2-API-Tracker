@@ -11025,7 +11025,49 @@
       "description": "Install Construction Module: Tunnel Worm",
       "xp": "50",
       "experience_award_type_id": "102"
+    },
+    {
+      "experience_id": "2151",
+      "description": "Destroy Sunderer - Cargo",
+      "xp": "25",
+      "experience_award_type_id": "1"
+    },
+    {
+      "experience_id": "2152",
+      "description": "Vehicle Ram Kill - Sunderer - Cargo",
+      "xp": "20",
+      "experience_award_type_id": "37"
+    },
+    {
+      "experience_id": "2153",
+      "description": "Vehicle Repair - Sunderer - Cargo",
+      "xp": "5",
+      "experience_award_type_id": "6"
+    },
+    {
+      "experience_id": "2154",
+      "description": "Kill Assist - Sunderer - Cargo",
+      "xp": "25",
+      "experience_award_type_id": "2"
+    },
+    {
+      "experience_id": "2156",
+      "description": "Squad Repair - Sunderer - Cargo",
+      "xp": "10",
+      "experience_award_type_id": "40"
+    },
+    {
+      "experience_id": "2157",
+      "description": "Spot Kill - Sunderer - Cargo",
+      "xp": "20",
+      "experience_award_type_id": "31"
+    },
+    {
+      "experience_id": "2158",
+      "description": "Squad Spot Kill - Sunderer - Cargo",
+      "xp": "30",
+      "experience_award_type_id": "43"
     }
   ],
-  "returned": 1839
+  "returned": 1846
 }

@@ -976,8 +976,31 @@
       "image_set_id": "0"
     },
     {
+      "directive_tree_id": "136",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Operation: Lightseeker"
+      },
+      "description": {
+        "en": "Available through August 6th"
+      }
+    },
+    {
+      "directive_tree_id": "137",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Operation: Groundbreaker"
+      },
+      "description": {
+        "en": "Available through September 6th"
+      }
+    },
+    {
       "directive_tree_id": "139",
       "directive_tree_category_id": "5",
+      "name": {
+        "en": "Conquest - Indar"
+      },
       "image_set_id": "14163",
       "image_id": "79586",
       "image_path": "/files/ps2/images/static/79586.png"
@@ -985,6 +1008,9 @@
     {
       "directive_tree_id": "140",
       "directive_tree_category_id": "5",
+      "name": {
+        "en": "Conquest - Hossin"
+      },
       "image_set_id": "14163",
       "image_id": "79586",
       "image_path": "/files/ps2/images/static/79586.png"
@@ -992,10 +1018,23 @@
     {
       "directive_tree_id": "141",
       "directive_tree_category_id": "5",
+      "name": {
+        "en": "Conquest - Amerish"
+      },
+      "image_set_id": "14163",
+      "image_id": "79586",
+      "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+      "directive_tree_id": "142",
+      "directive_tree_category_id": "5",
+      "name": {
+        "en": "Conquest - Esamir"
+      },
       "image_set_id": "14163",
       "image_id": "79586",
       "image_path": "/files/ps2/images/static/79586.png"
     }
   ],
-  "returned": 99
+  "returned": 102
 }
