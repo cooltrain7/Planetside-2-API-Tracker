@@ -589,6 +589,7 @@
 804846,Infantry Abilities,0,Cert Fountain,0,
 6009460,Infantry Abilities,0,Metal Detector,0,
 6004560,Infantry Abilities,0,Meteorite,,
+6015514,Infantry Abilities,0,NE Scanner Tool,0,
 6013328,Infantry Abilities,0,NS NanoCaster,0,
 6005102,Infantry Abilities,0,Pumpking Slayer,,
 310,Infantry Abilities,0,Stealth Test,2,
@@ -1284,6 +1285,7 @@
 6009464,Mosquito Wing Mount,1,Havoc Missiles,3,none
 5051,Mosquito Wing Mount,1,Hornet Missiles,3,none
 4905,Mosquito Wing Mount,1,Tomcat A2AM Pods,3,none
+6015620,Pistol,0,"NS-44 ""Primed Diamond"" Commissioner",0,infantry
 21,Pistol,0,Beamer VS3,1,infantry
 7403,Pistol,0,Beamer VS3-FB,1,infantry
 7413,Pistol,0,Cerberus,1,infantry
@@ -1327,7 +1329,7 @@
 6014537,Pistol,0,"NS-61 ""Jackrabbit"" Emissary",0,infantry
 6008666,Pistol,0,"NS-61 ""Networked"" Emissary",,infantry
 6002640,Pistol,0,"NS-61 ""Ravenous"" Emissary",,infantry
-6015090,Pistol,0,"NS-61 ""Wartime"" Emissary",,infantry
+6015090,Pistol,0,"NS-61 ""Wartime"" Emissary",0,infantry
 804405,Pistol,0,NS-61B Emissary,,infantry
 804428,Pistol,0,NS-61G Emissary,,infantry
 6011154,Pistol,0,NSX Yawara,,infantry
