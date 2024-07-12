@@ -1285,7 +1285,6 @@
 6009464,Mosquito Wing Mount,1,Havoc Missiles,3,none
 5051,Mosquito Wing Mount,1,Hornet Missiles,3,none
 4905,Mosquito Wing Mount,1,Tomcat A2AM Pods,3,none
-6015620,Pistol,0,"NS-44 ""Primed Diamond"" Commissioner",0,infantry
 21,Pistol,0,Beamer VS3,1,infantry
 7403,Pistol,0,Beamer VS3-FB,1,infantry
 7413,Pistol,0,Cerberus,1,infantry
@@ -1305,6 +1304,7 @@
 75063,Pistol,0,NS-44 Commissioner,,infantry
 6011930,Pistol,0,"NS-44 ""Jackpot"" Commissioner",,infantry
 6015212,Pistol,0,"NS-44 ""Primed Amethyst"" Commissioner",0,infantry
+6015620,Pistol,0,"NS-44 ""Primed Diamond"" Commissioner",0,infantry
 6015519,Pistol,0,"NS-44 ""Primed Lapis"" Commissioner",0,infantry
 6015440,Pistol,0,"NS-44 ""Primed Ruby"" Commissioner",0,infantry
 803824,Pistol,0,NS-44 Commissioner AE,1,infantry
