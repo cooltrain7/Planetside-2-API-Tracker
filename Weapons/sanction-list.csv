@@ -586,6 +586,7 @@
 6004168,Heavy Weapon,0,T7-P Mini-Chaingun,3,none
 6011152,Hybrid Rifle,0,NSX Kuwa,0,infantry-explosive
 6005967,Hybrid Rifle,0,NSX-A Kuwa,4,infantry-explosive
+6015514,Infantry Abilities,0,,0,
 804846,Infantry Abilities,0,Cert Fountain,0,
 6009460,Infantry Abilities,0,Metal Detector,0,
 6004560,Infantry Abilities,0,Meteorite,,
@@ -1284,6 +1285,7 @@
 6009464,Mosquito Wing Mount,1,Havoc Missiles,3,none
 5051,Mosquito Wing Mount,1,Hornet Missiles,3,none
 4905,Mosquito Wing Mount,1,Tomcat A2AM Pods,3,none
+6015620,Pistol,0,"NS-44 ""Primed Diamond"" Commissioner",0,infantry
 21,Pistol,0,Beamer VS3,1,infantry
 7403,Pistol,0,Beamer VS3-FB,1,infantry
 7413,Pistol,0,Cerberus,1,infantry
