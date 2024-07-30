@@ -7053,66 +7053,6 @@
       "param9": "0"
     },
     {
-      "effect_id": "2183",
-      "effect_type_id": "47",
-      "ability_id": "1247",
-      "resist_type_id": "0",
-      "is_drain": "0",
-      "param5": "0",
-      "param6": "0",
-      "param7": "0",
-      "param8": "0",
-      "param9": "0"
-    },
-    {
-      "effect_id": "2184",
-      "effect_type_id": "47",
-      "ability_id": "1248",
-      "resist_type_id": "0",
-      "is_drain": "0",
-      "param5": "0",
-      "param6": "0",
-      "param7": "0",
-      "param8": "0",
-      "param9": "0"
-    },
-    {
-      "effect_id": "2185",
-      "effect_type_id": "47",
-      "ability_id": "1249",
-      "resist_type_id": "0",
-      "is_drain": "0",
-      "param5": "0",
-      "param6": "0",
-      "param7": "0",
-      "param8": "0",
-      "param9": "0"
-    },
-    {
-      "effect_id": "2186",
-      "effect_type_id": "47",
-      "ability_id": "1250",
-      "resist_type_id": "0",
-      "is_drain": "0",
-      "param5": "0",
-      "param6": "0",
-      "param7": "0",
-      "param8": "0",
-      "param9": "0"
-    },
-    {
-      "effect_id": "2187",
-      "effect_type_id": "47",
-      "ability_id": "1251",
-      "resist_type_id": "0",
-      "is_drain": "0",
-      "param5": "0",
-      "param6": "0",
-      "param7": "0",
-      "param8": "0",
-      "param9": "0"
-    },
-    {
       "effect_id": "2188",
       "effect_type_id": "47",
       "ability_id": "1252",
@@ -24808,5 +24748,5 @@
       "param9": "0"
     }
   ],
-  "returned": 1683
+  "returned": 1678
 }
