@@ -4697,56 +4697,6 @@
       "string1": "Resources.RegenValuePerMsec"
     },
     {
-      "zone_effect_id": "2183",
-      "zone_effect_type_id": "11",
-      "ability_id": "1247",
-      "param1": "1",
-      "param2": "0",
-      "param3": "0.025",
-      "param5": "4",
-      "string1": "Resources.RegenValuePerMsec"
-    },
-    {
-      "zone_effect_id": "2184",
-      "zone_effect_type_id": "11",
-      "ability_id": "1248",
-      "param1": "1",
-      "param2": "0",
-      "param3": "0.0313",
-      "param5": "4",
-      "string1": "Resources.RegenValuePerMsec"
-    },
-    {
-      "zone_effect_id": "2185",
-      "zone_effect_type_id": "11",
-      "ability_id": "1249",
-      "param1": "1",
-      "param2": "0",
-      "param3": "0.0375",
-      "param5": "4",
-      "string1": "Resources.RegenValuePerMsec"
-    },
-    {
-      "zone_effect_id": "2186",
-      "zone_effect_type_id": "11",
-      "ability_id": "1250",
-      "param1": "1",
-      "param2": "0",
-      "param3": "0.0438",
-      "param5": "4",
-      "string1": "Resources.RegenValuePerMsec"
-    },
-    {
-      "zone_effect_id": "2187",
-      "zone_effect_type_id": "11",
-      "ability_id": "1251",
-      "param1": "1",
-      "param2": "0",
-      "param3": "0.05",
-      "param5": "4",
-      "string1": "Resources.RegenValuePerMsec"
-    },
-    {
       "zone_effect_id": "2188",
       "zone_effect_type_id": "11",
       "ability_id": "1252",
@@ -15091,30 +15041,6 @@
       "param2": "1968"
     },
     {
-      "zone_effect_id": "4304",
-      "zone_effect_type_id": "40",
-      "ability_id": "2014",
-      "param2": "1969"
-    },
-    {
-      "zone_effect_id": "4305",
-      "zone_effect_type_id": "40",
-      "ability_id": "2015",
-      "param2": "1969"
-    },
-    {
-      "zone_effect_id": "4306",
-      "zone_effect_type_id": "40",
-      "ability_id": "2016",
-      "param2": "1969"
-    },
-    {
-      "zone_effect_id": "4307",
-      "zone_effect_type_id": "40",
-      "ability_id": "2017",
-      "param2": "1969"
-    },
-    {
       "zone_effect_id": "4308",
       "zone_effect_type_id": "40",
       "ability_id": "2018",
@@ -15357,34 +15283,6 @@
       "ability_id": "2013",
       "param1": "1",
       "param2": "300"
-    },
-    {
-      "zone_effect_id": "4348",
-      "zone_effect_type_id": "54",
-      "ability_id": "2014",
-      "param1": "1",
-      "param2": "1000"
-    },
-    {
-      "zone_effect_id": "4349",
-      "zone_effect_type_id": "54",
-      "ability_id": "2015",
-      "param1": "1",
-      "param2": "1000"
-    },
-    {
-      "zone_effect_id": "4350",
-      "zone_effect_type_id": "54",
-      "ability_id": "2016",
-      "param1": "1",
-      "param2": "1000"
-    },
-    {
-      "zone_effect_id": "4351",
-      "zone_effect_type_id": "54",
-      "ability_id": "2017",
-      "param1": "1",
-      "param2": "1000"
     },
     {
       "zone_effect_id": "4352",
@@ -24020,276 +23918,6 @@
       "string1": "DynamicsInfo.TurnRate"
     },
     {
-      "zone_effect_id": "21384",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "-0.4",
-      "param5": "0",
-      "string1": "DynamicsInfo.CenterOfGravityY"
-    },
-    {
-      "zone_effect_id": "21385",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "7",
-      "param5": "0",
-      "string1": "WheelInfo.MaxSteer"
-    },
-    {
-      "zone_effect_id": "21386",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "21",
-      "param3": "7",
-      "param5": "0",
-      "string1": "WheelInfo.MaxSteer"
-    },
-    {
-      "zone_effect_id": "21387",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "0.4",
-      "param5": "0",
-      "string1": "TireInfo.CamberStiff"
-    },
-    {
-      "zone_effect_id": "21388",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "0.2",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21389",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "21",
-      "param3": "0.3",
-      "param5": "0",
-      "string1": "TireInfo.CamberStiff"
-    },
-    {
-      "zone_effect_id": "21390",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "21",
-      "param3": "0.2",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21391",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "15",
-      "param5": "0",
-      "string1": "DynamicsInfo.TurnRate"
-    },
-    {
-      "zone_effect_id": "21392",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "1",
-      "param5": "0",
-      "string1": "EngineInfo.ClutchStrength"
-    },
-    {
-      "zone_effect_id": "21393",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "0.2",
-      "param5": "0",
-      "string1": "EngineInfo.DisengagedClutchDamp"
-    },
-    {
-      "zone_effect_id": "21394",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "0.0500000000000001",
-      "param5": "0",
-      "string1": "EngineInfo.EngagedClutchDamp"
-    },
-    {
-      "zone_effect_id": "21395",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "5000",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21396",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "21",
-      "param3": "5000",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21397",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "22",
-      "param3": "5000",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21398",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "22",
-      "param3": "40000",
-      "param5": "0",
-      "string1": "WheelInfo.MaxHandBrake"
-    },
-    {
-      "zone_effect_id": "21399",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "23",
-      "param3": "5000",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21400",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "23",
-      "param3": "40000",
-      "param5": "0",
-      "string1": "WheelInfo.MaxHandBrake"
-    },
-    {
-      "zone_effect_id": "21401",
-      "zone_effect_type_id": "26",
-      "ability_id": "2161",
-      "param1": "20",
-      "param3": "4",
-      "param5": "0",
-      "string1": "EngineInfo.ReverseGear"
-    },
-    {
-      "zone_effect_id": "21402",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "10",
-      "param5": "0",
-      "string1": "DynamicsInfo.MaxVelocity"
-    },
-    {
-      "zone_effect_id": "21403",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "-1",
-      "param5": "0",
-      "string1": "EngineInfo.FirstGear"
-    },
-    {
-      "zone_effect_id": "21404",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "-2",
-      "param5": "0",
-      "string1": "EngineInfo.SecondGear"
-    },
-    {
-      "zone_effect_id": "21405",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "-2",
-      "param5": "0",
-      "string1": "EngineInfo.ThirdGear"
-    },
-    {
-      "zone_effect_id": "21406",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "-1.8",
-      "param5": "0",
-      "string1": "EngineInfo.FourthGear"
-    },
-    {
-      "zone_effect_id": "21407",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "2",
-      "param5": "0",
-      "string1": "EngineInfo.ReverseGear"
-    },
-    {
-      "zone_effect_id": "21408",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "-1.3333",
-      "param5": "0",
-      "string1": "EngineInfo.SwitchGearTime"
-    },
-    {
-      "zone_effect_id": "21409",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "10",
-      "param5": "0",
-      "string1": "MoveInfo.EstMaxSpeed"
-    },
-    {
-      "zone_effect_id": "21410",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "4000",
-      "param5": "0",
-      "string1": "EngineInfo.PeakTorque"
-    },
-    {
-      "zone_effect_id": "21411",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "0.2",
-      "param5": "0",
-      "string1": "EngineInfo.TorqueCurveY"
-    },
-    {
-      "zone_effect_id": "21412",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "20",
-      "param3": "0.5",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21413",
-      "zone_effect_type_id": "26",
-      "ability_id": "2162",
-      "param1": "21",
-      "param3": "0.25",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
       "zone_effect_id": "21414",
       "zone_effect_type_id": "26",
       "ability_id": "2163",
@@ -26329,276 +25957,6 @@
       "param3": "6.66666666666667",
       "param5": "0",
       "string1": "DynamicsInfo.TurnRate"
-    },
-    {
-      "zone_effect_id": "21647",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "-0.266666666666667",
-      "param5": "0",
-      "string1": "DynamicsInfo.CenterOfGravityY"
-    },
-    {
-      "zone_effect_id": "21648",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "4.66666666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxSteer"
-    },
-    {
-      "zone_effect_id": "21649",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "21",
-      "param3": "4.66666666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxSteer"
-    },
-    {
-      "zone_effect_id": "21650",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "0.266666666666667",
-      "param5": "0",
-      "string1": "TireInfo.CamberStiff"
-    },
-    {
-      "zone_effect_id": "21651",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "0.133333333333333",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21652",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "21",
-      "param3": "0.2",
-      "param5": "0",
-      "string1": "TireInfo.CamberStiff"
-    },
-    {
-      "zone_effect_id": "21653",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "21",
-      "param3": "0.133333333333333",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21654",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "10",
-      "param5": "0",
-      "string1": "DynamicsInfo.TurnRate"
-    },
-    {
-      "zone_effect_id": "21655",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "0.666666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.ClutchStrength"
-    },
-    {
-      "zone_effect_id": "21656",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "0.133333333333333",
-      "param5": "0",
-      "string1": "EngineInfo.DisengagedClutchDamp"
-    },
-    {
-      "zone_effect_id": "21657",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "0.0333333333333334",
-      "param5": "0",
-      "string1": "EngineInfo.EngagedClutchDamp"
-    },
-    {
-      "zone_effect_id": "21658",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "3333.33333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21659",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "21",
-      "param3": "3333.33333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21660",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "22",
-      "param3": "3333.33333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21661",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "22",
-      "param3": "26666.6666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxHandBrake"
-    },
-    {
-      "zone_effect_id": "21662",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "23",
-      "param3": "3333.33333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21663",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "23",
-      "param3": "26666.6666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxHandBrake"
-    },
-    {
-      "zone_effect_id": "21664",
-      "zone_effect_type_id": "26",
-      "ability_id": "2192",
-      "param1": "20",
-      "param3": "2.66666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.ReverseGear"
-    },
-    {
-      "zone_effect_id": "21665",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "6.66666666666667",
-      "param5": "0",
-      "string1": "DynamicsInfo.MaxVelocity"
-    },
-    {
-      "zone_effect_id": "21666",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "-0.666666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.FirstGear"
-    },
-    {
-      "zone_effect_id": "21667",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "-1.33333333333333",
-      "param5": "0",
-      "string1": "EngineInfo.SecondGear"
-    },
-    {
-      "zone_effect_id": "21668",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "-1.33333333333333",
-      "param5": "0",
-      "string1": "EngineInfo.ThirdGear"
-    },
-    {
-      "zone_effect_id": "21669",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "-1.2",
-      "param5": "0",
-      "string1": "EngineInfo.FourthGear"
-    },
-    {
-      "zone_effect_id": "21670",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "1.33",
-      "param5": "0",
-      "string1": "EngineInfo.ReverseGear"
-    },
-    {
-      "zone_effect_id": "21671",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "-0.888866666666667",
-      "param5": "0",
-      "string1": "EngineInfo.SwitchGearTime"
-    },
-    {
-      "zone_effect_id": "21672",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "6.66666666666667",
-      "param5": "0",
-      "string1": "MoveInfo.EstMaxSpeed"
-    },
-    {
-      "zone_effect_id": "21673",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "2666.66666666667",
-      "param5": "0",
-      "string1": "EngineInfo.PeakTorque"
-    },
-    {
-      "zone_effect_id": "21674",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "0.133333333333333",
-      "param5": "0",
-      "string1": "EngineInfo.TorqueCurveY"
-    },
-    {
-      "zone_effect_id": "21675",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "20",
-      "param3": "0.333333333333333",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21676",
-      "zone_effect_type_id": "26",
-      "ability_id": "2193",
-      "param1": "21",
-      "param3": "0.166666666666667",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
     },
     {
       "zone_effect_id": "21677",
@@ -28660,276 +28018,6 @@
       "param3": "3.33333333333333",
       "param5": "0",
       "string1": "DynamicsInfo.TurnRate"
-    },
-    {
-      "zone_effect_id": "21910",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "-0.133333333333333",
-      "param5": "0",
-      "string1": "DynamicsInfo.CenterOfGravityY"
-    },
-    {
-      "zone_effect_id": "21911",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "2.33333333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxSteer"
-    },
-    {
-      "zone_effect_id": "21912",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "21",
-      "param3": "2.33333333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxSteer"
-    },
-    {
-      "zone_effect_id": "21913",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "0.133333333333333",
-      "param5": "0",
-      "string1": "TireInfo.CamberStiff"
-    },
-    {
-      "zone_effect_id": "21914",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "0.0666666666666667",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21915",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "21",
-      "param3": "0.1",
-      "param5": "0",
-      "string1": "TireInfo.CamberStiff"
-    },
-    {
-      "zone_effect_id": "21916",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "21",
-      "param3": "0.0666666666666667",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21917",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "5",
-      "param5": "0",
-      "string1": "DynamicsInfo.TurnRate"
-    },
-    {
-      "zone_effect_id": "21918",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "0.333333333333333",
-      "param5": "0",
-      "string1": "EngineInfo.ClutchStrength"
-    },
-    {
-      "zone_effect_id": "21919",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "0.0666666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.DisengagedClutchDamp"
-    },
-    {
-      "zone_effect_id": "21920",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "0.0166666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.EngagedClutchDamp"
-    },
-    {
-      "zone_effect_id": "21921",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "1666.66666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21922",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "21",
-      "param3": "1666.66666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21923",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "22",
-      "param3": "1666.66666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21924",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "22",
-      "param3": "13333.3333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxHandBrake"
-    },
-    {
-      "zone_effect_id": "21925",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "23",
-      "param3": "1666.66666666667",
-      "param5": "0",
-      "string1": "WheelInfo.MaxBrake"
-    },
-    {
-      "zone_effect_id": "21926",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "23",
-      "param3": "13333.3333333333",
-      "param5": "0",
-      "string1": "WheelInfo.MaxHandBrake"
-    },
-    {
-      "zone_effect_id": "21927",
-      "zone_effect_type_id": "26",
-      "ability_id": "2194",
-      "param1": "20",
-      "param3": "1.33333333333333",
-      "param5": "0",
-      "string1": "EngineInfo.ReverseGear"
-    },
-    {
-      "zone_effect_id": "21928",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "3.33333333333333",
-      "param5": "0",
-      "string1": "DynamicsInfo.MaxVelocity"
-    },
-    {
-      "zone_effect_id": "21929",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "-0.333333333333333",
-      "param5": "0",
-      "string1": "EngineInfo.FirstGear"
-    },
-    {
-      "zone_effect_id": "21930",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "-0.666666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.SecondGear"
-    },
-    {
-      "zone_effect_id": "21931",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "-0.666666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.ThirdGear"
-    },
-    {
-      "zone_effect_id": "21932",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "-0.6",
-      "param5": "0",
-      "string1": "EngineInfo.FourthGear"
-    },
-    {
-      "zone_effect_id": "21933",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "0.6",
-      "param5": "0",
-      "string1": "EngineInfo.ReverseGear"
-    },
-    {
-      "zone_effect_id": "21934",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "-0.444433333333333",
-      "param5": "0",
-      "string1": "EngineInfo.SwitchGearTime"
-    },
-    {
-      "zone_effect_id": "21935",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "3.33333333333333",
-      "param5": "0",
-      "string1": "MoveInfo.EstMaxSpeed"
-    },
-    {
-      "zone_effect_id": "21936",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "1333.33333333333",
-      "param5": "0",
-      "string1": "EngineInfo.PeakTorque"
-    },
-    {
-      "zone_effect_id": "21937",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "0.0666666666666667",
-      "param5": "0",
-      "string1": "EngineInfo.TorqueCurveY"
-    },
-    {
-      "zone_effect_id": "21938",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "20",
-      "param3": "0.166666666666667",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
-    },
-    {
-      "zone_effect_id": "21939",
-      "zone_effect_type_id": "26",
-      "ability_id": "2195",
-      "param1": "21",
-      "param3": "0.0833333333333333",
-      "param5": "0",
-      "string1": "TireInfo.LongStiff"
     },
     {
       "zone_effect_id": "21940",
@@ -33093,30 +32181,6 @@
       "param1": "215"
     },
     {
-      "zone_effect_id": "24434",
-      "zone_effect_type_id": "41",
-      "ability_id": "6312",
-      "param1": "216"
-    },
-    {
-      "zone_effect_id": "24435",
-      "zone_effect_type_id": "41",
-      "ability_id": "6313",
-      "param1": "217"
-    },
-    {
-      "zone_effect_id": "24436",
-      "zone_effect_type_id": "41",
-      "ability_id": "6314",
-      "param1": "218"
-    },
-    {
-      "zone_effect_id": "24437",
-      "zone_effect_type_id": "41",
-      "ability_id": "6315",
-      "param1": "219"
-    },
-    {
       "zone_effect_id": "24438",
       "zone_effect_type_id": "33",
       "ability_id": "607",
@@ -33211,30 +32275,6 @@
       "zone_effect_type_id": "33",
       "ability_id": "6311",
       "param1": "615"
-    },
-    {
-      "zone_effect_id": "24454",
-      "zone_effect_type_id": "33",
-      "ability_id": "6312",
-      "param1": "616"
-    },
-    {
-      "zone_effect_id": "24455",
-      "zone_effect_type_id": "33",
-      "ability_id": "6313",
-      "param1": "617"
-    },
-    {
-      "zone_effect_id": "24456",
-      "zone_effect_type_id": "33",
-      "ability_id": "6314",
-      "param1": "618"
-    },
-    {
-      "zone_effect_id": "24457",
-      "zone_effect_type_id": "33",
-      "ability_id": "6315",
-      "param1": "619"
     },
     {
       "zone_effect_id": "25010",
@@ -47457,35 +46497,6 @@
       "param3": "11",
       "param5": "1",
       "string1": "FireMode.FullScreenEffect"
-    },
-    {
-      "zone_effect_id": "45770",
-      "zone_effect_type_id": "4",
-      "ability_id": "2014",
-      "param1": "150",
-      "param3": "0",
-      "param4": "0"
-    },
-    {
-      "zone_effect_id": "45771",
-      "zone_effect_type_id": "4",
-      "ability_id": "2015",
-      "param1": "150",
-      "param4": "0"
-    },
-    {
-      "zone_effect_id": "45772",
-      "zone_effect_type_id": "4",
-      "ability_id": "2016",
-      "param1": "150",
-      "param4": "0"
-    },
-    {
-      "zone_effect_id": "45773",
-      "zone_effect_type_id": "4",
-      "ability_id": "2017",
-      "param1": "150",
-      "param4": "0"
     },
     {
       "zone_effect_id": "45774",
@@ -63241,22 +62252,6 @@
       "param1": "46"
     },
     {
-      "zone_effect_id": "750264",
-      "zone_effect_type_id": "26",
-      "ability_id": "1111297",
-      "param1": "2",
-      "param3": "12",
-      "param5": "1",
-      "string1": "VehicleInfo.DeployInfoId"
-    },
-    {
-      "zone_effect_id": "750266",
-      "zone_effect_type_id": "9",
-      "ability_id": "1111297",
-      "param1": "397",
-      "param2": "0"
-    },
-    {
       "zone_effect_id": "750283",
       "zone_effect_type_id": "8",
       "ability_id": "1111302",
@@ -63309,54 +62304,6 @@
       "param2": "1",
       "param4": "-40",
       "string1": "FireMode.PelletSpread"
-    },
-    {
-      "zone_effect_id": "750292",
-      "zone_effect_type_id": "26",
-      "ability_id": "1111304",
-      "param1": "2",
-      "param3": "13",
-      "param5": "1",
-      "string1": "VehicleInfo.DeployInfoId"
-    },
-    {
-      "zone_effect_id": "750293",
-      "zone_effect_type_id": "9",
-      "ability_id": "1111304",
-      "param1": "398",
-      "param2": "0"
-    },
-    {
-      "zone_effect_id": "750294",
-      "zone_effect_type_id": "26",
-      "ability_id": "1111305",
-      "param1": "2",
-      "param3": "14",
-      "param5": "1",
-      "string1": "VehicleInfo.DeployInfoId"
-    },
-    {
-      "zone_effect_id": "750295",
-      "zone_effect_type_id": "9",
-      "ability_id": "1111305",
-      "param1": "399",
-      "param2": "0"
-    },
-    {
-      "zone_effect_id": "750296",
-      "zone_effect_type_id": "26",
-      "ability_id": "1111306",
-      "param1": "2",
-      "param3": "14",
-      "param5": "1",
-      "string1": "VehicleInfo.DeployInfoId"
-    },
-    {
-      "zone_effect_id": "750297",
-      "zone_effect_type_id": "9",
-      "ability_id": "1111306",
-      "param1": "400",
-      "param2": "0"
     },
     {
       "zone_effect_id": "750319",
@@ -76894,70 +75841,6 @@
       "param2": "0",
       "param3": "0",
       "param4": "0"
-    },
-    {
-      "zone_effect_id": "754529",
-      "zone_effect_type_id": "33",
-      "ability_id": "1112369",
-      "param1": "4508"
-    },
-    {
-      "zone_effect_id": "754530",
-      "zone_effect_type_id": "11",
-      "ability_id": "1112369",
-      "param1": "1",
-      "param2": "0",
-      "param3": "700",
-      "param5": "3",
-      "string1": "Resources.ValueMax"
-    },
-    {
-      "zone_effect_id": "754531",
-      "zone_effect_type_id": "33",
-      "ability_id": "1112370",
-      "param1": "4509"
-    },
-    {
-      "zone_effect_id": "754532",
-      "zone_effect_type_id": "11",
-      "ability_id": "1112370",
-      "param1": "1",
-      "param2": "0",
-      "param3": "800",
-      "param5": "3",
-      "string1": "Resources.ValueMax"
-    },
-    {
-      "zone_effect_id": "754533",
-      "zone_effect_type_id": "33",
-      "ability_id": "1112371",
-      "param1": "4510"
-    },
-    {
-      "zone_effect_id": "754534",
-      "zone_effect_type_id": "11",
-      "ability_id": "1112371",
-      "param1": "1",
-      "param2": "0",
-      "param3": "900",
-      "param5": "3",
-      "string1": "Resources.ValueMax"
-    },
-    {
-      "zone_effect_id": "754535",
-      "zone_effect_type_id": "33",
-      "ability_id": "1112372",
-      "param1": "4511"
-    },
-    {
-      "zone_effect_id": "754536",
-      "zone_effect_type_id": "11",
-      "ability_id": "1112372",
-      "param1": "1",
-      "param2": "0",
-      "param3": "1000",
-      "param5": "3",
-      "string1": "Resources.ValueMax"
     },
     {
       "zone_effect_id": "754539",
@@ -137899,14 +136782,15 @@
       "zone_effect_id": "769379",
       "zone_effect_type_id": "476",
       "ability_id": "1117839",
-      "param1": "60000",
+      "param1": "40000",
       "param2": "-110",
-      "param3": "20",
+      "param3": "40",
       "param4": "9333",
       "param5": "9334",
-      "param6": "7",
+      "param6": "1000",
       "param7": "9",
       "param8": "11",
+      "param9": "7",
       "param10": "23",
       "param11": "40",
       "param12": "45",
@@ -138596,7 +137480,7 @@
       "zone_effect_id": "769446",
       "zone_effect_type_id": "4",
       "ability_id": "1117856",
-      "param1": "105",
+      "param1": "58",
       "param2": "0",
       "param3": "1",
       "param4": "0",
@@ -138607,7 +137491,7 @@
       "zone_effect_id": "769447",
       "zone_effect_type_id": "4",
       "ability_id": "1117857",
-      "param1": "125",
+      "param1": "68",
       "param2": "0",
       "param3": "1",
       "param4": "0",
@@ -138618,7 +137502,7 @@
       "zone_effect_id": "769448",
       "zone_effect_type_id": "4",
       "ability_id": "1117858",
-      "param1": "145",
+      "param1": "80",
       "param2": "0",
       "param3": "1",
       "param4": "0",
@@ -138629,7 +137513,7 @@
       "zone_effect_id": "769449",
       "zone_effect_type_id": "4",
       "ability_id": "1117859",
-      "param1": "165",
+      "param1": "90",
       "param2": "0",
       "param3": "1",
       "param4": "0",
@@ -138646,7 +137530,7 @@
       "zone_effect_id": "769480",
       "zone_effect_type_id": "4",
       "ability_id": "1117869",
-      "param1": "1890",
+      "param1": "1610",
       "param2": "0"
     },
     {
@@ -138659,7 +137543,7 @@
       "zone_effect_id": "769482",
       "zone_effect_type_id": "4",
       "ability_id": "1117870",
-      "param1": "2250",
+      "param1": "1915",
       "param2": "0"
     },
     {
@@ -138672,7 +137556,7 @@
       "zone_effect_id": "769484",
       "zone_effect_type_id": "4",
       "ability_id": "1117871",
-      "param1": "2610",
+      "param1": "2220",
       "param2": "0"
     },
     {
@@ -138685,7 +137569,7 @@
       "zone_effect_id": "769486",
       "zone_effect_type_id": "4",
       "ability_id": "1117872",
-      "param1": "2970",
+      "param1": "2525",
       "param2": "0"
     },
     {
@@ -139571,14 +138455,15 @@
       "zone_effect_id": "769568",
       "zone_effect_type_id": "476",
       "ability_id": "1117897",
-      "param1": "55000",
+      "param1": "37000",
       "param2": "-110",
-      "param3": "20",
+      "param3": "40",
       "param4": "9333",
       "param5": "9334",
-      "param6": "7",
+      "param6": "1000",
       "param7": "9",
       "param8": "11",
+      "param9": "7",
       "param10": "23",
       "param11": "40",
       "param12": "45",
@@ -139779,14 +138664,15 @@
       "zone_effect_id": "769579",
       "zone_effect_type_id": "476",
       "ability_id": "1117898",
-      "param1": "50000",
+      "param1": "34000",
       "param2": "-110",
-      "param3": "20",
+      "param3": "40",
       "param4": "9333",
       "param5": "9334",
-      "param6": "7",
+      "param6": "1000",
       "param7": "9",
       "param8": "11",
+      "param9": "7",
       "param10": "23",
       "param11": "40",
       "param12": "45",
@@ -139987,14 +138873,15 @@
       "zone_effect_id": "769590",
       "zone_effect_type_id": "476",
       "ability_id": "1117899",
-      "param1": "45000",
+      "param1": "30000",
       "param2": "-110",
-      "param3": "20",
+      "param3": "40",
       "param4": "9333",
       "param5": "9334",
-      "param6": "7",
+      "param6": "1000",
       "param7": "9",
       "param8": "11",
+      "param9": "7",
       "param10": "23",
       "param11": "40",
       "param12": "45",
@@ -141290,5 +140177,5 @@
       "string1": "VehicleInfo.DeployInfoId"
     }
   ],
-  "returned": 14289
+  "returned": 14158
 }

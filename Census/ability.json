@@ -32680,25 +32680,25 @@
     {
       "ability_id": "1117869",
       "ability_type_id": "12",
-      "reuse_delay_msec": "60000",
+      "reuse_delay_msec": "65000",
       "flag_toggle": "0"
     },
     {
       "ability_id": "1117870",
       "ability_type_id": "12",
-      "reuse_delay_msec": "55000",
+      "reuse_delay_msec": "60000",
       "flag_toggle": "0"
     },
     {
       "ability_id": "1117871",
       "ability_type_id": "12",
-      "reuse_delay_msec": "50000",
+      "reuse_delay_msec": "55000",
       "flag_toggle": "0"
     },
     {
       "ability_id": "1117872",
       "ability_type_id": "12",
-      "reuse_delay_msec": "45000",
+      "reuse_delay_msec": "50000",
       "flag_toggle": "0"
     },
     {
