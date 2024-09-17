@@ -6544,7 +6544,31 @@
     {
       "weapon_id": "78841",
       "fire_group_id": "81030"
+    },
+    {
+      "weapon_id": "78845",
+      "fire_group_id": "81032"
+    },
+    {
+      "weapon_id": "78846",
+      "fire_group_id": "81033"
+    },
+    {
+      "weapon_id": "78847",
+      "fire_group_id": "81034"
+    },
+    {
+      "weapon_id": "78848",
+      "fire_group_id": "81035"
+    },
+    {
+      "weapon_id": "78849",
+      "fire_group_id": "81036"
+    },
+    {
+      "weapon_id": "78850",
+      "fire_group_id": "81037"
     }
   ],
-  "returned": 1359
+  "returned": 1365
 }

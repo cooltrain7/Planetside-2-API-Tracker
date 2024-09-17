@@ -107022,7 +107022,7 @@
         "en": "Reactive Armor"
       },
       "description": {
-        "en": "Stops a single instance of damage per side from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each shield regenerates independantly over time.  Regeneration can be sped up by overhealing the Sunderer which is applied to the shields in this order; Front, Left, Right, Rear, Top, Bottom"
+        "en": "Stops a single instance of damage per side from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each shield regenerates independantly over time.  Regeneration can be speed up by overhealing the Sunderer which is applied to the shields in this order; Front, Left, Right, Rear, Top, Bottom"
       },
       "image_set_id": "808028",
       "image_id": "97389",
