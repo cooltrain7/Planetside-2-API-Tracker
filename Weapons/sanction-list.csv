@@ -715,6 +715,54 @@
 6003075,Infantry Abilities,0,Cortium Tap,,none
 803469,Infantry Abilities,0,Deconstruction Tool,,none
 6014738,Infantry Abilities,0,Durability Module,0,none
+6015682,Infantry Abilities,0,EL Medical Applicator 1,4,none
+6015683,Infantry Abilities,0,EL Medical Applicator 1,1,none
+6015684,Infantry Abilities,0,EL Medical Applicator 1,3,none
+6015685,Infantry Abilities,0,EL Medical Applicator 1,2,none
+6015686,Infantry Abilities,0,EL Medical Applicator 2,2,none
+6015687,Infantry Abilities,0,EL Medical Applicator 2,4,none
+6015688,Infantry Abilities,0,EL Medical Applicator 2,1,none
+6015689,Infantry Abilities,0,EL Medical Applicator 2,3,none
+6015690,Infantry Abilities,0,EL Medical Applicator 3,2,none
+6015691,Infantry Abilities,0,EL Medical Applicator 3,4,none
+6015692,Infantry Abilities,0,EL Medical Applicator 3,1,none
+6015693,Infantry Abilities,0,EL Medical Applicator 3,3,none
+6015694,Infantry Abilities,0,EL Medical Applicator 4,2,none
+6015695,Infantry Abilities,0,EL Medical Applicator 4,4,none
+6015696,Infantry Abilities,0,EL Medical Applicator 4,1,none
+6015697,Infantry Abilities,0,EL Medical Applicator 4,3,none
+6015698,Infantry Abilities,0,EL Medical Applicator 5,2,none
+6015699,Infantry Abilities,0,EL Medical Applicator 5,4,none
+6015700,Infantry Abilities,0,EL Medical Applicator 5,1,none
+6015701,Infantry Abilities,0,EL Medical Applicator 5,3,none
+6015702,Infantry Abilities,0,EL Medical Applicator 6,4,none
+6015703,Infantry Abilities,0,EL Medical Applicator 6,3,none
+6015704,Infantry Abilities,0,EL Medical Applicator 6,1,none
+6015705,Infantry Abilities,0,EL Medical Applicator 6,2,none
+6015714,Infantry Abilities,0,EL Nano-Armor Kit 1,2,none
+6015715,Infantry Abilities,0,EL Nano-Armor Kit 1,4,none
+6015716,Infantry Abilities,0,EL Nano-Armor Kit 1,1,none
+6015717,Infantry Abilities,0,EL Nano-Armor Kit 1,3,none
+6015718,Infantry Abilities,0,EL Nano-Armor Kit 2,2,none
+6015719,Infantry Abilities,0,EL Nano-Armor Kit 2,4,none
+6015720,Infantry Abilities,0,EL Nano-Armor Kit 2,1,none
+6015721,Infantry Abilities,0,EL Nano-Armor Kit 2,3,none
+6015722,Infantry Abilities,0,EL Nano-Armor Kit 3,2,none
+6015723,Infantry Abilities,0,EL Nano-Armor Kit 3,4,none
+6015724,Infantry Abilities,0,EL Nano-Armor Kit 3,1,none
+6015725,Infantry Abilities,0,EL Nano-Armor Kit 3,3,none
+6015726,Infantry Abilities,0,EL Nano-Armor Kit 4,2,none
+6015727,Infantry Abilities,0,EL Nano-Armor Kit 4,4,none
+6015728,Infantry Abilities,0,EL Nano-Armor Kit 4,1,none
+6015729,Infantry Abilities,0,EL Nano-Armor Kit 4,3,none
+6015730,Infantry Abilities,0,EL Nano-Armor Kit 5,2,none
+6015731,Infantry Abilities,0,EL Nano-Armor Kit 5,4,none
+6015732,Infantry Abilities,0,EL Nano-Armor Kit 5,1,none
+6015733,Infantry Abilities,0,EL Nano-Armor Kit 5,3,none
+6015734,Infantry Abilities,0,EL Nano-Armor Kit 6,2,none
+6015735,Infantry Abilities,0,EL Nano-Armor Kit 6,4,none
+6015736,Infantry Abilities,0,EL Nano-Armor Kit 6,1,none
+6015737,Infantry Abilities,0,EL Nano-Armor Kit 6,3,none
 6009753,Infantry Abilities,0,Elysium Refinery,0,none
 6002466,Infantry Abilities,0,Elysium Spawn Tube,2,none
 6002467,Infantry Abilities,0,Elysium Spawn Tube,3,none
@@ -843,6 +891,10 @@
 125,Infantry Abilities,0,Nano-Armor Kit 1,3,none
 126,Infantry Abilities,0,Nano-Armor Kit 1,2,none
 6005217,Infantry Abilities,0,Nano-Armor Kit 1,4,none
+6015710,Infantry Abilities,0,Nano-Armor Kit 1,4,none
+6015711,Infantry Abilities,0,Nano-Armor Kit 1,1,none
+6015712,Infantry Abilities,0,Nano-Armor Kit 1,3,none
+6015713,Infantry Abilities,0,Nano-Armor Kit 1,2,none
 1252,Infantry Abilities,0,Nano-Armor Kit 2,1,none
 1256,Infantry Abilities,0,Nano-Armor Kit 2,3,none
 1260,Infantry Abilities,0,Nano-Armor Kit 2,2,none
@@ -1085,6 +1137,7 @@
 6011455,Knife,0,Guillotine,4,none
 802316,Knife,0,Hardlight Dagger,2,none
 802315,Knife,0,Hexedge,3,none
+6015746,Knife,0,Iceberg Knife,0,none
 802584,Knife,0,Icikill,0,none
 6014042,Knife,0,KTR-3 Saboteur,0,none
 286,Knife,0,Lumine Edge,1,none
