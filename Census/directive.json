@@ -72234,29 +72234,16 @@
       "directive_id": "5804",
       "directive_tree_id": "135",
       "directive_tier_id": "1",
+      "objective_set_id": "10152",
       "name": {
-        "en": "Planetside 2"
+        "en": "Softheaded Mumbler"
       },
       "description": {
-        "en": "Planetside 2"
+        "en": "Softheaded Mumbler"
       },
-      "image_set_id": "807990",
-      "image_id": "97244",
-      "image_path": "/files/ps2/images/static/97244.png"
-    },
-    {
-      "directive_id": "5805",
-      "directive_tree_id": "135",
-      "directive_tier_id": "2",
-      "name": {
-        "en": "TEST"
-      },
-      "description": {
-        "en": "TEST"
-      },
-      "image_set_id": "807991",
-      "image_id": "97247",
-      "image_path": "/files/ps2/images/static/97247.png"
+      "image_set_id": "808133",
+      "image_id": "97689",
+      "image_path": "/files/ps2/images/static/97689.png"
     },
     {
       "directive_id": "5806",
@@ -75337,9 +75324,664 @@
       "directive_id": "6059",
       "directive_tree_id": "17",
       "directive_tier_id": "3",
-      "objective_set_id": "10149",
+      "objective_set_id": "10149"
+    },
+    {
+      "directive_id": "6060",
+      "directive_tree_id": "17",
+      "directive_tier_id": "1",
+      "objective_set_id": "10150"
+    },
+    {
+      "directive_id": "6061",
+      "directive_tree_id": "17",
+      "directive_tier_id": "4",
+      "objective_set_id": "10151"
+    },
+    {
+      "directive_id": "6062",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10153",
       "name": {
-        "en": "NS-44 \"Primed Diamond\" Commissioner"
+        "en": "Regular Wetgripper"
+      },
+      "description": {
+        "en": "Regular Wetgripper"
+      },
+      "image_set_id": "808138",
+      "image_id": "97701",
+      "image_path": "/files/ps2/images/static/97701.png"
+    },
+    {
+      "directive_id": "6063",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10155",
+      "name": {
+        "en": "Reticulaheaded Anther"
+      },
+      "description": {
+        "en": "Reticulaheaded Anther"
+      },
+      "image_set_id": "808139",
+      "image_id": "97704",
+      "image_path": "/files/ps2/images/static/97704.png"
+    },
+    {
+      "directive_id": "6064",
+      "directive_tree_id": "135",
+      "directive_tier_id": "2",
+      "objective_set_id": "10156",
+      "name": {
+        "en": "Winged Pseudofloater"
+      },
+      "description": {
+        "en": "Winged Pseudofloater"
+      },
+      "image_set_id": "808140",
+      "image_id": "97707",
+      "image_path": "/files/ps2/images/static/97707.png"
+    },
+    {
+      "directive_id": "6065",
+      "directive_tree_id": "135",
+      "directive_tier_id": "3",
+      "objective_set_id": "10157",
+      "name": {
+        "en": "Shelled Reefcrusher"
+      },
+      "description": {
+        "en": "Shelled Reefcrusher"
+      },
+      "image_set_id": "808141",
+      "image_id": "97710",
+      "image_path": "/files/ps2/images/static/97710.png"
+    },
+    {
+      "directive_id": "6066",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10158",
+      "name": {
+        "en": "Mudcreeper"
+      },
+      "description": {
+        "en": "Mudcreeper"
+      },
+      "image_set_id": "808142",
+      "image_id": "97713",
+      "image_path": "/files/ps2/images/static/97713.png"
+    },
+    {
+      "directive_id": "6067",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10159",
+      "name": {
+        "en": "Voidswifter Anoa"
+      },
+      "description": {
+        "en": "Voidswifter Anoa"
+      },
+      "image_set_id": "808148",
+      "image_id": "97731",
+      "image_path": "/files/ps2/images/static/97731.png"
+    },
+    {
+      "directive_id": "6068",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10160",
+      "name": {
+        "en": "Spiked Siltdigger"
+      },
+      "description": {
+        "en": "Spiked Siltdigger"
+      },
+      "image_set_id": "808149",
+      "image_id": "97734",
+      "image_path": "/files/ps2/images/static/97734.png"
+    },
+    {
+      "directive_id": "6069",
+      "directive_tree_id": "135",
+      "directive_tier_id": "2",
+      "objective_set_id": "10161",
+      "name": {
+        "en": "Coastal Thornbill"
+      },
+      "description": {
+        "en": "Coastal Thornbill"
+      },
+      "image_set_id": "808155",
+      "image_id": "97754",
+      "image_path": "/files/ps2/images/static/97754.png"
+    },
+    {
+      "directive_id": "6070",
+      "directive_tree_id": "135",
+      "directive_tier_id": "3",
+      "objective_set_id": "10162",
+      "name": {
+        "en": "Astraxian Wormech"
+      },
+      "description": {
+        "en": "Astraxian Wormech"
+      },
+      "image_set_id": "808157",
+      "image_id": "97760",
+      "image_path": "/files/ps2/images/static/97760.png"
+    },
+    {
+      "directive_id": "6071",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10163",
+      "name": {
+        "en": "Warthog Triton"
+      },
+      "description": {
+        "en": "Warthog Triton"
+      },
+      "image_set_id": "808158",
+      "image_id": "97763",
+      "image_path": "/files/ps2/images/static/97763.png"
+    },
+    {
+      "directive_id": "6072",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10164",
+      "name": {
+        "en": "Purple Bubblereaver"
+      },
+      "description": {
+        "en": "Purple Bubblereaver"
+      },
+      "image_set_id": "808159",
+      "image_id": "97766",
+      "image_path": "/files/ps2/images/static/97766.png"
+    },
+    {
+      "directive_id": "6073",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10165",
+      "name": {
+        "en": "Oshur Cleaverjaw"
+      },
+      "description": {
+        "en": "Oshur Cleaverjaw"
+      },
+      "image_set_id": "808160",
+      "image_id": "97769",
+      "image_path": "/files/ps2/images/static/97769.png"
+    },
+    {
+      "directive_id": "6074",
+      "directive_tree_id": "135",
+      "directive_tier_id": "2",
+      "objective_set_id": "10166",
+      "name": {
+        "en": "Ghosted Phlegmata"
+      },
+      "description": {
+        "en": "Ghosted Phlegmata"
+      },
+      "image_set_id": "808161",
+      "image_id": "97772",
+      "image_path": "/files/ps2/images/static/97772.png"
+    },
+    {
+      "directive_id": "6075",
+      "directive_tree_id": "135",
+      "directive_tier_id": "3",
+      "objective_set_id": "10167",
+      "name": {
+        "en": "Shimmering Abyssal Gargantua"
+      },
+      "description": {
+        "en": "Shimmering Abyssal Gargantua"
+      },
+      "image_set_id": "808162",
+      "image_id": "97775",
+      "image_path": "/files/ps2/images/static/97775.png"
+    },
+    {
+      "directive_id": "6076",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10168",
+      "name": {
+        "en": "Pimplespin Screamer"
+      },
+      "description": {
+        "en": "Pimplespin Screamer"
+      },
+      "image_set_id": "808163",
+      "image_id": "97778",
+      "image_path": "/files/ps2/images/static/97778.png"
+    },
+    {
+      "directive_id": "6077",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10169",
+      "name": {
+        "en": "Lavra Medullaria"
+      },
+      "description": {
+        "en": "Lavra Medullaria"
+      },
+      "image_set_id": "808164",
+      "image_id": "97781",
+      "image_path": "/files/ps2/images/static/97781.png"
+    },
+    {
+      "directive_id": "6078",
+      "directive_tree_id": "135",
+      "directive_tier_id": "1",
+      "objective_set_id": "10170",
+      "name": {
+        "en": "Unghotian Plasmabreaker\t"
+      },
+      "description": {
+        "en": "Unghotian Plasmabreaker\t"
+      },
+      "image_set_id": "808165",
+      "image_id": "97784",
+      "image_path": "/files/ps2/images/static/97784.png"
+    },
+    {
+      "directive_id": "6079",
+      "directive_tree_id": "135",
+      "directive_tier_id": "2",
+      "objective_set_id": "10171",
+      "name": {
+        "en": "Augumentatroxis"
+      },
+      "description": {
+        "en": "Augumentatroxis"
+      },
+      "image_set_id": "808166",
+      "image_id": "97787",
+      "image_path": "/files/ps2/images/static/97787.png"
+    },
+    {
+      "directive_id": "6080",
+      "directive_tree_id": "135",
+      "directive_tier_id": "3",
+      "objective_set_id": "10172",
+      "name": {
+        "en": "Fullmetal Erupter"
+      },
+      "description": {
+        "en": "Fullmetal Erupter"
+      },
+      "image_set_id": "808167",
+      "image_id": "97790",
+      "image_path": "/files/ps2/images/static/97790.png"
+    },
+    {
+      "directive_id": "6081",
+      "directive_tree_id": "143",
+      "directive_tier_id": "3",
+      "objective_set_id": "10173",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "6082",
+      "directive_tree_id": "143",
+      "directive_tier_id": "4",
+      "objective_set_id": "10174",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "6083",
+      "directive_tree_id": "143",
+      "directive_tier_id": "2",
+      "objective_set_id": "10175",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "6084",
+      "directive_tree_id": "143",
+      "directive_tier_id": "1",
+      "objective_set_id": "10176",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Trick-or-Treat (Reese)"
+      },
+      "description": {
+        "en": "Speak to Officer Reese in the western stairway on Sanctuary."
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6085",
+      "directive_tree_id": "143",
+      "directive_tier_id": "1",
+      "objective_set_id": "10177",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Trick-or-Treat (Nalla)"
+      },
+      "description": {
+        "en": "Speak to Representative Nalla at the Nascent Expedition kiosk in the Atrium on Sanctuary"
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6086",
+      "directive_tree_id": "143",
+      "directive_tier_id": "1",
+      "objective_set_id": "10178",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Trick-or-Treat (FL-34)"
+      },
+      "description": {
+        "en": "Speak to FL-34 at the Black Market on Sanctuary"
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6087",
+      "directive_tree_id": "143",
+      "directive_tier_id": "1",
+      "objective_set_id": "10179",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Trick-or-Treat (Emerson)"
+      },
+      "description": {
+        "en": "Speak to Facilitator Emerson on the Observation Deck on Sanctuary."
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6088",
+      "directive_tree_id": "143",
+      "directive_tier_id": "2",
+      "objective_set_id": "10180",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "6089",
+      "directive_tree_id": "143",
+      "directive_tier_id": "3",
+      "objective_set_id": "10181",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "6090",
+      "directive_tree_id": "143",
+      "directive_tier_id": "4",
+      "objective_set_id": "10182",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "6091",
+      "directive_tree_id": "143",
+      "directive_tier_id": "2",
+      "objective_set_id": "10183",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "6092",
+      "directive_tree_id": "143",
+      "directive_tier_id": "4",
+      "objective_set_id": "10184",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "6093",
+      "directive_tree_id": "143",
+      "directive_tier_id": "3",
+      "objective_set_id": "10185",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "6094",
+      "directive_tree_id": "143",
+      "directive_tier_id": "2",
+      "objective_set_id": "10186",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "6095",
+      "directive_tree_id": "143",
+      "directive_tier_id": "3",
+      "objective_set_id": "10187",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "6096",
+      "directive_tree_id": "143",
+      "directive_tier_id": "4",
+      "objective_set_id": "10188",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "6097",
+      "directive_tree_id": "143",
+      "directive_tier_id": "2",
+      "objective_set_id": "10189",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "6098",
+      "directive_tree_id": "143",
+      "directive_tier_id": "3",
+      "objective_set_id": "10190",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "6099",
+      "directive_tree_id": "143",
+      "directive_tier_id": "4",
+      "objective_set_id": "10191",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "6100",
+      "directive_tree_id": "143",
+      "directive_tier_id": "2",
+      "objective_set_id": "10192",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "6101",
+      "directive_tree_id": "143",
+      "directive_tier_id": "3",
+      "objective_set_id": "10193",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "6102",
+      "directive_tree_id": "143",
+      "directive_tier_id": "4",
+      "objective_set_id": "10194",
+      "qualify_requirement_id": "48689",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "6109",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10202",
+      "name": {
+        "en": "Coming Soon"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -75349,12 +75991,42 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "directive_id": "6060",
-      "directive_tree_id": "17",
-      "directive_tier_id": "1",
-      "objective_set_id": "10150",
+      "directive_id": "6110",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10203",
       "name": {
-        "en": "NS-44 \"Primed Diamond\" Commissioner"
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6111",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10204",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6112",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10205",
+      "name": {
+        "en": "Coming Soon"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -75364,12 +76036,42 @@
       "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-      "directive_id": "6061",
-      "directive_tree_id": "17",
-      "directive_tier_id": "4",
-      "objective_set_id": "10151",
+      "directive_id": "6113",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10202",
       "name": {
-        "en": "NS-44 \"Primed Diamond\" Commissioner"
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6114",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10203",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6115",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10204",
+      "name": {
+        "en": "Coming Soon"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -75377,7 +76079,458 @@
       "image_set_id": "1567",
       "image_id": "3068",
       "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6116",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10205",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6117",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10202",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6118",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10203",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6119",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10204",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6120",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10205",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6121",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10202",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6122",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10203",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6123",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10204",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6124",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10205",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6125",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10202",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6126",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10203",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6127",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10204",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6128",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10205",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6129",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10206",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6130",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10207",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6131",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10208",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6132",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10209",
+      "qualify_requirement_id": "6",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6135",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10212",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6136",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10213",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6137",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10214",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6138",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10215",
+      "qualify_requirement_id": "8",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6139",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10216",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6140",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10217",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6141",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10218",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6142",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10219",
+      "qualify_requirement_id": "4",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6143",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10220",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6144",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10221",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6145",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10222",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6146",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10223",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
     }
   ],
-  "returned": 4907
+  "returned": 4983
 }

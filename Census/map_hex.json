@@ -31092,23 +31092,7 @@
       "zone_id": "8",
       "map_region_id": "18067",
       "x": "-4",
-      "y": "5",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18067",
-      "x": "-4",
       "y": "6",
-      "hex_type": "0",
-      "type_name": "Unrestricted access"
-    },
-    {
-      "zone_id": "8",
-      "map_region_id": "18067",
-      "x": "-3",
-      "y": "4",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },
@@ -31595,6 +31579,14 @@
     {
       "zone_id": "8",
       "map_region_id": "18210",
+      "x": "-4",
+      "y": "5",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18210",
       "x": "-3",
       "y": "2",
       "hex_type": "0",
@@ -31605,6 +31597,14 @@
       "map_region_id": "18210",
       "x": "-3",
       "y": "3",
+      "hex_type": "0",
+      "type_name": "Unrestricted access"
+    },
+    {
+      "zone_id": "8",
+      "map_region_id": "18210",
+      "x": "-3",
+      "y": "4",
       "hex_type": "0",
       "type_name": "Unrestricted access"
     },

@@ -973,7 +973,15 @@
     {
       "directive_tree_id": "135",
       "directive_tree_category_id": "17",
-      "image_set_id": "0"
+      "name": {
+        "en": "Fishing"
+      },
+      "description": {
+        "en": "Fishing"
+      },
+      "image_set_id": "808177",
+      "image_id": "97804",
+      "image_path": "/files/ps2/images/static/97804.png"
     },
     {
       "directive_tree_id": "136",
@@ -1034,7 +1042,30 @@
       "image_set_id": "14163",
       "image_id": "79586",
       "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+      "directive_tree_id": "143",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Nanite of the Living Dead 2024"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "145",
+      "directive_tree_category_id": "11",
+      "name": {
+        "en": "Exceptional IX"
+      },
+      "description": {
+        "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+      },
+      "image_set_id": "14396",
+      "image_id": "79737",
+      "image_path": "/files/ps2/images/static/79737.png"
     }
   ],
-  "returned": 102
+  "returned": 104
 }

@@ -101617,7 +101617,7 @@
       "reward_id": "3019",
       "repeatable": "1",
       "name": {
-        "en": "NS-44 \"Primed Amethyst\" Commissioner"
+        "en": "NS-44 \"Primed Ruby\" Commissioner"
       },
       "description": {
         "en": "Earn this service ribbon by killing enemies"
@@ -101815,54 +101815,6 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-      "achievement_id": "94039",
-      "item_id": "6015620",
-      "objective_group_id": "21793",
-      "reward_id": "101",
-      "repeatable": "0",
-      "name": {
-        "en": "NS-44 \"Primed Diamond\" Commissioner"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "achievement_id": "94040",
-      "item_id": "6015519",
-      "objective_group_id": "21797",
-      "reward_id": "615",
-      "repeatable": "0",
-      "name": {
-        "en": "NS-44 \"Primed Diamond\" Commissioner"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "achievement_id": "94041",
-      "item_id": "6015519",
-      "objective_group_id": "21798",
-      "reward_id": "100",
-      "repeatable": "0",
-      "name": {
-        "en": "NS-44 \"Primed Diamond\" Commissioner"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
       "achievement_id": "94042",
       "item_id": "6015620",
       "objective_group_id": "21799",
@@ -101895,22 +101847,6 @@
       "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-      "achievement_id": "94044",
-      "item_id": "6015519",
-      "objective_group_id": "21801",
-      "reward_id": "615",
-      "repeatable": "0",
-      "name": {
-        "en": "NS-44 \"Primed Diamond\" Commissioner"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
       "achievement_id": "94045",
       "item_id": "6015620",
       "objective_group_id": "21802",
@@ -101925,7 +101861,343 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94046",
+      "item_id": "6015620",
+      "objective_group_id": "21853",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8011",
+      "image_id": "8320",
+      "image_path": "/files/ps2/images/static/8320.png"
+    },
+    {
+      "achievement_id": "94047",
+      "item_id": "6015792",
+      "objective_group_id": "21862",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94048",
+      "item_id": "6015792",
+      "objective_group_id": "21863",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94049",
+      "item_id": "6015792",
+      "objective_group_id": "21864",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94050",
+      "item_id": "6015792",
+      "objective_group_id": "21865",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94051",
+      "item_id": "6015792",
+      "objective_group_id": "21866",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "GM Osprey"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94052",
+      "item_id": "6015791",
+      "objective_group_id": "21873",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94053",
+      "item_id": "6015791",
+      "objective_group_id": "21874",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94055",
+      "item_id": "6015791",
+      "objective_group_id": "21876",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94056",
+      "item_id": "6015791",
+      "objective_group_id": "21877",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94057",
+      "item_id": "6015792",
+      "objective_group_id": "21878",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "WMC Inquirer"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94058",
+      "item_id": "6015789",
+      "objective_group_id": "21883",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94059",
+      "item_id": "6015789",
+      "objective_group_id": "21884",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94060",
+      "item_id": "6015789",
+      "objective_group_id": "21885",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94061",
+      "item_id": "6015789",
+      "objective_group_id": "21886",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94062",
+      "item_id": "6015789",
+      "objective_group_id": "21887",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Anunnaki Blade"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94063",
+      "item_id": "6015790",
+      "objective_group_id": "21892",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94064",
+      "item_id": "6015790",
+      "objective_group_id": "21893",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94065",
+      "item_id": "6015790",
+      "objective_group_id": "21894",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94066",
+      "item_id": "6015790",
+      "objective_group_id": "21895",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94067",
+      "item_id": "6015790",
+      "objective_group_id": "21896",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "VEX-B Proto Data Point"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     }
   ],
-  "returned": 6387
+  "returned": 6404
 }

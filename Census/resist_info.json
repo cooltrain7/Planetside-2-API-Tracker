@@ -32561,7 +32561,14 @@
       "resist_amount": "200",
       "multiplier_when_headshot": "1",
       "description": "Sunderer - Cargo - Dynamic Collision"
+    },
+    {
+      "resist_info_id": "6383",
+      "resist_type_id": "20",
+      "resist_percent": "90",
+      "multiplier_when_headshot": "1",
+      "description": "Vehicle - Sunderer - Deployment - Deploy Dome (Sniper Rifles)"
     }
   ],
-  "returned": 4756
+  "returned": 4757
 }

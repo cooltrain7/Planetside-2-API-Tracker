@@ -244,7 +244,17 @@
       "param3": "Facility Type",
       "param4": "Enemy Count",
       "param5": "Zone ID"
+    },
+    {
+      "objective_type_id": "96",
+      "description": "Scan Fish",
+      "param1": "Fish",
+      "param2": "Count",
+      "param3": "Any Fish",
+      "param4": "Rarity",
+      "param5": "Size",
+      "param6": "ZoneSet"
     }
   ],
-  "returned": 29
+  "returned": 30
 }

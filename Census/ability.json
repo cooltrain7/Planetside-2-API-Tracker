@@ -33028,25 +33028,6 @@
       "param14": "0"
     },
     {
-      "ability_id": "1117896",
-      "ability_type_id": "3",
-      "flag_toggle": "0",
-      "param1": "0",
-      "param2": "0",
-      "param3": "0",
-      "param4": "0",
-      "param5": "0",
-      "param6": "0",
-      "param7": "0",
-      "param8": "0",
-      "param9": "0",
-      "param10": "0",
-      "param11": "0",
-      "param12": "0",
-      "param13": "0",
-      "param14": "0"
-    },
-    {
       "ability_id": "1117897",
       "ability_type_id": "3",
       "flag_toggle": "0",
@@ -33201,7 +33182,113 @@
       "radius_max": "0",
       "flag_toggle": "0",
       "param1": "1"
+    },
+    {
+      "ability_id": "1117934",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117935",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117936",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117937",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117938",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117939",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117940",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117941",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117942",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117943",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117944",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117945",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117951",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "1117952",
+      "ability_type_id": "26",
+      "distance_max": "6",
+      "radius_max": "0",
+      "flag_toggle": "0",
+      "param1": "1"
+    },
+    {
+      "ability_id": "1117962",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "8000",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5370
+  "returned": 5384
 }

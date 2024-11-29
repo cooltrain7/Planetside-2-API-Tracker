@@ -5663,18 +5663,18 @@
       "zone_id": "8",
       "facility_id": "400135",
       "facility_name": "Untapped Reservoir",
-      "facility_type_id": "9",
-      "facility_type": "Construction Outpost",
+      "facility_type_id": "6",
+      "facility_type": "Small Outpost",
       "location_x": "757.12",
       "location_y": "139.73",
       "location_z": "-407.94",
       "capture_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "5"
       },
       "tick_reward": {
-        "description": "Synthium - Uncommon",
-        "amount": "3"
+        "description": "Auraxium - Common",
+        "amount": "5"
       }
     },
     {
