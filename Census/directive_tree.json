@@ -1054,6 +1054,16 @@
       "image_path": "/files/ps2/images/static/80676.png"
     },
     {
+      "directive_tree_id": "144",
+      "directive_tree_category_id": "20",
+      "name": {
+        "en": "Fishing"
+      },
+      "image_set_id": "808177",
+      "image_id": "97804",
+      "image_path": "/files/ps2/images/static/97804.png"
+    },
+    {
       "directive_tree_id": "145",
       "directive_tree_category_id": "11",
       "name": {
@@ -1065,7 +1075,17 @@
       "image_set_id": "14396",
       "image_id": "79737",
       "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+      "directive_tree_id": "146",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Auraximas 2024"
+      },
+      "description": {
+        "en": "Available through January 1"
+      }
     }
   ],
-  "returned": 104
+  "returned": 106
 }

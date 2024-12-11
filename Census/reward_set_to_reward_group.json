@@ -899,7 +899,39 @@
     {
       "reward_set_id": "6306",
       "reward_group_id": "102085"
+    },
+    {
+      "reward_set_id": "6308",
+      "reward_group_id": "102092"
+    },
+    {
+      "reward_set_id": "6308",
+      "reward_group_id": "102094"
+    },
+    {
+      "reward_set_id": "6309",
+      "reward_group_id": "102093"
+    },
+    {
+      "reward_set_id": "6309",
+      "reward_group_id": "102095"
+    },
+    {
+      "reward_set_id": "6310",
+      "reward_group_id": "102091"
+    },
+    {
+      "reward_set_id": "6310",
+      "reward_group_id": "102096"
+    },
+    {
+      "reward_set_id": "6311",
+      "reward_group_id": "102090"
+    },
+    {
+      "reward_set_id": "6311",
+      "reward_group_id": "102097"
     }
   ],
-  "returned": 225
+  "returned": 233
 }

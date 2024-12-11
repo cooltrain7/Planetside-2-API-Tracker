@@ -119,6 +119,7 @@
       "description": "Modify Character Stat",
       "param1": "Addend",
       "param2": "PcntAddend",
+      "param3": "SetDirectly",
       "string1": "StatId"
     },
     {
@@ -168,7 +169,9 @@
       "param9": "CollisionSphereRadius",
       "param10": "FailMessage",
       "param11": "UseSourceFacing",
-      "param12": "SetOwner"
+      "param12": "SetOwner",
+      "param13": "FailOnMovingBackwards",
+      "param14": "FailBackwardMoveMessage"
     },
     {
       "zone_effect_type_id": "26",

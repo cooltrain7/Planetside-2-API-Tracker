@@ -26760,7 +26760,43 @@
       "show_clip_size": "1",
       "show_fire_modes": "1",
       "show_range": "1"
+    },
+    {
+      "item_id": "6015793",
+      "damage": "125",
+      "damage_min": "75",
+      "damage_max": "225",
+      "fire_cone": "1.5",
+      "fire_cone_min": "0",
+      "fire_cone_max": "7",
+      "fire_rate_ms": "400",
+      "fire_rate_ms_min": "60",
+      "fire_rate_mx_max": "135",
+      "reload_ms": "4000",
+      "reload_ms_min": "2500",
+      "reload_ms_max": "7000",
+      "clip_size": "150",
+      "capacity": "450",
+      "range": {
+        "en": "Short"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "1",
+      "show_range": "1"
+    },
+    {
+      "item_id": "6015844",
+      "direct_damage": "500",
+      "damage_min": "0",
+      "damage_max": "1000",
+      "fire_rate_ms": "675",
+      "reload_ms": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "range": {
+        "en": "Short"
+      }
     }
   ],
-  "returned": 1275
+  "returned": 1277
 }

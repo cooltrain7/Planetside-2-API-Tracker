@@ -15,13 +15,6 @@
       }
     },
     {
-      "world_id": "13",
-      "state": "online",
-      "name": {
-        "en": "Cobalt"
-      }
-    },
-    {
       "world_id": "17",
       "state": "online",
       "name": {
@@ -60,5 +53,5 @@
       }
     }
   ],
-  "returned": 8
+  "returned": 7
 }

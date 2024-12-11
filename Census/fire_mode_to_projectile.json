@@ -6555,7 +6555,23 @@
     {
       "fire_mode_id": "81454",
       "projectile_id": "80645"
+    },
+    {
+      "fire_mode_id": "81484",
+      "projectile_id": "80649"
+    },
+    {
+      "fire_mode_id": "81485",
+      "projectile_id": "80649"
+    },
+    {
+      "fire_mode_id": "81486",
+      "projectile_id": "80648"
+    },
+    {
+      "fire_mode_id": "81487",
+      "projectile_id": "80648"
     }
   ],
-  "returned": 1639
+  "returned": 1643
 }

@@ -75976,6 +75976,57 @@
       "image_path": "/files/ps2/images/static/79560.png"
     },
     {
+      "directive_id": "6103",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10196",
+      "name": {
+        "en": "Scan Softheaded Mumbler"
+      },
+      "description": {
+        "en": "Scan Softheaded Mumbler 5 times"
+      },
+      "image_set_id": "808133",
+      "image_id": "97689",
+      "image_path": "/files/ps2/images/static/97689.png"
+    },
+    {
+      "directive_id": "6104",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10197",
+      "name": {
+        "en": "Scan fish"
+      },
+      "description": {
+        "en": "Scan any kind of fish 10 times"
+      }
+    },
+    {
+      "directive_id": "6106",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10199",
+      "name": {
+        "en": "Scan Small Fish"
+      },
+      "description": {
+        "en": "Scan Small Fish 40 times"
+      }
+    },
+    {
+      "directive_id": "6107",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10200",
+      "name": {
+        "en": "Scan Common Fish"
+      },
+      "description": {
+        "en": "Scan Common 20 Fish"
+      }
+    },
+    {
       "directive_id": "6109",
       "directive_tree_id": "145",
       "directive_tier_id": "2",
@@ -76340,6 +76391,18 @@
       "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+      "directive_id": "6134",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10211",
+      "name": {
+        "en": "Oshur"
+      },
+      "description": {
+        "en": "Scan Fish on Oshur"
+      }
+    },
+    {
       "directive_id": "6135",
       "directive_tree_id": "145",
       "directive_tier_id": "3",
@@ -76530,7 +76593,840 @@
       "image_set_id": "1565",
       "image_id": "3079",
       "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6147",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10224",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6148",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10225",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6149",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10226",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6150",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10227",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6151",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10228",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6152",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10229",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6153",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10230",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6154",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10231",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6155",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10232"
+    },
+    {
+      "directive_id": "6156",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10233"
+    },
+    {
+      "directive_id": "6157",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10234"
+    },
+    {
+      "directive_id": "6158",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10235"
+    },
+    {
+      "directive_id": "6159",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10236",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6160",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10237",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6161",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10238",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6162",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10239",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6163",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10240",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6164",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10241",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6165",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10242",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6166",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10243",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6167",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10244"
+    },
+    {
+      "directive_id": "6168",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10245"
+    },
+    {
+      "directive_id": "6169",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10246"
+    },
+    {
+      "directive_id": "6170",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10247"
+    },
+    {
+      "directive_id": "6171",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10248",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "6172",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10249",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "6173",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10250",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "6174",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10251",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6175",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10252",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6176",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10253",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6177",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10254",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6178",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10255",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6179",
+      "directive_tree_id": "146",
+      "directive_tier_id": "2",
+      "objective_set_id": "10256",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6180",
+      "directive_tree_id": "146",
+      "directive_tier_id": "3",
+      "objective_set_id": "10257",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6181",
+      "directive_tree_id": "146",
+      "directive_tier_id": "4",
+      "objective_set_id": "10258",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6182",
+      "directive_tree_id": "146",
+      "directive_tier_id": "1",
+      "objective_set_id": "10259",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "6183",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10260",
+      "name": {
+        "en": "Fishcoins"
+      },
+      "description": {
+        "en": "Earn 10000 Fishcoins"
+      }
+    },
+    {
+      "directive_id": "6184",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10261",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use any Attractors 5 times"
+      }
+    },
+    {
+      "directive_id": "6185",
+      "directive_tree_id": "144",
+      "directive_tier_id": "1",
+      "objective_set_id": "10262",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use LiquidTech \"A-1\" Attractor 30 times"
+      }
+    },
+    {
+      "directive_id": "6186",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10263",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6187",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10264",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6188",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10265",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6189",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10266",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6190",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10267",
+      "name": {
+        "en": "Scan fish"
+      },
+      "description": {
+        "en": "Scan any kind of fish 25 times"
+      }
+    },
+    {
+      "directive_id": "6191",
+      "directive_tree_id": "144",
+      "directive_tier_id": "3",
+      "objective_set_id": "10268",
+      "name": {
+        "en": "Scan fish"
+      },
+      "description": {
+        "en": "Scan any kind of fish 40 times"
+      }
+    },
+    {
+      "directive_id": "6192",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10269",
+      "name": {
+        "en": "Scan fish"
+      },
+      "description": {
+        "en": "Scan any kind of fish 80 times"
+      }
+    },
+    {
+      "directive_id": "6193",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10270",
+      "name": {
+        "en": "Scan Softheaded Mumbler"
+      },
+      "description": {
+        "en": "Scan Softheaded Mumbler 15 times"
+      },
+      "image_set_id": "808133",
+      "image_id": "97689",
+      "image_path": "/files/ps2/images/static/97689.png"
+    },
+    {
+      "directive_id": "6194",
+      "directive_tree_id": "144",
+      "directive_tier_id": "3",
+      "objective_set_id": "10271",
+      "name": {
+        "en": "Scan Softheaded Mumbler"
+      },
+      "description": {
+        "en": "Scan Softheaded Mumbler 30 times"
+      },
+      "image_set_id": "808133",
+      "image_id": "97689",
+      "image_path": "/files/ps2/images/static/97689.png"
+    },
+    {
+      "directive_id": "6195",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10272",
+      "name": {
+        "en": "Scan Softheaded Mumbler"
+      },
+      "description": {
+        "en": "Scan Softheaded Mumbler 65 times"
+      },
+      "image_set_id": "808133",
+      "image_id": "97689",
+      "image_path": "/files/ps2/images/static/97689.png"
+    },
+    {
+      "directive_id": "6196",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10273",
+      "name": {
+        "en": "Scan Medium Fish"
+      },
+      "description": {
+        "en": "Scan Medium Fish 30 times"
+      }
+    },
+    {
+      "directive_id": "6197",
+      "directive_tree_id": "144",
+      "directive_tier_id": "3",
+      "objective_set_id": "10274",
+      "name": {
+        "en": "Scan Large Fish"
+      },
+      "description": {
+        "en": "Scan Large Fish 30 times"
+      }
+    },
+    {
+      "directive_id": "6198",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10275",
+      "name": {
+        "en": "Scan Huge Fish"
+      },
+      "description": {
+        "en": "Scan Huge Fish 30 times"
+      }
+    },
+    {
+      "directive_id": "6199",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10276",
+      "name": {
+        "en": "Scan Common Fish"
+      },
+      "description": {
+        "en": "Scan Common Fish 40 times"
+      }
+    },
+    {
+      "directive_id": "6200",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10277",
+      "name": {
+        "en": "Scan Rare Fish"
+      },
+      "description": {
+        "en": "Scan Rare Fish 30 times"
+      }
+    },
+    {
+      "directive_id": "6201",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10278",
+      "name": {
+        "en": "Scan Legendary Fish"
+      },
+      "description": {
+        "en": "Scan Legendary Fish 20 Times"
+      }
+    },
+    {
+      "directive_id": "6202",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10279",
+      "name": {
+        "en": "Fishcoins"
+      },
+      "description": {
+        "en": "Earn 30000 Fishcoins"
+      }
+    },
+    {
+      "directive_id": "6203",
+      "directive_tree_id": "144",
+      "directive_tier_id": "3",
+      "objective_set_id": "10280",
+      "name": {
+        "en": "Fishcoins"
+      },
+      "description": {
+        "en": "Earn 65000 Fishcoins"
+      }
+    },
+    {
+      "directive_id": "6204",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10281",
+      "name": {
+        "en": "Fishcoins"
+      },
+      "description": {
+        "en": "Earn 90000 Fishcoins"
+      }
+    },
+    {
+      "directive_id": "6205",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10282",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use any Attractors 25 times"
+      }
+    },
+    {
+      "directive_id": "6206",
+      "directive_tree_id": "144",
+      "directive_tier_id": "3",
+      "objective_set_id": "10283",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use any Attractors 55 times"
+      }
+    },
+    {
+      "directive_id": "6207",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10284",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use any Attractors 95 times"
+      }
+    },
+    {
+      "directive_id": "6208",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10285",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use LiquidTech \"Enticing S\" Attractor 30 times"
+      }
+    },
+    {
+      "directive_id": "6209",
+      "directive_tree_id": "144",
+      "directive_tier_id": "3",
+      "objective_set_id": "10286",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use SynthX \"Lured-1N\" Attractor 30 times"
+      }
+    },
+    {
+      "directive_id": "6210",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10287",
+      "name": {
+        "en": "Use Attractors"
+      },
+      "description": {
+        "en": "Use SynthX \"The Essence\" Attractor 30 times"
+      }
+    },
+    {
+      "directive_id": "6211",
+      "directive_tree_id": "144",
+      "directive_tier_id": "2",
+      "objective_set_id": "10288",
+      "name": {
+        "en": "Oshur"
+      },
+      "description": {
+        "en": "Scan Fish on Oshur"
+      }
+    },
+    {
+      "directive_id": "6212",
+      "directive_tree_id": "144",
+      "directive_tier_id": "3",
+      "objective_set_id": "10289",
+      "name": {
+        "en": "Oshur"
+      },
+      "description": {
+        "en": "Scan Fish on Oshur"
+      }
+    },
+    {
+      "directive_id": "6213",
+      "directive_tree_id": "144",
+      "directive_tier_id": "4",
+      "objective_set_id": "10290",
+      "name": {
+        "en": "Oshur"
+      },
+      "description": {
+        "en": "Scan Fish on Oshur"
+      }
+    },
+    {
+      "directive_id": "6214",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10301",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6215",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10302",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6216",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10303",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6217",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10304",
+      "qualify_requirement_id": "45167",
+      "name": {
+        "en": "NS-T Skeleton Key"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
     }
   ],
-  "returned": 4983
+  "returned": 5059
 }

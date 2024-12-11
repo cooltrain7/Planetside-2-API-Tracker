@@ -137593,8 +137593,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769489",
@@ -137612,8 +137612,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769490",
@@ -137631,8 +137631,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769491",
@@ -137650,8 +137650,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769492",
@@ -137859,8 +137859,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769507",
@@ -137878,8 +137878,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769508",
@@ -137897,8 +137897,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769509",
@@ -137916,8 +137916,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769510",
@@ -137935,8 +137935,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769511",
@@ -137954,8 +137954,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769512",
@@ -137973,8 +137973,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769513",
@@ -137992,8 +137992,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769514",
@@ -138011,8 +138011,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769515",
@@ -138030,8 +138030,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769516",
@@ -138049,8 +138049,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769517",
@@ -138068,8 +138068,8 @@
       "param10": "6021447",
       "param11": "0",
       "param12": "1",
-      "param13": "0",
-      "param14": "0"
+      "param13": "1",
+      "param14": "6021871"
     },
     {
       "zone_effect_id": "769545",
@@ -140685,7 +140685,1107 @@
       "param1": "150",
       "param2": "6",
       "param3": "0"
+    },
+    {
+      "zone_effect_id": "769837",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "120",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769838",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "120",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769839",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "200",
+      "param2": "6",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769840",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "132",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769841",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "134.4",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769842",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "138",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769843",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "144",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769844",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "132",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769845",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "134.4",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769846",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "138",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769847",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "144",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769848",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "144",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769849",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117934",
+      "param1": "144",
+      "param2": "4",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "zone_effect_id": "769850",
+      "zone_effect_type_id": "51",
+      "ability_id": "1117935",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "769851",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "128",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769852",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "128",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769853",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "213",
+      "param2": "6",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769854",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "140.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769855",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "143.36",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769856",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "147.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769857",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "153.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769858",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "140.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769859",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "143.36",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769860",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "147.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769861",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "153.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769862",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "153.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769863",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117936",
+      "param1": "153.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769864",
+      "zone_effect_type_id": "51",
+      "ability_id": "1117937",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "769865",
+      "zone_effect_type_id": "51",
+      "ability_id": "1117938",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "769866",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "136",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769867",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "136",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769868",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "226",
+      "param2": "6",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769869",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "149.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769870",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "152.32",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769871",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "156.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769872",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "163.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769873",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "149.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769874",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "152.32",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769875",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "156.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769876",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "163.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769877",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "163.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769878",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117939",
+      "param1": "163.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769879",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "144",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769880",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "144",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769881",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "240",
+      "param2": "6",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769882",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "158.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769883",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "161.28",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769884",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "165.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769885",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "172.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769886",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "158.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769887",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "161.28",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769888",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "165.6",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769889",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "172.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769890",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "172.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769891",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117940",
+      "param1": "172.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769892",
+      "zone_effect_type_id": "51",
+      "ability_id": "1117941",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "769893",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "152",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769894",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "152",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769895",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "253",
+      "param2": "6",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769896",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "167.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769897",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "170.24",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769898",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "174.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769899",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "182.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769900",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "167.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769901",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "170.24",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769902",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "174.8",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769903",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "182.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769904",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "182.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769905",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117942",
+      "param1": "182.4",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769906",
+      "zone_effect_type_id": "51",
+      "ability_id": "1117943",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "769907",
+      "zone_effect_type_id": "51",
+      "ability_id": "1117944",
+      "param1": "2000",
+      "param2": "4"
+    },
+    {
+      "zone_effect_id": "769908",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "160",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769909",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "160",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769910",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "266",
+      "param2": "6",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769911",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "176",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769912",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "179.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769913",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "184",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769914",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "192",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769915",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "176",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769916",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "179.2",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769917",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "184",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769918",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "192",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769919",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "192",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769920",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117945",
+      "param1": "192",
+      "param2": "4",
+      "param3": "1"
+    },
+    {
+      "zone_effect_id": "769947",
+      "zone_effect_type_id": "3",
+      "ability_id": "1117951",
+      "param1": "120",
+      "param2": "6",
+      "param3": "0"
+    },
+    {
+      "zone_effect_id": "769948",
+      "zone_effect_type_id": "6",
+      "ability_id": "1117952",
+      "param1": "2400",
+      "param2": "6",
+      "param3": "100",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "769949",
+      "zone_effect_type_id": "6",
+      "ability_id": "1117952",
+      "param1": "5280",
+      "param2": "6",
+      "param3": "10",
+      "param4": "0"
+    },
+    {
+      "zone_effect_id": "769998",
+      "zone_effect_type_id": "37",
+      "ability_id": "1117962"
+    },
+    {
+      "zone_effect_id": "770023",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117969",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "770024",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117969",
+      "param1": "0",
+      "param2": "1",
+      "param3": "3.4",
+      "param5": "1",
+      "string1": "FireMode.DefaultZoom"
+    },
+    {
+      "zone_effect_id": "770025",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117969",
+      "param1": "0",
+      "param2": "1",
+      "param3": "-0.0113",
+      "string1": "FireMode.FirstPersonOffsetY"
+    },
+    {
+      "zone_effect_id": "770026",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117969",
+      "param1": "0",
+      "param2": "1",
+      "param3": "2",
+      "string1": "FireMode.ArmsFovScalar"
+    },
+    {
+      "zone_effect_id": "770027",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117969",
+      "param1": "0",
+      "param2": "1",
+      "param3": "-0.0004",
+      "string1": "FireMode.FirstPersonOffsetX"
+    },
+    {
+      "zone_effect_id": "770028",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117970",
+      "param1": "0",
+      "param2": "1",
+      "param3": "0.08",
+      "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "770029",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117970",
+      "param1": "0",
+      "param2": "1",
+      "param3": "-0.003",
+      "string1": "FireMode.FirstPersonOffsetY"
+    },
+    {
+      "zone_effect_id": "770030",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117970",
+      "param1": "0",
+      "param2": "1",
+      "param3": "2",
+      "string1": "FireMode.ArmsFovScalar"
+    },
+    {
+      "zone_effect_id": "770031",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117971",
+      "param1": "0",
+      "param2": "1",
+      "param3": "0.165",
+      "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "770032",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117971",
+      "param1": "0",
+      "param2": "1",
+      "param3": "2",
+      "param5": "1",
+      "string1": "FireMode.DefaultZoom"
+    },
+    {
+      "zone_effect_id": "770033",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117971",
+      "param1": "0",
+      "param2": "1",
+      "param3": "-0.003",
+      "string1": "FireMode.FirstPersonOffsetY"
+    },
+    {
+      "zone_effect_id": "770034",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117971",
+      "param1": "0",
+      "param2": "1",
+      "param3": "0.7",
+      "string1": "FireMode.ArmsFovScalar"
+    },
+    {
+      "zone_effect_id": "770035",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117971",
+      "param1": "0",
+      "param2": "1",
+      "param3": "-0.0002",
+      "string1": "FireMode.FirstPersonOffsetX"
+    },
+    {
+      "zone_effect_id": "770036",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117972",
+      "param1": "0",
+      "param2": "1",
+      "param3": "0.471522",
+      "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "770037",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117972",
+      "param1": "0",
+      "param2": "1",
+      "param3": "4",
+      "param5": "1",
+      "string1": "FireMode.DefaultZoom"
+    },
+    {
+      "zone_effect_id": "770038",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117972",
+      "param1": "0",
+      "param2": "1",
+      "param3": "-0.0095",
+      "string1": "FireMode.FirstPersonOffsetY"
+    },
+    {
+      "zone_effect_id": "770039",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117972",
+      "param1": "0",
+      "param2": "1",
+      "param3": "1",
+      "string1": "FireMode.ArmsFovScalar"
+    },
+    {
+      "zone_effect_id": "770040",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "6.8",
+      "string1": "FireMode.ArmsFovScalar"
+    },
+    {
+      "zone_effect_id": "770041",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "1",
+      "string1": "FireMode.CanSteadySway"
+    },
+    {
+      "zone_effect_id": "770042",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "-0.0193",
+      "string1": "FireMode.FirstPersonOffsetY"
+    },
+    {
+      "zone_effect_id": "770043",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "0.395",
+      "string1": "FireMode.FirstPersonOffsetZ"
+    },
+    {
+      "zone_effect_id": "770044",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "49",
+      "param5": "1",
+      "string1": "FireMode.ReticleId"
+    },
+    {
+      "zone_effect_id": "770045",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "3",
+      "param5": "1",
+      "string1": "FireMode.FullScreenEffect"
+    },
+    {
+      "zone_effect_id": "770046",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "1",
+      "string1": "FireMode.HideWeapon"
+    },
+    {
+      "zone_effect_id": "770047",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "0.75",
+      "string1": "FireMode.SwayAmplitudeX"
+    },
+    {
+      "zone_effect_id": "770048",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "12",
+      "string1": "FireMode.SwayPeriodX"
+    },
+    {
+      "zone_effect_id": "770049",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "0.25",
+      "string1": "FireMode.SwayAmplitudeY"
+    },
+    {
+      "zone_effect_id": "770050",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "4",
+      "string1": "FireMode.SwayPeriodY"
+    },
+    {
+      "zone_effect_id": "770051",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "0.25",
+      "string1": "FireMode.SwayInitialOffsetY"
+    },
+    {
+      "zone_effect_id": "770052",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "1",
+      "param3": "1",
+      "string1": "FireMode.CanSteadySway"
+    },
+    {
+      "zone_effect_id": "770053",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "100",
+      "string1": "Weapon.ToIronSightsAnimTime"
+    },
+    {
+      "zone_effect_id": "770054",
+      "zone_effect_type_id": "8",
+      "ability_id": "1117973",
+      "param1": "-1",
+      "param2": "-1",
+      "param3": "100",
+      "string1": "Weapon.ToIronSightsTime"
     }
   ],
-  "returned": 14193
+  "returned": 14313
 }

@@ -254,7 +254,20 @@
       "param4": "Rarity",
       "param5": "Size",
       "param6": "ZoneSet"
+    },
+    {
+      "objective_type_id": "97",
+      "description": "Earn Currency",
+      "param1": "Currency",
+      "param2": "Count"
+    },
+    {
+      "objective_type_id": "98",
+      "description": "Consume Item",
+      "param1": "ItemId",
+      "param2": "Count",
+      "param3": "ItemClassId"
     }
   ],
-  "returned": 30
+  "returned": 32
 }

@@ -2531,7 +2531,91 @@
       "name": {
         "en": "of Esamir"
       }
+    },
+    {
+      "title_id": "476",
+      "name": {
+        "en": "El Muerto"
+      }
+    },
+    {
+      "title_id": "477",
+      "name": {
+        "en": "Representative"
+      }
+    },
+    {
+      "title_id": "478",
+      "name": {
+        "en": "Coordinator"
+      }
+    },
+    {
+      "title_id": "479",
+      "name": {
+        "en": "Archaeo-Technician"
+      }
+    },
+    {
+      "title_id": "480",
+      "name": {
+        "en": "Daughter of Dawn"
+      }
+    },
+    {
+      "title_id": "481",
+      "name": {
+        "en": "Son of Dawn"
+      }
+    },
+    {
+      "title_id": "482",
+      "name": {
+        "en": "Child of Dawn"
+      }
+    },
+    {
+      "title_id": "483",
+      "name": {
+        "en": "Justiciar"
+      }
+    },
+    {
+      "title_id": "484",
+      "name": {
+        "en": "Arbitrator"
+      }
+    },
+    {
+      "title_id": "485",
+      "name": {
+        "en": "Crow"
+      }
+    },
+    {
+      "title_id": "486",
+      "name": {
+        "en": "Gal Uru"
+      }
+    },
+    {
+      "title_id": "487",
+      "name": {
+        "en": "Ugula"
+      }
+    },
+    {
+      "title_id": "488",
+      "name": {
+        "en": "Erin"
+      }
+    },
+    {
+      "title_id": "489",
+      "name": {
+        "en": "Seeker"
+      }
     }
   ],
-  "returned": 422
+  "returned": 436
 }
