@@ -579,6 +579,7 @@
 6014952,Heavy Weapon,0,NS-D Helios,0,none
 6014956,Heavy Weapon,0,NS-D Helios,0,none
 6015169,Heavy Weapon,0,"NS-D ""Doombringer"" Helios",0,none
+6015793,Heavy Weapon,0,"NS-D ""Ice Dragon"" Helios",0,none
 6014957,Heavy Weapon,0,NS-D Helios EX,0,none
 6012324,Heavy Weapon,0,SPRK-33's Stomper,0,none
 7533,Heavy Weapon,0,T7 Mini-Chaingun,3,none
@@ -1119,6 +1120,7 @@
 6010076,Javelin Primary Weapon,1,JVN-X3 Hydra,0,none
 6008651,Knife,0,Ancient Psykinetic Blade,0,none
 6011053,Knife,0,Ancient Psykinetic Blade,0,none
+6015789,Knife,0,Anunnaki Blade,1,none
 800625,Knife,0,Auraxium Chainblade,3,none
 800626,Knife,0,Auraxium Force-Blade,1,none
 800624,Knife,0,Auraxium Mag-Cutter,2,none
@@ -1134,6 +1136,7 @@
 6009854,Knife,0,Excursion Kukri,0,none
 6006080,Knife,0,Fatestealer,0,none
 19,Knife,0,Force-Blade,1,none
+6015792,Knife,0,GM Osprey,2,none
 6011455,Knife,0,Guillotine,4,none
 802316,Knife,0,Hardlight Dagger,2,none
 802315,Knife,0,Hexedge,3,none
@@ -1176,7 +1179,9 @@
 801969,Knife,0,The Slasher,0,none
 6011556,Knife,0,The Swashbuckler,0,none
 6014527,Knife,0,Trench Shovel,0,none
+6015790,Knife,0,VEX-B Proto Data Point,0,none
 6014780,Knife,0,Wavestinger Harpoon,0,none
+6015791,Knife,0,WMC Inquirer,3,none
 6011914,Knife,0,Wyrdwood Shillelagh,0,none
 5209,Liberator Belly Weapon,1,AP30 Shredder,3,gunner
 5210,Liberator Belly Weapon,1,AP30 Shredder,2,gunner
