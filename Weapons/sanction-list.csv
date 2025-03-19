@@ -492,6 +492,10 @@
 6011871,Grenade,0,Impulse Grenade,0,none
 6009583,Grenade,0,Infernal Grenade,0,none
 6009459,Grenade,0,Lightning Grenade,0,none
+6015932,Grenade,0,Love Bomber Frag Grenade,1,none
+6015935,Grenade,0,Love Bomber Frag Grenade,2,none
+6015936,Grenade,0,Love Bomber Frag Grenade,3,none
+6015937,Grenade,0,Love Bomber Frag Grenade,4,none
 884,Grenade,0,Nanite Revive Grenade,0,none
 883,Grenade,0,Nano-Regen Grenade,0,none
 6003738,Grenade,0,Nano-Repair Grenade,0,none
@@ -1163,10 +1167,14 @@
 6009516,Knife,0,NS Icebreaker,2,none
 6009517,Knife,0,NS Icebreaker,3,none
 6009518,Knife,0,NS Icebreaker,4,none
+6015923,Knife,0,"NS ""Primed Amethyst"" Shard",0,none
+6015922,Knife,0,"NS ""Primed Diamond"" Shard",0,none
+6015921,Knife,0,"NS ""Primed Ruby"" Shard",0,none
 6012441,Knife,0,NS SQU-34K,0,none
 802904,Knife,0,NS Victory,0,none
 6006067,Knife,0,NS-A Commando,0,none
 6005664,Knife,0,NS-G Commando,0,none
+6015844,Knife,0,NS-T Skeleton Key,0,none
 804113,Knife,0,"NS-TMC-01 ""His Regards""",0,none
 6005743,Knife,0,NS-W Survivor,0,none
 804795,Knife,0,NSX Amaterasu,0,none
@@ -1182,6 +1190,7 @@
 6015790,Knife,0,VEX-B Proto Data Point,0,none
 6014780,Knife,0,Wavestinger Harpoon,0,none
 6015791,Knife,0,WMC Inquirer,3,none
+6015990,Knife,0,Wrench Knife,0,none
 6011914,Knife,0,Wyrdwood Shillelagh,0,none
 5209,Liberator Belly Weapon,1,AP30 Shredder,3,gunner
 5210,Liberator Belly Weapon,1,AP30 Shredder,2,gunner
