@@ -2615,7 +2615,19 @@
       "name": {
         "en": "Seeker"
       }
+    },
+    {
+      "title_id": "490",
+      "name": {
+        "en": "Heartbreaker"
+      }
+    },
+    {
+      "title_id": "491",
+      "name": {
+        "en": "Tactical Evaluator"
+      }
     }
   ],
-  "returned": 436
+  "returned": 438
 }

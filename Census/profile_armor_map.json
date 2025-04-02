@@ -484,7 +484,37 @@
       "profile_id": "298",
       "armor_info_id": "1215",
       "rank": "1"
+    },
+    {
+      "profile_id": "338",
+      "armor_info_id": "1237",
+      "rank": "1"
+    },
+    {
+      "profile_id": "338",
+      "armor_info_id": "1238",
+      "rank": "1"
+    },
+    {
+      "profile_id": "338",
+      "armor_info_id": "1239",
+      "rank": "1"
+    },
+    {
+      "profile_id": "338",
+      "armor_info_id": "1240",
+      "rank": "1"
+    },
+    {
+      "profile_id": "338",
+      "armor_info_id": "1241",
+      "rank": "1"
+    },
+    {
+      "profile_id": "338",
+      "armor_info_id": "1242",
+      "rank": "1"
     }
   ],
-  "returned": 97
+  "returned": 103
 }

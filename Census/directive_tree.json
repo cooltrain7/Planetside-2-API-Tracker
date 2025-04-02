@@ -1085,7 +1085,27 @@
       "description": {
         "en": "Available through January 1"
       }
+    },
+    {
+      "directive_tree_id": "147",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Valentine's Day 2025"
+      },
+      "description": {
+        "en": "Valentine's Directive Event!  Available throughout February!"
+      }
+    },
+    {
+      "directive_tree_id": "152",
+      "directive_tree_category_id": "20",
+      "name": {
+        "en": "Fishing Mastery"
+      },
+      "image_set_id": "808177",
+      "image_id": "97804",
+      "image_path": "/files/ps2/images/static/97804.png"
     }
   ],
-  "returned": 106
+  "returned": 108
 }

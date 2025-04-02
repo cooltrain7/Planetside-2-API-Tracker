@@ -69983,231 +69983,6 @@
       "image_path": "/files/ps2/images/static/79560.png"
     },
     {
-      "directive_id": "5524",
-      "directive_tree_id": "127",
-      "directive_tier_id": "2",
-      "objective_set_id": "9637",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "5525",
-      "directive_tree_id": "127",
-      "directive_tier_id": "3",
-      "objective_set_id": "9638",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "5526",
-      "directive_tree_id": "127",
-      "directive_tier_id": "4",
-      "objective_set_id": "9639",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "5527",
-      "directive_tree_id": "127",
-      "directive_tier_id": "1",
-      "objective_set_id": "9636",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "5528",
-      "directive_tree_id": "127",
-      "directive_tier_id": "2",
-      "objective_set_id": "9637",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "5529",
-      "directive_tree_id": "127",
-      "directive_tier_id": "3",
-      "objective_set_id": "9638",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "5530",
-      "directive_tree_id": "127",
-      "directive_tier_id": "4",
-      "objective_set_id": "9639",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "5531",
-      "directive_tree_id": "127",
-      "directive_tier_id": "1",
-      "objective_set_id": "9636",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "5532",
-      "directive_tree_id": "127",
-      "directive_tier_id": "2",
-      "objective_set_id": "9637",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "5533",
-      "directive_tree_id": "127",
-      "directive_tier_id": "3",
-      "objective_set_id": "9638",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "5534",
-      "directive_tree_id": "127",
-      "directive_tier_id": "4",
-      "objective_set_id": "9639",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "5535",
-      "directive_tree_id": "127",
-      "directive_tier_id": "1",
-      "objective_set_id": "9636",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "5536",
-      "directive_tree_id": "127",
-      "directive_tier_id": "2",
-      "objective_set_id": "9637",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "5537",
-      "directive_tree_id": "127",
-      "directive_tier_id": "3",
-      "objective_set_id": "9638",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "5538",
-      "directive_tree_id": "127",
-      "directive_tier_id": "4",
-      "objective_set_id": "9639",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
       "directive_id": "5539",
       "directive_tree_id": "127",
       "directive_tier_id": "1",
@@ -70221,51 +69996,6 @@
       "image_set_id": "1564",
       "image_id": "3072",
       "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "5540",
-      "directive_tree_id": "127",
-      "directive_tier_id": "2",
-      "objective_set_id": "9637",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "5541",
-      "directive_tree_id": "127",
-      "directive_tier_id": "3",
-      "objective_set_id": "9638",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "5542",
-      "directive_tree_id": "127",
-      "directive_tier_id": "4",
-      "objective_set_id": "9639",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
     },
     {
       "directive_id": "5543",
@@ -70330,21 +70060,6 @@
       "image_set_id": "1566",
       "image_id": "3075",
       "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "5547",
-      "directive_tree_id": "127",
-      "directive_tier_id": "1",
-      "objective_set_id": "9636",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "5572",
@@ -75324,19 +75039,46 @@
       "directive_id": "6059",
       "directive_tree_id": "17",
       "directive_tier_id": "3",
-      "objective_set_id": "10149"
+      "objective_set_id": "10149",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
     },
     {
       "directive_id": "6060",
       "directive_tree_id": "17",
       "directive_tier_id": "1",
-      "objective_set_id": "10150"
+      "objective_set_id": "10150",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
     },
     {
       "directive_id": "6061",
       "directive_tree_id": "17",
       "directive_tier_id": "4",
-      "objective_set_id": "10151"
+      "objective_set_id": "10151",
+      "name": {
+        "en": "NS-44 \"Primed Diamond\" Commissioner"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
     },
     {
       "directive_id": "6062",
@@ -76027,306 +75769,6 @@
       }
     },
     {
-      "directive_id": "6109",
-      "directive_tree_id": "145",
-      "directive_tier_id": "2",
-      "objective_set_id": "10202",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "6110",
-      "directive_tree_id": "145",
-      "directive_tier_id": "3",
-      "objective_set_id": "10203",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "6111",
-      "directive_tree_id": "145",
-      "directive_tier_id": "4",
-      "objective_set_id": "10204",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "6112",
-      "directive_tree_id": "145",
-      "directive_tier_id": "1",
-      "objective_set_id": "10205",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "6113",
-      "directive_tree_id": "145",
-      "directive_tier_id": "2",
-      "objective_set_id": "10202",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "6114",
-      "directive_tree_id": "145",
-      "directive_tier_id": "3",
-      "objective_set_id": "10203",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "6115",
-      "directive_tree_id": "145",
-      "directive_tier_id": "4",
-      "objective_set_id": "10204",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "6116",
-      "directive_tree_id": "145",
-      "directive_tier_id": "1",
-      "objective_set_id": "10205",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "6117",
-      "directive_tree_id": "145",
-      "directive_tier_id": "2",
-      "objective_set_id": "10202",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "6118",
-      "directive_tree_id": "145",
-      "directive_tier_id": "3",
-      "objective_set_id": "10203",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "6119",
-      "directive_tree_id": "145",
-      "directive_tier_id": "4",
-      "objective_set_id": "10204",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "6120",
-      "directive_tree_id": "145",
-      "directive_tier_id": "1",
-      "objective_set_id": "10205",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "6121",
-      "directive_tree_id": "145",
-      "directive_tier_id": "2",
-      "objective_set_id": "10202",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "6122",
-      "directive_tree_id": "145",
-      "directive_tier_id": "3",
-      "objective_set_id": "10203",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "6123",
-      "directive_tree_id": "145",
-      "directive_tier_id": "4",
-      "objective_set_id": "10204",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "6124",
-      "directive_tree_id": "145",
-      "directive_tier_id": "1",
-      "objective_set_id": "10205",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-      "directive_id": "6125",
-      "directive_tree_id": "145",
-      "directive_tier_id": "2",
-      "objective_set_id": "10202",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "50 Enemies Killed"
-      },
-      "image_set_id": "1565",
-      "image_id": "3079",
-      "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-      "directive_id": "6126",
-      "directive_tree_id": "145",
-      "directive_tier_id": "3",
-      "objective_set_id": "10203",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "100 Enemies Killed"
-      },
-      "image_set_id": "1566",
-      "image_id": "3075",
-      "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-      "directive_id": "6127",
-      "directive_tree_id": "145",
-      "directive_tier_id": "4",
-      "objective_set_id": "10204",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "1000 Enemies Killed"
-      },
-      "image_set_id": "1567",
-      "image_id": "3068",
-      "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-      "directive_id": "6128",
-      "directive_tree_id": "145",
-      "directive_tier_id": "1",
-      "objective_set_id": "10205",
-      "name": {
-        "en": "Coming Soon"
-      },
-      "description": {
-        "en": "10 Enemies Killed"
-      },
-      "image_set_id": "1564",
-      "image_id": "3072",
-      "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
       "directive_id": "6129",
       "directive_tree_id": "145",
       "directive_tier_id": "3",
@@ -76975,7 +76417,7 @@
         "en": "Fishcoins"
       },
       "description": {
-        "en": "Earn 10000 Fishcoins"
+        "en": "Earn 1000 Fishcoins"
       }
     },
     {
@@ -77228,7 +76670,7 @@
         "en": "Fishcoins"
       },
       "description": {
-        "en": "Earn 30000 Fishcoins"
+        "en": "Earn 3000 Fishcoins"
       }
     },
     {
@@ -77240,7 +76682,7 @@
         "en": "Fishcoins"
       },
       "description": {
-        "en": "Earn 65000 Fishcoins"
+        "en": "Earn 6500 Fishcoins"
       }
     },
     {
@@ -77252,7 +76694,7 @@
         "en": "Fishcoins"
       },
       "description": {
-        "en": "Earn 90000 Fishcoins"
+        "en": "Earn 9000 Fishcoins"
       }
     },
     {
@@ -77368,9 +76810,8 @@
       "directive_tree_id": "145",
       "directive_tier_id": "2",
       "objective_set_id": "10301",
-      "qualify_requirement_id": "45167",
       "name": {
-        "en": "NS-T Skeleton Key"
+        "en": "NS-D \"Ice Dragon\" Helios"
       },
       "description": {
         "en": "50 Enemies Killed"
@@ -77384,9 +76825,8 @@
       "directive_tree_id": "145",
       "directive_tier_id": "1",
       "objective_set_id": "10302",
-      "qualify_requirement_id": "45167",
       "name": {
-        "en": "NS-T Skeleton Key"
+        "en": "NS-D \"Ice Dragon\" Helios"
       },
       "description": {
         "en": "10 Enemies Killed"
@@ -77400,9 +76840,8 @@
       "directive_tree_id": "145",
       "directive_tier_id": "4",
       "objective_set_id": "10303",
-      "qualify_requirement_id": "45167",
       "name": {
-        "en": "NS-T Skeleton Key"
+        "en": "NS-D \"Ice Dragon\" Helios"
       },
       "description": {
         "en": "1000 Enemies Killed"
@@ -77416,9 +76855,8 @@
       "directive_tree_id": "145",
       "directive_tier_id": "3",
       "objective_set_id": "10304",
-      "qualify_requirement_id": "45167",
       "name": {
-        "en": "NS-T Skeleton Key"
+        "en": "NS-D \"Ice Dragon\" Helios"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -77426,7 +76864,895 @@
       "image_set_id": "1566",
       "image_id": "3075",
       "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6218",
+      "directive_tree_id": "147",
+      "directive_tier_id": "1",
+      "objective_set_id": "10305",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "6219",
+      "directive_tree_id": "147",
+      "directive_tier_id": "2",
+      "objective_set_id": "10306",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "6220",
+      "directive_tree_id": "147",
+      "directive_tier_id": "3",
+      "objective_set_id": "10307",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "6221",
+      "directive_tree_id": "147",
+      "directive_tier_id": "4",
+      "objective_set_id": "10308",
+      "name": {
+        "en": "Always Better Together"
+      },
+      "description": {
+        "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants."
+      },
+      "image_set_id": "14132",
+      "image_id": "79555",
+      "image_path": "/files/ps2/images/static/79555.png"
+    },
+    {
+      "directive_id": "6222",
+      "directive_tree_id": "147",
+      "directive_tier_id": "1",
+      "objective_set_id": "10309",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "6223",
+      "directive_tree_id": "147",
+      "directive_tier_id": "2",
+      "objective_set_id": "10310",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "6224",
+      "directive_tree_id": "147",
+      "directive_tier_id": "3",
+      "objective_set_id": "10311",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "6225",
+      "directive_tree_id": "147",
+      "directive_tier_id": "4",
+      "objective_set_id": "10312",
+      "name": {
+        "en": "Cupid's Arrow"
+      },
+      "description": {
+        "en": "Kill enemies with crossbows."
+      },
+      "image_set_id": "13579",
+      "image_id": "77983",
+      "image_path": "/files/ps2/images/static/77983.png"
+    },
+    {
+      "directive_id": "6226",
+      "directive_tree_id": "147",
+      "directive_tier_id": "1",
+      "objective_set_id": "10313",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "6227",
+      "directive_tree_id": "147",
+      "directive_tier_id": "2",
+      "objective_set_id": "10314",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "6228",
+      "directive_tree_id": "147",
+      "directive_tier_id": "3",
+      "objective_set_id": "10315",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "6229",
+      "directive_tree_id": "147",
+      "directive_tier_id": "4",
+      "objective_set_id": "10316",
+      "name": {
+        "en": "Friends Forever"
+      },
+      "description": {
+        "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters."
+      },
+      "image_set_id": "14098",
+      "image_id": "79521",
+      "image_path": "/files/ps2/images/static/79521.png"
+    },
+    {
+      "directive_id": "6230",
+      "directive_tree_id": "147",
+      "directive_tier_id": "1",
+      "objective_set_id": "10317",
+      "name": {
+        "en": "I'd Walk 500 Meters"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "6231",
+      "directive_tree_id": "147",
+      "directive_tier_id": "2",
+      "objective_set_id": "10318",
+      "name": {
+        "en": "I'd Walk 500 Meters"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "6232",
+      "directive_tree_id": "147",
+      "directive_tier_id": "3",
+      "objective_set_id": "10319",
+      "name": {
+        "en": "I'd Walk 500 Meters"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "6233",
+      "directive_tree_id": "147",
+      "directive_tier_id": "4",
+      "objective_set_id": "10320",
+      "name": {
+        "en": "And I'd Walk 500 More"
+      },
+      "description": {
+        "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates."
+      },
+      "image_set_id": "806629",
+      "image_id": "93401",
+      "image_path": "/files/ps2/images/static/93401.png"
+    },
+    {
+      "directive_id": "6234",
+      "directive_tree_id": "147",
+      "directive_tier_id": "1",
+      "objective_set_id": "10321",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "6235",
+      "directive_tree_id": "147",
+      "directive_tier_id": "2",
+      "objective_set_id": "10322",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "6236",
+      "directive_tree_id": "147",
+      "directive_tier_id": "3",
+      "objective_set_id": "10323",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "6237",
+      "directive_tree_id": "147",
+      "directive_tier_id": "4",
+      "objective_set_id": "10324",
+      "name": {
+        "en": "Your MAX Looks Great"
+      },
+      "description": {
+        "en": "As an Engineer, repair allied MAX suits."
+      },
+      "image_set_id": "14063",
+      "image_id": "79486",
+      "image_path": "/files/ps2/images/static/79486.png"
+    },
+    {
+      "directive_id": "6238",
+      "directive_tree_id": "147",
+      "directive_tier_id": "1",
+      "objective_set_id": "10325",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "6239",
+      "directive_tree_id": "147",
+      "directive_tier_id": "2",
+      "objective_set_id": "10326",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "6240",
+      "directive_tree_id": "147",
+      "directive_tier_id": "3",
+      "objective_set_id": "10327",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "6241",
+      "directive_tree_id": "147",
+      "directive_tier_id": "4",
+      "objective_set_id": "10328",
+      "name": {
+        "en": "Matchmaker"
+      },
+      "description": {
+        "en": "Complete daily Matchmaker missions"
+      },
+      "image_set_id": "13127",
+      "image_id": "13555",
+      "image_path": "/files/ps2/images/static/13555.png"
+    },
+    {
+      "directive_id": "6243",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10337",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6244",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10338",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6245",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10339",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6246",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10340",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6247",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10341",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6248",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10342",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6249",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10343",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6250",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10344",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6251",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10345",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6252",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10346",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6253",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10347",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6254",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10348",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6255",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10349",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6256",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10350",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6257",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10351",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6258",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10352",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6379",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6380",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6381",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6382",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "9636",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6383",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6384",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6385",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6386",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "9637",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6387",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6388",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6389",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6390",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "9638",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6391",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6392",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6393",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6394",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "9639",
+      "name": {
+        "en": "Coming Soon"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6401",
+      "directive_tree_id": "152",
+      "directive_tier_id": "1",
+      "objective_set_id": "10474",
+      "name": {
+        "en": "Scan All Common Fish"
+      },
+      "description": {
+        "en": "Scan All Common Fish"
+      }
+    },
+    {
+      "directive_id": "6402",
+      "directive_tree_id": "152",
+      "directive_tier_id": "2",
+      "objective_set_id": "10475",
+      "name": {
+        "en": "Scan All Rare Fish"
+      },
+      "description": {
+        "en": "Scan All Rare Fish"
+      }
+    },
+    {
+      "directive_id": "6403",
+      "directive_tree_id": "152",
+      "directive_tier_id": "3",
+      "objective_set_id": "10476",
+      "name": {
+        "en": "Scan fish"
+      },
+      "description": {
+        "en": "Scan any 200 fish"
+      }
+    },
+    {
+      "directive_id": "6404",
+      "directive_tree_id": "152",
+      "directive_tier_id": "4",
+      "objective_set_id": "10477",
+      "name": {
+        "en": "Scan All Legendary Fish"
+      },
+      "description": {
+        "en": "Scan All Legendary Fish"
+      }
     }
   ],
-  "returned": 5059
+  "returned": 5080
 }

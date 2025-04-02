@@ -1003,7 +1003,11 @@
     {
       "profile_id": "336",
       "description": "Vehicle - Sunderer - Cargo"
+    },
+    {
+      "profile_id": "338",
+      "description": "Stryder Magrider"
     }
   ],
-  "returned": 251
+  "returned": 252
 }

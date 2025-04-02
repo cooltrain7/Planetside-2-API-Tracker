@@ -102349,7 +102349,7 @@
       "reward_id": "102",
       "repeatable": "0",
       "name": {
-        "en": "NS-T Skeleton Key"
+        "en": "NS-D \"Ice Dragon\" Helios"
       },
       "description": {
         "en": "100 Enemies Killed"
@@ -102389,7 +102389,327 @@
       "image_set_id": "8017",
       "image_id": "8338",
       "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94120",
+      "item_id": "6015746",
+      "objective_group_id": "22063",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94121",
+      "item_id": "6015921",
+      "objective_group_id": "22064",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94122",
+      "item_id": "6015922",
+      "objective_group_id": "22065",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94123",
+      "item_id": "6015923",
+      "objective_group_id": "22066",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94124",
+      "item_id": "6015746",
+      "objective_group_id": "22071",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94125",
+      "item_id": "6015921",
+      "objective_group_id": "22072",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94126",
+      "item_id": "6015922",
+      "objective_group_id": "22073",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94127",
+      "item_id": "6015923",
+      "objective_group_id": "22074",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "50 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94128",
+      "item_id": "6015746",
+      "objective_group_id": "22079",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94129",
+      "item_id": "6015921",
+      "objective_group_id": "22080",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94130",
+      "item_id": "6015922",
+      "objective_group_id": "22081",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94131",
+      "item_id": "6015923",
+      "objective_group_id": "22082",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "100 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94132",
+      "item_id": "6015746",
+      "objective_group_id": "22087",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94133",
+      "item_id": "6015921",
+      "objective_group_id": "22088",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94134",
+      "item_id": "6015922",
+      "objective_group_id": "22089",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94135",
+      "item_id": "6015923",
+      "objective_group_id": "22090",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "1000 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94136",
+      "item_id": "6015746",
+      "objective_group_id": "22095",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS \"Primed Lapis\" Shard"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94137",
+      "item_id": "6015921",
+      "objective_group_id": "22096",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS \"Primed Ruby\" Shard"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94138",
+      "item_id": "6015922",
+      "objective_group_id": "22097",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS \"Primed Diamond\" Shard"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94139",
+      "item_id": "6015923",
+      "objective_group_id": "22098",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "NS \"Primed Amethyst\" Shard"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
     }
   ],
-  "returned": 6416
+  "returned": 6436
 }

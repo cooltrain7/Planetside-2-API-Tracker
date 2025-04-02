@@ -14001,7 +14001,19 @@
       "image_set_id": "807394",
       "image_id": "95507",
       "image_path": "/files/ps2/images/static/95507.png"
+    },
+    {
+      "skill_set_id": "1987",
+      "name": {
+        "en": "Recon Drone Grenade"
+      },
+      "description": {
+        "en": "Allows to attach a grenade for dropping on enemies"
+      },
+      "image_set_id": "1561",
+      "image_id": "2704",
+      "image_path": "/files/ps2/images/static/2704.png"
     }
   ],
-  "returned": 1079
+  "returned": 1080
 }

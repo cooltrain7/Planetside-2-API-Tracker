@@ -10581,6 +10581,13 @@
       "refill_ammo_rate": "6"
     },
     {
+      "weapon_id": "78837",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "0",
+      "refill_ammo_rate": "0"
+    },
+    {
       "weapon_id": "78838",
       "weapon_slot_index": "0",
       "clip_size": "6",
@@ -10703,7 +10710,84 @@
       "clip_size": "150",
       "capacity": "450",
       "refill_ammo_rate": "50"
+    },
+    {
+      "weapon_id": "78864",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78866",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78867",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78868",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78869",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78870",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78871",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "0",
+      "refill_ammo_rate": "0"
+    },
+    {
+      "weapon_id": "78872",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "0",
+      "refill_ammo_rate": "0"
+    },
+    {
+      "weapon_id": "78873",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78874",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
+    },
+    {
+      "weapon_id": "78875",
+      "weapon_slot_index": "0",
+      "clip_size": "1",
+      "capacity": "1",
+      "refill_ammo_rate": "1"
     }
   ],
-  "returned": 1528
+  "returned": 1540
 }

@@ -545,7 +545,13 @@
       "name": {
         "en": "Anti-Materiel Rifle"
       }
+    },
+    {
+      "item_category_id": "226",
+      "name": {
+        "en": "Fishing Scanners"
+      }
     }
   ],
-  "returned": 91
+  "returned": 92
 }

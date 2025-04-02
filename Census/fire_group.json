@@ -4863,6 +4863,10 @@
       "can_chamber_ironsights": "0"
     },
     {
+      "fire_group_id": "81023",
+      "can_chamber_ironsights": "0"
+    },
+    {
       "fire_group_id": "81024",
       "can_chamber_ironsights": "0"
     },
@@ -4927,7 +4931,52 @@
       "fire_group_id": "81048",
       "transition_duration_ms": "500",
       "can_chamber_ironsights": "1"
+    },
+    {
+      "fire_group_id": "81049",
+      "transition_duration_ms": "500",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81051",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81052",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81053",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81054",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81055",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81056",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81057",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81058",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81059",
+      "can_chamber_ironsights": "0"
+    },
+    {
+      "fire_group_id": "81060",
+      "can_chamber_ironsights": "0"
     }
   ],
-  "returned": 1155
+  "returned": 1167
 }

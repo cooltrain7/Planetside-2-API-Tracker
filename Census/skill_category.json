@@ -32321,7 +32321,13 @@
       "image_set_id": "646",
       "image_id": "2140",
       "image_path": "/files/ps2/images/static/2140.png"
+    },
+    {
+      "skill_category_id": "16930",
+      "skill_set_id": "1987",
+      "skill_set_index": "0",
+      "skill_points": "0"
     }
   ],
-  "returned": 2448
+  "returned": 2449
 }

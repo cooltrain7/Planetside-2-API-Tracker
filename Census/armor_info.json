@@ -1715,7 +1715,43 @@
       "armor_facing_id": "6",
       "armor_percent": "-15",
       "description": "Vehicle - Magrider - Weapon - Perihelion (Armor Debuff)"
+    },
+    {
+      "armor_info_id": "1237",
+      "armor_facing_id": "1",
+      "armor_percent": "-15",
+      "description": "Stryder Magrider - Right"
+    },
+    {
+      "armor_info_id": "1238",
+      "armor_facing_id": "2",
+      "armor_percent": "0",
+      "description": "Stryder Magrider - Top"
+    },
+    {
+      "armor_info_id": "1239",
+      "armor_facing_id": "3",
+      "armor_percent": "-50",
+      "description": "Stryder Magrider - Rear"
+    },
+    {
+      "armor_info_id": "1240",
+      "armor_facing_id": "4",
+      "armor_percent": "-15",
+      "description": "Stryder Magrider - Left"
+    },
+    {
+      "armor_info_id": "1241",
+      "armor_facing_id": "5",
+      "armor_percent": "-100",
+      "description": "Stryder Magrider - Bottom"
+    },
+    {
+      "armor_info_id": "1242",
+      "armor_facing_id": "0",
+      "armor_percent": "0",
+      "description": "Stryder Magrider - Front"
     }
   ],
-  "returned": 286
+  "returned": 292
 }

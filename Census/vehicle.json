@@ -1020,7 +1020,23 @@
       "type_id": "7",
       "type_name": "Umovable Turret",
       "image_set_id": "808120"
+    },
+    {
+      "vehicle_id": "2153",
+      "name": {
+        "en": "Stryder"
+      },
+      "description": {
+        "en": "The Magrider is a hover tank used exclusively by the Vanu Sovereignty.  Its hover capabilities allow it ability strafe and climb more types of terrain beyond other tanks."
+      },
+      "type_id": "2",
+      "type_name": "Hover Tank",
+      "cost": "0",
+      "cost_resource_id": "4",
+      "image_set_id": "95",
+      "image_id": "3987",
+      "image_path": "/files/ps2/images/static/3987.png"
     }
   ],
-  "returned": 68
+  "returned": 69
 }

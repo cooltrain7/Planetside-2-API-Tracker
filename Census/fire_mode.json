@@ -6820,6 +6820,86 @@
       "damage_resist_type": "1"
     },
     {
+      "fire_mode_id": "18",
+      "item_id": "6015844",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 02 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "18",
+      "item_id": "6015921",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 02 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "18",
+      "item_id": "6015922",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 02 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "18",
+      "item_id": "6015923",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 02 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
       "fire_mode_id": "19",
       "item_id": "80",
       "type": "primary",
@@ -11425,6 +11505,46 @@
     {
       "fire_mode_id": "39",
       "item_id": "6015792",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 01 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "39",
+      "item_id": "6015990",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 01 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "39",
+      "item_id": "6015999",
       "type": "primary",
       "description": {
         "en": "Melee"
@@ -19764,6 +19884,28 @@
       "damage_resist_type": "2"
     },
     {
+      "fire_mode_id": "312",
+      "item_id": "6016000",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "305",
+      "cof_recoil": "0.1",
+      "reload_time_ms": "2500",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "650",
+      "projectile_description": "Vehicle - Common - 50cal MG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "143",
+      "damage_max": "167",
+      "damage_min_range": "110",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
       "fire_mode_id": "313",
       "item_id": "529",
       "type": "primary",
@@ -20924,6 +21066,28 @@
     {
       "fire_mode_id": "322",
       "item_id": "6014995",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "305",
+      "cof_recoil": "0.1",
+      "reload_time_ms": "2500",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "650",
+      "projectile_description": "Vehicle - Common - 50cal MG - TR",
+      "damage_type": "DamageFalloff",
+      "damage_min": "143",
+      "damage_max": "167",
+      "damage_min_range": "110",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "322",
+      "item_id": "6016000",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -33372,8 +33536,60 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "542",
+      "item_id": "6015938",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "329",
+      "cof_recoil": "0",
+      "reload_time_ms": "4000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "200",
+      "damage_radius": "4",
+      "projectile_description": "Vehicle - Common - Bulldog (Air Vehicles)",
+      "damage_type": "Damage",
+      "damage": "400",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "5",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "543",
       "item_id": "5223",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "329",
+      "cof_recoil": "0",
+      "reload_time_ms": "4000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "200",
+      "damage_radius": "4",
+      "projectile_description": "Vehicle - Common - Bulldog (Air Vehicles)",
+      "damage_type": "Damage",
+      "damage": "400",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "5",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "543",
+      "item_id": "6015997",
       "type": "primary",
       "description": {
         "en": "Auto"
@@ -33476,8 +33692,60 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "545",
+      "item_id": "6015938",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "329",
+      "cof_recoil": "0",
+      "reload_time_ms": "4000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "200",
+      "damage_radius": "4",
+      "projectile_description": "Vehicle - Common - Bulldog (Air Vehicles)",
+      "damage_type": "Damage",
+      "damage": "400",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "5",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "546",
       "item_id": "5223",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "329",
+      "cof_recoil": "0",
+      "reload_time_ms": "4000",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "200",
+      "damage_radius": "4",
+      "projectile_description": "Vehicle - Common - Bulldog (Air Vehicles)",
+      "damage_type": "Damage",
+      "damage": "400",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "5",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "546",
+      "item_id": "6015997",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -123155,7 +123423,27 @@
       "damage": "900",
       "damage_target_type": "2",
       "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "81488",
+      "item_id": "6015844",
+      "type": "primary",
+      "description": {
+        "en": "Powered Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "NSO: Knife 02: Activated Mode",
+      "damage_type": "Damage",
+      "damage": "900",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
     }
   ],
-  "returned": 4945
+  "returned": 4958
 }

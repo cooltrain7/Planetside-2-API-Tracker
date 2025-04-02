@@ -107132,7 +107132,82 @@
       "image_set_id": "808031",
       "image_id": "97398",
       "image_path": "/files/ps2/images/static/97398.png"
+    },
+    {
+      "skill_line_id": "18199",
+      "skill_points": "0",
+      "skill_category_id": "16930",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Recon Drone Grenade"
+      },
+      "description": {
+        "en": "Allows to attach a grenade for dropping on enemies"
+      },
+      "image_set_id": "2091",
+      "image_id": "3811",
+      "image_path": "/files/ps2/images/static/3811.png"
+    },
+    {
+      "skill_line_id": "18202",
+      "skill_points": "0",
+      "skill_category_id": "16474",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Easter Egg Frag Grenade"
+      },
+      "description": {
+        "en": "The Easter Egg Grenade, for when you want an egg-splosive presence on the battlefield!<br>Capable of heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.<br><br>Available during the Easter Period.</font>"
+      },
+      "image_set_id": "808407",
+      "image_id": "98497",
+      "image_path": "/files/ps2/images/static/98497.png"
+    },
+    {
+      "skill_line_id": "18208",
+      "skill_points": "0",
+      "skill_category_id": "16474",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Easter Egg Frag Grenade"
+      },
+      "description": {
+        "en": "The Easter Egg Grenade, for when you want an egg-splosive presence on the battlefield!<br>Capable of heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.<br><br>Available during the Easter Period.</font>"
+      },
+      "image_set_id": "808407",
+      "image_id": "98497",
+      "image_path": "/files/ps2/images/static/98497.png"
+    },
+    {
+      "skill_line_id": "18209",
+      "skill_points": "0",
+      "skill_category_id": "16474",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Easter Egg Frag Grenade"
+      },
+      "description": {
+        "en": "The Easter Egg Grenade, for when you want an egg-splosive presence on the battlefield!<br>Capable of heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.<br><br>Available during the Easter Period.</font>"
+      },
+      "image_set_id": "808407",
+      "image_id": "98497",
+      "image_path": "/files/ps2/images/static/98497.png"
+    },
+    {
+      "skill_line_id": "18210",
+      "skill_points": "0",
+      "skill_category_id": "16474",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Easter Egg Plasma Grenade"
+      },
+      "description": {
+        "en": "The Easter Egg Grenade, for when you want an egg-splosive presence on the battlefield!<br>Capable of heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.<br><br>Available during the Easter Period.</font>"
+      },
+      "image_set_id": "808407",
+      "image_id": "98497",
+      "image_path": "/files/ps2/images/static/98497.png"
     }
   ],
-  "returned": 7341
+  "returned": 7346
 }
