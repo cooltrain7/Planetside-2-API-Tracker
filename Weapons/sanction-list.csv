@@ -414,6 +414,9 @@
 650,Explosive,0,Tank Mine,0,none
 6005961,Explosive,0,Tank Mine,0,none
 6005962,Explosive,0,Tank Mine,0,none
+6015553,Fishing Scanners,0,"SQ-031 ""Tracker""",0,none
+6015926,Fishing Scanners,0,"SQS-3.045 ""Beleza""",0,none
+6015913,Fishing Scanners,0,"ST-2.301B ""Nanocaster""",0,none
 6004753,Flash Primary Weapon,1,LA7 Buzzard,2,none
 2500,Flash Primary Weapon,1,M12 Kobalt-F,1,none
 2501,Flash Primary Weapon,1,M12 Kobalt-F,2,none
@@ -482,6 +485,10 @@
 1096,Grenade,0,Concussion Grenade,0,none
 6009524,Grenade,0,Condensate Grenade,0,none
 6050,Grenade,0,Decoy Grenade,0,none
+6015984,Grenade,0,Easter Egg Frag Grenade,2,none
+6015985,Grenade,0,Easter Egg Frag Grenade,3,none
+6015986,Grenade,0,Easter Egg Frag Grenade,0,none
+6015979,Grenade,0,Easter Egg Plasma Grenade,1,none
 50051,Grenade,0,EMP Grenade,0,none
 6004750,Grenade,0,Flamewake Grenade,0,none
 7755,Grenade,0,Flash Grenade,0,none
