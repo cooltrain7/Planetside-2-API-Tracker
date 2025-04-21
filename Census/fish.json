@@ -1,0 +1,285 @@
+{
+  "fish_list": [
+    {
+      "fish_id": "1",
+      "name": {
+        "en": "Softheaded Mumbler"
+      },
+      "rarity": "1",
+      "size": "1",
+      "average_size": "30",
+      "size_deviation": "15",
+      "scan_point_amount": "200",
+      "cost": "100",
+      "image_set_id": "808133",
+      "image_id": "97689"
+    },
+    {
+      "fish_id": "2",
+      "name": {
+        "en": "Regular Wetgripper"
+      },
+      "rarity": "1",
+      "size": "1",
+      "average_size": "30",
+      "size_deviation": "15",
+      "scan_point_amount": "200",
+      "cost": "100",
+      "image_set_id": "808138",
+      "image_id": "97701"
+    },
+    {
+      "fish_id": "3",
+      "name": {
+        "en": "Reticulaheaded Anther"
+      },
+      "rarity": "1",
+      "size": "3",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "100",
+      "image_set_id": "808139",
+      "image_id": "97704"
+    },
+    {
+      "fish_id": "4",
+      "name": {
+        "en": "Winged Pseudofloater"
+      },
+      "rarity": "2",
+      "size": "2",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "250",
+      "image_set_id": "808140",
+      "image_id": "97707"
+    },
+    {
+      "fish_id": "5",
+      "name": {
+        "en": "Shelled Reefcrusher"
+      },
+      "rarity": "3",
+      "size": "4",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "450",
+      "image_set_id": "808141",
+      "image_id": "97710"
+    },
+    {
+      "fish_id": "6",
+      "name": {
+        "en": "Mudcreeper"
+      },
+      "rarity": "1",
+      "size": "1",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "120",
+      "image_set_id": "808142",
+      "image_id": "97713"
+    },
+    {
+      "fish_id": "7",
+      "name": {
+        "en": "Voidswifter Anoa"
+      },
+      "rarity": "1",
+      "size": "3",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "80",
+      "image_set_id": "808148",
+      "image_id": "97731"
+    },
+    {
+      "fish_id": "8",
+      "name": {
+        "en": "Spiked Siltdigger"
+      },
+      "rarity": "1",
+      "size": "1",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "100",
+      "image_set_id": "808149",
+      "image_id": "97734"
+    },
+    {
+      "fish_id": "9",
+      "name": {
+        "en": "Coastal Thornbill"
+      },
+      "rarity": "2",
+      "size": "2",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "200",
+      "image_set_id": "808155",
+      "image_id": "97754"
+    },
+    {
+      "fish_id": "10",
+      "name": {
+        "en": "Astraxian Wormech"
+      },
+      "rarity": "3",
+      "size": "3",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "440",
+      "image_set_id": "808157",
+      "image_id": "97760"
+    },
+    {
+      "fish_id": "11",
+      "name": {
+        "en": "Warthog Triton"
+      },
+      "rarity": "1",
+      "size": "1",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "130",
+      "image_set_id": "808158",
+      "image_id": "97763"
+    },
+    {
+      "fish_id": "12",
+      "name": {
+        "en": "Purple Bubblereaver"
+      },
+      "rarity": "1",
+      "size": "2",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "120",
+      "image_set_id": "808159",
+      "image_id": "97766"
+    },
+    {
+      "fish_id": "13",
+      "name": {
+        "en": "Oshur Cleaverjaw"
+      },
+      "rarity": "1",
+      "size": "2",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "100",
+      "image_set_id": "808160",
+      "image_id": "97769"
+    },
+    {
+      "fish_id": "14",
+      "name": {
+        "en": "Ghosted Phlegmata"
+      },
+      "rarity": "2",
+      "size": "1",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "230",
+      "image_set_id": "808161",
+      "image_id": "97772"
+    },
+    {
+      "fish_id": "15",
+      "name": {
+        "en": "Shimmering Abyssal Gargantua"
+      },
+      "rarity": "3",
+      "size": "4",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "500",
+      "image_set_id": "808162",
+      "image_id": "97775"
+    },
+    {
+      "fish_id": "16",
+      "name": {
+        "en": "Pimplespin Screamer"
+      },
+      "rarity": "1",
+      "size": "2",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "110",
+      "image_set_id": "808163",
+      "image_id": "97778"
+    },
+    {
+      "fish_id": "17",
+      "name": {
+        "en": "Lavra Medullaria"
+      },
+      "rarity": "1",
+      "size": "2",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "100",
+      "image_set_id": "808164",
+      "image_id": "97781"
+    },
+    {
+      "fish_id": "18",
+      "name": {
+        "en": "Unghotian Plasmabreaker\t"
+      },
+      "rarity": "1",
+      "size": "3",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "80",
+      "image_set_id": "808165",
+      "image_id": "97784"
+    },
+    {
+      "fish_id": "19",
+      "name": {
+        "en": "Augumentatroxis"
+      },
+      "rarity": "2",
+      "size": "3",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "250",
+      "image_set_id": "808166",
+      "image_id": "97787"
+    },
+    {
+      "fish_id": "20",
+      "name": {
+        "en": "Fullmetal Erupter"
+      },
+      "rarity": "3",
+      "size": "4",
+      "average_size": "40",
+      "size_deviation": "20",
+      "scan_point_amount": "200",
+      "cost": "450",
+      "image_set_id": "808167",
+      "image_id": "97790"
+    }
+  ],
+  "returned": 20
+}
