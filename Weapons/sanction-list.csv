@@ -251,6 +251,7 @@
 6009041,Bastion Weapon System,0,Bastion Battery,,none
 6009042,Bastion Weapon System,0,Bastion Battery,,none
 6009043,Bastion Weapon System,0,Bastion Battery,,none
+19002,Carbine,0,,3,
 1869,Carbine,0,19A Fortuna,2,infantry
 3,Carbine,0,AF-19 Mercenary,2,infantry
 7171,Carbine,0,AF-20 Rogue,2,infantry
@@ -1151,7 +1152,6 @@
 6011455,Knife,0,Guillotine,4,none
 802316,Knife,0,Hardlight Dagger,2,none
 802315,Knife,0,Hexedge,3,none
-6015746,Knife,0,Iceberg Knife,0,none
 802584,Knife,0,Icikill,0,none
 6014042,Knife,0,KTR-3 Saboteur,0,none
 286,Knife,0,Lumine Edge,1,none
@@ -1176,6 +1176,7 @@
 6009518,Knife,0,NS Icebreaker,4,none
 6015923,Knife,0,"NS ""Primed Amethyst"" Shard",0,none
 6015922,Knife,0,"NS ""Primed Diamond"" Shard",0,none
+6015746,Knife,0,"NS ""Primed Lapis"" Shard",0,none
 6015921,Knife,0,"NS ""Primed Ruby"" Shard",0,none
 6012441,Knife,0,NS SQU-34K,0,none
 802904,Knife,0,NS Victory,0,none
@@ -1197,6 +1198,9 @@
 6015790,Knife,0,VEX-B Proto Data Point,0,none
 6014780,Knife,0,Wavestinger Harpoon,0,none
 6015791,Knife,0,WMC Inquirer,3,none
+6015987,Knife,0,Wrench Knife,0,none
+6015988,Knife,0,Wrench Knife,0,none
+6015989,Knife,0,Wrench Knife,0,none
 6015990,Knife,0,Wrench Knife,0,none
 6011914,Knife,0,Wyrdwood Shillelagh,0,none
 5209,Liberator Belly Weapon,1,AP30 Shredder,3,gunner
