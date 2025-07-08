@@ -142394,7 +142394,7 @@
       "param4": "6015706",
       "param5": "52",
       "param6": "0",
-      "param7": "0",
+      "param7": "1",
       "param8": "0",
       "param9": "0",
       "param10": "0",
@@ -142432,7 +142432,7 @@
       "param4": "6015707",
       "param5": "52",
       "param6": "0",
-      "param7": "0",
+      "param7": "1",
       "param8": "0",
       "param9": "0",
       "param10": "0",
@@ -142451,7 +142451,7 @@
       "param4": "6015708",
       "param5": "52",
       "param6": "0",
-      "param7": "0",
+      "param7": "1",
       "param8": "0",
       "param9": "0",
       "param10": "0",
@@ -143926,7 +143926,37 @@
       "zone_effect_id": "770114",
       "zone_effect_type_id": "37",
       "ability_id": "1117997"
+    },
+    {
+      "zone_effect_id": "770117",
+      "zone_effect_type_id": "18",
+      "ability_id": "1117948",
+      "param1": "0",
+      "param2": "0",
+      "param3": "1",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0",
+      "string1": "StatId.FishingAttractor.Max.Legendary"
+    },
+    {
+      "zone_effect_id": "770121",
+      "zone_effect_type_id": "37",
+      "ability_id": "1117999"
+    },
+    {
+      "zone_effect_id": "770122",
+      "zone_effect_type_id": "37",
+      "ability_id": "1118000"
     }
   ],
-  "returned": 14430
+  "returned": 14433
 }

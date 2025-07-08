@@ -4,21 +4,20 @@
       "world_id": "1",
       "state": "online",
       "name": {
-        "en": "Connery"
+        "en": "Osprey"
+      },
+      "description": {
+        "en": "Osprey"
       }
     },
     {
       "world_id": "10",
       "state": "online",
       "name": {
-        "en": "Miller"
-      }
-    },
-    {
-      "world_id": "17",
-      "state": "online",
-      "name": {
-        "en": "Emerald"
+        "en": "Wainwright"
+      },
+      "description": {
+        "en": "Wainwright"
       }
     },
     {
@@ -53,5 +52,5 @@
       }
     }
   ],
-  "returned": 7
+  "returned": 6
 }

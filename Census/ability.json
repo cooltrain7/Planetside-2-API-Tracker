@@ -33819,7 +33819,17 @@
       "ability_id": "1117997",
       "ability_type_id": "3",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1117999",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118000",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5421
+  "returned": 5423
 }

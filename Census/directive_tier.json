@@ -1277,7 +1277,7 @@
       "directive_tier_id": "1",
       "reward_set_id": "6332",
       "directive_points": "5",
-      "completion_count": "2",
+      "completion_count": "4",
       "name": {
         "en": "Novice"
       },
@@ -1324,7 +1324,59 @@
       "image_path": "/files/ps2/images/static/84284.png"
     },
     {
-      "directive_tree_id": "152",
+      "directive_tree_id": "148",
+      "directive_tier_id": "1",
+      "reward_set_id": "6322",
+      "directive_points": "25",
+      "completion_count": "30",
+      "name": {
+        "en": "Collector"
+      },
+      "image_set_id": "80234",
+      "image_id": "84287",
+      "image_path": "/files/ps2/images/static/84287.png"
+    },
+    {
+      "directive_tree_id": "149",
+      "directive_tier_id": "1",
+      "reward_set_id": "6323",
+      "directive_points": "25",
+      "completion_count": "30",
+      "name": {
+        "en": "Collector"
+      },
+      "image_set_id": "80234",
+      "image_id": "84287",
+      "image_path": "/files/ps2/images/static/84287.png"
+    },
+    {
+      "directive_tree_id": "150",
+      "directive_tier_id": "1",
+      "reward_set_id": "6324",
+      "directive_points": "25",
+      "completion_count": "30",
+      "name": {
+        "en": "Collector"
+      },
+      "image_set_id": "80234",
+      "image_id": "84287",
+      "image_path": "/files/ps2/images/static/84287.png"
+    },
+    {
+      "directive_tree_id": "151",
+      "directive_tier_id": "1",
+      "reward_set_id": "6334",
+      "directive_points": "25",
+      "completion_count": "30",
+      "name": {
+        "en": "Collector"
+      },
+      "image_set_id": "80234",
+      "image_id": "84287",
+      "image_path": "/files/ps2/images/static/84287.png"
+    },
+    {
+      "directive_tree_id": "154",
       "directive_tier_id": "1",
       "reward_set_id": "6328",
       "directive_points": "5",
@@ -2611,7 +2663,7 @@
       "image_path": "/files/ps2/images/static/84290.png"
     },
     {
-      "directive_tree_id": "152",
+      "directive_tree_id": "154",
       "directive_tier_id": "2",
       "reward_set_id": "6329",
       "directive_points": "10",
@@ -3907,7 +3959,7 @@
       "image_path": "/files/ps2/images/static/84287.png"
     },
     {
-      "directive_tree_id": "152",
+      "directive_tree_id": "154",
       "directive_tier_id": "3",
       "reward_set_id": "6330",
       "directive_points": "25",
@@ -5233,7 +5285,7 @@
       "image_path": "/files/ps2/images/static/84283.png"
     },
     {
-      "directive_tree_id": "152",
+      "directive_tree_id": "154",
       "directive_tier_id": "4",
       "reward_set_id": "6331",
       "directive_points": "100",
@@ -5246,5 +5298,5 @@
       "image_path": "/files/ps2/images/static/98209.png"
     }
   ],
-  "returned": 419
+  "returned": 423
 }

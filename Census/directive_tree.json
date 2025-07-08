@@ -990,7 +990,7 @@
         "en": "Operation: Lightseeker"
       },
       "description": {
-        "en": "Available through August 6th"
+        "en": "Available through August 5th"
       }
     },
     {
@@ -1097,7 +1097,47 @@
       }
     },
     {
-      "directive_tree_id": "152",
+      "directive_tree_id": "148",
+      "directive_tree_category_id": "17",
+      "name": {
+        "en": "Indar Dog Tags"
+      },
+      "image_set_id": "14448",
+      "image_id": "78104",
+      "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+      "directive_tree_id": "149",
+      "directive_tree_category_id": "17",
+      "name": {
+        "en": "Amerish Dog Tags"
+      },
+      "image_set_id": "14448",
+      "image_id": "78104",
+      "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+      "directive_tree_id": "150",
+      "directive_tree_category_id": "17",
+      "name": {
+        "en": "Hossin Dog Tags"
+      },
+      "image_set_id": "14448",
+      "image_id": "78104",
+      "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+      "directive_tree_id": "151",
+      "directive_tree_category_id": "17",
+      "name": {
+        "en": "Esamir Dog Tags"
+      },
+      "image_set_id": "14448",
+      "image_id": "78104",
+      "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+      "directive_tree_id": "154",
       "directive_tree_category_id": "20",
       "name": {
         "en": "Fishing Mastery"
@@ -1107,5 +1147,5 @@
       "image_path": "/files/ps2/images/static/97804.png"
     }
   ],
-  "returned": 108
+  "returned": 112
 }

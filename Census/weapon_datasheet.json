@@ -26796,7 +26796,22 @@
       "range": {
         "en": "Short"
       }
+    },
+    {
+      "item_id": "6016017",
+      "damage_min": "0",
+      "damage_max": "2250",
+      "reload_ms_min": "1000",
+      "reload_ms_max": "5500",
+      "clip_size": "1",
+      "capacity": "50",
+      "range": {
+        "en": "Very Long"
+      },
+      "show_clip_size": "1",
+      "show_fire_modes": "0",
+      "show_range": "1"
     }
   ],
-  "returned": 1277
+  "returned": 1278
 }

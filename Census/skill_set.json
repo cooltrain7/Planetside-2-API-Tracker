@@ -14013,7 +14013,21 @@
       "image_set_id": "1561",
       "image_id": "2704",
       "image_path": "/files/ps2/images/static/2704.png"
+    },
+    {
+      "skill_set_id": "1988",
+      "skill_points": "500",
+      "required_item_id": "6016017",
+      "name": {
+        "en": "PRIMARY WEAPON:  Supernova PC"
+      },
+      "description": {
+        "en": "The Supernova PC quickly reloads its high-explosive anti-tank plasma charges that carry balanced effectiveness against armor and infantry. VS use only."
+      },
+      "image_set_id": "749",
+      "image_id": "1829",
+      "image_path": "/files/ps2/images/static/1829.png"
     }
   ],
-  "returned": 1080
+  "returned": 1081
 }

@@ -11524,7 +11524,7 @@
     },
     {
       "fire_mode_id": "39",
-      "item_id": "6015990",
+      "item_id": "6015987",
       "type": "primary",
       "description": {
         "en": "Melee"
@@ -11544,7 +11544,47 @@
     },
     {
       "fire_mode_id": "39",
-      "item_id": "6015999",
+      "item_id": "6015988",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 01 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "39",
+      "item_id": "6015989",
+      "type": "primary",
+      "description": {
+        "en": "Melee"
+      },
+      "player_state_group_id": "75505",
+      "cof_recoil": "0",
+      "reload_time_ms": "0",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "13",
+      "projectile_description": "Shared: Knife 01 Common Projectile",
+      "damage_type": "Damage",
+      "damage": "500",
+      "damage_target_type": "2",
+      "damage_resist_type": "1"
+    },
+    {
+      "fire_mode_id": "39",
+      "item_id": "6015990",
       "type": "primary",
       "description": {
         "en": "Melee"
@@ -18364,6 +18404,33 @@
     },
     {
       "fire_mode_id": "300",
+      "item_id": "801682",
+      "type": "primary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "320",
+      "cof_recoil": "1",
+      "reload_time_ms": "2250",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "225",
+      "max_speed": "0",
+      "damage_radius": "6",
+      "projectile_description": "Vehicle - Magrider - Plasma PC - HEAT",
+      "damage_type": "Damage",
+      "damage": "550",
+      "damage_target_type": "2",
+      "damage_resist_type": "7",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "4",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "300",
       "item_id": "6005828",
       "type": "primary",
       "description": {
@@ -19056,6 +19123,33 @@
     {
       "fire_mode_id": "307",
       "item_id": "6004",
+      "type": "secondary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "320",
+      "cof_recoil": "1",
+      "reload_time_ms": "2250",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "225",
+      "max_speed": "0",
+      "damage_radius": "6",
+      "projectile_description": "Vehicle - Magrider - Plasma PC - HEAT",
+      "damage_type": "Damage",
+      "damage": "550",
+      "damage_target_type": "2",
+      "damage_resist_type": "7",
+      "indirect_damage_max": "500",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "4",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "307",
+      "item_id": "801682",
       "type": "secondary",
       "description": {
         "en": "Semi-Auto"
@@ -123445,5 +123539,5 @@
       "damage_resist_type": "1"
     }
   ],
-  "returned": 4958
+  "returned": 4962
 }

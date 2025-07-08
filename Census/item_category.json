@@ -551,7 +551,10 @@
       "name": {
         "en": "Fishing Scanners"
       }
+    },
+    {
+      "item_category_id": "227"
     }
   ],
-  "returned": 92
+  "returned": 93
 }

@@ -107149,6 +107149,21 @@
       "image_path": "/files/ps2/images/static/3811.png"
     },
     {
+      "skill_line_id": "18200",
+      "skill_points": "0",
+      "skill_category_id": "195",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Recon Drone Grenade"
+      },
+      "description": {
+        "en": "Adds ability to drop grenades from the recon drone"
+      },
+      "image_set_id": "13098",
+      "image_id": "13477",
+      "image_path": "/files/ps2/images/static/13477.png"
+    },
+    {
       "skill_line_id": "18202",
       "skill_points": "0",
       "skill_category_id": "16474",
@@ -107207,7 +107222,21 @@
       "image_set_id": "808407",
       "image_id": "98497",
       "image_path": "/files/ps2/images/static/98497.png"
+    },
+    {
+      "skill_line_id": "18212",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "name": {
+        "en": "Deadman Trigger"
+      },
+      "description": {
+        "en": "This implant measures the vital signs of its operator and detonates a frag grenade upon their death."
+      },
+      "image_set_id": "808469",
+      "image_id": "98669",
+      "image_path": "/files/ps2/images/static/98669.png"
     }
   ],
-  "returned": 7346
+  "returned": 7348
 }

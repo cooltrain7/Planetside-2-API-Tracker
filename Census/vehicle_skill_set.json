@@ -3581,7 +3581,13 @@
       "skill_set_id": "1970",
       "faction_id": "1",
       "display_index": "0"
+    },
+    {
+      "vehicle_id": "2153",
+      "skill_set_id": "1988",
+      "faction_id": "1",
+      "display_index": "5"
     }
   ],
-  "returned": 597
+  "returned": 598
 }
