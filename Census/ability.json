@@ -33821,6 +33821,11 @@
       "flag_toggle": "0"
     },
     {
+      "ability_id": "1117998",
+      "ability_type_id": "6",
+      "flag_toggle": "0"
+    },
+    {
       "ability_id": "1117999",
       "ability_type_id": "3",
       "flag_toggle": "0"
@@ -33829,7 +33834,25 @@
       "ability_id": "1118000",
       "ability_type_id": "3",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118020",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "8000",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118021",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "8000",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118027",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "8000",
+      "flag_toggle": "0"
     }
   ],
-  "returned": 5423
+  "returned": 5427
 }

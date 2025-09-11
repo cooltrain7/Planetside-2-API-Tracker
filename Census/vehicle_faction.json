@@ -711,7 +711,23 @@
     {
       "vehicle_id": "2153",
       "faction_id": "1"
+    },
+    {
+      "vehicle_id": "2154",
+      "faction_id": "1"
+    },
+    {
+      "vehicle_id": "2154",
+      "faction_id": "2"
+    },
+    {
+      "vehicle_id": "2154",
+      "faction_id": "3"
+    },
+    {
+      "vehicle_id": "2154",
+      "faction_id": "4"
     }
   ],
-  "returned": 178
+  "returned": 182
 }

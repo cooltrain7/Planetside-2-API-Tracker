@@ -1675,6 +1675,33 @@
       "damage_resist_type": "2"
     },
     {
+      "fire_mode_id": "2",
+      "item_id": "6016003",
+      "type": "primary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "2024",
+      "cof_recoil": "0.14",
+      "reload_time_ms": "1600",
+      "reload_chamber_time_ms": "300",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "muzzle_velocity": "375",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NC Pistol: Mid",
+      "damage_type": "DamageFalloff",
+      "damage_min": "112",
+      "damage_max": "200",
+      "damage_min_range": "60",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
       "fire_mode_id": "3",
       "item_id": "3",
       "type": "primary",
@@ -3349,6 +3376,33 @@
       "damage_resist_type": "2"
     },
     {
+      "fire_mode_id": "3",
+      "item_id": "6016004",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "2006",
+      "cof_recoil": "0.12",
+      "reload_time_ms": "1800",
+      "reload_chamber_time_ms": "950",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "muzzle_velocity": "500",
+      "speed": "500",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NC Carbine: Mid",
+      "damage_type": "DamageFalloff",
+      "damage_min": "125",
+      "damage_max": "167",
+      "damage_min_range": "70",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
       "fire_mode_id": "4",
       "item_id": "4",
       "type": "primary",
@@ -4935,6 +4989,32 @@
       "damage_resist_type": "2"
     },
     {
+      "fire_mode_id": "4",
+      "item_id": "6016005",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "2000",
+      "cof_recoil": "0.12",
+      "reload_time_ms": "1950",
+      "reload_chamber_time_ms": "650",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "muzzle_velocity": "620",
+      "speed": "600",
+      "max_speed": "0",
+      "projectile_description": "NC Assault Rifle: Mid",
+      "damage_type": "DamageFalloff",
+      "damage_min": "125",
+      "damage_max": "167",
+      "damage_min_range": "90",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
       "fire_mode_id": "5",
       "item_id": "904",
       "type": "primary",
@@ -5966,6 +6046,27 @@
     {
       "fire_mode_id": "5",
       "item_id": "6015058",
+      "type": "primary",
+      "description": {
+        "en": "Single Shot"
+      },
+      "player_state_group_id": "20",
+      "cof_recoil": "2",
+      "reload_time_ms": "5500",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1",
+      "speed": "35",
+      "max_speed": "85",
+      "damage_radius": "2",
+      "projectile_description": "TR: Rocket Launcher 01: Default",
+      "damage_type": "IndirectDamage",
+      "damage_target_type": "2",
+      "damage_resist_type": "11"
+    },
+    {
+      "fire_mode_id": "5",
+      "item_id": "6016006",
       "type": "primary",
       "description": {
         "en": "Single Shot"
@@ -13497,6 +13598,33 @@
       "damage_resist_type": "2"
     },
     {
+      "fire_mode_id": "102",
+      "item_id": "6016003",
+      "type": "secondary",
+      "description": {
+        "en": "Semi-Auto"
+      },
+      "player_state_group_id": "2025",
+      "cof_recoil": "0.07",
+      "reload_time_ms": "1600",
+      "reload_chamber_time_ms": "300",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "muzzle_velocity": "375",
+      "speed": "375",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NC Pistol: Mid",
+      "damage_type": "DamageFalloff",
+      "damage_min": "112",
+      "damage_max": "200",
+      "damage_min_range": "60",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
       "fire_mode_id": "103",
       "item_id": "3",
       "type": "secondary",
@@ -15171,6 +15299,33 @@
       "damage_resist_type": "2"
     },
     {
+      "fire_mode_id": "103",
+      "item_id": "6016004",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "2007",
+      "cof_recoil": "0.06",
+      "reload_time_ms": "1800",
+      "reload_chamber_time_ms": "950",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "muzzle_velocity": "500",
+      "speed": "500",
+      "max_speed": "0",
+      "damage_radius": "0",
+      "projectile_description": "NC Carbine: Mid",
+      "damage_type": "DamageFalloff",
+      "damage_min": "125",
+      "damage_max": "167",
+      "damage_min_range": "70",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
       "fire_mode_id": "104",
       "item_id": "4",
       "type": "secondary",
@@ -16733,6 +16888,32 @@
     {
       "fire_mode_id": "104",
       "item_id": "6015057",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "2001",
+      "cof_recoil": "0.06",
+      "reload_time_ms": "1950",
+      "reload_chamber_time_ms": "650",
+      "pellets_per_shot": "1",
+      "pellet_spread": "0",
+      "default_zoom": "1.35",
+      "muzzle_velocity": "620",
+      "speed": "600",
+      "max_speed": "0",
+      "projectile_description": "NC Assault Rifle: Mid",
+      "damage_type": "DamageFalloff",
+      "damage_min": "125",
+      "damage_max": "167",
+      "damage_min_range": "90",
+      "damage_max_range": "10",
+      "damage_target_type": "2",
+      "damage_resist_type": "2"
+    },
+    {
+      "fire_mode_id": "104",
+      "item_id": "6016005",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -20320,6 +20501,31 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "316",
+      "item_id": "6016058",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "330",
+      "reload_time_ms": "2500",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "125",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Common - 40mm Fury",
+      "damage_type": "Damage",
+      "damage": "125",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "150",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "317",
       "item_id": "2875",
       "type": "primary",
@@ -20397,6 +20603,31 @@
     {
       "fire_mode_id": "317",
       "item_id": "803492",
+      "type": "primary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "330",
+      "reload_time_ms": "2500",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "125",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Common - 40mm Fury",
+      "damage_type": "Damage",
+      "damage": "125",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "150",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "317",
+      "item_id": "6016150",
       "type": "primary",
       "description": {
         "en": "Auto"
@@ -22832,6 +23063,31 @@
       "indirect_damage_resist_type": "6"
     },
     {
+      "fire_mode_id": "369",
+      "item_id": "6016058",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "330",
+      "reload_time_ms": "2500",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "125",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Common - 40mm Fury",
+      "damage_type": "Damage",
+      "damage": "125",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "150",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
       "fire_mode_id": "370",
       "item_id": "2875",
       "type": "secondary",
@@ -22909,6 +23165,31 @@
     {
       "fire_mode_id": "370",
       "item_id": "803492",
+      "type": "secondary",
+      "description": {
+        "en": "Auto"
+      },
+      "player_state_group_id": "330",
+      "reload_time_ms": "2500",
+      "pellets_per_shot": "1",
+      "default_zoom": "1",
+      "speed": "125",
+      "damage_radius": "1",
+      "projectile_description": "Vehicle - Common - 40mm Fury",
+      "damage_type": "Damage",
+      "damage": "125",
+      "damage_target_type": "2",
+      "damage_resist_type": "5",
+      "indirect_damage_max": "150",
+      "indirect_damage_max_range": "1",
+      "indirect_damage_min": "50",
+      "indirect_damage_min_range": "3",
+      "indirect_damage_target_type": "2",
+      "indirect_damage_resist_type": "6"
+    },
+    {
+      "fire_mode_id": "370",
+      "item_id": "6016150",
       "type": "secondary",
       "description": {
         "en": "Auto"
@@ -123539,5 +123820,5 @@
       "damage_resist_type": "1"
     }
   ],
-  "returned": 4962
+  "returned": 4973
 }

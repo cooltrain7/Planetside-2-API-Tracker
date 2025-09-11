@@ -1000,7 +1000,7 @@
         "en": "Operation: Groundbreaker"
       },
       "description": {
-        "en": "Available through September 6th"
+        "en": "Available through September 12th"
       }
     },
     {
@@ -1145,7 +1145,27 @@
       "image_set_id": "808177",
       "image_id": "97804",
       "image_path": "/files/ps2/images/static/97804.png"
+    },
+    {
+      "directive_tree_id": "155",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Operation: Helios"
+      },
+      "description": {
+        "en": "Available through August 5th"
+      }
+    },
+    {
+      "directive_tree_id": "156",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Operation: Kaiju"
+      },
+      "description": {
+        "en": "Available through September 12th"
+      }
     }
   ],
-  "returned": 112
+  "returned": 114
 }

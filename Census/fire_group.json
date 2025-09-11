@@ -3733,11 +3733,6 @@
       "can_chamber_ironsights": "1"
     },
     {
-      "fire_group_id": "80674",
-      "transition_duration_ms": "1000",
-      "can_chamber_ironsights": "0"
-    },
-    {
       "fire_group_id": "80675",
       "can_chamber_ironsights": "0"
     },
@@ -4978,5 +4973,5 @@
       "can_chamber_ironsights": "0"
     }
   ],
-  "returned": 1167
+  "returned": 1166
 }

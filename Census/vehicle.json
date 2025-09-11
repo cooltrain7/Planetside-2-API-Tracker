@@ -483,8 +483,8 @@
       "description": {
         "en": "A remote control aerial drone that can be used to spot enemy forces."
       },
-      "type_id": "10",
-      "type_name": "Observer Camera",
+      "type_id": "12",
+      "type_name": "Drone",
       "cost": "9999",
       "cost_resource_id": "3",
       "image_set_id": "13098",
@@ -1036,7 +1036,19 @@
       "image_set_id": "95",
       "image_id": "3987",
       "image_path": "/files/ps2/images/static/3987.png"
+    },
+    {
+      "vehicle_id": "2154",
+      "name": {
+        "en": "Spitfire Auto-Turret"
+      },
+      "description": {
+        "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters."
+      },
+      "type_id": "7",
+      "type_name": "Umovable Turret",
+      "image_set_id": "82962"
     }
   ],
-  "returned": 69
+  "returned": 70
 }

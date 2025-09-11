@@ -107149,21 +107149,6 @@
       "image_path": "/files/ps2/images/static/3811.png"
     },
     {
-      "skill_line_id": "18200",
-      "skill_points": "0",
-      "skill_category_id": "195",
-      "skill_category_index": "0",
-      "name": {
-        "en": "Recon Drone Grenade"
-      },
-      "description": {
-        "en": "Adds ability to drop grenades from the recon drone"
-      },
-      "image_set_id": "13098",
-      "image_id": "13477",
-      "image_path": "/files/ps2/images/static/13477.png"
-    },
-    {
       "skill_line_id": "18202",
       "skill_points": "0",
       "skill_category_id": "16474",
@@ -107224,6 +107209,20 @@
       "image_path": "/files/ps2/images/static/98497.png"
     },
     {
+      "skill_line_id": "18211",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "name": {
+        "en": "Bull Market"
+      },
+      "description": {
+        "en": "Shows nearby A7 terminal locations on your HUD."
+      },
+      "image_set_id": "808464",
+      "image_id": "98651",
+      "image_path": "/files/ps2/images/static/98651.png"
+    },
+    {
       "skill_line_id": "18212",
       "skill_points": "0",
       "skill_category_id": "16432",
@@ -107236,7 +107235,201 @@
       "image_set_id": "808469",
       "image_id": "98669",
       "image_path": "/files/ps2/images/static/98669.png"
+    },
+    {
+      "skill_line_id": "18213",
+      "skill_points": "0",
+      "skill_category_id": "16503",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Hanging Munition"
+      },
+      "description": {
+        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+      },
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png"
+    },
+    {
+      "skill_line_id": "18214",
+      "skill_points": "0",
+      "skill_category_id": "195",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Hanging Munition"
+      },
+      "description": {
+        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+      },
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png"
+    },
+    {
+      "skill_line_id": "18215",
+      "skill_points": "0",
+      "skill_category_id": "4203",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Hanging Munition"
+      },
+      "description": {
+        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+      },
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png"
+    },
+    {
+      "skill_line_id": "18216",
+      "skill_points": "0",
+      "skill_category_id": "194",
+      "skill_category_index": "0",
+      "name": {
+        "en": "Hanging Munition"
+      },
+      "description": {
+        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+      },
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png"
+    },
+    {
+      "skill_line_id": "18217",
+      "skill_points": "0",
+      "skill_category_id": "16503",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Advanced Sensors System"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png"
+    },
+    {
+      "skill_line_id": "18218",
+      "skill_points": "0",
+      "skill_category_id": "195",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Advanced Sensors System"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png"
+    },
+    {
+      "skill_line_id": "18219",
+      "skill_points": "0",
+      "skill_category_id": "4203",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Advanced Sensors System"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png"
+    },
+    {
+      "skill_line_id": "18220",
+      "skill_points": "0",
+      "skill_category_id": "194",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Advanced Sensors System"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png"
+    },
+    {
+      "skill_line_id": "18221",
+      "skill_points": "0",
+      "skill_category_id": "4443",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Recon Drone"
+      },
+      "description": {
+        "en": "A remote control aerial drone that can be used to spot enemy forces."
+      },
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png"
+    },
+    {
+      "skill_line_id": "18222",
+      "skill_points": "0",
+      "skill_category_id": "4442",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Recon Drone"
+      },
+      "description": {
+        "en": "A remote control aerial drone that can be used to spot enemy forces."
+      },
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png"
+    },
+    {
+      "skill_line_id": "18223",
+      "skill_points": "0",
+      "skill_category_id": "16561",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Recon Drone"
+      },
+      "description": {
+        "en": "A remote control aerial drone that can be used to spot enemy forces."
+      },
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png"
+    },
+    {
+      "skill_line_id": "18224",
+      "skill_points": "0",
+      "skill_category_id": "4204",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Recon Drone"
+      },
+      "description": {
+        "en": "A remote control aerial drone that can be used to spot enemy forces."
+      },
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png"
+    },
+    {
+      "skill_line_id": "18225",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "name": {
+        "en": "Observer"
+      },
+      "description": {
+        "en": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets with a 3-second delay."
+      },
+      "image_set_id": "808500",
+      "image_id": "98758",
+      "image_path": "/files/ps2/images/static/98758.png"
     }
   ],
-  "returned": 7348
+  "returned": 7361
 }

@@ -2627,7 +2627,19 @@
       "name": {
         "en": "Tactical Evaluator"
       }
+    },
+    {
+      "title_id": "492",
+      "name": {
+        "en": "Shipwright"
+      }
+    },
+    {
+      "title_id": "493",
+      "name": {
+        "en": "Pathfinder"
+      }
     }
   ],
-  "returned": 438
+  "returned": 440
 }

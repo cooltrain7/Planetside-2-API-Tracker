@@ -7686,11 +7686,6 @@
       "fire_mode_index": "1"
     },
     {
-      "fire_group_id": "80674",
-      "fire_mode_id": "80930",
-      "fire_mode_index": "0"
-    },
-    {
       "fire_group_id": "80675",
       "fire_mode_id": "80932",
       "fire_mode_index": "0"
@@ -10171,5 +10166,5 @@
       "fire_mode_index": "0"
     }
   ],
-  "returned": 2034
+  "returned": 2033
 }
