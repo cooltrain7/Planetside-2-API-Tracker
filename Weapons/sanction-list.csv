@@ -931,6 +931,7 @@
 6014815,Infantry Abilities,0,Narrow Bulwark Wall,0,none
 6009605,Infantry Abilities,0,NE-11 PML,0,none
 6009487,Infantry Abilities,0,Neutralizer Device,0,none
+6016215,Infantry Abilities,1,Observer,2,none
 6014727,Infantry Abilities,0,Orbital Mining Drill,1,none
 6014728,Infantry Abilities,0,Orbital Mining Drill,2,none
 6014729,Infantry Abilities,0,Orbital Mining Drill,3,none
@@ -1002,6 +1003,11 @@
 486,Infantry Abilities,0,Recon Detection Device 6,2,none
 487,Infantry Abilities,0,Recon Detection Device 6,3,none
 6005174,Infantry Abilities,0,Recon Detection Device 6,0,none
+75564,Infantry Abilities,0,Recon Drone,1,none
+6016136,Infantry Abilities,0,Recon Drone 1,0,none
+6016137,Infantry Abilities,0,Recon Drone 2,0,none
+6016138,Infantry Abilities,0,Recon Drone 3,0,none
+6016139,Infantry Abilities,0,Recon Drone 4,0,none
 804974,Infantry Abilities,0,Reconnaissance Module,2,none
 804975,Infantry Abilities,0,Reconnaissance Module,3,none
 804976,Infantry Abilities,0,Reconnaissance Module,1,none
@@ -1068,6 +1074,11 @@
 6005426,Infantry Abilities,0,Spitfire Auto-Turret,4,none
 6005427,Infantry Abilities,1,Spitfire Auto-Turret,4,none
 6009294,Infantry Abilities,1,Spitfire Auto-Turret,4,none
+6016202,Infantry Abilities,0,Spitfire Auto-Turret,2,none
+6016216,Infantry Abilities,1,Spitfire Auto-Turret,2,none
+6016217,Infantry Abilities,1,Spitfire Auto-Turret,3,none
+6016218,Infantry Abilities,1,Spitfire Auto-Turret,1,none
+6016219,Infantry Abilities,1,Spitfire Auto-Turret,4,none
 6015075,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",1,none
 6015076,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",2,none
 6015077,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",3,none
@@ -1132,6 +1143,7 @@
 6010076,Javelin Primary Weapon,1,JVN-X3 Hydra,0,none
 6008651,Knife,0,Ancient Psykinetic Blade,0,none
 6011053,Knife,0,Ancient Psykinetic Blade,0,none
+6016250,Knife,0,Antebrachium,0,none
 6015789,Knife,0,Anunnaki Blade,1,none
 800625,Knife,0,Auraxium Chainblade,3,none
 800626,Knife,0,Auraxium Force-Blade,1,none
