@@ -3283,7 +3283,7 @@
         "en": "Recon Detection Device 1"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -4481,7 +4481,7 @@
         "en": "Recon Detection Device 1"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -4500,7 +4500,7 @@
         "en": "Recon Detection Device 1"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -4519,7 +4519,7 @@
         "en": "Recon Detection Device 2"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -4538,7 +4538,7 @@
         "en": "Recon Detection Device 3"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -4557,7 +4557,7 @@
         "en": "Recon Detection Device 4"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -4576,7 +4576,7 @@
         "en": "Recon Detection Device 5"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -4595,7 +4595,7 @@
         "en": "Recon Detection Device 2"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -4614,7 +4614,7 @@
         "en": "Recon Detection Device 3"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -4633,7 +4633,7 @@
         "en": "Recon Detection Device 4"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -4652,7 +4652,7 @@
         "en": "Recon Detection Device 5"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -4671,7 +4671,7 @@
         "en": "Recon Detection Device 2"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -4690,7 +4690,7 @@
         "en": "Recon Detection Device 3"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -4709,7 +4709,7 @@
         "en": "Recon Detection Device 4"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -4728,7 +4728,7 @@
         "en": "Recon Detection Device 5"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -4747,7 +4747,7 @@
         "en": "Recon Detection Device 6"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -4766,7 +4766,7 @@
         "en": "Recon Detection Device 6"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -4785,7 +4785,7 @@
         "en": "Recon Detection Device 6"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -21172,6 +21172,7 @@
       "item_id": "1908",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -21245,6 +21246,7 @@
       "item_id": "1913",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -22270,6 +22272,7 @@
       "item_id": "1992",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -169126,7 +169129,7 @@
       "item_id": "50457",
       "item_type_id": "27",
       "item_category_id": "143",
-      "passive_ability_id": "50083",
+      "passive_ability_id": "897",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Laser Sight"
@@ -194074,7 +194077,7 @@
         "en": "Motion Spotter 1"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, two can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -194092,7 +194095,7 @@
         "en": "Motion Spotter 2"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -194110,7 +194113,7 @@
         "en": "Motion Spotter 3"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -194128,7 +194131,7 @@
         "en": "Motion Spotter 4"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, four can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, two can be carried."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -194146,7 +194149,7 @@
         "en": "Motion Spotter 5"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, five can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, three can be carried."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -197568,6 +197571,24 @@
       "image_set_id": "8689",
       "image_id": "10560",
       "image_path": "/files/ps2/images/static/10560.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "75564",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Recon Drone"
+      },
+      "description": {
+        "en": "A remote control aerial drone that can be used to spot enemy forces."
+      },
+      "faction_id": "1",
+      "max_stack_size": "20",
+      "image_set_id": "13101",
+      "image_id": "13482",
+      "image_path": "/files/ps2/images/static/13482.png",
       "is_default_attachment": "0"
     },
     {
@@ -254214,7 +254235,7 @@
       "item_id": "801960",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Frankenstein Facepaint"
@@ -254233,7 +254254,7 @@
       "item_id": "801961",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Jester Facepaint"
@@ -254252,7 +254273,7 @@
       "item_id": "801962",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Skull Facepaint"
@@ -255169,7 +255190,7 @@
       "item_id": "802016",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Frankenstein Facepaint"
@@ -255188,7 +255209,7 @@
       "item_id": "802017",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Frankenstein Facepaint"
@@ -255207,7 +255228,7 @@
       "item_id": "802018",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Frankenstein Facepaint"
@@ -255226,7 +255247,7 @@
       "item_id": "802019",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Skull Facepaint"
@@ -255245,7 +255266,7 @@
       "item_id": "802020",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Skull Facepaint"
@@ -255264,7 +255285,7 @@
       "item_id": "802021",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Skull Facepaint"
@@ -255283,7 +255304,7 @@
       "item_id": "802022",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Jester Facepaint"
@@ -255302,7 +255323,7 @@
       "item_id": "802023",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Jester Facepaint"
@@ -255321,7 +255342,7 @@
       "item_id": "802024",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Jester Facepaint"
@@ -255638,7 +255659,7 @@
       "activatable_ability_id": "1111374",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "Flash Wolf Horn"
+        "en": "Flash Wolfpack Horn"
       },
       "description": {
         "en": "Harness the Spirit of Wolf on your Flash with this howling Wolf Horn."
@@ -278345,6 +278366,7 @@
       "item_id": "803390",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Lumifiber Skull Helmet"
@@ -278363,6 +278385,7 @@
       "item_id": "803391",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Lumifiber Skull Helmet"
@@ -278381,6 +278404,7 @@
       "item_id": "803392",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Lumifiber Skull Helmet"
@@ -278399,6 +278423,7 @@
       "item_id": "803393",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Hat and Monocle"
@@ -278417,6 +278442,7 @@
       "item_id": "803394",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Hat and Monocle"
@@ -278435,6 +278461,7 @@
       "item_id": "803395",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Hat and Monocle"
@@ -278453,6 +278480,7 @@
       "item_id": "803396",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "The Diver"
@@ -278471,6 +278499,7 @@
       "item_id": "803397",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "The Diver"
@@ -278489,6 +278518,7 @@
       "item_id": "803398",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "The Diver"
@@ -278507,6 +278537,7 @@
       "item_id": "803399",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Creepy Clown Mask"
@@ -278525,6 +278556,7 @@
       "item_id": "803400",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Creepy Clown Mask"
@@ -278543,6 +278575,7 @@
       "item_id": "803401",
       "item_type_id": "39",
       "item_category_id": "103",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Creepy Clown Mask"
@@ -282151,7 +282184,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -282170,7 +282203,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -282189,7 +282222,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -300305,7 +300338,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803206",
@@ -300322,7 +300355,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803206",
@@ -300339,7 +300372,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803206",
@@ -300920,7 +300953,7 @@
         "en": "RD-GG Recon Device 6"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -300939,7 +300972,7 @@
         "en": "RD-GG Recon Device"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -300958,7 +300991,7 @@
         "en": "RD-GG Recon Device"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -300977,7 +301010,7 @@
         "en": "RD-GG Recon Device"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -300996,7 +301029,7 @@
         "en": "RD-GG Recon Device 2"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -301015,7 +301048,7 @@
         "en": "RD-GG Recon Device 2"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -301034,7 +301067,7 @@
         "en": "RD-GG Recon Device 2"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -301053,7 +301086,7 @@
         "en": "RD-GG Recon Device 3"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -301072,7 +301105,7 @@
         "en": "RD-GG Recon Device 3"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -301091,7 +301124,7 @@
         "en": "RD-GG Recon Device 3"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -301110,7 +301143,7 @@
         "en": "RD-GG Recon Device 4"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -301129,7 +301162,7 @@
         "en": "RD-GG Recon Device 4"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -301148,7 +301181,7 @@
         "en": "RD-GG Recon Device 4"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -301167,7 +301200,7 @@
         "en": "RD-GG Recon Device 5"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -301186,7 +301219,7 @@
         "en": "RD-GG Recon Device 5"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -301205,7 +301238,7 @@
         "en": "RD-GG Recon Device 5"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -301224,7 +301257,7 @@
         "en": "RD-GG Recon Device 6"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -301243,7 +301276,7 @@
         "en": "RD-GG Recon Device 6"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -302546,7 +302579,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "2",
       "max_stack_size": "1",
@@ -302564,7 +302597,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "3",
       "max_stack_size": "1",
@@ -302582,7 +302615,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "1",
       "max_stack_size": "1",
@@ -302599,7 +302632,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803395",
@@ -302615,7 +302648,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803395",
@@ -302631,7 +302664,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803395",
@@ -336384,7 +336417,7 @@
       "item_id": "6004246",
       "item_type_id": "27",
       "item_category_id": "143",
-      "passive_ability_id": "50083",
+      "passive_ability_id": "897",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Laser Sight"
@@ -346278,7 +346311,7 @@
         "en": "Recon Detection Device 1"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -346296,7 +346329,7 @@
         "en": "Recon Detection Device 2"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -346314,7 +346347,7 @@
         "en": "Recon Detection Device 3"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -346332,7 +346365,7 @@
         "en": "Recon Detection Device 4"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -346350,7 +346383,7 @@
         "en": "Recon Detection Device 5"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -346368,7 +346401,7 @@
         "en": "Recon Detection Device 6"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds."
+        "en": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -353174,7 +353207,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803395",
@@ -353191,7 +353224,7 @@
         "en": "Blast Wall"
       },
       "description": {
-        "en": "Large wall that once fully constructed can withstand a moderate amount of damage."
+        "en": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "4",
       "max_stack_size": "1",
@@ -353979,7 +354012,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "803206",
@@ -353997,7 +354030,7 @@
         "en": "Rampart Wall"
       },
       "description": {
-        "en": "Constructs a large, fortified wall with firing areas for infantry."
+        "en": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "4",
       "max_stack_size": "1",
@@ -378241,6 +378274,24 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6009460",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Metal Detector"
+      },
+      "description": {
+        "en": "Deploys a drone for the Metal Detector mission"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "806399",
+      "image_id": "92798",
+      "image_path": "/files/ps2/images/static/92798.png",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6009461",
       "item_type_id": "26",
       "item_category_id": "118",
@@ -379661,7 +379712,7 @@
       "item_id": "6009586",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Jester Facepaint"
@@ -379680,7 +379731,7 @@
       "item_id": "6009587",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Frankenstein Facepaint"
@@ -379699,7 +379750,7 @@
       "item_id": "6009588",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Skull Facepaint"
@@ -379718,7 +379769,7 @@
       "item_id": "6009589",
       "item_type_id": "39",
       "item_category_id": "103",
-      "passive_ability_id": "1111390",
+      "passive_ability_id": "1111561",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Haunted Augmented Brain Chassis"
@@ -419524,7 +419575,7 @@
       "item_id": "6012098",
       "item_type_id": "27",
       "item_category_id": "143",
-      "passive_ability_id": "50083",
+      "passive_ability_id": "897",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Laser Sight"
@@ -422591,6 +422642,7 @@
       "item_id": "6012262",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -422609,6 +422661,7 @@
       "item_id": "6012264",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -427246,6 +427299,7 @@
       "item_id": "6012525",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -427338,6 +427392,7 @@
       "item_id": "6012530",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -427485,6 +427540,7 @@
       "item_id": "6012538",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -445792,6 +445848,7 @@
       "item_id": "6013543",
       "item_type_id": "27",
       "item_category_id": "143",
+      "passive_ability_id": "10058",
       "is_vehicle_weapon": "0",
       "name": {
         "en": "Compensator"
@@ -460965,6 +461022,25 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6014404",
+      "item_type_id": "26",
+      "item_category_id": "7",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "NS-11A Frontline"
+      },
+      "description": {
+        "en": "The Frontline is a no-nonsense variant of the most versatile assault rifle in the Nanite Systems arsenal. Adaptable with a wide assortment of attachments, the NS-11A can be customized to excel in nearly any situation. All factions can use NS weapons."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807408",
+      "image_id": "95541",
+      "image_path": "/files/ps2/images/static/95541.png",
+      "skill_set_id": "1503",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6014405",
       "item_type_id": "27",
       "item_category_id": "143",
@@ -461330,6 +461406,78 @@
       "image_set_id": "807039",
       "image_id": "94521",
       "image_path": "/files/ps2/images/static/94521.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014425",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Gladiator Helmet"
+      },
+      "description": {
+        "en": "A durable design from years past, this helmet's utilitarian form offers exceptional protection during intense firefights and glorious one-on-one combat."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "807411",
+      "image_id": "95553",
+      "image_path": "/files/ps2/images/static/95553.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014426",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Gladiator Helmet"
+      },
+      "description": {
+        "en": "A durable design from years past, this helmet's utilitarian form offers exceptional protection during intense firefights and glorious one-on-one combat."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "807412",
+      "image_id": "95556",
+      "image_path": "/files/ps2/images/static/95556.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014427",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Gladiator Helmet"
+      },
+      "description": {
+        "en": "A durable design from years past, this helmet's utilitarian form offers exceptional protection during intense firefights and glorious one-on-one combat."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "807413",
+      "image_id": "95559",
+      "image_path": "/files/ps2/images/static/95559.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014428",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Gladiator Helmet"
+      },
+      "description": {
+        "en": "A durable design from years past, this helmet's utilitarian form offers exceptional protection during intense firefights and glorious one-on-one combat."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "807414",
+      "image_id": "95562",
+      "image_path": "/files/ps2/images/static/95562.png",
       "is_default_attachment": "0"
     },
     {
@@ -462174,6 +462322,37 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6014478",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Snow Globe Banner Frame"
+      },
+      "description": {
+        "en": "Unlocks a profile banner frame for your character. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807494",
+      "image_id": "95777",
+      "image_path": "/files/ps2/images/static/95777.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014479",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Frostbite Banner"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807496",
+      "image_id": "95783",
+      "image_path": "/files/ps2/images/static/95783.png",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6014480",
       "item_type_id": "26",
       "item_category_id": "8",
@@ -462617,6 +462796,24 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6014504",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Mountain Carver Flash Plating"
+      },
+      "description": {
+        "en": "Adds cosmetic plating to your Flash. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807520",
+      "image_id": "95855",
+      "image_path": "/files/ps2/images/static/95855.png",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6014505",
       "item_type_id": "26",
       "item_category_id": "6",
@@ -462963,6 +463160,132 @@
       "image_id": "1156",
       "image_path": "/files/ps2/images/static/1156.png",
       "is_default_attachment": "1"
+    },
+    {
+      "item_id": "6014527",
+      "item_type_id": "26",
+      "item_category_id": "2",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Trench Shovel"
+      },
+      "description": {
+        "en": "Dig deep with this combat-ready trench shovel. All factions can use this weapon."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807521",
+      "image_id": "95858",
+      "image_path": "/files/ps2/images/static/95858.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014528",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Camo-Net Hubcaps"
+      },
+      "description": {
+        "en": "Adds cosmetic tires to the Harasser. All factions can use this gear. "
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807524",
+      "image_id": "95867",
+      "image_path": "/files/ps2/images/static/95867.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014529",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Camo-Net Exterior Kit"
+      },
+      "description": {
+        "en": "Applies a cosmetic attachment to your vehicle. Usable by all factions."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807526",
+      "image_id": "95873",
+      "image_path": "/files/ps2/images/static/95873.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014530",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Camo-Net Windshield Kit"
+      },
+      "description": {
+        "en": "Adds a cosmetic windshield to the Harasser. All factions can use this gear. "
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807525",
+      "image_id": "95870",
+      "image_path": "/files/ps2/images/static/95870.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014531",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Camo-Net Bumper Kit"
+      },
+      "description": {
+        "en": "Adds cosmetic plating to your Sunderer. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807522",
+      "image_id": "95861",
+      "image_path": "/files/ps2/images/static/95861.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014532",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Camo-Net Hubcaps"
+      },
+      "description": {
+        "en": "Adds cosmetic tires to the Sunderer. All factions can use this gear. "
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807524",
+      "image_id": "95867",
+      "image_path": "/files/ps2/images/static/95867.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6014533",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Camo-Net Exterior Kit"
+      },
+      "description": {
+        "en": "Applies a cosmetic attachment to your vehicle. Usable by all factions."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807523",
+      "image_id": "95864",
+      "image_path": "/files/ps2/images/static/95864.png",
+      "is_default_attachment": "0"
     },
     {
       "item_id": "6014534",
@@ -466563,7 +466886,7 @@
         "en": "Narrow Bulwark Wall"
       },
       "description": {
-        "en": "Constructs a narrow bulwark wall that can be used by infantry units."
+        "en": "Constructs a narrow bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "807619",
@@ -466580,7 +466903,7 @@
         "en": "Narrow Bulwark Wall"
       },
       "description": {
-        "en": "Allows cortium to be used to create a narrow bulwark wall that can be used by infantry units."
+        "en": "Constructs a narrow bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -466597,7 +466920,7 @@
         "en": "Wide Bulwark Wall"
       },
       "description": {
-        "en": "Constructs a wide bulwark wall that can be used by infantry units."
+        "en": "Constructs a wide bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item."
       },
       "max_stack_size": "9999",
       "image_set_id": "807620",
@@ -466614,7 +466937,7 @@
         "en": "Wide Bulwark Wall"
       },
       "description": {
-        "en": "Allows cortium to be used to create a wide bulwark wall that can be used by infantry units."
+        "en": "Allows cortium to be used to create a wide bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item."
       },
       "faction_id": "0",
       "max_stack_size": "1",
@@ -470702,6 +471025,24 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6015121",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Phylactery [Perfect]"
+      },
+      "description": {
+        "en": "Each time you are revived, a charge is added to the phylactery. At 3 charges, your next death will allow you to self-revive once at 50% health. Phylactery's self-revive does not count toward these charges. <font color=\"#dc9c36\">Charges cannot be gained while in a vehicle, and redeploying or using an equipment terminal will wipe your current progress.</font>"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807786",
+      "image_id": "96708",
+      "image_path": "/files/ps2/images/static/96708.png",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6015122",
       "item_type_id": "38",
       "item_category_id": "105",
@@ -471022,6 +471363,24 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6015205",
+      "item_type_id": "26",
+      "item_category_id": "2",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "NS Homerun"
+      },
+      "description": {
+        "en": "Knock your enemies for six with this Home Run Bat! All factions can use this weapon."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807781",
+      "image_id": "96693",
+      "image_path": "/files/ps2/images/static/96693.png",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6015206",
       "item_type_id": "27",
       "item_category_id": "143",
@@ -471038,6 +471397,101 @@
       "image_set_id": "807785",
       "image_id": "96705",
       "image_path": "/files/ps2/images/static/96705.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015207",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Infernal Facepaint"
+      },
+      "description": {
+        "en": "Clown on your enemies in this simple grease facepaint. Provides a +10% xp bonus when worn during the annual Halloween Event."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807787",
+      "image_id": "96716",
+      "image_path": "/files/ps2/images/static/96716.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015208",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Infernal Facepaint"
+      },
+      "description": {
+        "en": "Clown on your enemies in this simple grease facepaint. Provides a +10% xp bonus when worn during the annual Halloween Event."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807787",
+      "image_id": "96716",
+      "image_path": "/files/ps2/images/static/96716.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015209",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Infernal Facepaint"
+      },
+      "description": {
+        "en": "Clown on your enemies in this simple grease facepaint. Provides a +10% xp bonus when worn during the annual Halloween Event."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807787",
+      "image_id": "96716",
+      "image_path": "/files/ps2/images/static/96716.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015210",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Infernal Facepaint"
+      },
+      "description": {
+        "en": "Clown on your enemies in this simple grease facepaint. Provides a +10% xp bonus when worn during the annual Halloween Event."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807787",
+      "image_id": "96716",
+      "image_path": "/files/ps2/images/static/96716.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015211",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Infernal Facepaint"
+      },
+      "description": {
+        "en": "Clown on your enemies in this simple grease facepaint. Provides a +10% xp bonus when worn during the annual Halloween Event."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "807789",
+      "image_id": "96717",
+      "image_path": "/files/ps2/images/static/96717.png",
       "is_default_attachment": "0"
     },
     {
@@ -477063,22 +477517,6 @@
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6015582",
-      "item_type_id": "13",
-      "is_vehicle_weapon": "0",
-      "name": {
-        "en": "Title: Corsair"
-      },
-      "description": {
-        "en": "Grants the \"Corsair\" prefix title."
-      },
-      "max_stack_size": "1",
-      "image_set_id": "808008",
-      "image_id": "97380",
-      "image_path": "/files/ps2/images/static/97380.png",
-      "is_default_attachment": "0"
-    },
-    {
       "item_id": "6015583",
       "item_type_id": "43",
       "is_vehicle_weapon": "0",
@@ -478014,23 +478452,6 @@
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6015638",
-      "item_type_id": "17",
-      "item_category_id": "105",
-      "is_vehicle_weapon": "0",
-      "name": {
-        "en": "Nascent Expeditions Decal"
-      },
-      "description": {
-        "en": "Applies a decal to your armor or vehicle."
-      },
-      "max_stack_size": "1",
-      "image_set_id": "808109",
-      "image_id": "97624",
-      "image_path": "/files/ps2/images/static/97624.png",
-      "is_default_attachment": "0"
-    },
-    {
       "item_id": "6015639",
       "item_type_id": "43",
       "is_vehicle_weapon": "0",
@@ -478380,6 +478801,112 @@
       "image_set_id": "808168",
       "image_id": "97887",
       "image_path": "/files/ps2/images/static/97887.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015659",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808178",
+      "image_id": "97810",
+      "image_path": "/files/ps2/images/static/97810.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015660",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Banner Frame"
+      },
+      "description": {
+        "en": "Unlocks a profile banner frame for your character. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808180",
+      "image_id": "97814",
+      "image_path": "/files/ps2/images/static/97814.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015661",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. TR use only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808184",
+      "image_id": "97837",
+      "image_path": "/files/ps2/images/static/97837.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015662",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NC use only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808187",
+      "image_id": "97846",
+      "image_path": "/files/ps2/images/static/97846.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015663",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. VS use only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808186",
+      "image_id": "97843",
+      "image_path": "/files/ps2/images/static/97843.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015664",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808185",
+      "image_id": "97840",
+      "image_path": "/files/ps2/images/static/97840.png",
       "is_default_attachment": "0"
     },
     {
@@ -479797,6 +480324,22 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6015738",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: El Muerto"
+      },
+      "description": {
+        "en": "Grants the \"El Muertos\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6015739",
       "item_type_id": "27",
       "item_category_id": "143",
@@ -480045,6 +480588,80 @@
       "image_set_id": "808233",
       "image_id": "97991",
       "image_path": "/files/ps2/images/static/97991.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015753",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Mask"
+      },
+      "description": {
+        "en": "Nanite Systems Operatives cross the veil between life and death constantly, fighting for many causes. The NS Operative program and its research teach its subjects that death is not the end and sacrificing your life to further a greater cause earns you credit and respect within the program.<font color=\"#dc9c36\"><br><br>Only NSO can equip this helmet.</font>"
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808234",
+      "image_id": "97995",
+      "image_path": "/files/ps2/images/static/97995.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015754",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Mask"
+      },
+      "description": {
+        "en": "The New Conglomerate actively encourage its empire to celebrate seasonal holidays, no matter their background.  This mask represents the sacrifices of those who have crossed the veil so that the living can rejoice in such festivities without being persecuted.  Who knows, maybe some of the fallen will cross back over to see the fruits of their sacrifice.<font color=\"#dc9c36\"><br><br>Only NC can equip this helmet.</font>"
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808235",
+      "image_id": "97998",
+      "image_path": "/files/ps2/images/static/97998.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015755",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Mask"
+      },
+      "description": {
+        "en": "This mask serves a stark reminder of sacrifices made for the Republic is its citizens can live in peace and prosperity.  Terran's celebrate the life of these brave hero's and their tales of valour strengthen their conviction.<font color=\"#dc9c36\"><br><br>Only TR can equip this helmet.</font>"
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808236",
+      "image_id": "98001",
+      "image_path": "/files/ps2/images/static/98001.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6015756",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Muertos Mask"
+      },
+      "description": {
+        "en": "Like most civilizations, the Vanu Sovereignty incorporate celebrations of the past to help with their assimilation, in the hopes to strengthen the bond with other Auraxians, no matter their allegiance.  The mask and the festival it is tied to symbolises that life and death within the Sovereignty should be celebrated.<font color=\"#dc9c36\"><br><br>Only VS can equip this helmet.</font>"
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808237",
+      "image_id": "98004",
+      "image_path": "/files/ps2/images/static/98004.png",
       "is_default_attachment": "0"
     },
     {
@@ -484055,44 +484672,6 @@
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6016041",
-      "item_type_id": "38",
-      "item_category_id": "105",
-      "passive_ability_id": "1117999",
-      "is_vehicle_weapon": "0",
-      "name": {
-        "en": "Splash Tire Trails"
-      },
-      "description": {
-        "en": "Splash about the beaches of Oshur or trudge through the swamps of Hossin with these tire trails for the Harasser! All factions can use this gear."
-      },
-      "faction_id": "0",
-      "max_stack_size": "1",
-      "image_set_id": "808501",
-      "image_id": "98761",
-      "image_path": "/files/ps2/images/static/98761.png",
-      "is_default_attachment": "0"
-    },
-    {
-      "item_id": "6016042",
-      "item_type_id": "38",
-      "item_category_id": "105",
-      "passive_ability_id": "1118000",
-      "is_vehicle_weapon": "0",
-      "name": {
-        "en": "Splash Tire Trails"
-      },
-      "description": {
-        "en": "Splash about the beaches of Oshur or trudge through the swamps of Hossin with these tire trails for the Flash! All factions can use this gear."
-      },
-      "faction_id": "0",
-      "max_stack_size": "1",
-      "image_set_id": "808502",
-      "image_id": "98764",
-      "image_path": "/files/ps2/images/static/98764.png",
-      "is_default_attachment": "0"
-    },
-    {
       "item_id": "6016043",
       "item_type_id": "39",
       "item_category_id": "103",
@@ -484201,17 +484780,179 @@
       "is_default_attachment": "0"
     },
     {
+      "item_id": "6016059",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808330",
+      "image_id": "98276",
+      "image_path": "/files/ps2/images/static/98276.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016060",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808328",
+      "image_id": "98270",
+      "image_path": "/files/ps2/images/static/98270.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016061",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808329",
+      "image_id": "98273",
+      "image_path": "/files/ps2/images/static/98273.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016062",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808331",
+      "image_id": "98279",
+      "image_path": "/files/ps2/images/static/98279.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016063",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Grey Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "8578",
+      "image_id": "10126",
+      "image_path": "/files/ps2/images/static/10126.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016064",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "8576",
+      "image_id": "10120",
+      "image_path": "/files/ps2/images/static/10120.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016065",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Desert Zebra Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13208",
+      "image_id": "13168",
+      "image_path": "/files/ps2/images/static/13168.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016066",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Snowstorm Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13207",
+      "image_id": "13165",
+      "image_path": "/files/ps2/images/static/13165.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016067",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dry Lake Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13206",
+      "image_id": "13162",
+      "image_path": "/files/ps2/images/static/13162.png",
+      "is_default_attachment": "0"
+    },
+    {
       "item_id": "6016068",
       "item_type_id": "17",
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Starscape Animated Camo</font>"
+        "en": "Starscape Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only."
       },
-      "faction_id": "1",
+      "faction_id": "0",
       "max_stack_size": "1",
       "image_set_id": "808049",
       "image_id": "97451",
@@ -484224,12 +484965,12 @@
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Starscape Animated Camo</font>"
+        "en": "Starscape Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only."
       },
-      "faction_id": "2",
+      "faction_id": "0",
       "max_stack_size": "1",
       "image_set_id": "808050",
       "image_id": "97454",
@@ -484242,12 +484983,12 @@
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Starscape Animated Camo</font>"
+        "en": "Starscape Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only."
       },
-      "faction_id": "3",
+      "faction_id": "0",
       "max_stack_size": "1",
       "image_set_id": "808051",
       "image_id": "97457",
@@ -484260,7 +485001,7 @@
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Starscape Animated Camo</font>"
+        "en": "Starscape Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only."
@@ -484306,6 +485047,78 @@
       "image_set_id": "808485",
       "image_id": "98712",
       "image_path": "/files/ps2/images/static/98712.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016074",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808474",
+      "image_id": "98677",
+      "image_path": "/files/ps2/images/static/98677.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016075",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808475",
+      "image_id": "98680",
+      "image_path": "/files/ps2/images/static/98680.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016076",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808476",
+      "image_id": "98683",
+      "image_path": "/files/ps2/images/static/98683.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016077",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808477",
+      "image_id": "98686",
+      "image_path": "/files/ps2/images/static/98686.png",
       "is_default_attachment": "0"
     },
     {
@@ -484489,142 +485302,550 @@
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6016143",
-      "item_type_id": "17",
-      "item_category_id": "134",
+      "item_id": "6016088",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1117992",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "Grey Decofin Scales Camo"
+        "en": "Hanging Munition"
       },
       "description": {
-        "en": "Applies a camo to your armor, weapon or vehicle. NSO use only."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "faction_id": "0",
       "max_stack_size": "1",
-      "image_set_id": "808503",
-      "image_id": "98767",
-      "image_path": "/files/ps2/images/static/98767.png",
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png",
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6016144",
-      "item_type_id": "17",
-      "item_category_id": "134",
+      "item_id": "6016089",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1117992",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "Purple Decofin Scales Camo"
+        "en": "Hanging Munition"
       },
       "description": {
-        "en": "Applies a camo to your armor, weapon or vehicle. VS use only."
-      },
-      "faction_id": "1",
-      "max_stack_size": "1",
-      "image_set_id": "808504",
-      "image_id": "98770",
-      "image_path": "/files/ps2/images/static/98770.png",
-      "is_default_attachment": "0"
-    },
-    {
-      "item_id": "6016145",
-      "item_type_id": "17",
-      "item_category_id": "134",
-      "is_vehicle_weapon": "0",
-      "name": {
-        "en": "Blue Decofin Scales Camo"
-      },
-      "description": {
-        "en": "Applies a camo to your armor, weapon or vehicle. NC use only."
-      },
-      "faction_id": "2",
-      "max_stack_size": "1",
-      "image_set_id": "808505",
-      "image_id": "98773",
-      "image_path": "/files/ps2/images/static/98773.png",
-      "is_default_attachment": "0"
-    },
-    {
-      "item_id": "6016146",
-      "item_type_id": "17",
-      "item_category_id": "134",
-      "is_vehicle_weapon": "0",
-      "name": {
-        "en": "Red Decofin Scales Camo"
-      },
-      "description": {
-        "en": "Applies a camo to your armor, weapon or vehicle. TR use only."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "faction_id": "3",
       "max_stack_size": "1",
-      "image_set_id": "808506",
-      "image_id": "98776",
-      "image_path": "/files/ps2/images/static/98776.png",
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png",
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6016147",
-      "item_type_id": "43",
+      "item_id": "6016090",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1117992",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "Oshuri Lamniforme Banner"
+        "en": "Hanging Munition"
       },
       "description": {
-        "en": "The Oshuri Lamniforme closely resembles sharks found on Earth. Due to what appears to be only minor evolutionary traits, Auraxian marine biologists believe that these fish remain apex predators regardless of what planet they reside on.  Unlocks a profile banner for your character."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016091",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1117992",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hanging Munition"
+      },
+      "description": {
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016112",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118006",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 1"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 14 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
-      "image_set_id": "808507",
-      "image_id": "98779",
-      "image_path": "/files/ps2/images/static/98779.png",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6016148",
-      "item_type_id": "43",
+      "item_id": "6016113",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118006",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "Coral Grief Banner Frame"
+        "en": "Advanced Sensors System 1"
       },
       "description": {
-        "en": "Unlocks a profile banner frame for your character. All factions can use this item."
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 14 seconds."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016114",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118006",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 1"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 14 seconds."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016115",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118006",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 1"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 14 seconds."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016116",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118007",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 2"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 18 seconds."
       },
       "faction_id": "0",
       "max_stack_size": "1",
-      "image_set_id": "808509",
-      "image_id": "98783",
-      "image_path": "/files/ps2/images/static/98783.png",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6016149",
-      "item_type_id": "17",
-      "item_category_id": "142",
+      "item_id": "6016117",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118007",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "Monster of the Deep Decal"
+        "en": "Advanced Sensors System 2"
       },
       "description": {
-        "en": "Applies a decal to your armor or vehicle."
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 18 seconds."
       },
+      "faction_id": "3",
       "max_stack_size": "1",
-      "image_set_id": "808511",
-      "image_id": "98788",
-      "image_path": "/files/ps2/images/static/98788.png",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
       "is_default_attachment": "0"
     },
     {
-      "item_id": "6016150",
-      "item_type_id": "13",
+      "item_id": "6016118",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118007",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "Title: Pathfinder"
+        "en": "Advanced Sensors System 2"
       },
       "description": {
-        "en": "Grants the \"Pathfinder\" prefix title."
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 18 seconds."
       },
+      "faction_id": "2",
       "max_stack_size": "1",
-      "image_set_id": "808008",
-      "image_id": "97380",
-      "image_path": "/files/ps2/images/static/97380.png",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016119",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118007",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 2"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 18 seconds."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016120",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118008",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 3"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 22 seconds."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016121",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118008",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 3"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 22 seconds."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016122",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118008",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 3"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 22 seconds."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016123",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118008",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 3"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 22 seconds."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016124",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118009",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 4"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 26 seconds."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016125",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118009",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 4"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 26 seconds."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016126",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118009",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 4"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 26 seconds."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016127",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118009",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 4"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 26 seconds."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016128",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118010",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 5"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016129",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118010",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 5"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016130",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118010",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 5"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016131",
+      "item_type_id": "36",
+      "item_category_id": "139",
+      "passive_ability_id": "1118010",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Advanced Sensors System 5"
+      },
+      "description": {
+        "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 32 seconds."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016136",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Recon Drone 1"
+      },
+      "description": {
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 90 meters. The recon drone's battery life is 60 seconds. "
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016137",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Recon Drone 2"
+      },
+      "description": {
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 80-second battery lifetime."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016138",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Recon Drone 3"
+      },
+      "description": {
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 150 meters and a 100-second battery lifetime."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016139",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Recon Drone 4"
+      },
+      "description": {
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 200 meters and a 140-second battery lifetime."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808499",
+      "image_id": "98753",
+      "image_path": "/files/ps2/images/static/98753.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016142",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "passive_ability_id": "1118019",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Observer"
+      },
+      "description": {
+        "en": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808500",
+      "image_id": "98758",
+      "image_path": "/files/ps2/images/static/98758.png",
       "is_default_attachment": "0"
     },
     {
@@ -484707,12 +485928,12 @@
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Blue Decofin Scales Animated Camo</font>"
+        "en": "Blue Decofin Scales Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only."
       },
-      "faction_id": "2",
+      "faction_id": "0",
       "max_stack_size": "1",
       "image_set_id": "808505",
       "image_id": "98773",
@@ -484725,7 +485946,7 @@
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Grey Decofin Scales Animated Camo</font>"
+        "en": "Grey Decofin Scales Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only."
@@ -484743,12 +485964,12 @@
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Red Decofin Scales Animated Camo</font>"
+        "en": "Red Decofin Scales Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only."
       },
-      "faction_id": "3",
+      "faction_id": "0",
       "max_stack_size": "1",
       "image_set_id": "808506",
       "image_id": "98776",
@@ -484761,12 +485982,12 @@
       "item_category_id": "134",
       "is_vehicle_weapon": "0",
       "name": {
-        "en": "<font color=\"#9b4eb6\">Purple Decofin Scales Animated Camo</font>"
+        "en": "Purple Decofin Scales Animated Camo"
       },
       "description": {
         "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only."
       },
-      "faction_id": "1",
+      "faction_id": "0",
       "max_stack_size": "1",
       "image_set_id": "808504",
       "image_id": "98770",
@@ -484789,6 +486010,42 @@
       "image_set_id": "808519",
       "image_id": "98815",
       "image_path": "/files/ps2/images/static/98815.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016176",
+      "item_type_id": "14",
+      "item_category_id": "141",
+      "passive_ability_id": "1118029",
+      "is_vehicle_weapon": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "13498",
+      "image_id": "14887",
+      "image_path": "/files/ps2/images/static/14887.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016177",
+      "item_type_id": "14",
+      "item_category_id": "141",
+      "passive_ability_id": "1118026",
+      "is_vehicle_weapon": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "13498",
+      "image_id": "14887",
+      "image_path": "/files/ps2/images/static/14887.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016178",
+      "item_type_id": "14",
+      "item_category_id": "141",
+      "passive_ability_id": "1118028",
+      "is_vehicle_weapon": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "13498",
+      "image_id": "14887",
+      "image_path": "/files/ps2/images/static/14887.png",
       "is_default_attachment": "0"
     },
     {
@@ -484827,7 +486084,2864 @@
       "image_id": "98825",
       "image_path": "/files/ps2/images/static/98825.png",
       "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016181",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Strange Markings Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle. All factions can use this gear."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808525",
+      "image_id": "98839",
+      "image_path": "/files/ps2/images/static/98839.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016182",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Archaeotech Biomass Banner Frame"
+      },
+      "description": {
+        "en": "Unlocks a profile banner frame for your character. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808536",
+      "image_id": "98870",
+      "image_path": "/files/ps2/images/static/98870.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016183",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Crashed Freighter Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808534",
+      "image_id": "98866",
+      "image_path": "/files/ps2/images/static/98866.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016184",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NC use only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808530",
+      "image_id": "98854",
+      "image_path": "/files/ps2/images/static/98854.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016185",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808531",
+      "image_id": "98857",
+      "image_path": "/files/ps2/images/static/98857.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016186",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. TR use only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808532",
+      "image_id": "98860",
+      "image_path": "/files/ps2/images/static/98860.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016187",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. VS use only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808533",
+      "image_id": "98863",
+      "image_path": "/files/ps2/images/static/98863.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016188",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Head Helmet"
+      },
+      "description": {
+        "en": "Wearable by all non-Max classes. All factions can use this gear."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808539",
+      "image_id": "98875",
+      "image_path": "/files/ps2/images/static/98875.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016189",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Head Helmet"
+      },
+      "description": {
+        "en": "Wearable by all non-Max classes. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808540",
+      "image_id": "98878",
+      "image_path": "/files/ps2/images/static/98878.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016190",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Head Helmet"
+      },
+      "description": {
+        "en": "Wearable by all non-Max classes. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808541",
+      "image_id": "98881",
+      "image_path": "/files/ps2/images/static/98881.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016192",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118030",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Chimera. NSO use only."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808524",
+      "image_id": "98835",
+      "image_path": "/files/ps2/images/static/98835.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016193",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111375",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Witch Horn"
+      },
+      "description": {
+        "en": "Announce your coven's arrival with this cackling Witch horn. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82846",
+      "image_id": "80825",
+      "image_path": "/files/ps2/images/static/80825.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016194",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111375",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dervish Witch Horn"
+      },
+      "description": {
+        "en": "Announce your coven's arrival with this cackling Witch horn. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82846",
+      "image_id": "80825",
+      "image_path": "/files/ps2/images/static/80825.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016195",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111375",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Javelin Witch Horn"
+      },
+      "description": {
+        "en": "Announce your coven's arrival with this cackling Witch horn. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82846",
+      "image_id": "80825",
+      "image_path": "/files/ps2/images/static/80825.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016196",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26656",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Demonic Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Demonic Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9059",
+      "image_id": "11901",
+      "image_path": "/files/ps2/images/static/11901.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016197",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26656",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dervish Demonic Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Demonic Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9059",
+      "image_id": "11901",
+      "image_path": "/files/ps2/images/static/11901.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016198",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26656",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Javelin Demonic Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Demonic Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9059",
+      "image_id": "11901",
+      "image_path": "/files/ps2/images/static/11901.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016199",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26657",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Javelin Ghoulish Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghoulish Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9061",
+      "image_id": "11907",
+      "image_path": "/files/ps2/images/static/11907.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016200",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26657",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Ghoulish Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghoulish Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9061",
+      "image_id": "11907",
+      "image_path": "/files/ps2/images/static/11907.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016201",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26657",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dervish Ghoulish Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghoulish Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9061",
+      "image_id": "11907",
+      "image_path": "/files/ps2/images/static/11907.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016202",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "0",
+      "description": {
+        "en": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>"
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "82961",
+      "image_id": "82148",
+      "image_path": "/files/ps2/images/static/82148.png",
+      "skill_set_id": "1628",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016203",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26658",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Javelin Pipe Organ Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Pipe Organ Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9063",
+      "image_id": "11913",
+      "image_path": "/files/ps2/images/static/11913.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016204",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26658",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Pipe Organ Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Pipe Organ Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9063",
+      "image_id": "11913",
+      "image_path": "/files/ps2/images/static/11913.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016205",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26658",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dervish Pipe Organ Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Pipe Organ Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9063",
+      "image_id": "11913",
+      "image_path": "/files/ps2/images/static/11913.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016206",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26659",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Ghostly Shriek Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghostly Shriek Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9060",
+      "image_id": "11904",
+      "image_path": "/files/ps2/images/static/11904.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016207",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26659",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dervish Ghostly Shriek Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghostly Shriek Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9060",
+      "image_id": "11904",
+      "image_path": "/files/ps2/images/static/11904.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016208",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "26659",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Javelin Ghostly Shriek Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghostly Shriek Horn. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "9060",
+      "image_id": "11904",
+      "image_path": "/files/ps2/images/static/11904.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016209",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111374",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Wolfpack Horn"
+      },
+      "description": {
+        "en": "Howl at the moon with your entire pack with this horn. All factions may use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82847",
+      "image_id": "80828",
+      "image_path": "/files/ps2/images/static/80828.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016210",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111374",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dervish Wolfpack Horn"
+      },
+      "description": {
+        "en": "Howl at the moon with your entire pack with this horn. All factions may use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82847",
+      "image_id": "80828",
+      "image_path": "/files/ps2/images/static/80828.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016211",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111374",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Javelin Wolfpack Horn"
+      },
+      "description": {
+        "en": "Howl at the moon with your entire pack with this horn. All factions may use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82847",
+      "image_id": "80828",
+      "image_path": "/files/ps2/images/static/80828.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016212",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111376",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Javelin Deathmarch Horn"
+      },
+      "description": {
+        "en": "See that your entire squad enjoys some travelling music as you deliver them to their untimely deaths."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82845",
+      "image_id": "80822",
+      "image_path": "/files/ps2/images/static/80822.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016213",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111376",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Chimera Deathmarch Horn"
+      },
+      "description": {
+        "en": "See that your entire squad enjoys some travelling music as you deliver them to their untimely deaths."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82845",
+      "image_id": "80822",
+      "image_path": "/files/ps2/images/static/80822.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016214",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1111376",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Dervish Deathmarch Horn"
+      },
+      "description": {
+        "en": "See that your entire squad enjoys some travelling music as you deliver them to their untimely deaths."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "82845",
+      "image_id": "80822",
+      "image_path": "/files/ps2/images/static/80822.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016215",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "1",
+      "description": {
+        "en": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "82961",
+      "image_id": "82148",
+      "image_path": "/files/ps2/images/static/82148.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016216",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "1",
+      "description": {
+        "en": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "82961",
+      "image_id": "82148",
+      "image_path": "/files/ps2/images/static/82148.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016217",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "1",
+      "description": {
+        "en": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "82961",
+      "image_id": "82148",
+      "image_path": "/files/ps2/images/static/82148.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016218",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "1",
+      "description": {
+        "en": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "82961",
+      "image_id": "82148",
+      "image_path": "/files/ps2/images/static/82148.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016219",
+      "item_type_id": "26",
+      "item_category_id": "139",
+      "is_vehicle_weapon": "1",
+      "description": {
+        "en": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "82961",
+      "image_id": "82148",
+      "image_path": "/files/ps2/images/static/82148.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016220",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118033",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Lightning Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Lightning. All factions can use this item."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808528",
+      "image_id": "98848",
+      "image_path": "/files/ps2/images/static/98848.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016221",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118034",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Prowler Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Prowler. TR use only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808527",
+      "image_id": "98845",
+      "image_path": "/files/ps2/images/static/98845.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016222",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118035",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Vanguard Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Vanguard. NC use only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808526",
+      "image_id": "98842",
+      "image_path": "/files/ps2/images/static/98842.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016230",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Infected"
+      },
+      "description": {
+        "en": "Grants the \"Infected\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016231",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808533",
+      "image_id": "98863",
+      "image_path": "/files/ps2/images/static/98863.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016232",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808530",
+      "image_id": "98854",
+      "image_path": "/files/ps2/images/static/98854.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016233",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808532",
+      "image_id": "98860",
+      "image_path": "/files/ps2/images/static/98860.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016234",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808531",
+      "image_id": "98857",
+      "image_path": "/files/ps2/images/static/98857.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016236",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Head Helmet"
+      },
+      "description": {
+        "en": "Wearable by all non-Max classes. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808543",
+      "image_id": "98889",
+      "image_path": "/files/ps2/images/static/98889.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016239",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "passive_ability_id": "1111561",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Parasitic Head Helmet"
+      },
+      "description": {
+        "en": "Wearable by all non-Max classes. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808546",
+      "image_id": "98898",
+      "image_path": "/files/ps2/images/static/98898.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016240",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "passive_ability_id": "1118039",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hospitaller"
+      },
+      "description": {
+        "en": "While reviving a fallen ally, the Combat Medic's personal shield capacity is extended by 200."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808547",
+      "image_id": "98902",
+      "image_path": "/files/ps2/images/static/98902.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016241",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "passive_ability_id": "1118066",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Sharing Is Caring 4"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 140."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808551",
+      "image_id": "98914",
+      "image_path": "/files/ps2/images/static/98914.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016242",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "passive_ability_id": "1118065",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Sharing Is Caring 3"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 100."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808550",
+      "image_id": "98911",
+      "image_path": "/files/ps2/images/static/98911.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016243",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "passive_ability_id": "1118064",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Sharing Is Caring 2"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 80."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808549",
+      "image_id": "98908",
+      "image_path": "/files/ps2/images/static/98908.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016244",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "passive_ability_id": "1118063",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Sharing Is Caring 1"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 60."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808548",
+      "image_id": "98905",
+      "image_path": "/files/ps2/images/static/98905.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016245",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13 Years of Loyalty Decal"
+      },
+      "description": {
+        "en": "Applies a loyalty decal to your armor or vehicle, celebrating thirteen years of PlanetSide 2"
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808553",
+      "image_id": "98921",
+      "image_path": "/files/ps2/images/static/98921.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016246",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "XIII Years of Loyalty"
+      },
+      "description": {
+        "en": "Applies a loyalty decal to your armor or vehicle, celebrating XIII years of PlanetSide 2"
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808554",
+      "image_id": "98925",
+      "image_path": "/files/ps2/images/static/98925.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016247",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13-Years of Loyalty Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808564",
+      "image_id": "98958",
+      "image_path": "/files/ps2/images/static/98958.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016248",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 ExoCeratus Armor"
+      },
+      "description": {
+        "en": "Developed under Project CERATUS by Nanite Systems' Archaeotech Division 13, this next-generation exosuit integrates reinforced chitin-alloy plating with neural-reactive musculature, allowing unparalleled durability without sacrificing mobility. Inspired by the structural resilience of the Rhinoceros beetle, the ExoCeratus shell can withstand sustained kinetic impacts and adaptive plasma bursts alike.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808576",
+      "image_id": "98997",
+      "image_path": "/files/ps2/images/static/98997.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016249",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13-Years of Loyalty Banner Frame"
+      },
+      "description": {
+        "en": "A basic profile banner frame available to all factions."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808566",
+      "image_id": "98965",
+      "image_path": "/files/ps2/images/static/98965.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016250",
+      "item_type_id": "26",
+      "item_category_id": "2",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "An artifact found at an excavation site that was used for rituals by a lost civilization."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808555",
+      "image_id": "98928",
+      "image_path": "/files/ps2/images/static/98928.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016251",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle. NC use only."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808572",
+      "image_id": "98982",
+      "image_path": "/files/ps2/images/static/98982.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016252",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character. NC use only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808586",
+      "image_id": "99027",
+      "image_path": "/files/ps2/images/static/99027.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016253",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteocortex Banner Frame"
+      },
+      "description": {
+        "en": "A basic profile banner frame available to all factions."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808594",
+      "image_id": "99044",
+      "image_path": "/files/ps2/images/static/99044.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016254",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "passive_ability_id": "1118067",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Sharing Is Caring 5"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 200."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808552",
+      "image_id": "98917",
+      "image_path": "/files/ps2/images/static/98917.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016260",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Amerish Brush Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7232",
+      "image_id": "7697",
+      "image_path": "/files/ps2/images/static/7697.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016261",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Amerish Forest Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7264",
+      "image_id": "7793",
+      "image_path": "/files/ps2/images/static/7793.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016262",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Amerish Forest v2 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7274",
+      "image_id": "7823",
+      "image_path": "/files/ps2/images/static/7823.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016263",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Amerish Grassland Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7260",
+      "image_id": "7781",
+      "image_path": "/files/ps2/images/static/7781.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016264",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Amerish Leaf Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7270",
+      "image_id": "7811",
+      "image_path": "/files/ps2/images/static/7811.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016265",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Amerish Scrub Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7222",
+      "image_id": "7667",
+      "image_path": "/files/ps2/images/static/7667.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016266",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NC use only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808571",
+      "image_id": "98978",
+      "image_path": "/files/ps2/images/static/98978.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016267",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. TR use only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808570",
+      "image_id": "98975",
+      "image_path": "/files/ps2/images/static/98975.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016268",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808569",
+      "image_id": "98972",
+      "image_path": "/files/ps2/images/static/98972.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016269",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. VS use only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808568",
+      "image_id": "98969",
+      "image_path": "/files/ps2/images/static/98969.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016270",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Canyons v1 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7228",
+      "image_id": "7685",
+      "image_path": "/files/ps2/images/static/7685.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016271",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Canyons v2 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7266",
+      "image_id": "7799",
+      "image_path": "/files/ps2/images/static/7799.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016272",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Dry Brush Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7272",
+      "image_id": "7817",
+      "image_path": "/files/ps2/images/static/7817.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016273",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Dry Ocean Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7226",
+      "image_id": "7679",
+      "image_path": "/files/ps2/images/static/7679.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016274",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Dunes Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7268",
+      "image_id": "7805",
+      "image_path": "/files/ps2/images/static/7805.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016275",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Highlands v1 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7224",
+      "image_id": "7673",
+      "image_path": "/files/ps2/images/static/7673.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016276",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Highlands v2 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7262",
+      "image_id": "7787",
+      "image_path": "/files/ps2/images/static/7787.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016277",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Plateau Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7234",
+      "image_id": "7703",
+      "image_path": "/files/ps2/images/static/7703.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016278",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Rock Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7280",
+      "image_id": "7841",
+      "image_path": "/files/ps2/images/static/7841.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016279",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Savanna Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7278",
+      "image_id": "7835",
+      "image_path": "/files/ps2/images/static/7835.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016280",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Indar Scrub Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "7230",
+      "image_id": "7691",
+      "image_path": "/files/ps2/images/static/7691.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016281",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle. TR use only."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808573",
+      "image_id": "98986",
+      "image_path": "/files/ps2/images/static/98986.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016282",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle. VS use only."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808574",
+      "image_id": "98990",
+      "image_path": "/files/ps2/images/static/98990.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016283",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle. NSO use only."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808575",
+      "image_id": "98994",
+      "image_path": "/files/ps2/images/static/98994.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016284",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 ExoCeratus Armor"
+      },
+      "description": {
+        "en": "Developed under Project CERATUS by Nanite Systems' Archaeotech Division 13, this next-generation exosuit integrates reinforced chitin-alloy plating with neural-reactive musculature, allowing unparalleled durability without sacrificing mobility. Inspired by the structural resilience of the Rhinoceros beetle, the ExoCeratus shell can withstand sustained kinetic impacts and adaptive plasma bursts alike.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808576",
+      "image_id": "98997",
+      "image_path": "/files/ps2/images/static/98997.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016285",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 ExoCeratus Armor"
+      },
+      "description": {
+        "en": "Developed under Project CERATUS by Nanite Systems' Archaeotech Division 13, this next-generation exosuit integrates reinforced chitin-alloy plating with neural-reactive musculature, allowing unparalleled durability without sacrificing mobility. Inspired by the structural resilience of the Rhinoceros beetle, the ExoCeratus shell can withstand sustained kinetic impacts and adaptive plasma bursts alike.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808576",
+      "image_id": "98997",
+      "image_path": "/files/ps2/images/static/98997.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016286",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 ExoCeratus Armor"
+      },
+      "description": {
+        "en": "Developed under Project CERATUS by Nanite Systems' Archaeotech Division 13, this next-generation exosuit integrates reinforced chitin-alloy plating with neural-reactive musculature, allowing unparalleled durability without sacrificing mobility. Inspired by the structural resilience of the Rhinoceros beetle, the ExoCeratus shell can withstand sustained kinetic impacts and adaptive plasma bursts alike.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808597",
+      "image_id": "99052",
+      "image_path": "/files/ps2/images/static/99052.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016287",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 Cerator Nexus Helmet"
+      },
+      "description": {
+        "en": "Designed as the neural command core of the ExoCeratus system, the Cerator Nexus interfaces directly with the operator's cerebral lattice, converting neural impulses into instantaneous armor responses.  Integrated bio-sync nodes ensure total cohesion between thought and motion.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808577",
+      "image_id": "99000",
+      "image_path": "/files/ps2/images/static/99000.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016288",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 Cerator Nexus Helmet"
+      },
+      "description": {
+        "en": "Designed as the neural command core of the ExoCeratus system, the Cerator Nexus interfaces directly with the operator's cerebral lattice, converting neural impulses into instantaneous armor responses.  Integrated bio-sync nodes ensure total cohesion between thought and motion.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808598",
+      "image_id": "99055",
+      "image_path": "/files/ps2/images/static/99055.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016289",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Animated Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NC use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808571",
+      "image_id": "98978",
+      "image_path": "/files/ps2/images/static/98978.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016290",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Animated Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. TR use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808570",
+      "image_id": "98975",
+      "image_path": "/files/ps2/images/static/98975.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016291",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Animated Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808569",
+      "image_id": "98972",
+      "image_path": "/files/ps2/images/static/98972.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016292",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "13th Anniversary Animated Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. VS use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808568",
+      "image_id": "98969",
+      "image_path": "/files/ps2/images/static/98969.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016293",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NC use only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808579",
+      "image_id": "99006",
+      "image_path": "/files/ps2/images/static/99006.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016294",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. TR use only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808578",
+      "image_id": "99003",
+      "image_path": "/files/ps2/images/static/99003.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016295",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808581",
+      "image_id": "99012",
+      "image_path": "/files/ps2/images/static/99012.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016296",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. VS use only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808580",
+      "image_id": "99009",
+      "image_path": "/files/ps2/images/static/99009.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016297",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 Cerator Nexus Helmet"
+      },
+      "description": {
+        "en": "Designed as the neural command core of the ExoCeratus system, the Cerator Nexus interfaces directly with the operator's cerebral lattice, converting neural impulses into instantaneous armor responses.  Integrated bio-sync nodes ensure total cohesion between thought and motion.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808577",
+      "image_id": "99000",
+      "image_path": "/files/ps2/images/static/99000.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016298",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "AD-13 Cerator Nexus Helmet"
+      },
+      "description": {
+        "en": "Designed as the neural command core of the ExoCeratus system, the Cerator Nexus interfaces directly with the operator's cerebral lattice, converting neural impulses into instantaneous armor responses.  Integrated bio-sync nodes ensure total cohesion between thought and motion.<br><br>Wearable by Heavy Assault Only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808577",
+      "image_id": "99000",
+      "image_path": "/files/ps2/images/static/99000.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016299",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Cerator"
+      },
+      "description": {
+        "en": "Grants the \"Cerator\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016300",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Keyboard Warrior"
+      },
+      "description": {
+        "en": "Grants the \"Keyboard Warrior\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016301",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: 13th Year Veteran"
+      },
+      "description": {
+        "en": "Grants the \"13th Year Veteran\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016302",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Prospect Thinker"
+      },
+      "description": {
+        "en": "Grants the \"Prospect Thinker\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016303",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Cloaked Spectre"
+      },
+      "description": {
+        "en": "Grants the \"Cloaked Spectre\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016304",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Unlucky"
+      },
+      "description": {
+        "en": "Grants the \"Unlucky\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "1"
+    },
+    {
+      "item_id": "6016305",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character. TR use only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808588",
+      "image_id": "99031",
+      "image_path": "/files/ps2/images/static/99031.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016306",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character. VS use only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808590",
+      "image_id": "99035",
+      "image_path": "/files/ps2/images/static/99035.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016307",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character. NSO use only."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808592",
+      "image_id": "99039",
+      "image_path": "/files/ps2/images/static/99039.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016309",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Remote Hacking"
+      },
+      "description": {
+        "en": "Remote Hacking Implant allows the Infiltrator to use the Recon Drone for hacking by establishing additional connection protocols."
+      },
+      "faction_id": "0",
+      "max_stack_size": "99999",
+      "image_set_id": "808596",
+      "image_id": "99048",
+      "image_path": "/files/ps2/images/static/99048.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016310",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808579",
+      "image_id": "99006",
+      "image_path": "/files/ps2/images/static/99006.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016311",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808578",
+      "image_id": "99003",
+      "image_path": "/files/ps2/images/static/99003.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016312",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808581",
+      "image_id": "99012",
+      "image_path": "/files/ps2/images/static/99012.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016313",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Osteonexus Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808580",
+      "image_id": "99009",
+      "image_path": "/files/ps2/images/static/99009.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016314",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Ossuarist"
+      },
+      "description": {
+        "en": "Grants the \"Ossuarist\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016315",
+      "item_type_id": "45",
+      "item_category_id": "133",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Remote Hacking [Perfect]"
+      },
+      "description": {
+        "en": "Remote Hacking Implant allows the Infiltrator to use the Recon Drone for hacking by establishing additional connection protocols.<br><br><font color=\"#dc9c36\">Perfect implants cannot be broken down.</font>"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808603",
+      "image_id": "99066",
+      "image_path": "/files/ps2/images/static/99066.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016316",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Fit Check Challenge Banner"
+      },
+      "description": {
+        "en": "Awarded to players who participate in the community Fit Check Challenge!"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808599",
+      "image_id": "99058",
+      "image_path": "/files/ps2/images/static/99058.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016317",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "24hr Run Challenge Banner"
+      },
+      "description": {
+        "en": "Awarded to players who participate in the community 24hr Run Challenge!"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808601",
+      "image_id": "99062",
+      "image_path": "/files/ps2/images/static/99062.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016321",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter OPS Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808613",
+      "image_id": "99098",
+      "image_path": "/files/ps2/images/static/99098.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016322",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter OPS Banner"
+      },
+      "description": {
+        "en": "Unlocks a profile banner for your character."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808617",
+      "image_id": "99113",
+      "image_path": "/files/ps2/images/static/99113.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016323",
+      "item_type_id": "43",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter OPS Banner Frame"
+      },
+      "description": {
+        "en": "A basic profile banner frame available to all factions."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808619",
+      "image_id": "99117",
+      "image_path": "/files/ps2/images/static/99117.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016324",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1118061",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hail Stone Horn"
+      },
+      "description": {
+        "en": "\"Don't throw stones at glass windscreens\" - Ancient Vanu Proverb (probably?)"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808622",
+      "image_id": "99124",
+      "image_path": "/files/ps2/images/static/99124.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016325",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1118062",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Party Popper Horn"
+      },
+      "description": {
+        "en": "Friendly asleep on the job? Wake them up with this horn!"
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808626",
+      "image_id": "99136",
+      "image_path": "/files/ps2/images/static/99136.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016326",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118052",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807483",
+      "image_id": "95744",
+      "image_path": "/files/ps2/images/static/95744.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016327",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118053",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807485",
+      "image_id": "95750",
+      "image_path": "/files/ps2/images/static/95750.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016328",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118054",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "807486",
+      "image_id": "95753",
+      "image_path": "/files/ps2/images/static/95753.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016329",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118055",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808611",
+      "image_id": "99091",
+      "image_path": "/files/ps2/images/static/99091.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016330",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118056",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808609",
+      "image_id": "99085",
+      "image_path": "/files/ps2/images/static/99085.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016331",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118057",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808610",
+      "image_id": "99088",
+      "image_path": "/files/ps2/images/static/99088.png",
+      "is_default_attachment": "1"
+    },
+    {
+      "item_id": "6016332",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118058",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808612",
+      "image_id": "99094",
+      "image_path": "/files/ps2/images/static/99094.png",
+      "is_default_attachment": "1"
+    },
+    {
+      "item_id": "6016333",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118059",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808608",
+      "image_id": "99082",
+      "image_path": "/files/ps2/images/static/99082.png",
+      "is_default_attachment": "1"
+    },
+    {
+      "item_id": "6016334",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118060",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Tire Trails"
+      },
+      "description": {
+        "en": "Adds confetti trails to the vehicle's wheels. All factions can use this gear."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "807487",
+      "image_id": "95756",
+      "image_path": "/files/ps2/images/static/95756.png",
+      "is_default_attachment": "1"
+    },
+    {
+      "item_id": "6016335",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Camo"
+      },
+      "description": {
+        "en": "Applies a camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808621",
+      "image_id": "99121",
+      "image_path": "/files/ps2/images/static/99121.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016339",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Armor"
+      },
+      "description": {
+        "en": "An adaptive winter cloak engineered for long-range engagements. Phase-layered fabric diffuses thermal signatures and blends seamlessly with snow-covered terrain. \n\nThis armor can only be worn by NC Infiltrators."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808638",
+      "image_id": "99187",
+      "image_path": "/files/ps2/images/static/99187.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016340",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Armor"
+      },
+      "description": {
+        "en": "An adaptive winter cloak engineered for long-range engagements. Phase-layered fabric diffuses thermal signatures and blends seamlessly with snow-covered terrain. \n\nThis armor can only be worn by TR Infiltrators."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808637",
+      "image_id": "99184",
+      "image_path": "/files/ps2/images/static/99184.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016341",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Armor"
+      },
+      "description": {
+        "en": "An adaptive winter cloak engineered for long-range engagements. Phase-layered fabric diffuses thermal signatures and blends seamlessly with snow-covered terrain. \n\nThis armor can only be worn by VS Infiltrators."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808639",
+      "image_id": "99190",
+      "image_path": "/files/ps2/images/static/99190.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016343",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter OPS Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808614",
+      "image_id": "99102",
+      "image_path": "/files/ps2/images/static/99102.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016344",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter OPS Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808615",
+      "image_id": "99106",
+      "image_path": "/files/ps2/images/static/99106.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016345",
+      "item_type_id": "17",
+      "item_category_id": "142",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter OPS Decal"
+      },
+      "description": {
+        "en": "Applies a decal to your armor or vehicle."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808616",
+      "image_id": "99110",
+      "image_path": "/files/ps2/images/static/99110.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016346",
+      "item_type_id": "13",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Title: Winter Operative"
+      },
+      "description": {
+        "en": "Grants the \"Winter Operative\" prefix title."
+      },
+      "max_stack_size": "1",
+      "image_set_id": "808008",
+      "image_id": "97380",
+      "image_path": "/files/ps2/images/static/97380.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016347",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808621",
+      "image_id": "99121",
+      "image_path": "/files/ps2/images/static/99121.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016348",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "activatable_ability_id": "1118068",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Archaeotech Horn"
+      },
+      "description": {
+        "en": "A horn made for quick and clear communication. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808627",
+      "image_id": "99140",
+      "image_path": "/files/ps2/images/static/99140.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016349",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Helmet"
+      },
+      "description": {
+        "en": "Thermal-dampening fibers and irregular camouflage break the wearer's silhouette, concealing both heat and form. No optics. No shine. Just snow where a sniper waits.\n\nThis Helmet can only be worn by NC Infiltrators."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808635",
+      "image_id": "99178",
+      "image_path": "/files/ps2/images/static/99178.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016350",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Helmet"
+      },
+      "description": {
+        "en": "Thermal-dampening fibers and irregular camouflage break the wearer's silhouette, concealing both heat and form. No optics. No shine. Just snow where a sniper waits.\n\nThis Helmet can only be worn by TR Infiltrators."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808636",
+      "image_id": "99181",
+      "image_path": "/files/ps2/images/static/99181.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016351",
+      "item_type_id": "39",
+      "item_category_id": "103",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Winter Ghillie Helmet"
+      },
+      "description": {
+        "en": "Thermal-dampening fibers and irregular camouflage break the wearer's silhouette, concealing both heat and form. No optics. No shine. Just snow where a sniper waits.\n\nThis Helmet can only be worn by VS Infiltrators."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808640",
+      "image_id": "99193",
+      "image_path": "/files/ps2/images/static/99193.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016353",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hossin Digital Scrub Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13594",
+      "image_id": "78073",
+      "image_path": "/files/ps2/images/static/78073.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016355",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hossin Mist Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13598",
+      "image_id": "78085",
+      "image_path": "/files/ps2/images/static/78085.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016356",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hossin Mossy Stone Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13595",
+      "image_id": "78076",
+      "image_path": "/files/ps2/images/static/78076.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016357",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hossin Swamp Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13597",
+      "image_id": "78082",
+      "image_path": "/files/ps2/images/static/78082.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016358",
+      "item_type_id": "17",
+      "item_category_id": "134",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Hossin Tree Bark Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "13596",
+      "image_id": "78079",
+      "image_path": "/files/ps2/images/static/78079.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016360",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118069",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti. NC use only."
+      },
+      "faction_id": "2",
+      "max_stack_size": "1",
+      "image_set_id": "808628",
+      "image_id": "99145",
+      "image_path": "/files/ps2/images/static/99145.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016361",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118070",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti. TR use only."
+      },
+      "faction_id": "3",
+      "max_stack_size": "1",
+      "image_set_id": "808629",
+      "image_id": "99150",
+      "image_path": "/files/ps2/images/static/99150.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016362",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118071",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti. VS use only."
+      },
+      "faction_id": "1",
+      "max_stack_size": "1",
+      "image_set_id": "808630",
+      "image_id": "99155",
+      "image_path": "/files/ps2/images/static/99155.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016363",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118072",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti. NSO use only."
+      },
+      "faction_id": "4",
+      "max_stack_size": "1",
+      "image_set_id": "808631",
+      "image_id": "99160",
+      "image_path": "/files/ps2/images/static/99160.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016364",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118073",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808632",
+      "image_id": "99165",
+      "image_path": "/files/ps2/images/static/99165.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016365",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118074",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808633",
+      "image_id": "99170",
+      "image_path": "/files/ps2/images/static/99170.png",
+      "is_default_attachment": "0"
+    },
+    {
+      "item_id": "6016366",
+      "item_type_id": "38",
+      "item_category_id": "105",
+      "passive_ability_id": "1118075",
+      "is_vehicle_weapon": "0",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti. All factions can use this gear."
+      },
+      "faction_id": "0",
+      "max_stack_size": "1",
+      "image_set_id": "808634",
+      "image_id": "99175",
+      "image_path": "/files/ps2/images/static/99175.png",
+      "is_default_attachment": "0"
     }
   ],
-  "returned": 27089
+  "returned": 27316
 }

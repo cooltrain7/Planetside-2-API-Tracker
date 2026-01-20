@@ -2639,7 +2639,61 @@
       "name": {
         "en": "Pathfinder"
       }
+    },
+    {
+      "title_id": "494",
+      "name": {
+        "en": "Infected"
+      }
+    },
+    {
+      "title_id": "495",
+      "name": {
+        "en": "Cerator"
+      }
+    },
+    {
+      "title_id": "496",
+      "name": {
+        "en": "Keyboard Warrior"
+      }
+    },
+    {
+      "title_id": "497",
+      "name": {
+        "en": "13th Year Veteran"
+      }
+    },
+    {
+      "title_id": "498",
+      "name": {
+        "en": "Prospect Thinker"
+      }
+    },
+    {
+      "title_id": "499",
+      "name": {
+        "en": "Cloaked Spectre"
+      }
+    },
+    {
+      "title_id": "500",
+      "name": {
+        "en": "Unlucky"
+      }
+    },
+    {
+      "title_id": "501",
+      "name": {
+        "en": "Ossuarist"
+      }
+    },
+    {
+      "title_id": "502",
+      "name": {
+        "en": "Winter Operative"
+      }
     }
   ],
-  "returned": 440
+  "returned": 449
 }

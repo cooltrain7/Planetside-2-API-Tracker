@@ -469,6 +469,14 @@
       "string1": "DamageType"
     },
     {
+      "zone_effect_type_id": "482",
+      "description": "Changes maximum value of resource (e.g. Health). You can specify either exact new value or change.",
+      "param1": "ResourceType",
+      "param2": "Value",
+      "param3": "IsOneWayEffect",
+      "param4": "IsAddition"
+    },
+    {
       "zone_effect_type_id": "490",
       "description": "Set Ammo By Item Amount",
       "param1": "ItemClass",
@@ -478,7 +486,23 @@
       "param5": "LoadoutSlotId",
       "param6": "SetInfinite",
       "param7": "ConsumeInCode"
+    },
+    {
+      "zone_effect_type_id": "495",
+      "description": "Character Transfer",
+      "param4": "Target Server Id"
+    },
+    {
+      "zone_effect_type_id": "496",
+      "description": "Stop ability that is active",
+      "param1": "Chance",
+      "param2": "Ability Ex ID",
+      "string1": "Design Event"
+    },
+    {
+      "zone_effect_type_id": "497",
+      "description": "Client Logout"
     }
   ],
-  "returned": 62
+  "returned": 66
 }

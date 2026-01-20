@@ -107240,12 +107240,12 @@
       "skill_line_id": "18213",
       "skill_points": "0",
       "skill_category_id": "16503",
-      "skill_category_index": "0",
+      "skill_category_index": "1",
       "name": {
         "en": "Hanging Munition"
       },
       "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "image_set_id": "808497",
       "image_id": "98749",
@@ -107255,12 +107255,12 @@
       "skill_line_id": "18214",
       "skill_points": "0",
       "skill_category_id": "195",
-      "skill_category_index": "0",
+      "skill_category_index": "1",
       "name": {
         "en": "Hanging Munition"
       },
       "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "image_set_id": "808497",
       "image_id": "98749",
@@ -107270,12 +107270,12 @@
       "skill_line_id": "18215",
       "skill_points": "0",
       "skill_category_id": "4203",
-      "skill_category_index": "0",
+      "skill_category_index": "1",
       "name": {
         "en": "Hanging Munition"
       },
       "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "image_set_id": "808497",
       "image_id": "98749",
@@ -107285,12 +107285,12 @@
       "skill_line_id": "18216",
       "skill_points": "0",
       "skill_category_id": "194",
-      "skill_category_index": "0",
+      "skill_category_index": "1",
       "name": {
         "en": "Hanging Munition"
       },
       "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "image_set_id": "808497",
       "image_id": "98749",
@@ -107367,9 +107367,9 @@
       "description": {
         "en": "A remote control aerial drone that can be used to spot enemy forces."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_line_id": "18222",
@@ -107382,9 +107382,9 @@
       "description": {
         "en": "A remote control aerial drone that can be used to spot enemy forces."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_line_id": "18223",
@@ -107397,9 +107397,9 @@
       "description": {
         "en": "A remote control aerial drone that can be used to spot enemy forces."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_line_id": "18224",
@@ -107412,9 +107412,9 @@
       "description": {
         "en": "A remote control aerial drone that can be used to spot enemy forces."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_line_id": "18225",
@@ -107424,12 +107424,56 @@
         "en": "Observer"
       },
       "description": {
-        "en": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets with a 3-second delay."
+        "en": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets."
       },
       "image_set_id": "808500",
       "image_id": "98758",
       "image_path": "/files/ps2/images/static/98758.png"
+    },
+    {
+      "skill_line_id": "18226",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Sharing Is Caring"
+      },
+      "description": {
+        "en": "Engineer with this implant transfers his shield to his allies in a squad, making their shields stronger."
+      },
+      "image_set_id": "808548",
+      "image_id": "98905",
+      "image_path": "/files/ps2/images/static/98905.png"
+    },
+    {
+      "skill_line_id": "18227",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "skill_category_index": "1",
+      "name": {
+        "en": "Hospitaller"
+      },
+      "description": {
+        "en": "While reviving a fallen ally, the Combat Medic's personal shield capacity is extended by 200."
+      },
+      "image_set_id": "808547",
+      "image_id": "98902",
+      "image_path": "/files/ps2/images/static/98902.png"
+    },
+    {
+      "skill_line_id": "18228",
+      "skill_points": "0",
+      "skill_category_id": "16432",
+      "name": {
+        "en": "Remote Hacking"
+      },
+      "description": {
+        "en": "Remote Hacking Implant allows the Infiltrator to use the Recon Drone for hacking by establishing additional connection protocols."
+      },
+      "image_set_id": "808596",
+      "image_id": "99048",
+      "image_path": "/files/ps2/images/static/99048.png"
     }
   ],
-  "returned": 7361
+  "returned": 7364
 }

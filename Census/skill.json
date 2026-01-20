@@ -156981,7 +156981,7 @@
         "en": "Recon Detection Device 1"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "image_set_id": "1",
       "image_id": "35",
@@ -156996,7 +156996,7 @@
         "en": "Recon Detection Device 1"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "image_set_id": "1",
       "image_id": "35",
@@ -157011,7 +157011,7 @@
         "en": "Recon Detection Device 1"
       },
       "description": {
-        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "image_set_id": "1",
       "image_id": "35",
@@ -164496,7 +164496,7 @@
         "en": "Motion Spotter 1"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, two can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164511,7 +164511,7 @@
         "en": "Motion Spotter 2"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164526,7 +164526,7 @@
         "en": "Motion Spotter 3"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164541,7 +164541,7 @@
         "en": "Motion Spotter 4"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, four can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, two can be carried."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164556,7 +164556,7 @@
         "en": "Motion Spotter 5"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, five can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, three can be carried."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164571,7 +164571,7 @@
         "en": "Motion Spotter 1"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, two can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164586,7 +164586,7 @@
         "en": "Motion Spotter 2"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164601,7 +164601,7 @@
         "en": "Motion Spotter 3"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164616,7 +164616,7 @@
         "en": "Motion Spotter 4"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, four can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, two can be carried."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164631,7 +164631,7 @@
         "en": "Motion Spotter 5"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, five can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, three can be carried."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164646,7 +164646,7 @@
         "en": "Motion Spotter 1"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, two can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164661,7 +164661,7 @@
         "en": "Motion Spotter 2"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164676,7 +164676,7 @@
         "en": "Motion Spotter 3"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, three can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164691,7 +164691,7 @@
         "en": "Motion Spotter 4"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, four can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, two can be carried."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -164706,7 +164706,7 @@
         "en": "Motion Spotter 5"
       },
       "description": {
-        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, five can be carried."
+        "en": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, three can be carried."
       },
       "image_set_id": "13123",
       "image_id": "13545",
@@ -237246,27 +237246,12 @@
       "skill_id": "28511",
       "skill_line_id": "18213",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "1000",
       "name": {
         "en": "Hanging Munition 1"
       },
       "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
-      },
-      "image_set_id": "808497",
-      "image_id": "98749",
-      "image_path": "/files/ps2/images/static/98749.png"
-    },
-    {
-      "skill_id": "28518",
-      "skill_line_id": "18214",
-      "skill_line_index": "0",
-      "skill_points": "0",
-      "name": {
-        "en": "Hanging Munition 1"
-      },
-      "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "image_set_id": "808497",
       "image_id": "98749",
@@ -237276,12 +237261,12 @@
       "skill_id": "28523",
       "skill_line_id": "18215",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "1000",
       "name": {
         "en": "Hanging Munition 1"
       },
       "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "image_set_id": "808497",
       "image_id": "98749",
@@ -237291,12 +237276,12 @@
       "skill_id": "28530",
       "skill_line_id": "18216",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "1000",
       "name": {
         "en": "Hanging Munition 1"
       },
       "description": {
-        "en": "Allows the operator to hang various types of munitions on the drone and control their release."
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
       },
       "image_set_id": "808497",
       "image_id": "98749",
@@ -237306,7 +237291,7 @@
       "skill_id": "28537",
       "skill_line_id": "18217",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "30",
       "name": {
         "en": "Advanced Sensors System 1"
       },
@@ -237378,31 +237363,19 @@
       "image_path": "/files/ps2/images/static/98752.png"
     },
     {
-      "skill_id": "28542",
-      "skill_line_id": "18217",
-      "skill_line_index": "5",
-      "skill_points": "1000",
-      "name": {
-        "en": "Advanced Sensors System 6"
-      },
-      "description": {
-        "en": "Installs improved chipsets on the Recon Drone to be able to track marked enemies even if they use cloaking technology after being spotted."
-      },
-      "image_set_id": "808498",
-      "image_id": "98752",
-      "image_path": "/files/ps2/images/static/98752.png"
-    },
-    {
       "skill_id": "28543",
       "skill_line_id": "18218",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "30",
       "name": {
         "en": "Advanced Sensors System 1"
       },
       "description": {
         "en": "Installs a reconnaissance module and improves the drone hardware to increase enemies tracking time up to 14 seconds."
-      }
+      },
+      "image_set_id": "808498",
+      "image_id": "98752",
+      "image_path": "/files/ps2/images/static/98752.png"
     },
     {
       "skill_id": "28544",
@@ -237453,22 +237426,10 @@
       }
     },
     {
-      "skill_id": "28548",
-      "skill_line_id": "18218",
-      "skill_line_index": "5",
-      "skill_points": "1000",
-      "name": {
-        "en": "Advanced Sensors System 6"
-      },
-      "description": {
-        "en": "Installs improved chipsets on the Recon Drone to be able to track marked enemies even if they use cloaking technology after being spotted."
-      }
-    },
-    {
       "skill_id": "28549",
       "skill_line_id": "18219",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "30",
       "name": {
         "en": "Advanced Sensors System 1"
       },
@@ -237540,25 +237501,10 @@
       "image_path": "/files/ps2/images/static/98752.png"
     },
     {
-      "skill_id": "28554",
-      "skill_line_id": "18219",
-      "skill_line_index": "5",
-      "skill_points": "1000",
-      "name": {
-        "en": "Advanced Sensors System 6"
-      },
-      "description": {
-        "en": "Installs improved chipsets on the Recon Drone to be able to track marked enemies even if they use cloaking technology after being spotted."
-      },
-      "image_set_id": "808498",
-      "image_id": "98752",
-      "image_path": "/files/ps2/images/static/98752.png"
-    },
-    {
       "skill_id": "28555",
       "skill_line_id": "18220",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "30",
       "name": {
         "en": "Advanced Sensors System 1"
       },
@@ -237630,34 +237576,19 @@
       "image_path": "/files/ps2/images/static/98752.png"
     },
     {
-      "skill_id": "28560",
-      "skill_line_id": "18220",
-      "skill_line_index": "5",
-      "skill_points": "1000",
-      "name": {
-        "en": "Advanced Sensors System 6"
-      },
-      "description": {
-        "en": "Installs improved chipsets on the Recon Drone to be able to track marked enemies even if they use cloaking technology after being spotted."
-      },
-      "image_set_id": "808498",
-      "image_id": "98752",
-      "image_path": "/files/ps2/images/static/98752.png"
-    },
-    {
       "skill_id": "28561",
       "skill_line_id": "18221",
       "skill_line_index": "0",
-      "skill_points": "30",
+      "skill_points": "100",
       "name": {
         "en": "Recon Drone 1"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 60 meters. The recon drone's battery life is 40 seconds. "
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 90 meters. The recon drone's battery life is 60 seconds. "
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28562",
@@ -237668,11 +237599,11 @@
         "en": "Recon Drone 2"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 80 meters and a 40-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 80-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28563",
@@ -237683,11 +237614,11 @@
         "en": "Recon Drone 3"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 60-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 150 meters and a 100-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28564",
@@ -237698,26 +237629,26 @@
         "en": "Recon Drone 4"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 160 meters and a 120-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 200 meters and a 140-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28566",
       "skill_line_id": "18222",
       "skill_line_index": "0",
-      "skill_points": "30",
+      "skill_points": "100",
       "name": {
         "en": "Recon Drone 1"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 60 meters. The recon drone's battery life is 40 seconds. "
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 90 meters. The recon drone's battery life is 60 seconds. "
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28567",
@@ -237728,11 +237659,11 @@
         "en": "Recon Drone 2"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 80 meters and a 40-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 80-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28568",
@@ -237743,11 +237674,11 @@
         "en": "Recon Drone 3"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 60-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 150 meters and a 100-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28569",
@@ -237758,26 +237689,26 @@
         "en": "Recon Drone 4"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 160 meters and a 120-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 200 meters and a 140-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28571",
       "skill_line_id": "18223",
       "skill_line_index": "0",
-      "skill_points": "30",
+      "skill_points": "100",
       "name": {
         "en": "Recon Drone 1"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 60 meters. The recon drone's battery life is 40 seconds. "
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 90 meters. The recon drone's battery life is 60 seconds. "
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28572",
@@ -237788,11 +237719,11 @@
         "en": "Recon Drone 2"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 80 meters and a 40-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 80-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28573",
@@ -237803,11 +237734,11 @@
         "en": "Recon Drone 3"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 60-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 150 meters and a 100-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28574",
@@ -237818,26 +237749,26 @@
         "en": "Recon Drone 4"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 160 meters and a 120-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 200 meters and a 140-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28576",
       "skill_line_id": "18224",
       "skill_line_index": "0",
-      "skill_points": "30",
+      "skill_points": "100",
       "name": {
         "en": "Recon Drone 1"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 60 meters. The recon drone's battery life is 40 seconds. "
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 90 meters. The recon drone's battery life is 60 seconds. "
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28577",
@@ -237848,11 +237779,11 @@
         "en": "Recon Drone 2"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 80 meters and a 40-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 80-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28578",
@@ -237863,11 +237794,11 @@
         "en": "Recon Drone 3"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 60-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 150 meters and a 100-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28579",
@@ -237878,27 +237809,145 @@
         "en": "Recon Drone 4"
       },
       "description": {
-        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 160 meters and a 120-second battery lifetime."
+        "en": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 200 meters and a 140-second battery lifetime."
       },
-      "image_set_id": "808499",
-      "image_id": "98753",
-      "image_path": "/files/ps2/images/static/98753.png"
+      "image_set_id": "808557",
+      "image_id": "98936",
+      "image_path": "/files/ps2/images/static/98936.png"
     },
     {
       "skill_id": "28581",
       "skill_line_id": "18225",
       "skill_line_index": "0",
-      "skill_points": "0",
+      "skill_points": "45000",
       "name": {
         "en": "Observer"
       },
       "description": {
-        "en": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets with a 3-second delay."
+        "en": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets."
       },
       "image_set_id": "808500",
       "image_id": "98758",
       "image_path": "/files/ps2/images/static/98758.png"
+    },
+    {
+      "skill_id": "28583",
+      "skill_line_id": "18226",
+      "skill_line_index": "0",
+      "skill_points": "500",
+      "name": {
+        "en": "Sharing Is Caring 1"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 60."
+      },
+      "image_set_id": "808548",
+      "image_id": "98905",
+      "image_path": "/files/ps2/images/static/98905.png"
+    },
+    {
+      "skill_id": "28584",
+      "skill_line_id": "18226",
+      "skill_line_index": "1",
+      "skill_points": "75",
+      "name": {
+        "en": "Sharing Is Caring 2"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 80."
+      },
+      "image_set_id": "808549",
+      "image_id": "98908",
+      "image_path": "/files/ps2/images/static/98908.png"
+    },
+    {
+      "skill_id": "28585",
+      "skill_line_id": "18226",
+      "skill_line_index": "2",
+      "skill_points": "225",
+      "name": {
+        "en": "Sharing Is Caring 3"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 100."
+      },
+      "image_set_id": "808550",
+      "image_id": "98911",
+      "image_path": "/files/ps2/images/static/98911.png"
+    },
+    {
+      "skill_id": "28586",
+      "skill_line_id": "18226",
+      "skill_line_index": "3",
+      "skill_points": "900",
+      "name": {
+        "en": "Sharing Is Caring 4"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 140."
+      },
+      "image_set_id": "808551",
+      "image_id": "98914",
+      "image_path": "/files/ps2/images/static/98914.png"
+    },
+    {
+      "skill_id": "28587",
+      "skill_line_id": "18226",
+      "skill_line_index": "4",
+      "skill_points": "2475",
+      "name": {
+        "en": "Sharing Is Caring 5"
+      },
+      "description": {
+        "en": "An engineer with this implant can transfer his shield to his allies in a squad up to 60 meters. Squad member shield increases by 200."
+      },
+      "image_set_id": "808552",
+      "image_id": "98917",
+      "image_path": "/files/ps2/images/static/98917.png"
+    },
+    {
+      "skill_id": "28588",
+      "skill_line_id": "18227",
+      "skill_line_index": "0",
+      "skill_points": "45000",
+      "name": {
+        "en": "Hospitaller"
+      },
+      "description": {
+        "en": "While reviving a fallen ally, the Combat Medic's personal shield capacity is extended by 200."
+      },
+      "image_set_id": "808547",
+      "image_id": "98902",
+      "image_path": "/files/ps2/images/static/98902.png"
+    },
+    {
+      "skill_id": "28594",
+      "skill_line_id": "18228",
+      "skill_line_index": "0",
+      "skill_points": "45000",
+      "name": {
+        "en": "Remote Hacking"
+      },
+      "description": {
+        "en": "Remote Hacking Implant allows the Infiltrator to use the Recon Drone for hacking by establishing additional connection protocols."
+      },
+      "image_set_id": "808584"
+    },
+    {
+      "skill_id": "28595",
+      "skill_line_id": "18214",
+      "skill_line_index": "0",
+      "skill_points": "1000",
+      "name": {
+        "en": "Hanging Munition"
+      },
+      "description": {
+        "en": "Allows the operator to hang a grenade from the operator's loadout on the drone and control their release."
+      },
+      "image_set_id": "808497",
+      "image_id": "98749",
+      "image_path": "/files/ps2/images/static/98749.png"
     }
   ],
-  "returned": 17955
+  "returned": 17958
 }

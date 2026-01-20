@@ -79805,7 +79805,791 @@
       "image_set_id": "804410",
       "image_id": "89259",
       "image_path": "/files/ps2/images/static/89259.png"
+    },
+    {
+      "directive_id": "6664",
+      "directive_tree_id": "157",
+      "directive_tier_id": "3",
+      "objective_set_id": "10758",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "6665",
+      "directive_tree_id": "157",
+      "directive_tier_id": "4",
+      "objective_set_id": "10759",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "6666",
+      "directive_tree_id": "157",
+      "directive_tier_id": "2",
+      "objective_set_id": "10760",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Slashing Pumpkins"
+      },
+      "description": {
+        "en": "Destroy Space Pumpkins and Galact-O-Lanterns."
+      },
+      "image_set_id": "82824",
+      "image_id": "80690",
+      "image_path": "/files/ps2/images/static/80690.png"
+    },
+    {
+      "directive_id": "6667",
+      "directive_tree_id": "157",
+      "directive_tier_id": "1",
+      "objective_set_id": "10761",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Trick-or-Treat (Reese)"
+      },
+      "description": {
+        "en": "Speak to Officer Reese in the western stairway on Sanctuary."
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6668",
+      "directive_tree_id": "157",
+      "directive_tier_id": "1",
+      "objective_set_id": "10762",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Trick-or-Treat (Nalla)"
+      },
+      "description": {
+        "en": "Speak to Representative Nalla at the Nascent Expedition kiosk in the Atrium on Sanctuary"
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6669",
+      "directive_tree_id": "157",
+      "directive_tier_id": "1",
+      "objective_set_id": "10763",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Trick-or-Treat (FL-34)"
+      },
+      "description": {
+        "en": "Speak to FL-34 at the Black Market on Sanctuary"
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6670",
+      "directive_tree_id": "157",
+      "directive_tier_id": "1",
+      "objective_set_id": "10764",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Trick-or-Treat (Emerson)"
+      },
+      "description": {
+        "en": "Speak to Facilitator Emerson on the Observation Deck on Sanctuary."
+      },
+      "image_set_id": "82826",
+      "image_id": "80692",
+      "image_path": "/files/ps2/images/static/80692.png"
+    },
+    {
+      "directive_id": "6671",
+      "directive_tree_id": "157",
+      "directive_tier_id": "2",
+      "objective_set_id": "10765",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "6672",
+      "directive_tree_id": "157",
+      "directive_tier_id": "3",
+      "objective_set_id": "10766",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "6673",
+      "directive_tree_id": "157",
+      "directive_tier_id": "4",
+      "objective_set_id": "10767",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Masked Murder"
+      },
+      "description": {
+        "en": "Kill enemies while wearing a Halloween mask."
+      },
+      "image_set_id": "82828",
+      "image_id": "80694",
+      "image_path": "/files/ps2/images/static/80694.png"
+    },
+    {
+      "directive_id": "6674",
+      "directive_tree_id": "157",
+      "directive_tier_id": "2",
+      "objective_set_id": "10768",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "6675",
+      "directive_tree_id": "157",
+      "directive_tier_id": "4",
+      "objective_set_id": "10769",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "6676",
+      "directive_tree_id": "157",
+      "directive_tier_id": "3",
+      "objective_set_id": "10770",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Witchy Ways"
+      },
+      "description": {
+        "en": "Earn heal, resupply, or repair experience."
+      },
+      "image_set_id": "804569",
+      "image_id": "89659",
+      "image_path": "/files/ps2/images/static/89659.png"
+    },
+    {
+      "directive_id": "6677",
+      "directive_tree_id": "157",
+      "directive_tier_id": "2",
+      "objective_set_id": "10771",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "6678",
+      "directive_tree_id": "157",
+      "directive_tier_id": "3",
+      "objective_set_id": "10772",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "6679",
+      "directive_tree_id": "157",
+      "directive_tier_id": "4",
+      "objective_set_id": "10773",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Silver for Monsters"
+      },
+      "description": {
+        "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint."
+      },
+      "image_set_id": "82825",
+      "image_id": "80691",
+      "image_path": "/files/ps2/images/static/80691.png"
+    },
+    {
+      "directive_id": "6680",
+      "directive_tree_id": "157",
+      "directive_tier_id": "2",
+      "objective_set_id": "10774",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "6681",
+      "directive_tree_id": "157",
+      "directive_tier_id": "3",
+      "objective_set_id": "10775",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "6682",
+      "directive_tree_id": "157",
+      "directive_tier_id": "4",
+      "objective_set_id": "10776",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Necromancer"
+      },
+      "description": {
+        "en": "Revive fallen allies."
+      },
+      "image_set_id": "804084",
+      "image_id": "88310",
+      "image_path": "/files/ps2/images/static/88310.png"
+    },
+    {
+      "directive_id": "6683",
+      "directive_tree_id": "157",
+      "directive_tier_id": "2",
+      "objective_set_id": "10777",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "6684",
+      "directive_tree_id": "157",
+      "directive_tier_id": "3",
+      "objective_set_id": "10778",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "6685",
+      "directive_tree_id": "157",
+      "directive_tier_id": "4",
+      "objective_set_id": "10779",
+      "qualify_requirement_id": "48915",
+      "name": {
+        "en": "Ghost Ship"
+      },
+      "description": {
+        "en": "Complete the Lost Fleet alert."
+      },
+      "image_set_id": "14137",
+      "image_id": "79560",
+      "image_path": "/files/ps2/images/static/79560.png"
+    },
+    {
+      "directive_id": "6686",
+      "directive_tree_id": "145",
+      "directive_tier_id": "2",
+      "objective_set_id": "10782",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "60 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "directive_id": "6687",
+      "directive_tree_id": "145",
+      "directive_tier_id": "3",
+      "objective_set_id": "10783",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "160 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "directive_id": "6688",
+      "directive_tree_id": "145",
+      "directive_tier_id": "4",
+      "objective_set_id": "10784",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "1160 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "directive_id": "6689",
+      "directive_tree_id": "145",
+      "directive_tier_id": "1",
+      "objective_set_id": "10785",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "directive_id": "6690",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10786",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6691",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10787",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6692",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10788",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6693",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10789",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6694",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10790",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6695",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10791",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6696",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10792",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6697",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10793",
+      "name": {
+        "en": "Auraximas Cheer"
+      },
+      "description": {
+        "en": "Complete daily Auraximas missions."
+      },
+      "image_set_id": "93051",
+      "image_id": "81993",
+      "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+      "directive_id": "6698",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10794"
+    },
+    {
+      "directive_id": "6699",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10795"
+    },
+    {
+      "directive_id": "6700",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10796"
+    },
+    {
+      "directive_id": "6701",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10797"
+    },
+    {
+      "directive_id": "6702",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10798",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6703",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10799",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6704",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10800",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6705",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10801",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6706",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10802",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6707",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10803",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6708",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10804",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6709",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10805",
+      "qualify_requirement_id": "3451"
+    },
+    {
+      "directive_id": "6710",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10806"
+    },
+    {
+      "directive_id": "6711",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10807"
+    },
+    {
+      "directive_id": "6712",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10808"
+    },
+    {
+      "directive_id": "6713",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10809"
+    },
+    {
+      "directive_id": "6714",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10810",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "6715",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10811",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "6716",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10812",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+      "directive_id": "6717",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10813",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6718",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10814",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6719",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10815",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6720",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10816",
+      "name": {
+        "en": "Toil and Trouble"
+      },
+      "description": {
+        "en": "Earn resupply experience"
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6721",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10817",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6722",
+      "directive_tree_id": "158",
+      "directive_tier_id": "2",
+      "objective_set_id": "10818",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6723",
+      "directive_tree_id": "158",
+      "directive_tier_id": "3",
+      "objective_set_id": "10819",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6724",
+      "directive_tree_id": "158",
+      "directive_tier_id": "4",
+      "objective_set_id": "10820",
+      "name": {
+        "en": "Helping Hand"
+      },
+      "description": {
+        "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability."
+      },
+      "image_set_id": "93043",
+      "image_id": "81977",
+      "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+      "directive_id": "6725",
+      "directive_tree_id": "158",
+      "directive_tier_id": "1",
+      "objective_set_id": "10821",
+      "name": {
+        "en": "Tour Guide"
+      },
+      "description": {
+        "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive."
+      },
+      "image_set_id": "14062",
+      "image_id": "79485",
+      "image_path": "/files/ps2/images/static/79485.png"
     }
   ],
-  "returned": 5264
+  "returned": 5326
 }

@@ -11155,7 +11155,7 @@
     {
       "ability_id": "26597",
       "ability_type_id": "12",
-      "reuse_delay_msec": "500",
+      "reuse_delay_msec": "3000",
       "flag_toggle": "0"
     },
     {
@@ -17145,11 +17145,6 @@
       "ability_id": "1111382",
       "ability_type_id": "12",
       "reuse_delay_msec": "8000",
-      "flag_toggle": "0"
-    },
-    {
-      "ability_id": "1111390",
-      "ability_type_id": "3",
       "flag_toggle": "0"
     },
     {
@@ -33804,6 +33799,11 @@
       "param14": "0"
     },
     {
+      "ability_id": "1117992",
+      "ability_type_id": "6",
+      "flag_toggle": "1"
+    },
+    {
       "ability_id": "1117993",
       "ability_type_id": "12",
       "reuse_delay_msec": "8000",
@@ -33836,6 +33836,41 @@
       "flag_toggle": "0"
     },
     {
+      "ability_id": "1118006",
+      "ability_type_id": "6",
+      "reuse_delay_msec": "100",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118007",
+      "ability_type_id": "6",
+      "reuse_delay_msec": "100",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118008",
+      "ability_type_id": "6",
+      "reuse_delay_msec": "100",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118009",
+      "ability_type_id": "6",
+      "reuse_delay_msec": "100",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118010",
+      "ability_type_id": "6",
+      "reuse_delay_msec": "100",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118019",
+      "ability_type_id": "6",
+      "flag_toggle": "0"
+    },
+    {
       "ability_id": "1118020",
       "ability_type_id": "12",
       "reuse_delay_msec": "8000",
@@ -33848,11 +33883,408 @@
       "flag_toggle": "0"
     },
     {
+      "ability_id": "1118026",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
       "ability_id": "1118027",
       "ability_type_id": "12",
       "reuse_delay_msec": "8000",
       "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118028",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118029",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118030",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118033",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118034",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118035",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118039",
+      "ability_type_id": "6",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118052",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118053",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118054",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118055",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118056",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118057",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118058",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118059",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118060",
+      "ability_type_id": "3",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118061",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "8000",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118062",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "8000",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118063",
+      "ability_type_id": "10",
+      "distance_max": "60",
+      "radius_max": "60",
+      "flag_toggle": "0",
+      "param1": "1",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118064",
+      "ability_type_id": "10",
+      "distance_max": "60",
+      "radius_max": "60",
+      "flag_toggle": "0",
+      "param1": "1",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118065",
+      "ability_type_id": "10",
+      "distance_max": "60",
+      "radius_max": "60",
+      "flag_toggle": "0",
+      "param1": "1",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118066",
+      "ability_type_id": "10",
+      "distance_max": "60",
+      "radius_max": "60",
+      "flag_toggle": "0",
+      "param1": "1",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118067",
+      "ability_type_id": "10",
+      "distance_max": "60",
+      "radius_max": "60",
+      "flag_toggle": "0",
+      "param1": "1",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118068",
+      "ability_type_id": "12",
+      "reuse_delay_msec": "8000",
+      "flag_toggle": "0"
+    },
+    {
+      "ability_id": "1118069",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118070",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118071",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118072",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118073",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118074",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
+    },
+    {
+      "ability_id": "1118075",
+      "ability_type_id": "3",
+      "flag_toggle": "0",
+      "param1": "0",
+      "param2": "0",
+      "param3": "0",
+      "param4": "0",
+      "param5": "0",
+      "param6": "0",
+      "param7": "0",
+      "param8": "0",
+      "param9": "0",
+      "param10": "0",
+      "param11": "0",
+      "param12": "0",
+      "param13": "0",
+      "param14": "0"
     }
   ],
-  "returned": 5427
+  "returned": 5465
 }

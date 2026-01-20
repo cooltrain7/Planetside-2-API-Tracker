@@ -90616,7 +90616,7 @@
     {
       "marketing_bundle_id": "12173",
       "name": {
-        "en": "Flash Wolf Horn"
+        "en": "Flash Wolfpack Horn"
       },
       "description": {
         "en": "Harness the Spirit of Wolf on your Flash with this howling Wolf Horn."
@@ -127510,42 +127510,6 @@
       "release_time": "1440525761"
     },
     {
-      "marketing_bundle_id": "805676",
-      "name": {
-        "en": "Fanged Skull Bandana"
-      },
-      "description": {
-        "en": "What frightful engine of horror and despair lurks beneath this skull themed bandana?! Just the rest of your face, calm down. Provides a +10% xp bonus when worn during the annual Halloween Event."
-      },
-      "image_id": "802787",
-      "station_cash_price": "0",
-      "release_time": "1569913200"
-    },
-    {
-      "marketing_bundle_id": "805677",
-      "name": {
-        "en": "Full Skull Bandana"
-      },
-      "description": {
-        "en": "What frightful engine of horror and despair lurks beneath this skull themed bandana?! Just the rest of your face, calm down. Provides a +10% xp bonus when worn during the annual Halloween Event."
-      },
-      "image_id": "802786",
-      "station_cash_price": "0",
-      "release_time": "1569913200"
-    },
-    {
-      "marketing_bundle_id": "805678",
-      "name": {
-        "en": "Busted Skull Bandana"
-      },
-      "description": {
-        "en": "What frightful engine of horror and despair lurks beneath this skull themed bandana?! Just the rest of your face, calm down. Provides a +10% xp bonus when worn during the annual Halloween Event."
-      },
-      "image_id": "802785",
-      "station_cash_price": "0",
-      "release_time": "1569913200"
-    },
-    {
       "marketing_bundle_id": "805679",
       "name": {
         "en": "Lumifiber Skull Helmet"
@@ -138177,7 +138141,7 @@
         "en": "Gold Tool + Title Promo Bundle"
       },
       "description": {
-        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds."
+        "en": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds."
       },
       "image_id": "803349",
       "station_cash_price": "0",
@@ -200893,6 +200857,45 @@
       "release_time": "1665385220"
     },
     {
+      "marketing_bundle_id": "813188",
+      "name": {
+        "en": "November Members Bundle I"
+      },
+      "description": {
+        "en": "Snag these Member Only cosmetics for your character! Available all through November! (Previous Amazon Prime Rewards)"
+      },
+      "image_id": "807295",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1761984020"
+    },
+    {
+      "marketing_bundle_id": "813189",
+      "name": {
+        "en": "December Members Bundle I"
+      },
+      "description": {
+        "en": "Snag these Member Only cosmetics for your character! Available all through December! (Previous Amazon Prime Rewards)"
+      },
+      "image_id": "807295",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1764576000"
+    },
+    {
+      "marketing_bundle_id": "813190",
+      "name": {
+        "en": "January Members Bundle I"
+      },
+      "description": {
+        "en": "Snag these Member Only cosmetics for your character! Available all through January! (Previous Amazon Prime Rewards)"
+      },
+      "image_id": "807295",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1767254420"
+    },
+    {
       "marketing_bundle_id": "813195",
       "name": {
         "en": "June Members Bundle I"
@@ -200943,6 +200946,19 @@
       "station_cash_price": "0",
       "cert_price": "10",
       "release_time": "1756710020"
+    },
+    {
+      "marketing_bundle_id": "813199",
+      "name": {
+        "en": "October Members Bundle I"
+      },
+      "description": {
+        "en": "Snag these Member Only cosmetics for your character! Available all through October! (Previous Amazon Prime Rewards)"
+      },
+      "image_id": "807295",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1759302020"
     },
     {
       "marketing_bundle_id": "813208",
@@ -203386,7 +203402,7 @@
         "en": "Narrow Bulwark Wall"
       },
       "description": {
-        "en": "Constructs a narrow bulwark wall that can be used by infantry units."
+        "en": "Constructs a narrow bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item."
       },
       "image_id": "807619",
       "station_cash_price": "0",
@@ -203412,7 +203428,7 @@
         "en": "Wide Bulwark Wall"
       },
       "description": {
-        "en": "Constructs a wide bulwark wall that can be used by infantry units."
+        "en": "Constructs a wide bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item."
       },
       "image_id": "807620",
       "station_cash_price": "0",
@@ -203425,7 +203441,7 @@
         "en": "Wide Bulwark Wall"
       },
       "description": {
-        "en": "Allows cortium to be used to create a wide bulwark wall that can be used by infantry units."
+        "en": "Allows cortium to be used to create a wide bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item."
       },
       "image_id": "807620",
       "station_cash_price": "0",
@@ -205930,16 +205946,16 @@
       "release_time": "1707238305"
     },
     {
-      "marketing_bundle_id": "813725",
+      "marketing_bundle_id": "813726",
       "name": {
-        "en": "Directive Bundle:  Valentine's Day 2024"
+        "en": "Directive Bundle:  Nanite of the Living Dead 2023"
       },
       "description": {
-        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!<br><br><font color=\"#dc9c36\">(Only Daybreak Cash purchases are account-wide).</font>"
       },
-      "image_id": "808382",
+      "image_id": "808238",
       "station_cash_price": "0",
-      "release_time": "1739260800"
+      "release_time": "1759302059"
     },
     {
       "marketing_bundle_id": "813727",
@@ -206740,30 +206756,6 @@
       "release_time": "1722495600"
     },
     {
-      "marketing_bundle_id": "813791",
-      "name": {
-        "en": "Directive Bundle:  Tides of Summer Alpha 2023"
-      },
-      "description": {
-        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!"
-      },
-      "image_id": "807754",
-      "station_cash_price": "0",
-      "release_time": "1751396424"
-    },
-    {
-      "marketing_bundle_id": "813792",
-      "name": {
-        "en": "Directive Bundle:  Tides of Summer Alpha 2024"
-      },
-      "description": {
-        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
-      },
-      "image_id": "808486",
-      "station_cash_price": "0",
-      "release_time": "1751369304"
-    },
-    {
       "marketing_bundle_id": "813796",
       "name": {
         "en": "NiCO XR (2x) - Chevron"
@@ -206966,18 +206958,6 @@
       "image_id": "808102",
       "station_cash_price": "0",
       "release_time": "1720530460"
-    },
-    {
-      "marketing_bundle_id": "813813",
-      "name": {
-        "en": "Directive Bundle:  Tides of Summer Bravo 2024"
-      },
-      "description": {
-        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
-      },
-      "image_id": "808515",
-      "station_cash_price": "0",
-      "release_time": "1754074820"
     },
     {
       "marketing_bundle_id": "813814",
@@ -207998,6 +207978,18 @@
       "image_id": "808222",
       "station_cash_price": "0",
       "release_time": "1465755540"
+    },
+    {
+      "marketing_bundle_id": "813906",
+      "name": {
+        "en": "Directive Bundle:  Nanite of the Living Dead 2024"
+      },
+      "description": {
+        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808529",
+      "station_cash_price": "0",
+      "release_time": "1759302059"
     },
     {
       "marketing_bundle_id": "813907",
@@ -209033,6 +209025,162 @@
       "release_time": "1747119632"
     },
     {
+      "marketing_bundle_id": "814022",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only."
+      },
+      "image_id": "808330",
+      "station_cash_price": "1000",
+      "release_time": "1749798000"
+    },
+    {
+      "marketing_bundle_id": "814023",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only."
+      },
+      "image_id": "808331",
+      "station_cash_price": "1000",
+      "release_time": "1749798000"
+    },
+    {
+      "marketing_bundle_id": "814024",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only."
+      },
+      "image_id": "808329",
+      "station_cash_price": "1000",
+      "release_time": "1749798000"
+    },
+    {
+      "marketing_bundle_id": "814025",
+      "name": {
+        "en": "Lunar Serpent Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only."
+      },
+      "image_id": "808328",
+      "station_cash_price": "1000",
+      "release_time": "1749798000"
+    },
+    {
+      "marketing_bundle_id": "814026",
+      "name": {
+        "en": "Grey Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "8578",
+      "station_cash_price": "1000",
+      "release_time": "1749798000"
+    },
+    {
+      "marketing_bundle_id": "814027",
+      "name": {
+        "en": "Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "8576",
+      "station_cash_price": "500",
+      "release_time": "1749798000"
+    },
+    {
+      "marketing_bundle_id": "814028",
+      "name": {
+        "en": "Desert Zebra Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13208",
+      "station_cash_price": "500",
+      "release_time": "1749798000"
+    },
+    {
+      "marketing_bundle_id": "814029",
+      "name": {
+        "en": "Snowstorm Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13207",
+      "station_cash_price": "500",
+      "release_time": "1749794400"
+    },
+    {
+      "marketing_bundle_id": "814030",
+      "name": {
+        "en": "Dry Lake Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13206",
+      "station_cash_price": "500",
+      "release_time": "1749794400"
+    },
+    {
+      "marketing_bundle_id": "814031",
+      "name": {
+        "en": "Starscape Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808050",
+      "station_cash_price": "0",
+      "release_time": "1751958024"
+    },
+    {
+      "marketing_bundle_id": "814032",
+      "name": {
+        "en": "Starscape Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808051",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814033",
+      "name": {
+        "en": "Starscape Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808049",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814034",
+      "name": {
+        "en": "Starscape Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808052",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
       "marketing_bundle_id": "814035",
       "name": {
         "en": "Buoyant Tires"
@@ -209067,6 +209215,54 @@
       "image_id": "808479",
       "station_cash_price": "100",
       "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814038",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808474",
+      "station_cash_price": "1000",
+      "release_time": "1751353200"
+    },
+    {
+      "marketing_bundle_id": "814039",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808475",
+      "station_cash_price": "1000",
+      "release_time": "1751353200"
+    },
+    {
+      "marketing_bundle_id": "814040",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808477",
+      "station_cash_price": "1000",
+      "release_time": "1751353200"
+    },
+    {
+      "marketing_bundle_id": "814041",
+      "name": {
+        "en": "Oshuri Shirt Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808476",
+      "station_cash_price": "1000",
+      "release_time": "1751353200"
     },
     {
       "marketing_bundle_id": "814042",
@@ -209249,6 +209445,54 @@
       "release_time": "1754377200"
     },
     {
+      "marketing_bundle_id": "814058",
+      "name": {
+        "en": "Blue Decofin Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808505",
+      "station_cash_price": "0",
+      "release_time": "1751958024"
+    },
+    {
+      "marketing_bundle_id": "814059",
+      "name": {
+        "en": "Red Decofin Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808506",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814060",
+      "name": {
+        "en": "Purple Decofin Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808504",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814061",
+      "name": {
+        "en": "Grey Decofin Scales Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808503",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
       "marketing_bundle_id": "814062",
       "name": {
         "en": "Distinguished Tester Bundle"
@@ -209295,7 +209539,1074 @@
       "image_id": "1574",
       "station_cash_price": "420000",
       "release_time": "1756710000"
+    },
+    {
+      "marketing_bundle_id": "814070",
+      "name": {
+        "en": "Chimera Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Chimera. NSO use only."
+      },
+      "image_id": "808524",
+      "station_cash_price": "0",
+      "release_time": "1759302037"
+    },
+    {
+      "marketing_bundle_id": "814072",
+      "name": {
+        "en": "Chimera Witch Horn"
+      },
+      "description": {
+        "en": "Announce your coven's arrival with this cackling Witch horn. All factions can use this item."
+      },
+      "image_id": "82846",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814073",
+      "name": {
+        "en": "Dervish Witch Horn"
+      },
+      "description": {
+        "en": "Announce your coven's arrival with this cackling Witch horn. All factions can use this item."
+      },
+      "image_id": "82846",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814074",
+      "name": {
+        "en": "Javelin Witch Horn"
+      },
+      "description": {
+        "en": "Announce your coven's arrival with this cackling Witch horn. All factions can use this item."
+      },
+      "image_id": "82846",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814075",
+      "name": {
+        "en": "Chimera Demonic Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Demonic Horn. All factions can use this gear."
+      },
+      "image_id": "9059",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814076",
+      "name": {
+        "en": "Javelin Demonic Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Demonic Horn. All factions can use this gear."
+      },
+      "image_id": "9059",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814077",
+      "name": {
+        "en": "Dervish Demonic Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Demonic Horn. All factions can use this gear."
+      },
+      "image_id": "9059",
+      "station_cash_price": "650",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814078",
+      "name": {
+        "en": "Chimera Ghoulish Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghoulish Horn. All factions can use this gear."
+      },
+      "image_id": "9061",
+      "station_cash_price": "650",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814079",
+      "name": {
+        "en": "Dervish Ghoulish Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghoulish Horn. All factions can use this gear."
+      },
+      "image_id": "9061",
+      "station_cash_price": "0",
+      "release_time": "1759273260"
+    },
+    {
+      "marketing_bundle_id": "814080",
+      "name": {
+        "en": "Javelin Ghoulish Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghoulish Horn. All factions can use this gear."
+      },
+      "image_id": "9061",
+      "station_cash_price": "0",
+      "release_time": "1675209660"
+    },
+    {
+      "marketing_bundle_id": "814081",
+      "name": {
+        "en": "Chimera Pipe Organ Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Pipe Organ Horn. All factions can use this gear."
+      },
+      "image_id": "9063",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814082",
+      "name": {
+        "en": "Dervish Pipe Organ Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Pipe Organ Horn. All factions can use this gear."
+      },
+      "image_id": "9063",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814083",
+      "name": {
+        "en": "Javelin Pipe Organ Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Pipe Organ Horn. All factions can use this gear."
+      },
+      "image_id": "9063",
+      "station_cash_price": "650",
+      "release_time": "1664953200"
+    },
+    {
+      "marketing_bundle_id": "814084",
+      "name": {
+        "en": "Chimera Ghostly Shriek Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghostly Shriek Horn. All factions can use this gear."
+      },
+      "image_id": "9060",
+      "station_cash_price": "650",
+      "release_time": "1664953200"
+    },
+    {
+      "marketing_bundle_id": "814085",
+      "name": {
+        "en": "Javelin Ghostly Shriek Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghostly Shriek Horn. All factions can use this gear."
+      },
+      "image_id": "9060",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814086",
+      "name": {
+        "en": "Dervish Ghostly Shriek Horn"
+      },
+      "description": {
+        "en": "Terrify your enemies with this Ghostly Shriek Horn. All factions can use this gear."
+      },
+      "image_id": "9060",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814087",
+      "name": {
+        "en": "Chimera Wolfpack Horn"
+      },
+      "description": {
+        "en": "Howl at the moon with your entire pack with this horn. All factions may use this item."
+      },
+      "image_id": "82847",
+      "station_cash_price": "650",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814088",
+      "name": {
+        "en": "Javelin Wolfpack Horn"
+      },
+      "description": {
+        "en": "Howl at the moon with your entire pack with this horn. All factions may use this item."
+      },
+      "image_id": "82847",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814089",
+      "name": {
+        "en": "Dervish Wolfpack Horn"
+      },
+      "description": {
+        "en": "Howl at the moon with your entire pack with this horn. All factions may use this item."
+      },
+      "image_id": "82847",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814090",
+      "name": {
+        "en": "Chimera Deathmarch Horn"
+      },
+      "description": {
+        "en": "See that your entire squad enjoys some travelling music as you deliver them to their untimely deaths."
+      },
+      "image_id": "82845",
+      "station_cash_price": "650",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814091",
+      "name": {
+        "en": "Javelin Deathmarch Horn"
+      },
+      "description": {
+        "en": "See that your entire squad enjoys some travelling music as you deliver them to their untimely deaths."
+      },
+      "image_id": "82845",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814092",
+      "name": {
+        "en": "Dervish Deathmarch Horn"
+      },
+      "description": {
+        "en": "See that your entire squad enjoys some travelling music as you deliver them to their untimely deaths."
+      },
+      "image_id": "82845",
+      "station_cash_price": "0",
+      "release_time": "1673222460"
+    },
+    {
+      "marketing_bundle_id": "814093",
+      "name": {
+        "en": "Vanguard Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Vanguard. NC use only."
+      },
+      "image_id": "808526",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814094",
+      "name": {
+        "en": "Prowler Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Prowler. TR use only."
+      },
+      "image_id": "808527",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814095",
+      "name": {
+        "en": "Lightning Toxic Exhaust"
+      },
+      "description": {
+        "en": "Adds Toxic Exhaust to the rear of the Lightning. All factions can use this item."
+      },
+      "image_id": "808528",
+      "station_cash_price": "0",
+      "release_time": "1759302000"
+    },
+    {
+      "marketing_bundle_id": "814097",
+      "name": {
+        "en": "Extra Life - 2025"
+      },
+      "description": {
+        "en": "A generous group of civilians has donated this extra lifewear in support of a greater good."
+      },
+      "image_id": "1",
+      "station_cash_price": "0",
+      "release_time": "1724677864"
+    },
+    {
+      "marketing_bundle_id": "814098",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. NSO use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808531",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814099",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#0140a4\">NC</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808530",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814100",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#790019\">TR</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808532",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814101",
+      "name": {
+        "en": "Parasitic Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. <font color=\"#9b4eb6\">VS</font> use only.<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808533",
+      "station_cash_price": "0",
+      "release_time": "1751958000"
+    },
+    {
+      "marketing_bundle_id": "814102",
+      "name": {
+        "en": "Amerish Brush Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7232",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814103",
+      "name": {
+        "en": "Amerish Forest Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7264",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814104",
+      "name": {
+        "en": "Amerish Forest v2 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7274",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814105",
+      "name": {
+        "en": "Amerish Grassland Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7260",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814106",
+      "name": {
+        "en": "Amerish Leaf Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7270",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814107",
+      "name": {
+        "en": "Amerish Scrub Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7222",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814108",
+      "name": {
+        "en": "Indar Canyons v1 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7228",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814109",
+      "name": {
+        "en": "Indar Canyons v2 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7266",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814110",
+      "name": {
+        "en": "Indar Dry Brush Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7272",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814111",
+      "name": {
+        "en": "Indar Dry Ocean Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7226",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814112",
+      "name": {
+        "en": "Indar Dunes Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7268",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814113",
+      "name": {
+        "en": "Indar Highlands v1 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7224",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814114",
+      "name": {
+        "en": "Indar Highlands v2 Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7262",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814115",
+      "name": {
+        "en": "Indar Plateau Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7234",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814116",
+      "name": {
+        "en": "Indar Rock Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7280",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814117",
+      "name": {
+        "en": "Indar Savanna Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7278",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814118",
+      "name": {
+        "en": "Indar Scrub Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "7230",
+      "station_cash_price": "500",
+      "release_time": "1392278400"
+    },
+    {
+      "marketing_bundle_id": "814119",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808568",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625624"
+    },
+    {
+      "marketing_bundle_id": "814120",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808571",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814121",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808570",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814122",
+      "name": {
+        "en": "13th Anniversary Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808569",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814123",
+      "name": {
+        "en": "Title: 13th Year Veteran"
+      },
+      "description": {
+        "en": "Grants the \"13th Year Veteran\" prefix title."
+      },
+      "image_id": "808008",
+      "station_cash_price": "0",
+      "release_time": "1720609183"
+    },
+    {
+      "marketing_bundle_id": "814124",
+      "name": {
+        "en": "Title: Prospect Thinker"
+      },
+      "description": {
+        "en": "Grants the \"Prospect Thinker\" prefix title."
+      },
+      "image_id": "808008",
+      "station_cash_price": "0",
+      "release_time": "1720609183"
+    },
+    {
+      "marketing_bundle_id": "814125",
+      "name": {
+        "en": "Title: Cloaked Spectre"
+      },
+      "description": {
+        "en": "Grants the \"Cloaked Spectre\" prefix title."
+      },
+      "image_id": "808008",
+      "station_cash_price": "0",
+      "release_time": "1720609183"
+    },
+    {
+      "marketing_bundle_id": "814126",
+      "name": {
+        "en": "Title: Keyboard Warrior"
+      },
+      "description": {
+        "en": "Grants the \"Keyboard Warrior\" prefix title."
+      },
+      "image_id": "808008",
+      "station_cash_price": "0",
+      "release_time": "1720609183"
+    },
+    {
+      "marketing_bundle_id": "814127",
+      "name": {
+        "en": "Unlucky Thirteen-Year Anniversary Bundle"
+      },
+      "description": {
+        "en": "Celebrate thirteen years of PlanetSide 2 with this limited bundle!"
+      },
+      "image_id": "808582",
+      "station_cash_price": "0",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814128",
+      "name": {
+        "en": "Ossuarist's Thirteen-Year Anniversary Bundle"
+      },
+      "description": {
+        "en": "Celebrate thirteen years of PlanetSide 2 with this special bundle. Note: Heroic Boost is granted only to the character that purchases the bundle."
+      },
+      "image_id": "808583",
+      "station_cash_price": "0",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814129",
+      "name": {
+        "en": "Project Ceratus' Thirteen-Year Anniversary Bundle"
+      },
+      "description": {
+        "en": "Celebrate thirteen years of PlanetSide 2 with this massive bundle. Note: Bundle contains cosmetics for VS/NC/TR/NSO empires. Heroic Boost is granted only to the character that purchases the bundle."
+      },
+      "image_id": "808585",
+      "station_cash_price": "0",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814130",
+      "name": {
+        "en": "13 Years of Loyalty Decal"
+      },
+      "description": {
+        "en": "Applies a loyalty decal to your armor or vehicle, celebrating thirteen years of PlanetSide 2"
+      },
+      "image_id": "808553",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625645"
+    },
+    {
+      "marketing_bundle_id": "814131",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808580",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814132",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808578",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814133",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808581",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814134",
+      "name": {
+        "en": "Osteonexus Camo"
+      },
+      "description": {
+        "en": "Members Only"
+      },
+      "image_id": "808579",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814135",
+      "name": {
+        "en": "Fit Check Challenge Banner"
+      },
+      "description": {
+        "en": "Awarded to players who participate in the community Fit Check Challenge!"
+      },
+      "image_id": "808599",
+      "station_cash_price": "0",
+      "release_time": "1762165738"
+    },
+    {
+      "marketing_bundle_id": "814136",
+      "name": {
+        "en": "24hr Run Challenge Banner"
+      },
+      "description": {
+        "en": "Awarded to players who participate in the community 24hr Run Challenge!"
+      },
+      "image_id": "808601",
+      "station_cash_price": "0",
+      "release_time": "1762165738"
+    },
+    {
+      "marketing_bundle_id": "814137",
+      "name": {
+        "en": "Party Popper Horn"
+      },
+      "description": {
+        "en": "Friendly asleep on the job? Wake them up with this horn!"
+      },
+      "image_id": "808626",
+      "station_cash_price": "0",
+      "release_time": "1767168043"
+    },
+    {
+      "marketing_bundle_id": "814138",
+      "name": {
+        "en": "Directive Bundle:  Auraximas 2024"
+      },
+      "description": {
+        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808624",
+      "station_cash_price": "0",
+      "release_time": "1764576059"
+    },
+    {
+      "marketing_bundle_id": "814143",
+      "name": {
+        "en": "24hr Run Challenge Bundle"
+      },
+      "description": {
+        "en": "Awarded to players who participate in the community 24hr Run Challenge!"
+      },
+      "image_id": "808601",
+      "station_cash_price": "0",
+      "release_time": "1762165738"
+    },
+    {
+      "marketing_bundle_id": "814144",
+      "name": {
+        "en": "Fit Check Challenge Bundle"
+      },
+      "description": {
+        "en": "Awarded to players who participate in the community Fit Check Challenge!"
+      },
+      "image_id": "808599",
+      "station_cash_price": "0",
+      "release_time": "1762165738"
+    },
+    {
+      "marketing_bundle_id": "814146",
+      "name": {
+        "en": "Winter Ghillie Armor"
+      },
+      "description": {
+        "en": "This armor can only be worn by NC Infiltrators."
+      },
+      "image_id": "808638",
+      "station_cash_price": "0",
+      "release_time": "1767254411"
+    },
+    {
+      "marketing_bundle_id": "814147",
+      "name": {
+        "en": "Winter Ghillie Armor"
+      },
+      "description": {
+        "en": "This armor can only be worn by TR Infiltrators."
+      },
+      "image_id": "808637",
+      "station_cash_price": "0",
+      "release_time": "1767254411"
+    },
+    {
+      "marketing_bundle_id": "814148",
+      "name": {
+        "en": "Winter Ghillie Armor"
+      },
+      "description": {
+        "en": "This armor can only be worn by VS Infiltrators."
+      },
+      "image_id": "808639",
+      "station_cash_price": "0",
+      "release_time": "1767254411"
+    },
+    {
+      "marketing_bundle_id": "814150",
+      "name": {
+        "en": "Directive Bundle:  Auraximas 2025"
+      },
+      "description": {
+        "en": "This bundle contains items from a previous Directive Event, so if you have missed out, now's your chance to grab them!<br><br><font color=\"#dc9c36\">Members Only.<br><br> (Only Daybreak Cash purchases are account-wide).</font>"
+      },
+      "image_id": "808641",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1768377600"
+    },
+    {
+      "marketing_bundle_id": "814151",
+      "name": {
+        "en": "Explosive Start Bundle "
+      },
+      "description": {
+        "en": "Celebrate another eventful year on Auraxis with these cosmetics!  You've survived '25!  Now let's thrive in '26!"
+      },
+      "image_id": "808625",
+      "station_cash_price": "0",
+      "release_time": "1767168000"
+    },
+    {
+      "marketing_bundle_id": "814152",
+      "name": {
+        "en": "Winter Ghillie Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "808621",
+      "station_cash_price": "0",
+      "release_time": "1764868340"
+    },
+    {
+      "marketing_bundle_id": "814153",
+      "name": {
+        "en": "Project Ceratus' Thirteen-Year Anniversary Bundle"
+      },
+      "description": {
+        "en": "Celebrate thirteen years of PlanetSide 2 with this massive bundle. Note: Bundle contains cosmetics for VS/NC/TR/NSO empires. Heroic Boost is granted only to the character that purchases the bundle."
+      },
+      "image_id": "808585",
+      "station_cash_price": "0",
+      "release_time": "1764835200"
+    },
+    {
+      "marketing_bundle_id": "814154",
+      "name": {
+        "en": "Unlucky Thirteen-Year Anniversary Bundle"
+      },
+      "description": {
+        "en": "Celebrate thirteen years of PlanetSide 2 with this limited bundle!"
+      },
+      "image_id": "808582",
+      "station_cash_price": "0",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814155",
+      "name": {
+        "en": "Ossuarist's Thirteen-Year Anniversary Bundle"
+      },
+      "description": {
+        "en": "Celebrate thirteen years of PlanetSide 2 with this special bundle. Note: Heroic Boost is granted only to the character that purchases the bundle."
+      },
+      "image_id": "808583",
+      "station_cash_price": "0",
+      "release_time": "1763625600"
+    },
+    {
+      "marketing_bundle_id": "814156",
+      "name": {
+        "en": "Hossin Digital Scrub Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13594",
+      "station_cash_price": "500",
+      "release_time": "1768291200"
+    },
+    {
+      "marketing_bundle_id": "814158",
+      "name": {
+        "en": "Hossin Mist Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13598",
+      "station_cash_price": "500",
+      "release_time": "1768291200"
+    },
+    {
+      "marketing_bundle_id": "814159",
+      "name": {
+        "en": "Hossin Mossy Stone Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13595",
+      "station_cash_price": "500",
+      "release_time": "1768291200"
+    },
+    {
+      "marketing_bundle_id": "814160",
+      "name": {
+        "en": "Hossin Swamp Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13597",
+      "station_cash_price": "500",
+      "release_time": "1768291200"
+    },
+    {
+      "marketing_bundle_id": "814161",
+      "name": {
+        "en": "Hossin Tree Bark Animated Camo"
+      },
+      "description": {
+        "en": "Applies an animated camo to your armor, weapon or vehicle. All factions can use this gear."
+      },
+      "image_id": "13596",
+      "station_cash_price": "500",
+      "release_time": "1768291200"
+    },
+    {
+      "marketing_bundle_id": "814169",
+      "name": {
+        "en": "Archaeotech Horn"
+      },
+      "description": {
+        "en": "A horn made for quick and clear communication. All factions can use this gear."
+      },
+      "image_id": "808627",
+      "station_cash_price": "0",
+      "cert_price": "10",
+      "release_time": "1767254456"
+    },
+    {
+      "marketing_bundle_id": "814170",
+      "name": {
+        "en": "Confetti Contrails"
+      },
+      "description": {
+        "en": "Changes the vehicle's contrails to leave a trail of Confetti."
+      },
+      "image_id": "808632",
+      "station_cash_price": "0",
+      "release_time": "1767254443"
+    },
+    {
+      "marketing_bundle_id": "814171",
+      "name": {
+        "en": "Winter Ghillie Helmet"
+      },
+      "description": {
+        "en": "Thermal-dampening fibers and irregular camouflage break the wearer's silhouette, concealing both heat and form. No optics. No shine. Just snow where a sniper waits.\n\nThis Helmet can only be worn by NC Infiltrators."
+      },
+      "image_id": "808635",
+      "station_cash_price": "0",
+      "release_time": "1767254456"
+    },
+    {
+      "marketing_bundle_id": "814172",
+      "name": {
+        "en": "Winter Ghillie Helmet"
+      },
+      "description": {
+        "en": "Thermal-dampening fibers and irregular camouflage break the wearer's silhouette, concealing both heat and form. No optics. No shine. Just snow where a sniper waits.\n\nThis Helmet can only be worn by TR Infiltrators."
+      },
+      "image_id": "808636",
+      "station_cash_price": "0",
+      "release_time": "1767254456"
+    },
+    {
+      "marketing_bundle_id": "814173",
+      "name": {
+        "en": "Winter Ghillie Helmet"
+      },
+      "description": {
+        "en": "Thermal-dampening fibers and irregular camouflage break the wearer's silhouette, concealing both heat and form. No optics. No shine. Just snow where a sniper waits.\n\nThis Helmet can only be worn by VS Infiltrators."
+      },
+      "image_id": "808640",
+      "station_cash_price": "0",
+      "release_time": "1767254456"
     }
   ],
-  "returned": 16601
+  "returned": 16709
 }

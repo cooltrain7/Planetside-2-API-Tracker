@@ -29716,48 +29716,6 @@
       "slot_id": "6"
     },
     {
-      "item_id": "6016068",
-      "vehicle_id": "2",
-      "faction_id": "1",
-      "description": "Sunderer VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016069",
-      "vehicle_id": "2",
-      "faction_id": "2",
-      "description": "Sunderer NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016070",
-      "vehicle_id": "2",
-      "faction_id": "3",
-      "description": "Sunderer TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "2",
-      "faction_id": "1",
-      "description": "Sunderer VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "2",
-      "faction_id": "2",
-      "description": "Sunderer NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "2",
-      "faction_id": "3",
-      "description": "Sunderer TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "2",
       "faction_id": "1",
@@ -29856,48 +29814,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016170",
-      "vehicle_id": "2",
-      "faction_id": "2",
-      "description": "Sunderer NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "2",
-      "faction_id": "1",
-      "description": "Sunderer VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "2",
-      "faction_id": "2",
-      "description": "Sunderer NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "2",
-      "faction_id": "3",
-      "description": "Sunderer TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016172",
-      "vehicle_id": "2",
-      "faction_id": "3",
-      "description": "Sunderer TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016173",
-      "vehicle_id": "2",
-      "faction_id": "1",
-      "description": "Sunderer VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "2",
       "faction_id": "1",
@@ -29952,6 +29868,412 @@
       "faction_id": "4",
       "description": "Sunderer NSO",
       "slot_id": "6"
+    },
+    {
+      "item_id": "6016184",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016186",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016187",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016266",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016267",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016269",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016293",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016294",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016296",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2",
+      "faction_id": "4",
+      "description": "Sunderer NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2",
+      "faction_id": "4",
+      "description": "Sunderer NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016329",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016329",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016329",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016329",
+      "vehicle_id": "2",
+      "faction_id": "4",
+      "description": "Sunderer NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2",
+      "faction_id": "4",
+      "description": "Sunderer NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "2",
+      "faction_id": "1",
+      "description": "Sunderer VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "2",
+      "faction_id": "2",
+      "description": "Sunderer NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "2",
+      "faction_id": "3",
+      "description": "Sunderer TR",
+      "slot_id": "7"
     },
     {
       "item_id": "38",
@@ -56932,48 +57254,6 @@
       "slot_id": "6"
     },
     {
-      "item_id": "6016068",
-      "vehicle_id": "3",
-      "faction_id": "1",
-      "description": "Lightning VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016069",
-      "vehicle_id": "3",
-      "faction_id": "2",
-      "description": "Lightning NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016070",
-      "vehicle_id": "3",
-      "faction_id": "3",
-      "description": "Lightning TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "3",
-      "faction_id": "1",
-      "description": "Lightning VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "3",
-      "faction_id": "2",
-      "description": "Lightning NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "3",
-      "faction_id": "3",
-      "description": "Lightning TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "3",
       "faction_id": "1",
@@ -57072,48 +57352,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016170",
-      "vehicle_id": "3",
-      "faction_id": "2",
-      "description": "Lightning NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "3",
-      "faction_id": "1",
-      "description": "Lightning VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "3",
-      "faction_id": "2",
-      "description": "Lightning NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "3",
-      "faction_id": "3",
-      "description": "Lightning TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016172",
-      "vehicle_id": "3",
-      "faction_id": "3",
-      "description": "Lightning TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016173",
-      "vehicle_id": "3",
-      "faction_id": "1",
-      "description": "Lightning VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "3",
       "faction_id": "1",
@@ -57168,6 +57406,440 @@
       "faction_id": "4",
       "description": "Lightning NSO",
       "slot_id": "6"
+    },
+    {
+      "item_id": "6016184",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016186",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016187",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016220",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016220",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016220",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016220",
+      "vehicle_id": "3",
+      "faction_id": "4",
+      "description": "Lightning NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016266",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016267",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016269",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016293",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016294",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016296",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "3",
+      "faction_id": "4",
+      "description": "Lightning NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "3",
+      "faction_id": "4",
+      "description": "Lightning NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016330",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016330",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016330",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016330",
+      "vehicle_id": "3",
+      "faction_id": "4",
+      "description": "Lightning NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "3",
+      "faction_id": "4",
+      "description": "Lightning NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "3",
+      "faction_id": "1",
+      "description": "Lightning VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "3",
+      "faction_id": "2",
+      "description": "Lightning NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "3",
+      "faction_id": "3",
+      "description": "Lightning TR",
+      "slot_id": "7"
     },
     {
       "item_id": "38",
@@ -65570,20 +66242,6 @@
       "slot_id": "6"
     },
     {
-      "item_id": "6016068",
-      "vehicle_id": "4",
-      "faction_id": "1",
-      "description": "Magrider VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "4",
-      "faction_id": "1",
-      "description": "Magrider VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "4",
       "faction_id": "1",
@@ -65612,20 +66270,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016171",
-      "vehicle_id": "4",
-      "faction_id": "1",
-      "description": "Magrider VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016173",
-      "vehicle_id": "4",
-      "faction_id": "1",
-      "description": "Magrider VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "4",
       "faction_id": "1",
@@ -65638,6 +66282,125 @@
       "faction_id": "1",
       "description": "Magrider VS",
       "slot_id": "6"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016187",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016269",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016296",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "4",
+      "faction_id": "1",
+      "description": "Magrider VS",
+      "slot_id": "7"
     },
     {
       "item_id": "38",
@@ -73753,20 +74516,6 @@
       "slot_id": "6"
     },
     {
-      "item_id": "6016069",
-      "vehicle_id": "5",
-      "faction_id": "2",
-      "description": "Vanguard NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "5",
-      "faction_id": "2",
-      "description": "Vanguard NC",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "5",
       "faction_id": "2",
@@ -73795,20 +74544,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016170",
-      "vehicle_id": "5",
-      "faction_id": "2",
-      "description": "Vanguard NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "5",
-      "faction_id": "2",
-      "description": "Vanguard NC",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "5",
       "faction_id": "2",
@@ -73821,6 +74556,139 @@
       "faction_id": "2",
       "description": "Vanguard NC",
       "slot_id": "6"
+    },
+    {
+      "item_id": "6016184",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016222",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016266",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016293",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016332",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "5",
+      "faction_id": "2",
+      "description": "Vanguard NC",
+      "slot_id": "7"
     },
     {
       "item_id": "38",
@@ -76088,20 +76956,13 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "71570",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "71571",
-      "vehicle_id": "6",
-      "faction_id": "3",
-      "description": "Prowler TR",
       "slot_id": "9"
     },
     {
@@ -76110,6 +76971,13 @@
       "faction_id": "3",
       "description": "Prowler TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "71571",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "9"
     },
     {
       "item_id": "71572",
@@ -79693,14 +80561,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "802559",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "802616",
@@ -80491,14 +81359,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803996",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803997",
@@ -80799,20 +81667,13 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804897",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "804902",
-      "vehicle_id": "6",
-      "faction_id": "3",
-      "description": "Prowler TR",
       "slot_id": "9"
     },
     {
@@ -80821,6 +81682,13 @@
       "faction_id": "3",
       "description": "Prowler TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "804902",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "9"
     },
     {
       "item_id": "6002403",
@@ -81002,14 +81870,14 @@
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6003143",
       "vehicle_id": "6",
       "faction_id": "3",
       "description": "Prowler TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6003530",
@@ -82405,20 +83273,6 @@
       "slot_id": "6"
     },
     {
-      "item_id": "6016070",
-      "vehicle_id": "6",
-      "faction_id": "3",
-      "description": "Prowler TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "6",
-      "faction_id": "3",
-      "description": "Prowler TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "6",
       "faction_id": "3",
@@ -82447,20 +83301,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016171",
-      "vehicle_id": "6",
-      "faction_id": "3",
-      "description": "Prowler TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016172",
-      "vehicle_id": "6",
-      "faction_id": "3",
-      "description": "Prowler TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "6",
       "faction_id": "3",
@@ -82473,6 +83313,139 @@
       "faction_id": "3",
       "description": "Prowler TR",
       "slot_id": "6"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016186",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016221",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016267",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016294",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016331",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "6",
+      "faction_id": "3",
+      "description": "Prowler TR",
+      "slot_id": "7"
     },
     {
       "item_id": "38",
@@ -89888,20 +90861,6 @@
       "slot_id": "7"
     },
     {
-      "item_id": "6016068",
-      "vehicle_id": "7",
-      "faction_id": "1",
-      "description": "Scythe VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "7",
-      "faction_id": "1",
-      "description": "Scythe VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "7",
       "faction_id": "1",
@@ -89930,25 +90889,137 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016171",
-      "vehicle_id": "7",
-      "faction_id": "1",
-      "description": "Scythe VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016173",
-      "vehicle_id": "7",
-      "faction_id": "1",
-      "description": "Scythe VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "7",
       "faction_id": "1",
       "description": "Scythe VS",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016187",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016269",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016296",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016362",
+      "vehicle_id": "7",
+      "faction_id": "1",
+      "description": "Scythe VS",
+      "slot_id": "17"
     },
     {
       "item_id": "38",
@@ -97105,20 +98176,6 @@
       "slot_id": "7"
     },
     {
-      "item_id": "6016069",
-      "vehicle_id": "8",
-      "faction_id": "2",
-      "description": "Reaver NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "8",
-      "faction_id": "2",
-      "description": "Reaver NC",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "8",
       "faction_id": "2",
@@ -97147,25 +98204,137 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016170",
-      "vehicle_id": "8",
-      "faction_id": "2",
-      "description": "Reaver NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "8",
-      "faction_id": "2",
-      "description": "Reaver NC",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "8",
       "faction_id": "2",
       "description": "Reaver NC",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016184",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016266",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016293",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016360",
+      "vehicle_id": "8",
+      "faction_id": "2",
+      "description": "Reaver NC",
+      "slot_id": "17"
     },
     {
       "item_id": "38",
@@ -104665,20 +105834,6 @@
       "slot_id": "7"
     },
     {
-      "item_id": "6016070",
-      "vehicle_id": "9",
-      "faction_id": "3",
-      "description": "Mosquito TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "9",
-      "faction_id": "3",
-      "description": "Mosquito TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "9",
       "faction_id": "3",
@@ -104707,25 +105862,137 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016171",
-      "vehicle_id": "9",
-      "faction_id": "3",
-      "description": "Mosquito TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016172",
-      "vehicle_id": "9",
-      "faction_id": "3",
-      "description": "Mosquito TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "9",
       "faction_id": "3",
       "description": "Mosquito TR",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016186",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016267",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016294",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016361",
+      "vehicle_id": "9",
+      "faction_id": "3",
+      "description": "Mosquito TR",
+      "slot_id": "17"
     },
     {
       "item_id": "38",
@@ -127317,48 +128584,6 @@
       "slot_id": "7"
     },
     {
-      "item_id": "6016068",
-      "vehicle_id": "10",
-      "faction_id": "1",
-      "description": "Liberator VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016069",
-      "vehicle_id": "10",
-      "faction_id": "2",
-      "description": "Liberator NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016070",
-      "vehicle_id": "10",
-      "faction_id": "3",
-      "description": "Liberator TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "10",
-      "faction_id": "1",
-      "description": "Liberator VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "10",
-      "faction_id": "2",
-      "description": "Liberator NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "10",
-      "faction_id": "3",
-      "description": "Liberator TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "10",
       "faction_id": "1",
@@ -127457,48 +128682,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016170",
-      "vehicle_id": "10",
-      "faction_id": "2",
-      "description": "Liberator NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "10",
-      "faction_id": "1",
-      "description": "Liberator VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "10",
-      "faction_id": "2",
-      "description": "Liberator NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "10",
-      "faction_id": "3",
-      "description": "Liberator TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016172",
-      "vehicle_id": "10",
-      "faction_id": "3",
-      "description": "Liberator TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016173",
-      "vehicle_id": "10",
-      "faction_id": "1",
-      "description": "Liberator VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "10",
       "faction_id": "1",
@@ -127525,6 +128708,412 @@
       "faction_id": "4",
       "description": "Liberator NSO",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016184",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016186",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016187",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016266",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016267",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016269",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016293",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016294",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016296",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "10",
+      "faction_id": "4",
+      "description": "Liberator NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "10",
+      "faction_id": "4",
+      "description": "Liberator NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "10",
+      "faction_id": "4",
+      "description": "Liberator NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016365",
+      "vehicle_id": "10",
+      "faction_id": "1",
+      "description": "Liberator VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016365",
+      "vehicle_id": "10",
+      "faction_id": "2",
+      "description": "Liberator NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016365",
+      "vehicle_id": "10",
+      "faction_id": "3",
+      "description": "Liberator TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016365",
+      "vehicle_id": "10",
+      "faction_id": "4",
+      "description": "Liberator NSO",
+      "slot_id": "17"
     },
     {
       "item_id": "38",
@@ -150452,48 +152041,6 @@
       "slot_id": "7"
     },
     {
-      "item_id": "6016068",
-      "vehicle_id": "11",
-      "faction_id": "1",
-      "description": "Galaxy VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016069",
-      "vehicle_id": "11",
-      "faction_id": "2",
-      "description": "Galaxy NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016070",
-      "vehicle_id": "11",
-      "faction_id": "3",
-      "description": "Galaxy TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "11",
-      "faction_id": "1",
-      "description": "Galaxy VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "11",
-      "faction_id": "2",
-      "description": "Galaxy NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "11",
-      "faction_id": "3",
-      "description": "Galaxy TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "11",
       "faction_id": "1",
@@ -150592,48 +152139,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016170",
-      "vehicle_id": "11",
-      "faction_id": "2",
-      "description": "Galaxy NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "11",
-      "faction_id": "1",
-      "description": "Galaxy VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "11",
-      "faction_id": "2",
-      "description": "Galaxy NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "11",
-      "faction_id": "3",
-      "description": "Galaxy TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016172",
-      "vehicle_id": "11",
-      "faction_id": "3",
-      "description": "Galaxy TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016173",
-      "vehicle_id": "11",
-      "faction_id": "1",
-      "description": "Galaxy VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "11",
       "faction_id": "1",
@@ -150660,6 +152165,412 @@
       "faction_id": "4",
       "description": "Galaxy NSO",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016184",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016186",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016187",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016266",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016267",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016269",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016293",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016294",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016296",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "11",
+      "faction_id": "4",
+      "description": "Galaxy NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "11",
+      "faction_id": "4",
+      "description": "Galaxy NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "11",
+      "faction_id": "4",
+      "description": "Galaxy NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016366",
+      "vehicle_id": "11",
+      "faction_id": "1",
+      "description": "Galaxy VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016366",
+      "vehicle_id": "11",
+      "faction_id": "2",
+      "description": "Galaxy NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016366",
+      "vehicle_id": "11",
+      "faction_id": "3",
+      "description": "Galaxy TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016366",
+      "vehicle_id": "11",
+      "faction_id": "4",
+      "description": "Galaxy NSO",
+      "slot_id": "17"
     },
     {
       "item_id": "38",
@@ -152906,14 +154817,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6211",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6212",
@@ -152934,20 +154845,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6213",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6214",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
       "slot_id": "9"
     },
     {
@@ -152956,6 +154860,13 @@
       "faction_id": "1",
       "description": "Harasser VS",
       "slot_id": "7"
+    },
+    {
+      "item_id": "6214",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "9"
     },
     {
       "item_id": "6215",
@@ -153445,14 +155356,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6273",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6274",
@@ -153571,14 +155482,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6282",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6283",
@@ -153599,14 +155510,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6284",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6285",
@@ -153711,14 +155622,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6292",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6292",
@@ -153760,20 +155671,13 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6293",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6293",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
       "slot_id": "7"
     },
     {
@@ -153786,8 +155690,8 @@
     {
       "item_id": "6293",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "7"
     },
     {
@@ -153796,6 +155700,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6293",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "6293",
@@ -153872,14 +155783,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6295",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6295",
@@ -153907,14 +155818,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6296",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6296",
@@ -153956,14 +155867,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6297",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6297",
@@ -153984,14 +155895,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6297",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6297",
@@ -154019,14 +155930,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6298",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6298",
@@ -154068,20 +155979,13 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6299",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6299",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "7"
     },
     {
@@ -154090,6 +155994,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6299",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "6299",
@@ -154117,14 +156028,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6300",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6300",
@@ -154152,14 +156063,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6301",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6301",
@@ -154243,14 +156154,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6305",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6305",
@@ -154271,14 +156182,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6305",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6305",
@@ -154488,14 +156399,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6314",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6315",
@@ -154558,14 +156469,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6319",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6320",
@@ -154656,14 +156567,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6326",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6327",
@@ -154698,14 +156609,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6329",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6330",
@@ -163070,14 +164981,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77645",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77646",
@@ -163098,20 +165009,13 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77647",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "77648",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "7"
     },
     {
@@ -163120,6 +165024,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "77648",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "77649",
@@ -163154,14 +165065,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77651",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77652",
@@ -163511,14 +165422,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77673",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77674",
@@ -163658,21 +165569,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77680",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "77680",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77680",
@@ -163680,6 +165584,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "77680",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "77680",
@@ -165121,14 +167032,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77882",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77882",
@@ -165170,21 +167081,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77883",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "77883",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77883",
@@ -165192,6 +167096,13 @@
       "faction_id": "2",
       "description": "Harasser NC",
       "slot_id": "7"
+    },
+    {
+      "item_id": "77883",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "9"
     },
     {
       "item_id": "77883",
@@ -165219,21 +167130,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "77884",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "77884",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "77884",
@@ -165245,8 +167149,8 @@
     {
       "item_id": "77884",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -165255,6 +167159,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "77884",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "77884",
@@ -165506,14 +167417,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78214",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78215",
@@ -165618,21 +167529,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78221",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "78221",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78221",
@@ -165644,8 +167548,8 @@
     {
       "item_id": "78221",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "7"
     },
     {
@@ -165654,6 +167558,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "78221",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "78221",
@@ -165695,14 +167606,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78223",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78223",
@@ -166136,14 +168047,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "78352",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "78353",
@@ -166969,14 +168880,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "802550",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "802616",
@@ -168614,14 +170525,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803319",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803319",
@@ -168642,14 +170553,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803319",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803319",
@@ -168663,14 +170574,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "803320",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "803320",
@@ -169132,14 +171043,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "804062",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804062",
@@ -169167,21 +171078,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "804063",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "804063",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804063",
@@ -169193,8 +171097,8 @@
     {
       "item_id": "804063",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "9"
     },
     {
@@ -169203,6 +171107,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "804063",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "804063",
@@ -169559,20 +171470,13 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "804771",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "804771",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "7"
     },
     {
@@ -169581,6 +171485,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "804771",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "804771",
@@ -169636,20 +171547,13 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804773",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "804773",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "9"
     },
     {
@@ -169658,6 +171562,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "804773",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "804773",
@@ -169671,21 +171582,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "804774",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "804774",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "804774",
@@ -169697,8 +171601,8 @@
     {
       "item_id": "804774",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "7"
     },
     {
@@ -169707,6 +171611,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "804774",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "804774",
@@ -170805,20 +172716,13 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6003146",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6003146",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
       "slot_id": "9"
     },
     {
@@ -170827,6 +172731,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "7"
+    },
+    {
+      "item_id": "6003146",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
     },
     {
       "item_id": "6003146",
@@ -171078,14 +172989,14 @@
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "20"
+      "slot_id": "17"
     },
     {
       "item_id": "6005059",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "17"
+      "slot_id": "20"
     },
     {
       "item_id": "6005378",
@@ -171526,14 +173437,14 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6007376",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6007376",
@@ -171743,14 +173654,14 @@
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "20"
+      "slot_id": "17"
     },
     {
       "item_id": "6009593",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "17"
+      "slot_id": "20"
     },
     {
       "item_id": "6009630",
@@ -171785,14 +173696,14 @@
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6009790",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6009795",
@@ -172030,14 +173941,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6011860",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6011860",
@@ -172156,14 +174067,14 @@
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "20"
+      "slot_id": "17"
     },
     {
       "item_id": "6012476",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "17"
+      "slot_id": "20"
     },
     {
       "item_id": "6013891",
@@ -172219,14 +174130,14 @@
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6014438",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6014438",
@@ -172296,6 +174207,13 @@
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6014464",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
       "slot_id": "17"
     },
     {
@@ -172306,13 +174224,6 @@
       "slot_id": "20"
     },
     {
-      "item_id": "6014464",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "17"
-    },
-    {
       "item_id": "6014477",
       "vehicle_id": "12",
       "faction_id": "1",
@@ -172373,21 +174284,14 @@
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "9"
+      "slot_id": "7"
     },
     {
       "item_id": "6014529",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6014529",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "7"
+      "slot_id": "9"
     },
     {
       "item_id": "6014529",
@@ -172399,8 +174303,8 @@
     {
       "item_id": "6014529",
       "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
+      "faction_id": "2",
+      "description": "Harasser NC",
       "slot_id": "7"
     },
     {
@@ -172409,6 +174313,13 @@
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "9"
+    },
+    {
+      "item_id": "6014529",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
     },
     {
       "item_id": "6014529",
@@ -172954,308 +174865,427 @@
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
-      "slot_id": "17"
+      "slot_id": "20"
     },
     {
       "item_id": "6016041",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016055",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016055",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016055",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016055",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016072",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016072",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016072",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016072",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016073",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016073",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016073",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016073",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016073",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016073",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016073",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016151",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016151",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016151",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016151",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "18"
+    },
+    {
+      "item_id": "6016152",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016152",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016152",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016152",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016152",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016152",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016152",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "9"
+    },
+    {
+      "item_id": "6016166",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016166",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016166",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016166",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016167",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016167",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016167",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016167",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016179",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016179",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016179",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016179",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016180",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016180",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016180",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016180",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "6"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016328",
+      "vehicle_id": "12",
+      "faction_id": "1",
+      "description": "Harasser VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016328",
+      "vehicle_id": "12",
+      "faction_id": "2",
+      "description": "Harasser NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016328",
+      "vehicle_id": "12",
+      "faction_id": "3",
+      "description": "Harasser TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016328",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016328",
+      "vehicle_id": "12",
+      "faction_id": "4",
+      "description": "Harasser NSO",
       "slot_id": "20"
     },
     {
-      "item_id": "6016055",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "6"
-    },
-    {
-      "item_id": "6016055",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "6"
-    },
-    {
-      "item_id": "6016055",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "6"
-    },
-    {
-      "item_id": "6016055",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "6"
-    },
-    {
-      "item_id": "6016072",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016072",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016072",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016072",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016073",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016073",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016073",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016073",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016073",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016073",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016073",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016151",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016151",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016151",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016151",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "18"
-    },
-    {
-      "item_id": "6016152",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016152",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016152",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016152",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016152",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016152",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016152",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "9"
-    },
-    {
-      "item_id": "6016166",
+      "item_id": "6016348",
       "vehicle_id": "12",
       "faction_id": "1",
       "description": "Harasser VS",
       "slot_id": "15"
     },
     {
-      "item_id": "6016166",
+      "item_id": "6016348",
       "vehicle_id": "12",
       "faction_id": "2",
       "description": "Harasser NC",
       "slot_id": "15"
     },
     {
-      "item_id": "6016166",
+      "item_id": "6016348",
       "vehicle_id": "12",
       "faction_id": "3",
       "description": "Harasser TR",
       "slot_id": "15"
     },
     {
-      "item_id": "6016166",
+      "item_id": "6016348",
       "vehicle_id": "12",
       "faction_id": "4",
       "description": "Harasser NSO",
       "slot_id": "15"
-    },
-    {
-      "item_id": "6016167",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016167",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016167",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016167",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016179",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016179",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016179",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016179",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "15"
-    },
-    {
-      "item_id": "6016180",
-      "vehicle_id": "12",
-      "faction_id": "1",
-      "description": "Harasser VS",
-      "slot_id": "6"
-    },
-    {
-      "item_id": "6016180",
-      "vehicle_id": "12",
-      "faction_id": "2",
-      "description": "Harasser NC",
-      "slot_id": "6"
-    },
-    {
-      "item_id": "6016180",
-      "vehicle_id": "12",
-      "faction_id": "3",
-      "description": "Harasser TR",
-      "slot_id": "6"
-    },
-    {
-      "item_id": "6016180",
-      "vehicle_id": "12",
-      "faction_id": "4",
-      "description": "Harasser NSO",
-      "slot_id": "6"
     },
     {
       "item_id": "6009625",
@@ -185359,6 +187389,118 @@
       "faction_id": "4",
       "description": "Valkyrie NSO",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "14",
+      "faction_id": "1",
+      "description": "Valkyrie VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "14",
+      "faction_id": "2",
+      "description": "Valkyrie NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "14",
+      "faction_id": "3",
+      "description": "Valkyrie TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "14",
+      "faction_id": "4",
+      "description": "Valkyrie NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "14",
+      "faction_id": "1",
+      "description": "Valkyrie VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "14",
+      "faction_id": "2",
+      "description": "Valkyrie NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "14",
+      "faction_id": "3",
+      "description": "Valkyrie TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "14",
+      "faction_id": "4",
+      "description": "Valkyrie NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "14",
+      "faction_id": "1",
+      "description": "Valkyrie VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "14",
+      "faction_id": "2",
+      "description": "Valkyrie NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "14",
+      "faction_id": "3",
+      "description": "Valkyrie TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "14",
+      "faction_id": "4",
+      "description": "Valkyrie NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016364",
+      "vehicle_id": "14",
+      "faction_id": "1",
+      "description": "Valkyrie VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016364",
+      "vehicle_id": "14",
+      "faction_id": "2",
+      "description": "Valkyrie NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016364",
+      "vehicle_id": "14",
+      "faction_id": "3",
+      "description": "Valkyrie TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016364",
+      "vehicle_id": "14",
+      "faction_id": "4",
+      "description": "Valkyrie NSO",
+      "slot_id": "17"
     },
     {
       "item_id": "38",
@@ -212122,48 +214264,6 @@
       "slot_id": "6"
     },
     {
-      "item_id": "6016068",
-      "vehicle_id": "15",
-      "faction_id": "1",
-      "description": "ANT VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016069",
-      "vehicle_id": "15",
-      "faction_id": "2",
-      "description": "ANT NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016070",
-      "vehicle_id": "15",
-      "faction_id": "3",
-      "description": "ANT TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "15",
-      "faction_id": "1",
-      "description": "ANT VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "15",
-      "faction_id": "2",
-      "description": "ANT NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016071",
-      "vehicle_id": "15",
-      "faction_id": "3",
-      "description": "ANT TR",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "15",
       "faction_id": "1",
@@ -212262,48 +214362,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016170",
-      "vehicle_id": "15",
-      "faction_id": "2",
-      "description": "ANT NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "15",
-      "faction_id": "1",
-      "description": "ANT VS",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "15",
-      "faction_id": "2",
-      "description": "ANT NC",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016171",
-      "vehicle_id": "15",
-      "faction_id": "3",
-      "description": "ANT TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016172",
-      "vehicle_id": "15",
-      "faction_id": "3",
-      "description": "ANT TR",
-      "slot_id": "7"
-    },
-    {
-      "item_id": "6016173",
-      "vehicle_id": "15",
-      "faction_id": "1",
-      "description": "ANT VS",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "15",
       "faction_id": "1",
@@ -212358,6 +214416,412 @@
       "faction_id": "4",
       "description": "ANT NSO",
       "slot_id": "6"
+    },
+    {
+      "item_id": "6016184",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016186",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016187",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016266",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016267",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016269",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016293",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016294",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016296",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "15",
+      "faction_id": "4",
+      "description": "ANT NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "15",
+      "faction_id": "4",
+      "description": "ANT NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016326",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016326",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016326",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016326",
+      "vehicle_id": "15",
+      "faction_id": "4",
+      "description": "ANT NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "15",
+      "faction_id": "4",
+      "description": "ANT NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "15",
+      "faction_id": "1",
+      "description": "ANT VS",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "15",
+      "faction_id": "2",
+      "description": "ANT NC",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "15",
+      "faction_id": "3",
+      "description": "ANT TR",
+      "slot_id": "7"
     },
     {
       "item_id": "551",
@@ -212371,14 +214835,14 @@
       "vehicle_id": "100",
       "faction_id": "1",
       "description": "Phalanx Anti-Personnel VS",
-      "slot_id": "1"
+      "slot_id": "2"
     },
     {
       "item_id": "551",
       "vehicle_id": "100",
       "faction_id": "1",
       "description": "Phalanx Anti-Personnel VS",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "552",
@@ -212448,20 +214912,13 @@
       "vehicle_id": "100",
       "faction_id": "2",
       "description": "Phalanx Anti-Personnel NC",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "728",
       "vehicle_id": "100",
       "faction_id": "2",
       "description": "Phalanx Anti-Personnel NC",
-      "slot_id": "1"
-    },
-    {
-      "item_id": "729",
-      "vehicle_id": "100",
-      "faction_id": "3",
-      "description": "Phalanx Anti-Personnel TR",
       "slot_id": "2"
     },
     {
@@ -212470,6 +214927,13 @@
       "faction_id": "3",
       "description": "Phalanx Anti-Personnel TR",
       "slot_id": "1"
+    },
+    {
+      "item_id": "729",
+      "vehicle_id": "100",
+      "faction_id": "3",
+      "description": "Phalanx Anti-Personnel TR",
+      "slot_id": "2"
     },
     {
       "item_id": "731",
@@ -212794,6 +215258,41 @@
       "slot_id": "2"
     },
     {
+      "item_id": "6016215",
+      "vehicle_id": "151",
+      "faction_id": "2",
+      "description": "Phalanx Anti-Vehicle NC",
+      "slot_id": "2"
+    },
+    {
+      "item_id": "6016216",
+      "vehicle_id": "151",
+      "faction_id": "2",
+      "description": "Phalanx Anti-Vehicle NC",
+      "slot_id": "2"
+    },
+    {
+      "item_id": "6016217",
+      "vehicle_id": "151",
+      "faction_id": "3",
+      "description": "Phalanx Anti-Vehicle TR",
+      "slot_id": "2"
+    },
+    {
+      "item_id": "6016218",
+      "vehicle_id": "151",
+      "faction_id": "0",
+      "description": "Phalanx Anti-Vehicle Neutral",
+      "slot_id": "2"
+    },
+    {
+      "item_id": "6016218",
+      "vehicle_id": "151",
+      "faction_id": "1",
+      "description": "Phalanx Anti-Vehicle VS",
+      "slot_id": "2"
+    },
+    {
       "item_id": "803434",
       "vehicle_id": "161",
       "faction_id": "4",
@@ -212854,21 +215353,14 @@
       "vehicle_id": "2009",
       "faction_id": "1",
       "description": "Calldown - Xiphos - VS",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "551",
       "vehicle_id": "2009",
       "faction_id": "1",
       "description": "Calldown - Xiphos - VS",
-      "slot_id": "1"
-    },
-    {
-      "item_id": "552",
-      "vehicle_id": "2009",
-      "faction_id": "2",
-      "description": "Calldown - Xiphos - NC",
-      "slot_id": "1"
+      "slot_id": "2"
     },
     {
       "item_id": "552",
@@ -212878,10 +215370,10 @@
       "slot_id": "2"
     },
     {
-      "item_id": "553",
+      "item_id": "552",
       "vehicle_id": "2009",
-      "faction_id": "3",
-      "description": "Calldown - Xiphos - TR",
+      "faction_id": "2",
+      "description": "Calldown - Xiphos - NC",
       "slot_id": "1"
     },
     {
@@ -212890,6 +215382,13 @@
       "faction_id": "3",
       "description": "Calldown - Xiphos - TR",
       "slot_id": "2"
+    },
+    {
+      "item_id": "553",
+      "vehicle_id": "2009",
+      "faction_id": "3",
+      "description": "Calldown - Xiphos - TR",
+      "slot_id": "1"
     },
     {
       "item_id": "724",
@@ -212910,20 +215409,13 @@
       "vehicle_id": "2009",
       "faction_id": "2",
       "description": "Calldown - Xiphos - NC",
-      "slot_id": "2"
+      "slot_id": "1"
     },
     {
       "item_id": "725",
       "vehicle_id": "2009",
       "faction_id": "2",
       "description": "Calldown - Xiphos - NC",
-      "slot_id": "1"
-    },
-    {
-      "item_id": "726",
-      "vehicle_id": "2009",
-      "faction_id": "3",
-      "description": "Calldown - Xiphos - TR",
       "slot_id": "2"
     },
     {
@@ -212934,10 +215426,10 @@
       "slot_id": "1"
     },
     {
-      "item_id": "728",
+      "item_id": "726",
       "vehicle_id": "2009",
-      "faction_id": "2",
-      "description": "Calldown - Xiphos - NC",
+      "faction_id": "3",
+      "description": "Calldown - Xiphos - TR",
       "slot_id": "2"
     },
     {
@@ -212946,6 +215438,13 @@
       "faction_id": "2",
       "description": "Calldown - Xiphos - NC",
       "slot_id": "1"
+    },
+    {
+      "item_id": "728",
+      "vehicle_id": "2009",
+      "faction_id": "2",
+      "description": "Calldown - Xiphos - NC",
+      "slot_id": "2"
     },
     {
       "item_id": "729",
@@ -217932,13 +220431,6 @@
       "slot_id": "8"
     },
     {
-      "item_id": "6016071",
-      "vehicle_id": "2033",
-      "faction_id": "4",
-      "description": "Javelin NSO",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "2033",
       "faction_id": "4",
@@ -217967,18 +220459,235 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016171",
+      "item_id": "6016179",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016181",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016185",
       "vehicle_id": "2033",
       "faction_id": "4",
       "description": "Javelin NSO",
       "slot_id": "7"
     },
     {
-      "item_id": "6016179",
+      "item_id": "6016195",
       "vehicle_id": "2033",
       "faction_id": "4",
       "description": "Javelin NSO",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016198",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016199",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016203",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016208",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016211",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016212",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016245",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016246",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016251",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016281",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016282",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016283",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016321",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016343",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016344",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016345",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "2033",
+      "faction_id": "4",
+      "description": "Javelin NSO",
+      "slot_id": "7"
     },
     {
       "item_id": "6011605",
@@ -219055,6 +221764,13 @@
       "item_id": "6009568",
       "vehicle_id": "2133",
       "faction_id": "0",
+      "description": "Magrider TR (Campaign) - Disabled",
+      "slot_id": "3"
+    },
+    {
+      "item_id": "6009568",
+      "vehicle_id": "2133",
+      "faction_id": "0",
       "description": "Magrider VS (Campaign) - Disabled",
       "slot_id": "3"
     },
@@ -219063,13 +221779,6 @@
       "vehicle_id": "2133",
       "faction_id": "0",
       "description": "Magrider NC (Campaign) - Disabled",
-      "slot_id": "3"
-    },
-    {
-      "item_id": "6009568",
-      "vehicle_id": "2133",
-      "faction_id": "0",
-      "description": "Magrider TR (Campaign) - Disabled",
       "slot_id": "3"
     },
     {
@@ -219687,6 +222396,83 @@
       "faction_id": "4",
       "description": "Dervish NSO",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016194",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016197",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016201",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016205",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016207",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016210",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016214",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016363",
+      "vehicle_id": "2136",
+      "faction_id": "4",
+      "description": "Dervish NSO",
+      "slot_id": "17"
     },
     {
       "item_id": "38",
@@ -225786,13 +228572,6 @@
       "slot_id": "8"
     },
     {
-      "item_id": "6016071",
-      "vehicle_id": "2137",
-      "faction_id": "4",
-      "description": "Chimera NSO",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016143",
       "vehicle_id": "2137",
       "faction_id": "4",
@@ -225821,13 +228600,6 @@
       "slot_id": "15"
     },
     {
-      "item_id": "6016171",
-      "vehicle_id": "2137",
-      "faction_id": "4",
-      "description": "Chimera NSO",
-      "slot_id": "7"
-    },
-    {
       "item_id": "6016179",
       "vehicle_id": "2137",
       "faction_id": "4",
@@ -225840,6 +228612,244 @@
       "faction_id": "4",
       "description": "Chimera NSO",
       "slot_id": "6"
+    },
+    {
+      "item_id": "6016181",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016185",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016192",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016193",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016196",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016200",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016204",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016206",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016209",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016213",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016245",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016246",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016251",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016268",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016281",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016282",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016283",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016295",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016321",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016333",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "17"
+    },
+    {
+      "item_id": "6016335",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016343",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016344",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016345",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "8"
+    },
+    {
+      "item_id": "6016347",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016353",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016354",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016355",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016356",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016357",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
+    },
+    {
+      "item_id": "6016358",
+      "vehicle_id": "2137",
+      "faction_id": "4",
+      "description": "Chimera NSO",
+      "slot_id": "7"
     },
     {
       "item_id": "6011706",
@@ -226294,7 +229304,7 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "21"
+      "slot_id": "22"
     },
     {
       "item_id": "6013591",
@@ -226308,7 +229318,7 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "11"
+      "slot_id": "21"
     },
     {
       "item_id": "6013591",
@@ -226322,6 +229332,20 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
+      "slot_id": "11"
+    },
+    {
+      "item_id": "6013591",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "10"
+    },
+    {
+      "item_id": "6013591",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
       "slot_id": "22"
     },
     {
@@ -226336,13 +229360,6 @@
       "vehicle_id": "2142",
       "faction_id": "2",
       "description": "Corsair.NC",
-      "slot_id": "22"
-    },
-    {
-      "item_id": "6013591",
-      "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
       "slot_id": "20"
     },
     {
@@ -226355,9 +229372,16 @@
     {
       "item_id": "6013591",
       "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
+      "faction_id": "3",
+      "description": "Corsair.TR",
       "slot_id": "10"
+    },
+    {
+      "item_id": "6013591",
+      "vehicle_id": "2142",
+      "faction_id": "3",
+      "description": "Corsair.TR",
+      "slot_id": "11"
     },
     {
       "item_id": "6013591",
@@ -226376,23 +229400,16 @@
     {
       "item_id": "6013591",
       "vehicle_id": "2142",
-      "faction_id": "3",
-      "description": "Corsair.TR",
-      "slot_id": "10"
-    },
-    {
-      "item_id": "6013591",
-      "vehicle_id": "2142",
-      "faction_id": "3",
-      "description": "Corsair.TR",
-      "slot_id": "11"
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "20"
     },
     {
       "item_id": "6013591",
       "vehicle_id": "2142",
       "faction_id": "4",
       "description": "Corsair.NSO",
-      "slot_id": "11"
+      "slot_id": "10"
     },
     {
       "item_id": "6013591",
@@ -226413,14 +229430,7 @@
       "vehicle_id": "2142",
       "faction_id": "4",
       "description": "Corsair.NSO",
-      "slot_id": "20"
-    },
-    {
-      "item_id": "6013591",
-      "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
-      "slot_id": "10"
+      "slot_id": "11"
     },
     {
       "item_id": "6013616",
@@ -226483,7 +229493,7 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "10"
+      "slot_id": "20"
     },
     {
       "item_id": "6013729",
@@ -226504,14 +229514,28 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "20"
+      "slot_id": "11"
     },
     {
       "item_id": "6013729",
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "11"
+      "slot_id": "10"
+    },
+    {
+      "item_id": "6013729",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "20"
+    },
+    {
+      "item_id": "6013729",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "21"
     },
     {
       "item_id": "6013729",
@@ -226537,20 +229561,6 @@
     {
       "item_id": "6013729",
       "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
-      "slot_id": "20"
-    },
-    {
-      "item_id": "6013729",
-      "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
-      "slot_id": "21"
-    },
-    {
-      "item_id": "6013729",
-      "vehicle_id": "2142",
       "faction_id": "3",
       "description": "Corsair.TR",
       "slot_id": "21"
@@ -226560,7 +229570,7 @@
       "vehicle_id": "2142",
       "faction_id": "3",
       "description": "Corsair.TR",
-      "slot_id": "20"
+      "slot_id": "10"
     },
     {
       "item_id": "6013729",
@@ -226574,14 +229584,21 @@
       "vehicle_id": "2142",
       "faction_id": "3",
       "description": "Corsair.TR",
-      "slot_id": "10"
+      "slot_id": "20"
     },
     {
       "item_id": "6013729",
       "vehicle_id": "2142",
       "faction_id": "4",
       "description": "Corsair.NSO",
-      "slot_id": "21"
+      "slot_id": "11"
+    },
+    {
+      "item_id": "6013729",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "20"
     },
     {
       "item_id": "6013729",
@@ -226595,20 +229612,27 @@
       "vehicle_id": "2142",
       "faction_id": "4",
       "description": "Corsair.NSO",
+      "slot_id": "21"
+    },
+    {
+      "item_id": "6013729",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
       "slot_id": "10"
     },
     {
-      "item_id": "6013729",
+      "item_id": "6013730",
       "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
-      "slot_id": "11"
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "21"
     },
     {
-      "item_id": "6013729",
+      "item_id": "6013730",
       "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
+      "faction_id": "1",
+      "description": "Corsair.VS",
       "slot_id": "20"
     },
     {
@@ -226623,13 +229647,6 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "10"
-    },
-    {
-      "item_id": "6013730",
-      "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
       "slot_id": "11"
     },
     {
@@ -226637,21 +229654,14 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "20"
-    },
-    {
-      "item_id": "6013730",
-      "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
-      "slot_id": "21"
+      "slot_id": "10"
     },
     {
       "item_id": "6013730",
       "vehicle_id": "2142",
       "faction_id": "2",
       "description": "Corsair.NC",
-      "slot_id": "11"
+      "slot_id": "10"
     },
     {
       "item_id": "6013730",
@@ -226679,7 +229689,7 @@
       "vehicle_id": "2142",
       "faction_id": "2",
       "description": "Corsair.NC",
-      "slot_id": "10"
+      "slot_id": "11"
     },
     {
       "item_id": "6013730",
@@ -226721,13 +229731,6 @@
       "vehicle_id": "2142",
       "faction_id": "4",
       "description": "Corsair.NSO",
-      "slot_id": "21"
-    },
-    {
-      "item_id": "6013730",
-      "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
       "slot_id": "20"
     },
     {
@@ -226745,6 +229748,41 @@
       "slot_id": "10"
     },
     {
+      "item_id": "6013730",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "21"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "21"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "20"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "11"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "10"
+    },
+    {
       "item_id": "6013731",
       "vehicle_id": "2142",
       "faction_id": "1",
@@ -226754,58 +229792,9 @@
     {
       "item_id": "6013731",
       "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
-      "slot_id": "10"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
-      "slot_id": "11"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
-      "slot_id": "20"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
-      "slot_id": "21"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
-      "slot_id": "11"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
       "faction_id": "2",
       "description": "Corsair.NC",
       "slot_id": "10"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
-      "slot_id": "21"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
-      "slot_id": "20"
     },
     {
       "item_id": "6013731",
@@ -226817,9 +229806,37 @@
     {
       "item_id": "6013731",
       "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "21"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "20"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "11"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
       "faction_id": "3",
       "description": "Corsair.TR",
       "slot_id": "21"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "3",
+      "description": "Corsair.TR",
+      "slot_id": "10"
     },
     {
       "item_id": "6013731",
@@ -226834,20 +229851,6 @@
       "faction_id": "3",
       "description": "Corsair.TR",
       "slot_id": "11"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "3",
-      "description": "Corsair.TR",
-      "slot_id": "10"
-    },
-    {
-      "item_id": "6013731",
-      "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
-      "slot_id": "10"
     },
     {
       "item_id": "6013731",
@@ -226861,7 +229864,14 @@
       "vehicle_id": "2142",
       "faction_id": "4",
       "description": "Corsair.NSO",
-      "slot_id": "21"
+      "slot_id": "10"
+    },
+    {
+      "item_id": "6013731",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "11"
     },
     {
       "item_id": "6013731",
@@ -226875,7 +229885,21 @@
       "vehicle_id": "2142",
       "faction_id": "4",
       "description": "Corsair.NSO",
-      "slot_id": "11"
+      "slot_id": "21"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "21"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "10"
     },
     {
       "item_id": "6013732",
@@ -226889,13 +229913,6 @@
       "vehicle_id": "2142",
       "faction_id": "1",
       "description": "Corsair.VS",
-      "slot_id": "10"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
       "slot_id": "11"
     },
     {
@@ -226908,16 +229925,9 @@
     {
       "item_id": "6013732",
       "vehicle_id": "2142",
-      "faction_id": "1",
-      "description": "Corsair.VS",
-      "slot_id": "21"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
       "faction_id": "2",
       "description": "Corsair.NC",
-      "slot_id": "11"
+      "slot_id": "20"
     },
     {
       "item_id": "6013732",
@@ -226931,28 +229941,21 @@
       "vehicle_id": "2142",
       "faction_id": "2",
       "description": "Corsair.NC",
+      "slot_id": "10"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "11"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
       "slot_id": "21"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
-      "slot_id": "20"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
-      "faction_id": "2",
-      "description": "Corsair.NC",
-      "slot_id": "10"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
-      "faction_id": "3",
-      "description": "Corsair.TR",
-      "slot_id": "10"
     },
     {
       "item_id": "6013732",
@@ -226966,7 +229969,7 @@
       "vehicle_id": "2142",
       "faction_id": "3",
       "description": "Corsair.TR",
-      "slot_id": "20"
+      "slot_id": "10"
     },
     {
       "item_id": "6013732",
@@ -226974,6 +229977,34 @@
       "faction_id": "3",
       "description": "Corsair.TR",
       "slot_id": "21"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "3",
+      "description": "Corsair.TR",
+      "slot_id": "20"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "11"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "20"
+    },
+    {
+      "item_id": "6013732",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "10"
     },
     {
       "item_id": "6013732",
@@ -226988,27 +230019,6 @@
       "faction_id": "4",
       "description": "Corsair.NSO",
       "slot_id": "21"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
-      "slot_id": "20"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
-      "slot_id": "11"
-    },
-    {
-      "item_id": "6013732",
-      "vehicle_id": "2142",
-      "faction_id": "4",
-      "description": "Corsair.NSO",
-      "slot_id": "10"
     },
     {
       "item_id": "6013812",
@@ -228626,7 +231636,91 @@
       "faction_id": "4",
       "description": "Corsair.NSO",
       "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2142",
+      "faction_id": "3",
+      "description": "Corsair.TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016324",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2142",
+      "faction_id": "3",
+      "description": "Corsair.TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016325",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2142",
+      "faction_id": "1",
+      "description": "Corsair.VS",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2142",
+      "faction_id": "2",
+      "description": "Corsair.NC",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2142",
+      "faction_id": "3",
+      "description": "Corsair.TR",
+      "slot_id": "15"
+    },
+    {
+      "item_id": "6016348",
+      "vehicle_id": "2142",
+      "faction_id": "4",
+      "description": "Corsair.NSO",
+      "slot_id": "15"
     }
   ],
-  "returned": 32661
+  "returned": 33103
 }

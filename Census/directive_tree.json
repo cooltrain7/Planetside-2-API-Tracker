@@ -1165,7 +1165,30 @@
       "description": {
         "en": "Available through September 12th"
       }
+    },
+    {
+      "directive_tree_id": "157",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Nanite of the Living Dead 2025"
+      },
+      "description": {
+        "en": "Available through November 10th 2025"
+      },
+      "image_set_id": "82818",
+      "image_id": "80676",
+      "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+      "directive_tree_id": "158",
+      "directive_tree_category_id": "8",
+      "name": {
+        "en": "Auraximas 2025"
+      },
+      "description": {
+        "en": "Available through January 1"
+      }
     }
   ],
-  "returned": 114
+  "returned": 116
 }

@@ -103076,7 +103076,119 @@
       "image_set_id": "803382",
       "image_id": "86293",
       "image_path": "/files/ps2/images/static/86293.png"
+    },
+    {
+      "achievement_id": "94163",
+      "item_id": "6016250",
+      "objective_group_id": "22533",
+      "reward_id": "100",
+      "repeatable": "0",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "10 Enemies Killed"
+      },
+      "image_set_id": "1564",
+      "image_id": "3072",
+      "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+      "achievement_id": "94164",
+      "item_id": "6016250",
+      "objective_group_id": "22534",
+      "reward_id": "101",
+      "repeatable": "0",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "60 Enemies Killed"
+      },
+      "image_set_id": "1565",
+      "image_id": "3079",
+      "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+      "achievement_id": "94165",
+      "item_id": "6016250",
+      "objective_group_id": "22535",
+      "reward_id": "102",
+      "repeatable": "0",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "160 Enemies Killed"
+      },
+      "image_set_id": "1566",
+      "image_id": "3075",
+      "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+      "achievement_id": "94166",
+      "item_id": "6016250",
+      "objective_group_id": "22536",
+      "reward_id": "615",
+      "repeatable": "0",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "1160 Enemies Killed"
+      },
+      "image_set_id": "1567",
+      "image_id": "3068",
+      "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+      "achievement_id": "94167",
+      "item_id": "6016250",
+      "objective_group_id": "22541",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Antebrachium"
+      },
+      "description": {
+        "en": "Earn this service ribbon by killing enemies"
+      },
+      "image_set_id": "8017",
+      "image_id": "8338",
+      "image_path": "/files/ps2/images/static/8338.png"
+    },
+    {
+      "achievement_id": "94188",
+      "item_id": "0",
+      "objective_group_id": "22562",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Resupply"
+      },
+      "description": {
+        "en": "Earn this ribbon by resupplying your teammates."
+      },
+      "image_set_id": "7995",
+      "image_id": "8439",
+      "image_path": "/files/ps2/images/static/8439.png"
+    },
+    {
+      "achievement_id": "94189",
+      "item_id": "0",
+      "objective_group_id": "22563",
+      "reward_id": "3019",
+      "repeatable": "1",
+      "name": {
+        "en": "Healing"
+      },
+      "description": {
+        "en": "Medics can quickly heal damage that has been done to allied troops keeping in the fight longer."
+      },
+      "image_set_id": "7996",
+      "image_id": "8440",
+      "image_path": "/files/ps2/images/static/8440.png"
     }
   ],
-  "returned": 6459
+  "returned": 6466
 }
