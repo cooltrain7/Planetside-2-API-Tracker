@@ -500,10 +500,10 @@
 6011871,Grenade,0,Impulse Grenade,0,none
 6009583,Grenade,0,Infernal Grenade,0,none
 6009459,Grenade,0,Lightning Grenade,0,none
-6015932,Grenade,0,Love Bomber Frag Grenade,1,none
 6015935,Grenade,0,Love Bomber Frag Grenade,2,none
 6015936,Grenade,0,Love Bomber Frag Grenade,3,none
-6015937,Grenade,0,Love Bomber Frag Grenade,4,none
+6015937,Grenade,0,Love Bomber Frag Grenade,0,none
+6015932,Grenade,0,Love Bomber Plasma Grenade,1,none
 884,Grenade,0,Nanite Revive Grenade,0,none
 883,Grenade,0,Nano-Regen Grenade,0,none
 6003738,Grenade,0,Nano-Repair Grenade,0,none
@@ -931,7 +931,6 @@
 6014815,Infantry Abilities,0,Narrow Bulwark Wall,0,none
 6009605,Infantry Abilities,0,NE-11 PML,0,none
 6009487,Infantry Abilities,0,Neutralizer Device,0,none
-6016215,Infantry Abilities,1,Observer,2,none
 6014727,Infantry Abilities,0,Orbital Mining Drill,1,none
 6014728,Infantry Abilities,0,Orbital Mining Drill,2,none
 6014729,Infantry Abilities,0,Orbital Mining Drill,3,none
@@ -1074,11 +1073,12 @@
 6005426,Infantry Abilities,0,Spitfire Auto-Turret,4,none
 6005427,Infantry Abilities,1,Spitfire Auto-Turret,4,none
 6009294,Infantry Abilities,1,Spitfire Auto-Turret,4,none
-6016202,Infantry Abilities,0,Spitfire Auto-Turret,2,none
-6016216,Infantry Abilities,1,Spitfire Auto-Turret,2,none
-6016217,Infantry Abilities,1,Spitfire Auto-Turret,3,none
-6016218,Infantry Abilities,1,Spitfire Auto-Turret,1,none
-6016219,Infantry Abilities,1,Spitfire Auto-Turret,4,none
+6016202,Infantry Abilities,0,"Spitfire ""Observer"" Auto-Turret",2,none
+6016215,Infantry Abilities,1,"Spitfire ""Observer"" Auto-Turret",2,none
+6016216,Infantry Abilities,1,"Spitfire ""Observer"" Auto-Turret",2,none
+6016217,Infantry Abilities,1,"Spitfire ""Observer"" Auto-Turret",3,none
+6016218,Infantry Abilities,1,"Spitfire ""Observer"" Auto-Turret",1,none
+6016219,Infantry Abilities,1,"Spitfire ""Observer"" Auto-Turret",4,none
 6015075,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",1,none
 6015076,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",2,none
 6015077,Infantry Abilities,0,"Spitfire ""Prime Directive"" Auto-Turret",3,none
